@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] リリース・ロードマップ'
 description: '[!DNL Adobe Experience Manager] リリース・ロードマップ'
 translation-type: tm+mt
-source-git-commit: abee2c5b1796d9c729d8492439c81cceb8290084
+source-git-commit: 7394d2d8a9b1f4264004e5623ee1e44e2e8f35cd
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '367'
 ht-degree: 17%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 17%
 
 | リリース | バージョン | 型 | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] 2020.12.0 [!DNL Cloud Service] として | 2020.12.0 | 月別リリース | 2020年12月17日 |
 | [!DNL Experience Manager] 2021. [!DNL Cloud Service] 1.0 | 2021.1.0 | 月別リリース | 2021年1月28日 |
 | [!DNL Experience Manager] 2021. [!DNL Cloud Service] 2.0 | 2021.2.0 | 月別リリース | 2021年2月25日 |
 | [!DNL Experience Manager] 2021. [!DNL Cloud Service] 3.0 | 2021.3.0 | 月別リリース | 2021年3月26日 |
