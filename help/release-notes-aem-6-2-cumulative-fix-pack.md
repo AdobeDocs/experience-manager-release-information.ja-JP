@@ -1,10 +1,10 @@
 ---
 title: AEM 6.2 累積修正パック
-description: 'null'
+description: Experience Manager6.2累積修正パックリリースノート Experience Managerコンポーネントの様々な累積的な修正パックで修正された問題を詳しく調べます。
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: 98d91e0367912d8962bb2f45ae972f50ccb71b5f
 workflow-type: tm+mt
-source-wordcount: '19954'
+source-wordcount: '19975'
 ht-degree: 21%
 
 ---
@@ -654,7 +654,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP14は重要なアップデートで、AEM 6.2
 
 ### ワークフロー {#workflow}
 
-* Day CQワークフロー電子メール通知サービスは、WorkflowCompleted通知とWorkflowAborted通知用に、Mongoノードごとに1つの電子メールをトリガーします。 NPR-22486：CQ-4238172 のホットフィックス
+* Day CQ Workflow Email Notification Serviceトリガーは、WorkflowCompleted通知とWorkflowAborted通知用のMongoノードごとに1つの電子メールを送信します。 NPR-22486：CQ-4238172 のホットフィックス
 
 ## フォーム {#forms-6}
 
@@ -1272,7 +1272,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP7は、AEM 6.2 SP1の一般リリース以降
 
 ### サイト{#sites-12}
 
-* MongoDBを使用するアクティブ — アクティブ作成者クラスターでは、時間がコンテンツに対して設定されたオンタイムに達すると、両方の作成者が同じコンテンツのレプリケーションをトリガーしようとします。 NPR-18708;CQ-4210982の修正プログラム
+* MongoDBを使用するアクティブ — アクティブな作成者クラスターでは、時間がコンテンツに設定されたオンタイムに達すると、両方の作成者が同じコンテンツのトリガー複製を試みます。 NPR-18708;CQ-4210982の修正プログラム
 * jcrのない参照を持つリソースを移動する場合のNPE:コンテンツノード。 NPR-18664
 * プレースホルダーが複数の parsys コンポーネントを含むページに表示されない。NPR-18645;CQ-110253の修正プログラム
 * AbstractCopyMoveCommandの並行性の問題。 NPR-18591
@@ -2099,7 +2099,7 @@ AEM 6.2 SP2-CFP1の主なハイライトは次のとおりです。
 * AEMのデフォルトのワークフローを使用する場合、CQメーラーは、1人のメンバーの電子メールアドレスを見逃す電子メール通知をグループに送信できません。 NPR-14804：CQ-91499 のホットフィックス要求
 * タッチ操作対応UIのインボックスと通知バッジのパフォーマンスが向上しました。 NPR-14145：CQ-101125 のホットフィックス
 * ワークフローの開始中に、ワークフローのインボックスコンソールからペイロードをプレビューできません。 NPR-13226：CQ-100275 のホットフィックス
-* SAML認証ハンドラーを使用して設定された「saml_request_path」 Cookieには、「?」が追加されたCookieセットが表示されます 文字. さらに、SAML応答がAEMにポストバックされると、AEM &#39;saml_request_path&#39; cookieは、既にエンコードされている文字のため無効な値を返します。 NPR-13517:GRANITE-11722およびGRANITE-14414用プロアクティブな修正プログラム
+* SAML認証ハンドラーを使用して設定された「saml_request_path」 Cookieには、「?」が追加されたCookieセットが表示されます character. さらに、SAML応答がAEMにポストバックされると、AEM &#39;saml_request_path&#39; cookieは、既にエンコードされている文字のため無効な値を返します。 NPR-13517:GRANITE-11722およびGRANITE-14414用プロアクティブな修正プログラム
 
 ### ソリューションの統合{#solution-integration}
 
@@ -2424,7 +2424,7 @@ AEM 6.2 SP1-CFPxをインストールすると、次の一時的なエラーが�
 * `[sling-default-5-discovery.connectors.common.runner.d6a26647-dd1c-4665-be2c-afdd19397e77096a1c19-18ce-4051-bbf1-166caed986f2] org.apache.sling.discovery.oak.pinger.OakViewChecker announcementRegistry is null`
 * スマートタグ機能パックを含むAEM 6.2 SP1にCFPxをインストールすると、以前に追加したスマートタグアセットのワークフロー手順がDAM Update Assetワークフローから削除されます。
 
-AEM 6.2 SP1[の既知の問題のリスト(https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html#Known既知の問題)を参照してください。]
+AEM 6.2 SP1]の既知の問題のリスト(https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html#Known既知の問題)を参照してください。[
 
 ## Uber Jar {#uber-jar}
 
