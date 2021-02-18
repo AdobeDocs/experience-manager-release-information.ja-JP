@@ -1,10 +1,10 @@
 ---
 title: AEM、CQ、およびCRXの古いバージョン
-description: Adobe Experience Manager、CQ および CRX の以前のバージョンのドキュメントパッケージです。
+description: 古いバージョンの Adobe Experience Manager、CQ、および CRX のドキュメントパッケージです。
 translation-type: tm+mt
-source-git-commit: 47b391ed659264b611f08d2fa9e45a923be5c445
+source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '773'
 ht-degree: 24%
 
 ---
@@ -40,7 +40,8 @@ Adobe IDの作成や管理に関して支援が必要な場合は、[このガ�
 
 | [!DNL Experience Manager] バージョン | ソフトウェア配布リンク |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.1 | [ソフトウェア配布からAEM-DOCS-6.1をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
+| [!DNL Experience Manager] 6.2 | [ソフトウェア配布からAEM-DOCS-6.2をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
+| [!DNL Experience Manager] 6.1 | [ソフトウェア配布からAEM-DOCS-6.1をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-6-1.zip) |
 | [!DNL Experience Manager] 6.0 | [ソフトウェア配布からAEM-DOCS-6.0をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
 | [!DNL Experience Manager] 5.6.1 | [ソフトウェア配布からAEM-DOCS-5.6.1をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip) |
 | [!DNL Experience Manager] 5.6 | [ソフトウェア配布からAEM-DOCS-5.6をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip) |
@@ -90,4 +91,4 @@ Adobe IDの作成や管理に関して支援が必要な場合は、[このガ�
 
 ## [!DNL Experience Manager]コミュニティ{#get-help-from-aem-community}からヘルプを入手
 
-Experience Managerの使用に関するご質問は、[フォーラム [!DNL Experience Manager] ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)で、経験豊富なコミュニティの専門家に&lt;a0/>お問い合わせください。
+Experience Managerの使用に関するご質問は、[フォーラム [!DNL Experience Manager] ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?lang=ja)で、経験豊富なコミュニティの専門家にお問い合わせください。
