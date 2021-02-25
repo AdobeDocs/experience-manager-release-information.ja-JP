@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager] リリース・ロードマップ'
 description: '[!DNL Adobe Experience Manager] リリース・ロードマップ'
 translation-type: tm+mt
-source-git-commit: 36b873676460cf1d276e9b1a0ee7ecfb7fb26932
+source-git-commit: 74b03cd0ac3868b956512c82097a94797714458a
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 17%
@@ -18,11 +18,11 @@ ht-degree: 17%
 >
 >この記事で利用可能なロードマップの更新は情報提供のみで、いつでも変更される可能性があります。
 
-## [!DNL Experience Manager] として  [!DNL Cloud Service] {#aem-as-cloud-service}
+## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
 [[!DNL Experience Manager] 毎月のリリース [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) カデンスに続くようにその結果、新機能は毎月[!DNL Experience Manager]に継続的にアップデートされます。 [!DNL Experience Manager]の[!DNL Cloud Service]としての今後のリリースは次のとおりです。
 
-| リリース | バージョン | 型 | スケジュール |
+| リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
 | [!DNL Experience Manager] 2021. [!DNL Cloud Service] 1.0 | 2021.1.0 | 月別リリース | 2021年1月28日 |
 | [!DNL Experience Manager] 2021. [!DNL Cloud Service] 2.0 | 2021.2.0 | 月別リリース | 2021年2月25日 |
@@ -46,9 +46,9 @@ ht-degree: 17%
 
 [!DNL Experience Manager] 6.5製品のアップデートは、四半期別のサービスパックで配信されます。新機能、拡張機能およびバグ修正が含まれます。 最新のリリース済みサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 service packリリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)を参照してください。
 
-| リリース | バージョン | 型 | スケジュール |
+| リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | サービスパック | 2021年2月25日 |
+| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | サービスパック | 2021年3月11日 |
 | [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0 | サービスパック | 2021年5月27日 |
 | [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | サービスパック | 2021年8月26日 |
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | サービスパック | 2021年11月25日 |
@@ -61,7 +61,7 @@ ht-degree: 17%
 
 [!DNL Experience Manager] 6.4製品アップデートは、四半期別CFPで配信されます。これらにはバグ修正が含まれます。 最新のリリースCFPについて詳しくは、[[!DNL Experience Manager] 6.4累積Fix Packリリースノート](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)を参照してください。
 
-| リリース | バージョン | 型 | スケジュール |
+| リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 | 6.4.8.4 | 累積修正パック | 2021年2月25日 |
 
@@ -77,6 +77,6 @@ ht-degree: 17%
 >
 >* [EOLマトリックス](https://helpx.adobe.com/jp/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager] リリースとアップデート](https://helpx.adobe.com/jp/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] 学習とサポート](https://helpx.adobe.com/jp/support/experience-manager.html)
+>* [[!DNL Experience Manager] 学習とサポート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 >* [[!DNL Experience Manager] リリース車両定義の更新](/help/update-release-vehicle-definitions.md)
 
