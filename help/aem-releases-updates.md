@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] リリースの更新'
 description: '[!DNL Adobe Experience Manager] リリースの更新'
 contentOwner: AK
 translation-type: tm+mt
-source-git-commit: 6435add7b1aee2a5a2b1d0f0a0d37c3c55885672
+source-git-commit: 2e6a43b1608d07adfcafe5a5db6747b9ec966977
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '310'
 ht-degree: 15%
 
 ---
@@ -19,19 +19,15 @@ ht-degree: 15%
 
 この記事では、各リリースカテゴリの最新リリースをリストし、それらのバージョンのドキュメントに移動します。
 
-## [!DNL Experience Manager] として  [!DNL Cloud Service] {#aem-as-cloud-service}
+## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
 [!DNL Experience Manager] 月に1回のリリース [!DNL Cloud Service] カデンスに続くその結果、新機能は毎月[!DNL Experience Manager]に継続的にアップデートされます。
 
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
-
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-10-0.html)
-
-月別のリリースノートには、コンポーネント名別に分類された新しいセクションも含まれています。 以前の[!DNL Experience Manager]を[!DNL Cloud Service]リリースとして扱う詳細については、[ [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja)として扱う [!DNL Experience Manager] すべてのリリースノートを参照してください。
+現在（最新）のバージョンの詳細については、[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)を参照してください。 ここから、以前のバージョンの詳細（時系列に並べ替えたもの）に移動することもできます。
 
 ## [!DNL Experience Manager] オンプレミスおよび管理サービス  {#aem-on-prem-managed-services}
 
-Managed Servicesおよびオンプレミス製品の場合、この記事では、最新の累積Fix Packリリース、最新のService Packリリース、メインリリースをリストし、それらのリリースバージョンのドキュメントに移動します。 [!DNL Adobe] お使いの [!DNL Experience Manager] バージョンに対応した最新の累積修正パックに続いて、最新のサービスパックを確認して適用し、安定した、安全な、最新の展開を維持することをお勧めします。
+Managed Servicesおよびオンプレミス製品の場合、この記事では、最新の累積Fix Packリリース、最新のService Packリリース、およびメインリリースをリストし、それらのリリースバージョンのドキュメントに移動します。 [!DNL Adobe] お使いの [!DNL Experience Manager] バージョンに対応した最新の累積修正パックに続いて、最新のサービスパックを確認して適用し、安定した、安全な、最新の展開を維持することをお勧めします。
 
 ### [!DNL Experience Manager] 6.5  {#aem-65}
 
