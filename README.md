@@ -1,14 +1,14 @@
 ---
 source-git-commit: 3a7b4464bff5b4186a21968fe5b2497cb8198100
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '73'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
-# Adobe Experience Managerリリース情報
+# Adobe Experience Manager リリース情報
 
-これは、Adobe Experience Managerリリース情報のリポジトリです。
+Adobe Experience Manager リリース情報のリポジトリーです。
 
 ドキュメントに対する貢献を歓迎します。次のリソースを参照してください。
 
