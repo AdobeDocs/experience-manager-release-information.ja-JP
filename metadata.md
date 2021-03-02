@@ -1,18 +1,18 @@
 ---
 cloud: experience-cloud
 solution-title: ラーニングとサポート
-solution-hub-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html
+solution-hub-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja
 getting-started-title: 概要
-getting-started-url: https://helpx.adobe.com/jp/experience-manager/get-started.html
+getting-started-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja
 tutorials-title: チュートリアル
-tutorials-url: https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja
 git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-release-information.ja-JP
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 47b391ed659264b611f08d2fa9e45a923be5c445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ metadata.md ファイルには、リポジトリー内にあるユーザーガ�
 | getting-started-url | helpx の「はじめに」のページへのリンク |
 | tutorials-url | ビデオチュートリアル（helpx チュートリアルまたは KT チュートリアル）へのリンク |
 | mini-toc-levels | 右側のレールに表示される見出しレベルの数を決定します。デフォルトは 2 です。 |
-| git-repo | 内部使用のマスターリポジトリの場所を指定します。 |
+| git-repo | 内部使用のマスターリポジトリーの場所を指定します。 |
