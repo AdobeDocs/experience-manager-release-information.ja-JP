@@ -3,7 +3,7 @@ title: '[!DNL Experience Manager] 最近のドキュメントの更新'
 description: ' [!DNL Experience Manager] ドキュメントの新機能、更新、変更点'
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 94a5511d9f88f023fa8947dd4cf4ff7a43979dac
+source-git-commit: aafdb3e36e9f856de37d5462af923aad32a73f6d
 workflow-type: tm+mt
 source-wordcount: '3220'
 ht-degree: 18%
@@ -23,7 +23,7 @@ ht-degree: 18%
 >
 >Cloud ServiceとしてのAEMは毎月リリースされます。
 >
->個々のリリース（現在のamd以前のバージョン）に関するドキュメントについては、[リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)を参照してください。
+>個々のリリース（現在および以前のバージョン）に関するドキュメントについては、[リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)を参照してください。
 
 | 日付 | トピック | 変更内容 |
 | --- | --- | --- |
