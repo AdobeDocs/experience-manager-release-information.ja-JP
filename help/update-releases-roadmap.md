@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 translation-type: tm+mt
-source-git-commit: 74b03cd0ac3868b956512c82097a94797714458a
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 98%
+source-wordcount: '347'
+ht-degree: 92%
 
 ---
 
@@ -24,8 +24,6 @@ ht-degree: 98%
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.1.0 | 2021.1.0 | 月次リリース | 2021 年 1 月 28 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.2.0 | 2021.2.0 | 月次リリース | 2021 年 2 月 25 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | 月次リリース | 2021 年 3 月 25 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | 月次リリース | 2021 年 4 月 29 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | 月次リリース | 2021 年 5 月 27 日 |
@@ -48,7 +46,6 @@ ht-degree: 98%
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 サービスパック 8 | 6.5.8.0 | サービスパック | 2021年3月11日 |
 | [!DNL Experience Manager] 6.5 サービスパック 9 | 6.5.9.0 | サービスパック | 2021 年 5 月 27 日 |
 | [!DNL Experience Manager] 6.5 サービスパック 10 | 6.5.10.0 | サービスパック | 2021 年 8 月 26 日 |
 | [!DNL Experience Manager] 6.5 サービスパック 11 | 6.5.11.0 | サービスパック | 2021 年 11 月 25 日 |
@@ -59,19 +56,7 @@ ht-degree: 98%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 製品アップデートは、四半期ごとの CFP で提供されます。この中にはバグ修正が含まれています。リリースされている最新の CFP について詳しくは、[[!DNL Experience Manager] 6.4 累積修正パックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)を参照してください。
-
-| リリース | バージョン | タイプ | スケジュール |
-|---|---|---|---|
-| [!DNL Experience Manager] 6.4 サービスパック 8 CFP 4 | 6.4.8.4 | 累積修正パック | 2021 年 2 月 25 日 |
-
->[!NOTE]
->
->[!DNL Experience Manager] Forms では、予定されている [!DNL Experience Manager] 累積修正パックリリース日の 1 週間後にアドオンパッケージをリリースします。
-
->[!NOTE]
->
->[!DNL Experience Manager] 6.4 サービスパック 8 CFP 4 は、[!DNL Experience Manager] 6.4 の直近の CFP です。
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4は、 [!DNL Experience Manager] 6.4の最後のCFPです。最新リリースのCFPの詳細については、 [[!DNL Experience Manager] 6.4累積修正パックリリースノートを参照してください](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)。
 
 >[!MORELIKETHIS]
 >
