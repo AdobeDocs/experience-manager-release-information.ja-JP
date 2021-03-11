@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] の最近のドキュメント更新'
 description: ' [!DNL Experience Manager]  ドキュメントの最新情報、更新、変更点'
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: aafdb3e36e9f856de37d5462af923aad32a73f6d
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
-source-wordcount: '3220'
+source-wordcount: '3254'
 ht-degree: 99%
 
 ---
@@ -58,8 +58,9 @@ ht-degree: 99%
 
 | 日付 | トピック | 変更内容 |
 | --- | --- | --- |
+| 2021年3月11日 | [!DNL Experience Manager] 6.5 サービスパック 8 | [[!DNL Experience Manager]  6.5 サービスパック 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja#service-pack) が入手可能になりました。 |
 | 2020 年 11 月 25 日 | Dynamic Media のアクセシビリティ | Dynamic Media と Dynamic Media ビューアでは、オーサリングユーザーインターフェイス全体でキーボードコントロールおよび支援テクノロジー（JAWS スクリーンリーダーや NVDA スクリーンリーダーなど）をサポートしています。詳しくは、[Dynamic Media のアクセシビリティ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=ja#dynamic)を参照してください。 |
-| 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.5 サービスパック 7 | [[!DNL Experience Manager]  6.5 サービスパック 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja#service-pack) が入手可能になりました。 |
+| 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.5 サービスパック 7 | [[!DNL Experience Manager]  6.5 サービスパック 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) が入手可能になりました。 |
 | 2020 年 9 月 3 日 | Dynamic Media での CDN 無効化 | Dynamic Media 内からリクエストを送信して、CDN キャッシュを数分以内に期限切れにすることができるようになりました。この機能は、アセットを更新し、その変更を Web サイトに直ちに反映させる場合に有効です。<br>詳しくは、[Dynamic Media を使用した CDN キャッシュの無効化](https://docs.adobe.com/content/help/ja/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)を参照してください。 |
 | 2020 年 9 月 3 日 | Dynamic Media での選択的公開の操作 | [!DNL Experience Manager] または Dynamic Media との間で、アセットをフォルダーレベルで公開または非公開にできます。それには、Dynamic Media インスタンス全体のすべてのフォルダーに対してグローバルな設定を保持する **Dynamic Media 設定**&#x200B;に依存するのではなく、**公開を管理**&#x200B;または&#x200B;**クイック公開**&#x200B;を使用できます。<br>詳しくは、[Dynamic Media での選択的公開の操作](https://docs.adobe.com/content/help/ja/experience-manager-65/assets/dynamic/selective-publishing.html)を参照してください。 |
 | 2020 年 9 月 3 日 | [!DNL Experience Manager] 6.5 サービスパック 6 | [[!DNL Experience Manager]  6.5 サービスパック 6](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja) が入手可能になりました。 |
@@ -79,7 +80,8 @@ ht-degree: 99%
 
 | 日付 | トピック | 変更内容 |
 | --- | --- | --- |
-| 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.4 サービスパック 8 累積修正パック 3 | [[!DNL Experience Manager]  6.4 サービスパック 8 累積修正パック 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja) が入手可能になりました。 |
+| 2021 年 2 月 25 日 | [!DNL Experience Manager] 6.4 サービスパック 8 累積修正パック 4 | [[!DNL Experience Manager]  6.4 サービスパック 8 累積修正パック 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja) が入手可能になりました。 |
+| 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.4 サービスパック 8 累積修正パック 3 | [[!DNL Experience Manager]  6.4 サービスパック 8 累積修正パック 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html) が入手可能になりました。 |
 | 2020 年 9 月 3 日 | [!DNL Experience Manager] 6.4 サービスパック 8 累積修正パック 2 | [[!DNL Experience Manager]  6.4 サービスパック 8 累積修正パック 2](https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html) が入手可能になりました。 |
 | 2020 年 7 月 29 日 | [マルチサイトマネージャー] | [新しい同期アクションの作成](https://docs.adobe.com/content/help/ja/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action)と[新しいロールアウト設定の作成](https://docs.adobe.com/content/help/ja/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration)の手順を更新しました。 |
 | 2020 年 6 月 19 日 | Adobe Experience Manager | アドビでは、コード、ドキュメント、エクスペリエンス全体を通して公正な用語を使用することを目指しています。<br>そのため、このドキュメントセットに一連の更新をおこなってきました。また、今後もそれを継続する予定です。 |
