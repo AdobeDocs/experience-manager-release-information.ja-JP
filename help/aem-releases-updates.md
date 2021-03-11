@@ -3,7 +3,7 @@ title: '[!DNL Adobe Experience Manager] リリースのアップデート'
 description: '[!DNL Adobe Experience Manager] リリースのアップデート'
 contentOwner: AK
 translation-type: tm+mt
-source-git-commit: 73b15ea55fcd259dd514be990cb2c78e86737591
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 91%
@@ -33,7 +33,7 @@ Managed Services およびオンプレミス製品の場合、この記事では
 
 [!DNL Experience Manager] 6.5 製品アップデートは、四半期別のサービスパックで配信されます。新機能、拡張機能、バグ修正が含まれます。
 
-* [[!DNL Experience Manager] 6.5 サービスパック 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)
+* [[!DNL Experience Manager] 6.5 サービスパック 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)
 
 * [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja)
 
@@ -43,7 +43,7 @@ Managed Services およびオンプレミス製品の場合、この記事では
 
 [!DNL Experience Manager] 6.4 製品アップデートは、四半期別 CFP で配信されます。これらにはバグ修正が含まれます。
 
-* [[!DNL Experience Manager] 6.4 サービスパック 8 累積修正パック 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)
+* [[!DNL Experience Manager] 6.4 サービスパック 8 累積修正パック 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)
 
 * [[!DNL Experience Manager] 6.4 サービスパック 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ja)
 
