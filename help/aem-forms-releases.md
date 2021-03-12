@@ -54,7 +54,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/Linux/AEMForms-6.5.0-0020_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/Solaris/AEMForms-6.5.0-0020_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/AIX/AEMForms-6.5.0-0020_websphere_aix.tar.gz">WebSphere AIX</a></li>
-      <li>AEM Forms クライアント SDK [1]</li>  
+      <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
     <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0020<br /> </p> AEM Forms アドオンパッケージ：6.0.234</p> <p>AEM Forms 互換性パッケージ：2.0.32</p><p>クライアント SDK：6.0.234<br /> </p></td> 
    </tr> 
@@ -67,7 +67,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.192.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.192.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.192.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li>  
-      <li>AEM Forms クライアント SDK [1]</li> 
+      <li>AEM FormsクライアントSDK [1]</li> 
       <li>AEM Forms JEE インストーラー [1]</li> 
      </ul> </td> 
     <td><p>AEM Forms JEE インストーラー：6.5.0-0018<br /> </p> AEM Forms アドオンパッケージ：6.0.192</p> <p>クライアント SDK：6.0.192<br /> </p> <p>AEM Forms Designer パッチ：650.012<br /> </p> </td> 
@@ -81,7 +81,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li>  
-      <li>AEM Forms クライアント SDK [1]</li> 
+      <li>AEM FormsクライアントSDK [1]</li> 
       <li>AEM Forms JEE インストーラー [1]</li> 
      </ul> </td> 
     <td><p>AEM Forms JEE インストーラー：6.5.0-0014<br /> </p> <p>AEM Forms アドオンパッケージ：6.0.160</p> <p>クライアント SDK：6.0.160<br /> </p> <p>AEM Forms Designer パッチ：650.008<br /> </p> </td> 
@@ -97,7 +97,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms 互換性パッケージ [3]</a></li> 
       <li>AEM Workbench [1]</li> 
-      <li>AEM Forms クライアント SDK [1]</li> 
+      <li>AEM FormsクライアントSDK [1]</li> 
       <li>AEM Forms JEE インストーラー [1]</li> 
      </ul> </td> 
     <td><p>AEM Forms JEE インストーラー：6.5.0-0011<br /> </p> <p>AEM Forms 互換性パッケージ：2.0.26<br />AEM Forms アドオンパッケージ：6.0.138</p> <p>クライアント SDK：6.0.136<br /> </p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956<br /> </p> </td> 
@@ -113,7 +113,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li> 
       <li>AEM Workbench [1]</li> 
-      <li>AEM Forms クライアント SDK [1]</li> 
+      <li>AEM FormsクライアントSDK [1]</li> 
       <li>AEM Forms JEE インストーラー [1]</li> 
      </ul> </td> 
     <td><p>AEM Forms JEE インストーラー：6.5.0-0007</p> <p>AEM Forms 互換性パッケージ：2.0.26</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.122</p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956</p> </td> 
@@ -129,7 +129,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2] </li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.2.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li> 
       <li>AEM Workbench <sup>[1]</sup></li> 
-      <li>AEM Forms クライアント SDK [1]</li> 
+      <li>AEM FormsクライアントSDK [1]</li> 
       <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
      </ul> </td> 
     <td><p>AEM Forms JEE インストーラー：6.5.0-0004_3</p> <p>AEM Forms 互換性パッケージ：2.0.22</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.106</p> <p>AEM Forms Workbench：6.5.0.20190917.1.337048</p> </td> 
@@ -172,7 +172,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tbody> 
  </table>
 
-`[1]` Workbench、Rights Management SDK、ポータブル保護ライブラリ（PPL）、EnhancedPPL のインストーラーを入手するには、[アドビサポート](https://www.adobe.com/jp/account/sign-in.supportportal.html)にお問い合わせください。
+`[1]` Workbench、Rights Management SDK、ポータブル保護ライブラリ（PPL）、EnhancedPPL のインストーラーを入手するには、[アドビサポート](https://www.adobe.com/account/sign-in.supportportal.html)にお問い合わせください。
 
 `[2]` Mac OS X 用の AEM [!DNL Forms] アドオンパッケージは、実稼働環境ではサポートされていないので、デモ目的でのみ使用してください。PDF Generator 機能は Mac OS X 用パッケージでは使用できません。
 
@@ -212,7 +212,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/websphere/Linux/AEMForms-6.4.0-0025_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/websphere/solaris/AEMForms-6.4.0-0025_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/websphere/AIX/AEMForms-6.4.0-0025_websphere_aix.tar.gz">WebSphere AIX</a></li>  
-     <li>AEM Forms クライアント SDK [1]<br /> </li>  
+     <li>AEM Forms Client SDK [1]<br /> </li>  
     </ul> </td> 
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0025<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.212</p> <p>AEM Forms 互換性パッケージ：1.1.18<br /> </p><p>クライアント SDK：5.1.208<br /> </p> </td> 
   </tr> 
@@ -238,7 +238,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Websphere/Linux/AEMForms-6.4.0-0023_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Websphere/Solaris/AEMForms-6.4.0-0023_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Websphere/AIX/AEMForms-6.4.0-0023_websphere_aix.tar.gz">WebSphere AIX</a></li>  
-     <li>AEM Forms クライアント SDK [1]<br /> </li>  
+     <li>AEM FormsクライアントSDK [1]<br /> </li>  
     </ul> </td> 
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0023<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.172</p> <p>クライアント SDK：5.1.172<br /> </p> </td> 
   </tr>
@@ -253,7 +253,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-osx-pkg-5.1.148.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-aix-pkg-5.1.148.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-solaris-pkg-5.1.148.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>  
-     <li>AEM Forms クライアント SDK [1]<br /> </li> 
+     <li>AEM FormsクライアントSDK [1]<br /> </li> 
      <li>AEM Forms JEE インストーラー [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0019<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.148</p> <p>クライアント SDK：5.1.148<br /> </p> <p>AEM Forms Designer パッチ：640.011</p></td> 
@@ -269,7 +269,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>  
-     <li>AEM Forms クライアント SDK [1]<br /> </li> 
+     <li>AEM FormsクライアントSDK [1]<br /> </li> 
      <li>AEM Forms JEE インストーラー [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0016<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.120</p> <p>クライアント SDK：5.1.120<br /> </p></td> 
@@ -286,7 +286,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.7.0-COMPAT.zip">AEM Forms 互換性パッケージ [3]</a></li> 
-     <li>AEM Forms クライアント SDK [1]<br /> </li> 
+     <li>AEM FormsクライアントSDK [1]<br /> </li> 
      <li>AEM Forms JEE インストーラー [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0015<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.100</p> <p>クライアント SDK：5.1.98<br /> </p> <p>AEM Forms 互換性パッケージ：1.1.16</p> <p>AEM Forms Workbench：6.4.0.20200220.1.938252<br /> <br /> </p> </td> 
@@ -303,7 +303,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.7.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li> 
-     <li>AEM Forms クライアント SDK [1]<br /> </li> 
+     <li>AEM FormsクライアントSDK [1]<br /> </li> 
      <li>AEM Forms JEE インストーラー [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0013</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.94 </p> <p>AEM Forms 互換性パッケージ：1.1.16</p> </td> 
@@ -320,7 +320,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.6.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li> 
-     <li>AEM Forms クライアント SDK [1]</li> 
+     <li>AEM FormsクライアントSDK [1]</li> 
      <li>AEM Forms JEE インストーラー [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE インストーラー：6.4.0-0009</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.76</p> <p>AEM Forms 互換性パッケージ：1.1.16</p> </td> 
@@ -385,7 +385,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.2.0-COMPAT" target="_blank">AEM Forms 互換性パッケージ</a></li>
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.30</strong></p> <p>AEM Forms アプリケーションソースコード：<strong>4.1.6</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0003</strong></p> </td> 
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.30</strong></p> <p>AEM Forms App Source Code：<strong>4.1.6</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0003</strong></p> </td> 
   </tr> 
   <tr> 
    <td>2018 年 6 月 29 日</td> 
@@ -401,7 +401,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.1.0-FORMS-APP-SRC-PKG" target="_blank">AEM Forms アプリケーションソース</a> </li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.14</strong></p> <p>AEM Forms アプリケーションソースコード：<strong>4.1.2</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0001</strong></p> </td> 
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.14</strong></p> <p>AEM Forms App Source Code：<strong>4.1.2</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0001</strong></p> </td> 
   </tr> 
   <tr> 
    <td>2018 年 4 月 4 日</td> 
@@ -420,12 +420,12 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-FORMS-APP-SRC-PKG" target="_blank">AEM Forms アプリケーションソース </a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-FSI-REF-SITE" target="_blank">AEM Forms FSI 参照サイトパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-GOV-REF-SITE" target="_blank">AEM Forms Gov 参照サイトパッケージ</a></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
      <li>AEM Workbench <sup>[1]</sup></li> 
      <li>AEM デザイナーインストーラー <sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.0.86</strong></p> <p>Central Migration Bridge パッケージ：<strong>6.0.18</strong></p> <p>AEM WebSphere グローバルセキュリティ設定パッケージ：<strong>1.0.0</strong></p> <p>AEM Forms 互換性パッケージ：<strong>1.0.18</strong></p> <p>AEM Forms アプリケーションソースコード：<strong>4.0.30</strong></p> </td> 
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.0.86</strong></p> <p>Central Migration Bridge パッケージ：<strong>6.0.18</strong></p> <p>AEM WebSphere グローバルセキュリティ設定パッケージ：<strong>1.0.0</strong></p> <p>AEM Forms 互換性パッケージ：<strong>1.0.18</strong></p> <p>AEM Forms App Source Code：<strong>4.0.30</strong></p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -458,7 +458,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2]<br /> </li> 
-     <li>AEM Forms クライアント SDK [1]</li> 
+     <li>AEM FormsクライアントSDK [1]</li> 
      <li>AEM Forms JEE インストーラー [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージ：4.1.160</p> <p>クライアント SDK：4.1.158<br /> </p> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0045<br /> </p> </td> 
@@ -474,7 +474,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2]<br /> </li> 
-     <li>AEM Forms クライアント SDK [1]</li> 
+     <li>AEM FormsクライアントSDK [1]</li> 
      <li>AEM Forms JEE インストーラー [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：4.1.148</p> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0044 </p> </td> 
@@ -490,7 +490,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a><br /> [2] </li> 
-     <li>AEM Forms クライアント SDK [1]</li> 
+     <li>AEM FormsクライアントSDK [1]</li> 
      <li>AEM Forms JEE インストーラー [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.124</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0038</strong></p> </td> 
@@ -516,7 +516,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2] </li> 
-     <li>AEM Forms クライアント SDK [1]</li> 
+     <li>AEM FormsクライアントSDK [1]</li> 
      <li>AEM Forms JEE インストーラー [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.112</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0036</strong></p> </td> 
@@ -532,7 +532,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup><sup> </sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.104</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0035</strong></p> </td> 
@@ -548,7 +548,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup><sup> </sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.94</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0034</strong></p> </td> 
@@ -564,7 +564,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.90</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0032</strong></p> </td> 
@@ -580,7 +580,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.82</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0028</strong></p> </td> 
@@ -611,16 +611,16 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK [1]<sup><br /> </sup></li> 
+     <li>AEM Forms Client SDK [1]<sup><br /> </sup></li> 
      <li>AEM Forms Designer <sup>[1]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
      <li>AEM Forms Workbench ホットフィックス <sup>[2]</sup></li> 
     </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.70</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0025</strong></p> <p>AEM Forms デザイナーインストーラー：<strong>630.005</strong></p> <p>AEM Forms Workbench ホットフィックス：<strong>1007-008</strong></p> </td> 
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.70</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0025</strong></p> <p>AEM Forms Designer インストーラー：<strong>630.005</strong></p> <p>AEM Forms Workbench ホットフィックス：<strong>1007-008</strong></p> </td> 
   </tr> 
   <tr> 
    <td>2018 年 4 月 5 日</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 サービスパック 2 Forms アドオンパッケージ</a></td> 
+   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 サービスパック 2 Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3.2.0</a></td> 
    <td> 
     <ul> 
@@ -629,7 +629,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.64</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0022</strong></p> </td> 
@@ -646,7 +646,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[1]</sup></li> 
      <li>AEM Forms アプリケーションソース <sup>[1]</sup></li> 
      <li>Document Security クライアント SDK</li> 
      <li>Document Security ポータブル保護ライブラリ <sup>[1]</sup></li> 
@@ -666,7 +666,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[1]</sup></li> 
      <li>LiveCycle 埋め込みパッケージ <sup>[1] [3]</sup></li> 
      <li>AEM Forms アプリケーションソース <sup>[1]</sup></li> 
     </ul> </td> 
@@ -684,7 +684,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[1]</sup></li> 
      <li>AEM Forms アプリケーションソース <sup>[1]<br /> </sup></li> 
      <li>AEM Workbench ホットフィックス [1]</li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3-SP1-FSI-REF-SITE" target="_blank">AEM Forms FSI 参照サイトパッケージ</a></li> 
@@ -703,7 +703,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup><br /> </li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup><br /> </li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[1]</sup></li> 
      <li>AEM Forms アプリケーションソース <sup>[1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.14</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0003</strong></p> </td> 
@@ -721,7 +721,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ </a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG" target="_blank">AEM Forms JEE パッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-FORMS-APP-SRC-PKG" target="_blank">AEM Forms App Source Code</a></li> 
-     <li>AEM Forms クライアント SDK <sup>[1]</sup><br /> </li> 
+     <li>AEM FormsクライアントSDK <sup>[1]</sup><br /> </li> 
      <li>AEM Forms Designer <sup>[1]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
      <li>AEM Forms アプリケーションソース <sup>[1]</sup></li> 
@@ -731,7 +731,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2017 年 4 月 26 日</td> 
    <td>AEM 6.3 Forms アドオンパッケージ</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/sites/deploying/using/deploy.html" target="_blank">AEM 6.3</a></td> 
+   <td><a href="https://docs.adobe.com/docs/en/aem/6-3/deploy.html" target="_blank">AEM 6.3</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -740,9 +740,9 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-Forms-6.3-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-CMB">Central Migration Bridge パッケージ</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FORMS-APP-SRC-PKG">AEM Forms アプリケーションソースコードパッケージ</a></li> 
+     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FORMS-APP-SRC-PKG">AEM Forms App Source Code パッケージ</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/fd/AEM-DOCUMENTSECURITY-INDEXER-6.3">AEM Forms Document Security インデクサーパッケージ</a></li> 
-     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms クライアント SDK</a></li> 
+     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client SDK</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FSI-REF-SITE" target="_blank">AEM Forms FSI 参照サイトパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-GOV-REF-SITE" target="_blank">AEM Forms Gov 参照サイトパッケージ</a></li> 
     </ul> </td> 
@@ -780,7 +780,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP20-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP20-OSX">Mac OS X 用 AEM Forms アドオンパッケージ [3]</a></li> 
      <li>AEM Forms JEE インストーラー [2]</li> 
-     <li>AEM Forms クライアント SDK [2]</li> 
+     <li>AEM Forms Client SDK [2]</li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.212</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0043</strong></p> </td> 
   </tr> 
@@ -795,7 +795,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP19-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP19-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP19-OSX">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[3]</sup></a></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：3.2.202</p> <p> </p> </td> 
   </tr> 
@@ -811,7 +811,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP18-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP18-OSX">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.194</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0042</strong></p> </td> 
   </tr> 
@@ -827,7 +827,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP17-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP17-OSX">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p> </p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.190</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0041</strong></p> <p> </p> </td> 
   </tr> 
@@ -858,7 +858,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP15-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP15-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.178</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0038</strong></p> </td> 
   </tr> 
@@ -873,7 +873,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP14-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP14-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP14-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[3]</sup></a></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.170</strong></td> 
   </tr> 
@@ -889,7 +889,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP13-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP13-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.166</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0031</strong></p> </td> 
   </tr> 
@@ -905,7 +905,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP12-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP12-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup><br /> </li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup><br /> </li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.158</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0030</strong></p> </td> 
   </tr> 
@@ -921,7 +921,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP11-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP11-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
      <li>AEM Workbench ホットフィックス <sup>[2]<br /> </sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.146</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0029</strong></p> <p>AEM Workbench ホットフィックス：<strong>1028-014</strong></p> </td> 
@@ -938,7 +938,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP10-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP10-OSX">Mac OS X 用 AEM Forms アドオンパッケージ [3]</a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.138</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0028</strong></p> </td> 
   </tr> 
@@ -954,7 +954,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP9-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP9-OSX">Mac OS X 用 AEM Forms アドオンパッケージ [3]</a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.134</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0023</strong></p> </td> 
   </tr> 
@@ -970,7 +970,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP8-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP8-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ [3]</a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.128</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0021</strong></p> </td> 
   </tr> 
@@ -986,7 +986,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP7-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP7-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ [3]</a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.124</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0018</strong></p> </td> 
   </tr> 
@@ -1002,7 +1002,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP6-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP6-OSX">Mac OS X 用 AEM Forms アドオンパッケージ [3]</a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.112</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0017</strong></p> </td> 
   </tr> 
@@ -1019,7 +1019,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP5-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[3]</sup></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP5-JEE-PKG" target="_blank">AEM Forms JEE パッケージ</a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup><br /> </li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM FormsクライアントSDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.106</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0015</strong></p> </td> 
   </tr> 
@@ -1035,7 +1035,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP4-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
      <li>AEM Forms JEE インストーラー <sup>[2]</sup><br /> </li> 
      <li>AEM Forms Designer インストーラー <sup>[2]</sup></li> 
-     <li>AEM Forms クライアント SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>3.2.102</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.2.0-0012</strong></p> </td> 
   </tr> 
@@ -1136,7 +1136,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
  </tbody> 
 </table>
 
-`[1]` AEM [!DNL Forms] アドオンパッケージと AEM [!DNL Forms] アプリケーションソースコードに加え、AEM [!DNL Forms] Document Security Extension for Microsoft Office の更新バージョンと、AEM [!DNL Forms] JEE のコアコンポーネントおよび Document Security コンポーネントのホットフィックスもリリースされています。詳しくは、[AEM 6.2  [!DNL Forms]  累積修正プログラム 10325 のリリースノート](https://helpx.adobe.com/jp/experience-manager/6-2/forms/using/cf1-release-notes.html)を参照してください。
+`[1]` AEM [!DNL Forms] アドオンパッケージと AEM [!DNL Forms] アプリケーションソースコードに加え、AEM [!DNL Forms] Document Security Extension for Microsoft Office の更新バージョンと、AEM [!DNL Forms] JEE のコアコンポーネントおよび Document Security コンポーネントのホットフィックスもリリースされています。詳しくは、[AEM 6.2 [!DNL Forms] 累積修正プログラム 10325 のリリースノート](https://helpx.adobe.com/jp/experience-manager/6-2/forms/using/cf1-release-notes.html)を参照してください。
 
 `[2]` AEM [!DNL Forms] JEE、AEM [!DNL Forms] アプリケーションソースコード、AEM [!DNL Forms Designer] インストーラー、AEM [!DNL Forms Workbench] ホットフィックス、AEM Forms クライアント SDK（このリリースに該当する場合）を入手するには、[アドビサポート](https://www.adobe.com/account/sign-in.supportportal.html)にお問い合わせください。
 
