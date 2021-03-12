@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 92%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) は毎月 1 回のペースでリリースされます。そのため、新機能が [!DNL Experience Manager] の継続的なアップデートとして毎月利用可能になります。[!DNL Experience Manager] as a [!DNL Cloud Service] の今後のリリースは次のとおりです。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) は毎月 1 回のペースでリリースされます。したがって、[!DNL Experience Manager] の新機能は毎月継続的にアップデートされます。[!DNL Experience Manager] as a [!DNL Cloud Service] の今後のリリースは次のとおりです。
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | 月次リリース | 2021 年 3 月 25 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | 月次リリース | 2021 年 4 月 29 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | 月次リリース | 2021 年 5 月 27 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | 月次リリース | 2021年6月24日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | 月次リリース | 2021 年 6 月 24 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | 月次リリース | 2021 年 7 月 29 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | 月次リリース | 2021年8月26日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | 月次リリース | 2021年9月30日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | 月次リリース | 2021年10月28日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | 月次リリース | 2021 年 8 月 26 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | 月次リリース | 2021 年 9 月 30 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | 月次リリース | 2021 年 10 月 28 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 月次リリース | 2021年12月2日 |
 
 毎月のリリースに加えて、[!DNL Experience Manager] as a [!DNL Cloud Service] では様々な重要なアップデートが毎日公開されています。
@@ -42,7 +42,7 @@ ht-degree: 92%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックで提供されます。この中には、新機能、機能強化、バグ修正が含まれています。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)を参照してください。
+[!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックで提供されます。新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
