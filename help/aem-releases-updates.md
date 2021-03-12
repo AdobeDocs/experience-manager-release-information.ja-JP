@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 91%
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] は月に 1 回リリースされます。したがって、[!DNL Experience Manager] の新機能は毎月継続的にアップデートされます。
 
-最新/最新バージョンの詳細については、[ [!DNL Experience Manager] の現在のリリースノートを [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=ja)として参照してください。 ここから、以前のバージョンの詳細（時系列に並べ替えたもの）に移動することもできます。
+現在／最新のバージョンの詳細については、[ [!DNL Experience Manager] as a [!DNL Cloud Service]の現在のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=ja)を参照してください。ここから、以前のバージョンの詳細（時系列に並べ替えたもの）に移動することもできます。
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
@@ -31,7 +31,7 @@ Managed Services およびオンプレミス製品の場合、この記事では
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-[!DNL Experience Manager] 6.5 製品アップデートは、四半期別のサービスパックで配信されます。新機能、拡張機能、バグ修正が含まれます。
+[!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックで提供されます。新機能、拡張機能、バグ修正が含まれます。
 
 * [[!DNL Experience Manager] 6.5 サービスパック 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)
 
@@ -41,7 +41,7 @@ Managed Services およびオンプレミス製品の場合、この記事では
 
 ### [!DNL Experience Manager] 6.4 {#aem-64}
 
-[!DNL Experience Manager] 6.4 製品アップデートは、四半期別 CFP で配信されます。これらにはバグ修正が含まれます。
+[!DNL Experience Manager] 6.4 製品アップデートは、四半期ごとの CFP で提供されます。この中にはバグ修正が含まれています。
 
 * [[!DNL Experience Manager] 6.4 サービスパック 8 累積修正パック 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)
 
