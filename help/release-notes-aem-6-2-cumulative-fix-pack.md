@@ -1855,7 +1855,8 @@ CFP3 の主なハイライト：
 
 AEM 6.2 SP1 と CFP3 の間で更新された OSGi バンドルのリスト
 
-[ファイルを取得](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt)累積修正パック 2 の主な特徴は次のとおりです。
+[ファイルを取得](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt)
+累積修正パック 2 の主な特徴は次のとおりです。
 
 * Sling フレームワークや操作を含む AEM プラットフォームの安定性の修正をおこない、パフォーマンスが向上しました。
 * アセット管理を改善し、アセットのアクセス、移動、検索、アップロードおよび公開に関するいくつかの修正をおこないました。
