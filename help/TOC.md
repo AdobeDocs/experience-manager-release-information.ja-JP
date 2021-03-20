@@ -6,11 +6,15 @@ audience: end-user
 user-guide-title: Adobe Experience Manager リリースのアップデートとロードマップ
 breadcrumb-title: AEM リリース情報
 user-guide-description: AEM の最新リリースのアップデートを参照してください。
+feature-set: Experience Manager
+feature: リリース情報
+role: リーダー、アーキテクト、開発者、データ・アーキテクト、データ・エンジニア、管理者、実業家
+level: 初心者、中級者、経験者
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: c9654d3e8d6a5b46036c3d1b01d80ab00148f63a
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 86%
 
 ---
 
