@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] リリースのアップデート'
 description: '[!DNL Adobe Experience Manager] リリースのアップデート'
 contentOwner: AK
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] は月に 1 回リリースされます。したがって、[!DNL Experience Manager] の新機能は毎月継続的にアップデートされます。
 
-現在／最新のバージョンの詳細については、[ [!DNL Experience Manager] as a [!DNL Cloud Service]の現在のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=ja)を参照してください。ここから、以前のバージョンの詳細（時系列に並べ替えたもの）に移動することもできます。
+現在／最新のバージョンの詳細については、[ [!DNL Experience Manager] as a [!DNL Cloud Service] の現在のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=ja)を参照してください。ここから、以前のバージョンの詳細（時系列に並べ替えたもの）に移動することもできます。
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
