@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: e15774a3cc034e946ec7443a51181e4c636debaf
 workflow-type: tm+mt
 source-wordcount: '13231'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><strong>ビルドバージョン</strong></td> 
    </tr>
    <tr> 
-    <td>2021年3月18日</td> 
+    <td>2021 年 3 月 18 日</td> 
     <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.5.8.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
     <td> 
@@ -215,7 +215,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><strong>ビルドバージョン</strong></td> 
   </tr>
   <tr> 
-   <td>2021年3月4日</td> 
+   <td>2021 年 3 月 04 日</td> 
    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
    <td> 
