@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 93%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4は、 [!DNL Experience Manager] 6.4の最後のCFPです。最新リリースのCFPの詳細については、 [[!DNL Experience Manager] 6.4累積修正パックリリースノートを参照してください](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)。
+[!DNL Experience Manager] 6.4 サービスパック 8 CFP 4は、 [!DNL Experience Manager] 6.4 の最後の CFP です。最新リリースの CFP の詳細については、 [[!DNL Experience Manager] 6.4 累積修正パックリリースノートを参照してください](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)。
 
 >[!MORELIKETHIS]
 >
