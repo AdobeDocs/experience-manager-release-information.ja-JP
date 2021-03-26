@@ -58,7 +58,7 @@ ht-degree: 99%
 
 | 日付 | トピック | 変更内容 |
 | --- | --- | --- |
-| 2021年3月11日 | [!DNL Experience Manager] 6.5 サービスパック 8 | [[!DNL Experience Manager]  6.5 サービスパック 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja#service-pack) が入手可能になりました。 |
+| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 サービスパック 8 | [[!DNL Experience Manager]  6.5 サービスパック 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja#service-pack) が入手可能になりました。 |
 | 2020 年 11 月 25 日 | Dynamic Media のアクセシビリティ | Dynamic Media と Dynamic Media ビューアでは、オーサリングユーザーインターフェイス全体でキーボードコントロールおよび支援テクノロジー（JAWS スクリーンリーダーや NVDA スクリーンリーダーなど）をサポートしています。詳しくは、[Dynamic Media のアクセシビリティ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=ja#dynamic)を参照してください。 |
 | 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.5 サービスパック 7 | [[!DNL Experience Manager]  6.5 サービスパック 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) が入手可能になりました。 |
 | 2020 年 9 月 3 日 | Dynamic Media での CDN 無効化 | Dynamic Media 内からリクエストを送信して、CDN キャッシュを数分以内に期限切れにすることができるようになりました。この機能は、アセットを更新し、その変更を Web サイトに直ちに反映させる場合に有効です。<br>詳しくは、[Dynamic Media を使用した CDN キャッシュの無効化](https://docs.adobe.com/content/help/ja/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)を参照してください。 |
