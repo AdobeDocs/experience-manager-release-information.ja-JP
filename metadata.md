@@ -1,11 +1,11 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution: Experience Cloud
 type: ドキュメント
 git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-release-information.ja-JP
 index: true
 translation-type: tm+mt
-source-git-commit: 5ef17b174aa13f789144e1293bd2680b0299bbeb
+source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 99%
