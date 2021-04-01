@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: Adobe Experience Manager
 solution: Experience Manager
 audience: end-user
@@ -11,7 +11,7 @@ feature: リリース情報
 role: リーダー、アーキテクト、開発者、データ・アーキテクト、データ・エンジニア、管理者、実業家
 level: 初心者、中級者、経験者
 translation-type: tm+mt
-source-git-commit: c9654d3e8d6a5b46036c3d1b01d80ab00148f63a
+source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 86%
