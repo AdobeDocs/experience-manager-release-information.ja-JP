@@ -8,13 +8,13 @@ breadcrumb-title: AEM リリース情報
 user-guide-description: AEM の最新リリースのアップデートを参照してください。
 feature-set: Experience Manager
 feature: リリース情報
-role: リーダー、アーキテクト、開発者、データ・アーキテクト、データ・エンジニア、管理者、実業家
-level: 初心者、中級者、経験者
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
 source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 86%
+source-wordcount: '81'
+ht-degree: 100%
 
 ---
 
