@@ -7,7 +7,7 @@ user-guide-title: Adobe Experience Manager リリースのアップデートと�
 breadcrumb-title: AEM リリース情報
 user-guide-description: AEM の最新リリースのアップデートを参照してください。
 feature-set: Experience Manager
-feature: リリース情報
+feature: Release Information
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
 level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
