@@ -4,9 +4,9 @@ solution: Experience Cloud
 type: Documentation
 git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-release-information.ja-JP
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 461b4d84d7e8512d433cc3c2a00ede133de05e36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
