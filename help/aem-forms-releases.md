@@ -2,14 +2,14 @@
 title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
+exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 translation-type: ht
-source-git-commit: ad6014815c1b15b66e549653bf0f66fc26b1d2f4
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '13263'
 ht-degree: 100%
 
 ---
-
 
 # AEM [!DNL Forms] リリース {#aem-forms-releases}
 
