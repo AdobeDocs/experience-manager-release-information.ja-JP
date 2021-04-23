@@ -1,14 +1,14 @@
 ---
 title: AEM、CQ、CRX の以前のバージョン
 description: Adobe Experience Manager、CQ、CRX の以前のバージョンのドキュメントパッケージです。
-translation-type: ht
-source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
-workflow-type: ht
-source-wordcount: '773'
-ht-degree: 100%
+exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
+translation-type: tm+mt
+source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
+workflow-type: tm+mt
+source-wordcount: '793'
+ht-degree: 93%
 
 ---
-
 
 # [!DNL Adobe Experience Manager]、CQ および CRX の以前のバージョン {#older-versions-aem-cq-crx}
 
@@ -71,13 +71,17 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 ### ローカルインスタンスでのパッケージのインストール {#install-package-local-instance}
 
+>[!NOTE]
+>
+>AEM 6.2では、次のコマンドを使用して、ローカルインスタンスを開始し、最大ヒープサイズを増やす必要がある場合があります。` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+
 1. [!DNL Experience Manager] ユーザーインターフェイスを開きます。Web ブラウザーに「`http://localhost:4502/`」と入力します。管理者としてログインします。
 
 1. **[!UICONTROL ツール]**／**[!UICONTROL デプロイメント]**／**[!UICONTROL パッケージ]**&#x200B;を選択します。
 
 1. パッケージマネージャーの UI から、「**[!UICONTROL パッケージをアップロード]**」を選択します。
 
-1. AEM 5.6.1 パッケージ（aem-docs-5-6-1.zip）をダウンロードした場所を参照します。
+1. AEMパッケージをダウンロードした場所を参照します。
 
 1. パッケージを選択して、「**[!UICONTROL OK]**」をクリックします。
 
@@ -87,7 +91,7 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 1. 確認ダイアログで、もう一度「**[!UICONTROL インストール]**」を選択します。注意：インストールには数分かかります。
 
-1. Web ブラウザーで、ドキュメントページを開きます。例えば、AEM 5.6.1 の場合、URL は、http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html のようになります。
+1. Web ブラウザーで、ドキュメントページを開きます。AEM 5.6.1の例では、URLは次のようになります。http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html
 
 ## [!DNL Experience Manager]コミュニティにお問い合わせ {#get-help-from-aem-community}
 
