@@ -2,11 +2,11 @@
 title: AEM、CQ、CRX の以前のバージョン
 description: Adobe Experience Manager、CQ、CRX の以前のバージョンのドキュメントパッケージです。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '793'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 >[!NOTE]
 >
->AEM 6.2では、次のコマンドを使用して、ローカルインスタンスを開始し、最大ヒープサイズを増やす必要がある場合があります。` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+>AEM 6.2では、次のコマンドを例として使用し、ローカルインスタンスを開始し、最大ヒープサイズを増やす必要が出る場合があります。` java -jar -XX:MaxPermSize=2048m aem-author.jar`
 
 1. [!DNL Experience Manager] ユーザーインターフェイスを開きます。Web ブラウザーに「`http://localhost:4502/`」と入力します。管理者としてログインします。
 
@@ -81,7 +81,7 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 1. パッケージマネージャーの UI から、「**[!UICONTROL パッケージをアップロード]**」を選択します。
 
-1. AEMパッケージをダウンロードした場所を参照します。
+1. AEM パッケージをダウンロードした場所を参照します。
 
 1. パッケージを選択して、「**[!UICONTROL OK]**」をクリックします。
 
@@ -91,7 +91,7 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 1. 確認ダイアログで、もう一度「**[!UICONTROL インストール]**」を選択します。注意：インストールには数分かかります。
 
-1. Web ブラウザーで、ドキュメントページを開きます。AEM 5.6.1の例では、URLは次のようになります。http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html
+1. Web ブラウザーで、ドキュメントページを開きます。例えば、AEM 5.6.1 の場合、URL は、http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html のようになります。
 
 ## [!DNL Experience Manager]コミュニティにお問い合わせ {#get-help-from-aem-community}
 
