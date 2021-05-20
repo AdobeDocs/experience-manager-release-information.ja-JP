@@ -2,14 +2,13 @@
 title: '[!DNL Adobe Experience Manager] リリースのアップデート'
 description: '[!DNL Adobe Experience Manager] リリースのアップデート'
 contentOwner: AK
-translation-type: ht
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: ht
+exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Adobe Experience Manager] のリリースとアップデート {#aem-releases-and-updates}
 
