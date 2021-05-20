@@ -3,9 +3,8 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-translation-type: ht
 source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '13263'
 ht-degree: 100%
 
@@ -35,7 +34,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <tr> 
     <td>2021 年 3 月 18 日</td> 
     <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.5.8.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
     <td> 
      <ul> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.334.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
@@ -60,8 +59,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    </tr>
    <tr> 
     <td>2020 年 12 月 3 日</td> 
-    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.5.7.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.7.0</a></td> 
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.5.7.0 用 AEM Forms アドオンパッケージ）</a></td> 
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.7.0</a></td> 
     <td> 
      <ul> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.234.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
@@ -73,7 +72,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Jboss/Win/AEMForms-6.5.0-0020_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Jboss/Linux/AEMForms-6.5.0-0020_jboss_linux.tar.gz">JBoss Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Jboss/Solaris/AEMForms-6.5.0-0020_jboss_solaris.tar.gz">JBoss Solaris</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Weblogic/Win/AEMForms-6.5.0-0020_weblogic_win.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Weblogic/Win/AEMForms-6.5.0-0020_weblogic_win.zip">WebLogicウィンドウ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Weblogic/Linux/AEMForms-6.5.0-0020_weblogic_linux.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Weblogic/Solaris/AEMForms-6.5.0-0020_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/Win/AEMForms-6.5.0-0020_websphere_win.zip">WebSphere Windows</a></li>
@@ -87,7 +86,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <tr> 
     <td>2020 年 9 月 3 日</td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM Forms サービスパック 6（AEM 6.5.6.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM 6.5.6.0</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.6.0</a></td> 
     <td> 
      <ul> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.192.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
@@ -100,8 +99,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    </tr>
    <tr> 
     <td>2020 年 6 月 4 日</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM Forms サービスパック 5（AEM 6.5.5.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM 6.5.5.0</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 5（AEM 6.5.5.0 用 AEM Forms アドオンパッケージ）</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.5.0</a></td> 
     <td> 
      <ul> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
@@ -114,8 +113,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    </tr>
    <tr> 
     <td>2020 年 3 月 5 日</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM Forms サービスパック 4（AEM 6.5.4.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM 6.5.4.0</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 4（AEM 6.5.4.0 用 AEM Forms アドオンパッケージ）</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.4.0</a></td> 
     <td> 
      <ul> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
@@ -130,8 +129,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    </tr> 
    <tr> 
     <td>2019 年 12 月 12 日</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM Forms サービスパック 3（AEM 6.5.3.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM 6.5.3.0</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 3（AEM 6.5.3.0 用 AEM Forms アドオンパッケージ）</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.3.0</a></td> 
     <td> 
      <ul> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
@@ -147,7 +146,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <tr> 
     <td>2019 年 9 月 19 日</td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja-JP#service-pack">AEM Forms サービスパック 2（AEM 6.5.2.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja-JP#service-pack">AEM 6.5.2.0</a></td> 
+    <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
     <td> 
      <ul> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
@@ -162,8 +161,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    </tr> 
    <tr> 
     <td>2019 年 7 月 3 日</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja-JP#service-pack">AEM Forms サービスパック 1（AEM 6.5.1.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja-JP#service-pack">AEM 6.5.1.0</a></td> 
+    <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM Forms サービスパック 1（AEM 6.5.1.0 用 AEM Forms アドオンパッケージ）</a></td> 
+    <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.1.0</a></td> 
     <td> 
      <ul> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
@@ -218,7 +217,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2021 年 3 月 4 日</td> 
    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.212.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
@@ -231,7 +230,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/JBoss/Win/AEMForms-6.4.0-0025_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/JBoss/Linux/AEMForms-6.4.0-0025_jboss_linux.tar.gz">JBoss Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/JBoss/Solaris/AEMForms-6.4.0-0025_jboss_solaris.tar.gz">JBoss Solaris</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/WebLogic/Win/AEMForms-6.4.0-0025_weblogic_win.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/WebLogic/Win/AEMForms-6.4.0-0025_weblogic_win.zip">WebLogicウィンドウ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/WebLogic/Linux/AEMForms-6.4.0-0025_weblogic_linux.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/WebLogic/Solaris/AEMForms-6.4.0-0025_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/websphere/Win/AEMForms-6.4.0-0025_websphere_win.zip">WebSphere Windows</a></li>
@@ -244,8 +243,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr> 
   <tr> 
    <td>2020 年 12 月 3 日</td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 3（6.4.8.3）用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.3</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 3（6.4.8.3）用 AEM Forms アドオンパッケージ</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.3</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.172.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
@@ -257,7 +256,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Jboss/Win/AEMForms-6.4.0-0023_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Jboss/Linux/AEMForms-6.4.0-0023_jboss_linux.tar.gz">JBoss Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Jboss/Solaris/AEMForms-6.4.0-0023_jboss_solaris.tar.gz">JBoss Solaris</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Weblogic/Win/AEMForms-6.4.0-0023_weblogic_win.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Weblogic/Win/AEMForms-6.4.0-0023_weblogic_win.zip">WebLogicウィンドウ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Weblogic/Linux/AEMForms-6.4.0-0023_weblogic_linux.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Weblogic/Solaris/AEMForms-6.4.0-0023_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Websphere/Win/AEMForms-6.4.0-0023_websphere_win.zip">WebSphere Windows</a></li>
@@ -270,8 +269,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr>
   <tr> 
    <td>2020 年 9 月 3 日</td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 2（6.4.8.2）用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.2</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 2（6.4.8.2）用 AEM Forms アドオンパッケージ</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.2</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.148.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
@@ -286,8 +285,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr>
   <tr> 
    <td>2020 年 6 月 4 日</td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 1（6.4.8.1）用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.1</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 1（6.4.8.1）用 AEM Forms アドオンパッケージ</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.1</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
@@ -303,7 +302,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2020 年 3 月 5 日</td> 
    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.4.8.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.8.0</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.8.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
@@ -319,8 +318,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr> 
   <tr> 
    <td>2019 年 12 月 12 日</td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.4.7.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.4.7.0 用 AEM Forms アドオンパッケージ）</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
@@ -336,8 +335,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr> 
   <tr> 
    <td>2019 年 9 月 19 日</td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 6（AEM 6.4.6.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.6.0</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 6（AEM 6.4.6.0 用 AEM Forms アドオンパッケージ）</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.6.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
@@ -354,7 +353,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2019 年 7 月 3 日</td> 
    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 5（AEM 6.4.5.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.5.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.5.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-LX">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
@@ -367,8 +366,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr> 
   <tr> 
    <td>2019 年 4 月 4 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 4（AEM 6.4.4.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.4.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 4（AEM 6.4.4.0 用 AEM Forms アドオンパッケージ）</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.4.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -383,8 +382,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr> 
   <tr> 
    <td>2018 年 12 月 20 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 3（AEM 6.4.3.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 3（AEM 6.4.3.0 用 AEM Forms アドオンパッケージ）</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -398,8 +397,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr> 
   <tr> 
    <td>2018 年 10 月 3 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 2（AEM 6.4.2.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.2.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 2（AEM 6.4.2.0 用 AEM Forms アドオンパッケージ）</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.2.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -415,8 +414,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr> 
   <tr> 
    <td>2018 年 6 月 29 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 1（AEM 6.4.1.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 1（AEM 6.4.1.0 用 AEM Forms アドオンパッケージ）</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -492,7 +491,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2019 年 12 月 12 日</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.7 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.7</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.7</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -508,7 +507,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2019 年 9 月 25 日</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.6 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.6</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.6</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -524,7 +523,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2019 年 7 月 03 日</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.5 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.5</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.5</a></td> 
    <td> 
     <ul> 
      <li>AEM 6.3.3.5 用にリリースされた AEM Forms アドオンパッケージはなし</li> 
@@ -534,7 +533,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2019 年 5 月 9 日</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.4 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.4</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.4</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -550,7 +549,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2019 年 3 月 14 日</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.3 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.3</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.3</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -566,7 +565,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2019 年 1 月 15 日</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.2 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.2</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.2</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -582,7 +581,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2018 年 11 月 15 日</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.1 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html" target="_blank">AEM 6.3.3.1</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html" target="_blank">AEM 6.3.3.1</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -597,8 +596,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr> 
   <tr> 
    <td>2018 年 9 月 12 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3 サービスパック 3 Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3 サービスパック 3 Forms アドオンパッケージ</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -647,7 +646,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2018 年 4 月 5 日</td> 
    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 サービスパック 2 Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3.2.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3.2.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -701,7 +700,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   <tr> 
    <td>2017 年 10 月 13 日</td> 
    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp1-release-notes.html">AEM 6.3 サービスパック 1 Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp1-release-notes.html" target="_blank">AEM 6.3 サービスパック 1</a></td> 
+   <td><a href="https://helpx.adobe.com/in/experience-manager/6-3/release-notes/sp1-release-notes.html" target="_blank">AEM 6.3 サービスパック 1</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
@@ -1127,7 +1126,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr> 
   <tr> 
    <td>2016 年 6 月 30 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-2/forms/using/cf1-release-notes.html" target="_blank">AEM 6.2 Forms 累積修正プログラム 10325</a> <sup>[1]</sup></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/forms/using/cf1-release-notes.html" target="_blank">AEM 6.2 Forms 累積修正プログラム 10325</a> <sup>[1]</sup></td> 
    <td><a href="https://docs.adobe.com/docs/en/aem/6-2/deploy.html#par_title">AEM 6.2</a></td> 
    <td> 
     <ul> 
