@@ -10,9 +10,8 @@ feature-set: Experience Manager
 feature: リリース情報
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
 level: Beginner, Intermediate, Experienced
-translation-type: ht
 source-git-commit: e89dcf7b57b2af9674fd5016f0764311702966a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -28,10 +27,10 @@ ht-degree: 100%
 + 以前のリリースアップデート {#previous-updates}
    + [AEM 6.3 累積修正パック](release-notes-aem-6-3-cumulative-fix-pack.md)
    + [AEM 6.2 累積修正パック](release-notes-aem-6-2-cumulative-fix-pack.md)
-   + [AEM、CQ および CRX の以前のバージョン](aem-previous-versions.md)
+   + [AEM、CQ、CRX の以前のバージョン](aem-previous-versions.md)
 + AEM Forms リリースのアップデート {#forms-updates}
    + [AEM Forms リリース](aem-forms-releases.md)
-   + [AEM Forms JEE への累積修正パックのインストール](install-cfp-aem-forms-jee.md)
+   + [累積修正パックの AEM Forms JEE へのインストール](install-cfp-aem-forms-jee.md)
 + ドキュメントの更新 {#doc-updates}
    + [最近のドキュメント更新](documentation-updates.md)
    + [以前のドキュメント更新](previous-documentation-updates.md)
