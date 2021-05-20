@@ -2,14 +2,13 @@
 title: アップデートリリースの提供に関する定義
 description: この記事では、完全リリース、機能パック、サービスパックなど、 [!DNL Experience Manager]  の各種リリースについて詳しく説明します。
 contentOwner: AK
-translation-type: ht
-source-git-commit: 11ff4f7d66038a80697afe5f104c560137e130f4
-workflow-type: ht
+exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Experience Manager] アップデートリリースの提供に関する定義 {#update-release-vehicle-definitions}
 
@@ -31,7 +30,7 @@ ht-degree: 100%
 | 入手可能性とインストール | <ul> <li> スタンドアロンの製品インストーラーとして提供されます。 </li> <li>  および Managed Services Licensing Website から入手可能です。 </li> <li> ライセンス Web サイトでは、コンテンツリポジトリーの移行が必要な場合があります </li> </ul> |
 | テストのレベル | QA によって完全に検証済み |
 
-## サービスパック  {#service-pack}
+## サービスパック    {#service-pack}
 
 | 項目 | 説明 |
 |-----|-----|
@@ -43,7 +42,7 @@ ht-degree: 100%
 | 入手可能性とインストール | <ul> <li> パッケージとして提供 </li> <li> ソフトウェア配布時に利用可能</li> <li>  既存機能のインストールが必要 </li> </ul> |
 | テストのレベル | <ul> <li> すべての修正が QA 検証済み </li> <li>  自動実行を使用したパッケージ全体の健全性 </li> </ul> |
 
-## 累積修正パック    {#cumulative-fix-pack-aem}
+## 累積修正パック  {#cumulative-fix-pack-aem}
 
 | 項目 | 説明 |
 |-----|-----|
@@ -66,7 +65,7 @@ ht-degree: 100%
 | 入手可能性とインストール | <ul> <li> [!DNL Experience Manager] がパッケージとして提供  </li> <li> 必ずしもサービスパックや完全リリースに含める必要はありません </li> </ul> |
 | テストのレベル | カスタマーケアによって検証済み |
 
-## 機能パック{#feature-pack}
+## 機能パック {#feature-pack}
 
 | アイテム | 詳細 |
 |--------|-----|
