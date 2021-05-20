@@ -2,14 +2,13 @@
 title: 累積修正パックの AEM Forms JEE へのインストール
 description: AEM Forms JEE での累積修正パック（CFP）のインストールおよび設定手順の概要
 contentOwner: AK
-translation-type: ht
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
-workflow-type: ht
+exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+workflow-type: tm+mt
 source-wordcount: '1102'
 ht-degree: 100%
 
 ---
-
 
 # AEM [!DNL  Forms] JEE への累積修正パックのインストール {#installing-cumulative-fix-packs-on-aem-forms-jee}
 
@@ -84,7 +83,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
 1. `DesigntimeService` 操作値のタイムアウトを 500 秒に設定するには、次を使用します。
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;を設定します。
 
 1. `DesigntimeService's previewLCA` 操作値のタイムアウトを 700 秒に設定するには、次を使用します。
 
@@ -92,7 +91,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
 1. 読み込み、インストールなどの `DSC operations` を 600 秒に設定するには、次を使用します。
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;を設定します。
 
 ## AEM [!DNL Forms JEE] のインストールと設定 {#install-and-configure-aem-forms-jee}
 
