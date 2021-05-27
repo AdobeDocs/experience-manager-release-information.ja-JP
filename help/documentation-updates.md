@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] の最近のドキュメント更新'
 description: ' [!DNL Experience Manager]  ドキュメントの最新情報、更新、変更点'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: fa68729be0642a7369e2a1bef643fac32a76bc3e
+source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
 workflow-type: tm+mt
-source-wordcount: '3247'
+source-wordcount: '3262'
 ht-degree: 100%
 
 ---
@@ -57,7 +57,8 @@ ht-degree: 100%
 
 | 日付 | トピック | 変更内容 |
 | --- | --- | --- |
-| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 サービスパック 8 | [[!DNL Experience Manager]  6.5 サービスパック 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja#service-pack) が入手可能になりました。 |
+| 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 サービスパック 9 | [[!DNL Experience Manager]  6.5 サービスパック 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja#service-pack) が入手可能になりました。 |
+| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 サービスパック 8 | [[!DNL Experience Manager]  6.5 サービスパック 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) が入手可能になりました。 |
 | 2020 年 11 月 25 日 | Dynamic Media のアクセシビリティ | Dynamic Media と Dynamic Media ビューアでは、オーサリングユーザーインターフェイス全体でキーボードコントロールおよび支援テクノロジー（JAWS スクリーンリーダーや NVDA スクリーンリーダーなど）をサポートしています。詳しくは、[Dynamic Media のアクセシビリティ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=ja#dynamic)を参照してください。 |
 | 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.5 サービスパック 7 | [[!DNL Experience Manager]  6.5 サービスパック 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) が入手可能になりました。 |
 | 2020 年 9 月 3 日 | Dynamic Media での CDN 無効化 | Dynamic Media 内からリクエストを送信して、CDN キャッシュを数分以内に期限切れにすることができるようになりました。この機能は、アセットを更新し、その変更を Web サイトに直ちに反映させる場合に有効です。<br>詳しくは、[Dynamic Media を使用した CDN キャッシュの無効化](https://docs.adobe.com/content/help/ja/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)を参照してください。 |
