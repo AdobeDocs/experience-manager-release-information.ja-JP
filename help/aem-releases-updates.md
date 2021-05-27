@@ -3,7 +3,7 @@ title: '[!DNL Adobe Experience Manager] リリースのアップデート'
 description: '[!DNL Adobe Experience Manager] リリースのアップデート'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
@@ -32,7 +32,7 @@ Managed Services およびオンプレミス製品の場合、この記事では
 
 [!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックで提供されます。新機能、拡張機能、バグ修正が含まれます。
 
-* [[!DNL Experience Manager] 6.5 サービスパック 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)
+* [[!DNL Experience Manager] 6.5 サービスパック 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)
 
 * [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja)
 
