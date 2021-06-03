@@ -3,10 +3,10 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 69112418171a30b9f29d9ca1d5ef10d86804ff97
 workflow-type: tm+mt
-source-wordcount: '13263'
-ht-degree: 100%
+source-wordcount: '13695'
+ht-degree: 98%
 
 ---
 
@@ -32,8 +32,32 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><strong>ビルドバージョン</strong></td> 
    </tr>
    <tr> 
+    <td>2021年6月03日</td> 
+    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 9（AEM 6.5.9.0 用 AEM Forms アドオンパッケージ）</a></td> 
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.9.0</a></td> 
+    <td> 
+     <ul> 
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.434.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.434.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.434.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>      
+      <br><b>JEE パッチインストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/jboss/Win/AEMForms-6.5.0-0028_jboss_win.zip">JBoss Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/jboss/Linux/AEMForms-6.5.0-0028_jboss_linux.tar.gz">JBoss Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/jboss/Solaris/AEMForms-6.5.0-0028_jboss_solaris.tar.gz">JBoss Solaris</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/weblogic/win/AEMForms-6.5.0-0028_weblogic_win.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/weblogic/linux/AEMForms-6.5.0-0028_weblogic_linux.tar.gz">WebLogic Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/weblogic/solaris/AEMForms-6.5.0-0028_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/win/AEMForms-6.5.0-0028_websphere_win.zip">WebSphere Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/linux/AEMForms-6.5.0-0028_websphere_linux.tar.gz">WebSphere Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/solaris/AEMForms-6.5.0-0028_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere AIX</a></li>
+      <li>AEM Forms Client SDK [1]</li>  
+     </ul> </td> 
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0028<br /> </p> AEM Forms アドオンパッケージ：6.0.434</p> <p>クライアント SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>LiveCycle 埋め込みパッケージ：5.0.14</p></td> 
+   </tr>
+   <tr> 
     <td>2021 年 3 月 18 日</td> 
-    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.5.8.0 用 AEM Forms アドオンパッケージ）</a></td> 
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.5.8.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
     <td> 
      <ul> 
@@ -46,7 +70,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Win/AEMForms-6.5.0-0025_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Linux/AEMForms-6.5.0-0025_jboss_linux.tar.gz">JBoss Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Solaris/AEMForms-6.5.0-0025_jboss_solaris.tar.gz">JBoss Solaris</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebLogic/Win/AEMForms-6.5.0-0025_weblogic_win.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebLogic/Win/AEMForms-6.5.0-0025_weblogic_win.zip">WebLogicウィンドウ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebLogic/Linux/AEMForms-6.5.0-0025_weblogic_linux.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebLogic/Solaris/AEMForms-6.5.0-0025_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/Win/AEMForms-6.5.0-0025_websphere_win.zip">WebSphere Windows</a></li>
@@ -57,6 +81,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      </ul> </td> 
     <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0025<br /> </p> AEM Forms アドオンパッケージ：6.0.334</p> <p>AEM Forms 互換性パッケージ：2.0.36</p><p>クライアント SDK：6.0.334<br /> </p><p>AEM Forms Designer パッチ：650.014</p></td> 
    </tr>
+   <tr>
    <tr> 
     <td>2020 年 12 月 3 日</td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.5.7.0 用 AEM Forms アドオンパッケージ）</a></td> 
