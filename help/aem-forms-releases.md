@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 733e77a10f0003ed10a1560d0f5b20f0368cf757
 workflow-type: tm+mt
 source-wordcount: '13746'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><strong>ビルドバージョン</strong></td> 
    </tr>
    <tr> 
-    <td>2021年6月03日</td> 
+    <td>2021 年 6 月 03 日</td> 
     <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 9（AEM 6.5.9.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.9.0</a></td> 
     <td> 
@@ -172,7 +172,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    </tr> 
    <tr> 
     <td>2019 年 9 月 19 日</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja-JP#service-pack">AEM Forms サービスパック 2（AEM 6.5.2.0 用 AEM Forms アドオンパッケージ）</a></td> 
+    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-5/release-notes/sp-release-notes.html">AEM Forms サービスパック 2（AEM 6.5.2.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
     <td> 
      <ul> 
