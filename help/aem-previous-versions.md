@@ -2,16 +2,16 @@
 title: AEM、CQ、CRX の以前のバージョン
 description: Adobe Experience Manager、CQ、CRX の以前のバージョンのドキュメントパッケージです。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
+source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '820'
 ht-degree: 100%
 
 ---
 
-# [!DNL Adobe Experience Manager]、CQ および CRX の以前のバージョン {#older-versions-aem-cq-crx}
+# [!DNL Adobe Experience Manager]、CQ および CRX の以前のバージョン  {#older-versions-aem-cq-crx}
 
-## [!DNL Experience Manager] ドキュメントの以前のバージョン {#older-version-aem-documentation}
+## [!DNL Experience Manager] ドキュメントの以前のバージョン  {#older-version-aem-documentation}
 
 このページにリストされている [!DNL Experience Manager]、 CQ および CRX のバージョンは、提供が終し、アドビによる公式販売はおこなっていません。これらの以前のバージョンについては、公式ドキュメントの最終バージョンがセルフヘルプ用に利用できます。アドビでは、最新バージョン（現在は [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html?lang=ja)）にアップグレードすることをお勧めします。
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 >
 >[!DNL Experience Manager] のバージョンがコアサポートの終わりにいつ達するかを確認するには、[製品とテクニカルサポートの期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html)を参照し、`AEM` を検索してください。
 
-### インストールの前に {#before-installation}
+### インストールの前に   {#before-installation}
 
 パッケージをダウンロードする前に、誰がコンテンツを使用するかを決めます。この決定により、デプロイ方法が決まります。
 
@@ -39,6 +39,7 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 | [!DNL Experience Manager] バージョン | ソフトウェア配布リンク |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.3 | [ソフトウェア配布から AEM-DOCS-6.3 をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [ソフトウェア配布から AEM-DOCS-6.2 をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [ソフトウェア配布から AEM-DOCS-6.1 をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-6-1.zip) |
 | [!DNL Experience Manager] 6.0 | [ソフトウェア配布から AEM-DOCS-6.0 をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
