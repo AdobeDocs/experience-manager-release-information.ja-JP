@@ -11,7 +11,7 @@ feature: リリース情報
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: d4f69cdd174d0591104106bc3bbdb62e76835fec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
