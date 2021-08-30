@@ -3,14 +3,14 @@ title: 以前のドキュメント更新
 description: このページでは、以前おこなわれた  [!DNL Adobe Experience Manager] ドキュメントの重要な変更と更新の一覧を示します。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 83a535170db2fb2c2d4b306710935298c2ee8cf5
 workflow-type: tm+mt
-source-wordcount: '9351'
-ht-degree: 100%
+source-wordcount: '9196'
+ht-degree: 93%
 
 ---
 
-# 以前のドキュメント更新 {#previous-documentation-updates}
+# 以前のドキュメント更新{#previous-documentation-updates}
 
 このページでは、以前おこなわれた [!DNL Adobe Experience Manager] ドキュメントの重要な変更と更新の一覧を示します。最近のドキュメント更新については、[こちら](documentation-updates.md)を参照してください。
 
@@ -26,12 +26,12 @@ ht-degree: 100%
    <tr>
    <td>2019 年 12 月 12 日</td> 
    <td>3D アセットのプレビュー<br /> </td> 
-   <td><p>AEM では、オーサリングプロセスの一環として、3D アセットのアップロード、配信、インタラクティブプレビューをサポートしています。AEM のアセットの詳細ページから、インタラクティブ 3D ビューアを使用できます。このビューアには、3D アセットをオービット、ズームおよびパンできるインタラクティブなカメラコントロールのコレクションが含まれます。</p> <p>詳しくは、<a href="https://docs.adobe.com/content/help/ja/experience-manager-65/assets/using/previewing-3d-assets.html" target="_blank">3D アセットのプレビュー</a>を参照してください。</p> </td> 
+   <td><p>AEM では、オーサリングプロセスの一環として、3D アセットのアップロード、配信、インタラクティブプレビューをサポートしています。AEM のアセットの詳細ページから、インタラクティブ 3D ビューアを使用できます。このビューアには、3D アセットをオービット、ズームおよびパンできるインタラクティブなカメラコントロールのコレクションが含まれます。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=en" target="_blank">3D アセットのプレビュー</a>を参照してください。</p> </td> 
   </tr>
   <tr>
-   <td>2019 年 12 月 12 日</td> 
+   <td>2019 年 12 月 12 日（PT）</td> 
    <td>AEM 6.5 サービスパック 3<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/sp-release-notes.html">AEM 6.5 サービスパック 3 </a>が入手可能になりました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/sp-release-notes.html?lang=en">AEM 6.5 サービスパック 3 </a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019 年 12 月 5 日</td> 
@@ -51,17 +51,17 @@ ht-degree: 100%
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>ヘッドレスエクスペリエンス管理<br /> </td> 
-   <td>単一ページアプリケーションのサーバー側レンダリングに使用される、<a href="https://docs.adobe.com/content/help/ja/experience-manager-65/developing/headless/spas/spa-ssr.html#remote-content-renderer-configuration">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
+   <td>単一ページアプリケーションのサーバー側レンダリングに使用される、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/headless/spas/spa-ssr.html?lang=en">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 11 月 10 日</td> 
+   <td>2019 年 10 月 11 日</td> 
    <td>Activity Map</td> 
-   <td><p>Adobe Analytics API 内のセキュリティ変更により、AEM に含まれているバージョンの Activity Map は使用できなくなりました。今後は、<a href="https://docs.adobe.com/content/help/ja/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.translate.html" target="_blank">Adobe Analytics で提供される ActivityMap プラグイン</a>を使用してください。 </p> </td> 
+   <td><p>Adobe Analytics API 内のセキュリティ変更により、AEM に含まれているバージョンの Activity Map は使用できなくなりました。今後は、<a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=en" target="_blank">Adobe Analytics で提供される ActivityMap プラグイン</a>を使用してください。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 10 日</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager バージョン 2019.10.0 は、2019 年 10 月 10 日にリリースされました。</p> <p><i>新機能</i>のハイライトや、デプロイメント手順と Maven プロジェクトのバージョン処理についてのアップデートに関する<a href="https://docs.adobe.com/content/help/ja/experience-manager-cloud-manager/using/release-notes/release-notes-current.translate.html"> 2019.10.0 のリリースノート</a>を参照してください。<br /> </p> </td> 
+   <td><p>Cloud Manager バージョン 2019.10.0 は、2019 年 10 月 10 日にリリースされました。</p> <p><i>新機能</i>のハイライトや、デプロイメント手順と Maven プロジェクトのバージョン処理についてのアップデートに関する<a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en"> 2019.10.0 のリリースノート</a>を参照してください。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 8 日</td> 
@@ -86,17 +86,17 @@ ht-degree: 100%
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>AEM Assets 検索<br /> </td> 
-   <td>アセットの検索と検出に関する最新のコンテンツは、使用、構成、トラブルシューティング、制限、およびヒントに関する情報のワンストップショップです。詳しくは、<a href="https://docs.adobe.com/content/help/ja/experience-manager-65/assets/using/search-assets.html" target="_blank">アセットの検索</a>を参照してください。</td> 
+   <td>アセットの検索と検出に関する最新のコンテンツは、使用、構成、トラブルシューティング、制限、およびヒントに関する情報のワンストップショップです。詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=en" target="_blank">アセットの検索</a>を参照してください。</td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>Scene7：アセット再処理ワークフロー<br /> </td> 
-   <td><p>後で変更した既存の処理プロファイルがあるフォルダー内のアセットを再処理できるようになりました。</p> <p>詳しくは、<a href="https://docs.adobe.com/content/help/ja/experience-manager-65/assets/administer/processing-profiles.html#reprocessing-assets" target="_blank">フォルダー内のアセットの再処理</a>を参照してください。<br /> </p> </td> 
+   <td><p>後で変更した既存の処理プロファイルがあるフォルダー内のアセットを再処理できるようになりました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">フォルダー内のアセットの再処理</a>を参照してください。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>Dynamic Media ビューアと Adobe Analytics および Adobe Launch の統合</td> 
-   <td><p>Dynamic Media ビューア 5.13 のリリースと共に、Adobe Launch の Dynamic Media ビューア拡張機能を使用すると、Dynamic Media、Adobe Analytics、Adobe Launch のユーザーは、Adobe Launch 設定で Dynamic Media ビューア固有のイベントとデータを使用できます。</p> <p>詳しくは、<a href="https://docs.adobe.com/content/help/ja/experience-manager-65/assets/dynamic/launch.html" target="_blank">Dynamic Media ビューアと Adobe Analytics および Adobe Launch の統合</a>を参照してください。 </p> </td> 
+   <td><p>Dynamic Media ビューア 5.13 のリリースと共に、Adobe Launch の Dynamic Media ビューア拡張機能を使用すると、Dynamic Media、Adobe Analytics、Adobe Launch のユーザーは、Adobe Launch 設定で Dynamic Media ビューア固有のイベントとデータを使用できます。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=en" target="_blank">Dynamic Media ビューアと Adobe Analytics および Adobe Launch の統合</a>を参照してください。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 19 日</td> 
@@ -136,12 +136,12 @@ ht-degree: 100%
   <tr>
    <td>2019 年 7 月 25 日</td> 
    <td>異なるライセンスの AEM Assets 機能</td> 
-   <td>スタンドアロン DAM ライセンスと AEM MediaLibrary で使用可能な AEM Assets の<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=ja" target="_blank">機能の一覧</a>が AEM 6.5 リリース向けに更新されました。<br /> </td> 
+   <td>スタンドアロン DAM ライセンスと AEM MediaLibrary で使用可能な AEM Assets の<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=en" target="_blank">機能の一覧</a>が AEM 6.5 リリース向けに更新されました。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 7 月 12 日</td> 
    <td>Dynamic Media Classic でのファイルのアップロード</td> 
-   <td>Dynamic Media Classic の<a href="https://docs.adobe.com/content/help/ja/dynamic-media-classic/using/upload-publish/uploading-files.translate.html#upload-options">アップロードオプションを設定ダイアログボックス</a>のトピックが書き直され、更新されました。</td> 
+   <td>Dynamic Media Classic の<a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html?lang=en#upload-options">アップロードオプションを設定ダイアログボックス</a>のトピックが書き直され、更新されました。</td> 
   </tr>
   <tr>
    <td>2019 年 7 月 8 日</td> 
@@ -186,17 +186,17 @@ ht-degree: 100%
   <tr>
    <td>2019 年 5 月 14 日</td> 
    <td>ビューアリファレンスガイド</td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html">ビデオ</a>ビューアや <a href="https://docs.adobe.com/content/help/ja/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html">Video360</a> ビューアにおけるビデオプレーヤーの修飾子 preload に関するドキュメントを追加しました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html?lang=en">ビデオ</a>ビューアや <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html?lang=en">Video360</a> ビューアにおけるビデオプレーヤーの修飾子 preload に関するドキュメントを追加しました。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 14 日</td> 
-   <td>Dynamic Media Classic（旧 Scene7）</td> 
-   <td>Adobe Scene7 ユーザーガイドは、<i>Adobe Dynamic Media Classic</i> というブランドになりました。詳しくは、<a href="https://docs.adobe.com/content/help/ja/dynamic-media-classic/using/home.translate.html">Dynamic Media Classic のドキュメント</a>を参照してください。<br /> </td> 
+   <td>Dynamic Media Classic</td> 
+   <td>Adobe Scene7 ユーザーガイドは、<i>Adobe Dynamic Media Classic</i> というブランドになりました。詳しくは、<a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en">Dynamic Media Classic のドキュメント</a>を参照してください。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 5 月 13 日</td> 
    <td>IS/IR API</td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html">画像カタログ属性リファレンスセクション</a>に新しい BFC（ブラウザフォーマット変換）値を追加しました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html?lang=en">画像カタログ属性リファレンスセクション</a>に新しい BFC（ブラウザフォーマット変換）値を追加しました。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 8 日</td> 
@@ -206,7 +206,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 5 月 1 日</td> 
    <td>ビューアリファレンスガイド</td> 
-   <td><p><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/assets/dynamic/360-video.html">360/VR ビデオに関するドキュメント</a>を新しく追加しました。</p> </td> 
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html?lang=en">360/VR ビデオに関するドキュメント</a>を新しく追加しました。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 4 月 18 日</td> 
@@ -250,14 +250,14 @@ ht-degree: 100%
    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 サービスパック 7 </a>が入手可能になりました。</td> 
   </tr>
   <tr>
-   <td>2019 年 11 月 10 日</td> 
+   <td>2019 年 10 月 11 日</td> 
    <td>Activity Map</td> 
-   <td><p>Adobe Analytics API 内のセキュリティ変更により、AEM に含まれているバージョンの Activity Map は使用できなくなりました。今後は、<a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">Adobe Analytics で提供される ActivityMap プラグイン</a>を使用してください。 </p> </td> 
+   <td><p>Adobe Analytics API 内のセキュリティ変更により、AEM に含まれているバージョンの Activity Map は使用できなくなりました。今後は、<a href="https://docs.adobe.com/content/help/ja/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.translate.html" target="_blank">Adobe Analytics で提供される ActivityMap プラグイン</a>を使用してください。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>Scene7：アセット再処理ワークフロー</td> 
-   <td><p>後で変更した既存の処理プロファイルがあるフォルダー内のアセットを再処理できるようになりました。</p> <p>詳しくは、<a href="https://docs.adobe.com/content/help/ja/experience-manager-64/assets/administer/processing-profiles.html#reprocessing-assets" target="_blank">フォルダー内のアセットの再処理</a>を参照してください。</p> </td> 
+   <td><p>後で変更した既存の処理プロファイルがあるフォルダー内のアセットを再処理できるようになりました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">フォルダー内のアセットの再処理</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 19 日</td> 
@@ -382,11 +382,6 @@ ht-degree: 100%
    <td>開発者向けのクイックスタートページで、<a href="https://docs.adobe.com/content/help/ja/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html">We.Retail でのエクスペリエンスフラグメント</a>の使用方法を重点的に説明しました。<br /> </td> 
   </tr>
   <tr>
-   <td>2018 年 11 月 16 日</td> 
-   <td>AEM 3D Assets</td> 
-   <td>AEM 6.4.2.0 のこの機能パックでは、Adobe Dimension（.dn）アセットと GL 伝送形式（.glTF および .glb）アセットのサポートが追加されました。詳しくは、<a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/aem3d-release-notes.html">AEM 3D リリースノート</a>を参照してください。</td> 
-  </tr>
-  <tr>
    <td>2018 年 11 月 2 日</td> 
    <td>AEM Screens</td> 
    <td>AEM Screens のドキュメントを、Sites ブランチから Screens 専用ブランチに移動しました。完全な統合ドキュメントについては、<a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">AEM Screens ユーザーガイド</a>を参照してください。</td> 
@@ -399,7 +394,7 @@ ht-degree: 100%
   <tr>
    <td>2018 年 10 月 25 日</td> 
    <td>Dynamic Media でのホットリンク保護</td> 
-   <td>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/hotlink-protection.html?lang=ja#dynamic" target="_blank">Dynamic Media でのホットリンク保護の有効化</a>を参照してください。</td> 
+   <td>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/hotlink-protection.html?lang=en" target="_blank">Dynamic Media でのホットリンク保護の有効化</a>を参照してください。</td> 
   </tr>
   <tr>
    <td>2018 年 10 月 16 日</td> 
@@ -434,7 +429,7 @@ ht-degree: 100%
   <tr>
    <td>2018 年 8 月 29 日<br /> </td> 
    <td>AEM Assets</td> 
-   <td>OAuth 統合を設定するために、<a href="https://docs.adobe.com/content/help/ja/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">AEM Assets 統合の設定</a>と <a href="https://docs.adobe.com/content/help/ja/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html" target="_blank">AEM Assets と Brand Portal の連携の設定</a>の記事で Adobe I/O ゲートウェイサービスについて説明しました。</td> 
+   <td>OAuth 統合を設定するために、<a href="https://docs.adobe.com/content/help/ja/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">AEM Assets 統合の設定</a>と <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=en" target="_blank">AEM Assets と Brand Portal の連携の設定</a>の記事で Adobe I/O ゲートウェイサービスについて説明しました。</td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
@@ -459,22 +454,17 @@ ht-degree: 100%
   <tr>
    <td>2018 年 7 月 19 日</td> 
    <td>画像サービングおよび画像レンダリング API</td> 
-   <td><p>画像サービング 6.6.1 および画像レンダリング 6.6.1 が AEM の Dynamic Media と Dynamic Media Classic（Scene7）で利用できるようになりました。</p> <p>詳しくは、<a href="https://docs.adobe.com/content/help/ja/dynamic-media-developer-resources/image-serving-api/r-about-this-release.html">このリリースについて</a>を参照してください。</p> </td> 
+   <td><p>AEMとDynamic Media ClassicのDynamic Mediaで、画像サービング6.6.1と画像レンダリング6.6.1が利用できるようになりました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/r-about-this-release.html?lang=en">このリリースについて</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 7 月 17 日</td> 
    <td>ビューアリファレンスガイド</td> 
-   <td><p>AEM の Dynamic Media と Dynamic Media Classic（Scene7）でビューア 5.10.1 が利用できるようになりました。</p> <p>詳しくは、<a href="https://docs.adobe.com/content/help/ja/dynamic-media-developer-resources/library/viewers-release-notes/archive/c-rn-07-17-18.html">ビューアリリースノート（5.10.1）</a>を参照してください。</p> </td> 
-  </tr>
-  <tr>
-   <td>2018 年 7 月 16 日</td> 
-   <td>AEM 3D Assets 3.0.1</td> 
-   <td>AEM 6.4.1.0 用のこの機能パックでは、AEM Assets／Dynamic Media - ハイブリッドモードに 3D 機能が追加されました。詳細およびインストール手順については、<a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/aem3d-release-notes.html">AEM 3D リリースノート</a>を参照してください。</td> 
+   <td><p>ビューア5.10.1がAEMとDynamic Media ClassicのDynamic Mediaで利用できるようになりました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-release-notes/archive/c-rn-07-17-18.html?lang=en">ビューアリリースノート（5.10.1）</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 7 月 13 日</td> 
    <td>ビデオレポート</td> 
-   <td><p>AEM Dynamic Media - ハイブリッドモードの複数のインストールにわたるビデオレポートを設定できるようになりました。</p> <p>詳しくは、<a href="https://docs.adobe.com/content/help/ja/experience-manager-64/assets/dynamic/config-dynamic.html">ビデオレポートの設定</a>を参照してください。</p> </td> 
+   <td><p>AEM Dynamic Media - ハイブリッドモードの複数のインストールにわたるビデオレポートを設定できるようになりました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/config-dynamic.html?lang=en">ビデオレポートの設定</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 7 月 11 日</td> 
@@ -560,7 +550,7 @@ ht-degree: 100%
   <tr>
    <td>2018 年 4 月 25 日</td> 
    <td>Dynamic Media：カルーセルビューア</td> 
-   <td>Dynamic Media の新しい<a href="https://docs.adobe.com/content/help/ja/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html" target="_blank">カルーセルビューア</a>には、クリック可能なホットスポットまたは領域のあるズームできないバナー画像のカルーセルが表示されます。このビューアの目的は、「ショッパブルカルーセル」エクスペリエンスを実装することです。つまり、バナー画像上のホットスポットまたは領域を選択すると、顧客の Web サイトのクイックビューまたは製品詳細ページにリダイレクトされるようにすることです。デスクトップおよびモバイルデバイスで機能するよう設計されています。</td> 
+   <td>Dynamic Media の新しい<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=en" target="_blank">カルーセルビューア</a>には、クリック可能なホットスポットまたは領域のあるズームできないバナー画像のカルーセルが表示されます。このビューアの目的は、「ショッパブルカルーセル」エクスペリエンスを実装することです。つまり、バナー画像上のホットスポットまたは領域を選択すると、顧客の Web サイトのクイックビューまたは製品詳細ページにリダイレクトされるようにすることです。デスクトップおよびモバイルデバイスで機能するよう設計されています。</td> 
   </tr>
   <tr>
    <td>2018 年 4 月 24 日<br /> </td> 
@@ -628,7 +618,7 @@ ht-degree: 100%
    <td>AEM 6.3 の<a href="release-notes-aem-6-3-cumulative-fix-pack.md">累積修正パック 6.3.3.7</a> が入手可能になりました。</td> 
   </tr>
   <tr>
-   <td>2019 年 11 月 10 日</td> 
+   <td>2019 年 10 月 11 日</td> 
    <td>Activity Map</td> 
    <td><p>Adobe Analytics API 内のセキュリティ変更により、AEM に含まれているバージョンの Activity Map は使用できなくなりました。今後は、<a href="https://helpx.adobe.com/jp/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html" target="_blank">Adobe Analytics で提供される ActivityMap プラグイン</a>を使用してください。</p> </td> 
   </tr>
@@ -700,7 +690,7 @@ ht-degree: 100%
   <tr>
    <td>2018 年 8 月 29 日</td> 
    <td>AEM Assets</td> 
-   <td>OAuth 統合を設定するために、<a href="https://helpx.adobe.com/jp/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">AEM Assets 統合の設定</a>と <a href="https://helpx.adobe.com/jp/experience-manager/6-3/assets/using/brand-portal-configuring-integration.html" target="_blank">AEM Assets と Brand Portal の連携の設定</a>の記事で Adobe I/O ゲートウェイサービスについて説明しました。<br /> </td> 
+   <td>OAuth 統合を設定するために、<a href="https://helpx.adobe.com/jp/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">AEM Assets 統合の設定</a>と <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html" target="_blank">AEM Assets と Brand Portal の連携の設定</a>の記事で Adobe I/O ゲートウェイサービスについて説明しました。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
@@ -815,7 +805,7 @@ ht-degree: 100%
   <tr>
    <td>2017 年 11 月 14 日 </td> 
    <td>スマートイメージング</td> 
-   <td><p>Dynamic Media Classic（Scene7）／Dynamic Media の新機能であるスマートイメージングに関するよくある質問（FAQ）を用意しました。<br /> </p> <p>詳しくは、<a href="https://helpx.adobe.com/jp/experience-manager/6-3/assets/using/imaging-faq.html">スマートイメージング</a>を参照してください。</p> </td> 
+   <td><p>Dynamic Media Classic/Dynamic Mediaの新機能に関するよくある質問(FAQ)です。<br /> </p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">スマートイメージング</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2017 年 10 月 14 日</td> 
@@ -825,7 +815,7 @@ ht-degree: 100%
   <tr>
    <td>2017 年 10 月 11 日</td> 
    <td>コンテンツフラグメントの更新とコンテンツサービス - 機能パック</td> 
-   <td>この機能パックセットでは、コンテンツフラグメント、JSON エクスポーター、コアコンポーネントのアップデートを提供します。詳しくは、<a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/dynamic-media-featurepack-14410.html">コンテンツフラグメントの更新とコンテンツサービス - 機能パックリリースノート</a>を参照してください。</td> 
+   <td>この機能パックセットでは、コンテンツフラグメント、JSON エクスポーター、コアコンポーネントのアップデートを提供します。詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">コンテンツフラグメントの更新とコンテンツサービス - 機能パックリリースノート</a>を参照してください。</td> 
   </tr>
   <tr>
    <td>2017 年 10 月 3 日</td> 
@@ -845,7 +835,7 @@ ht-degree: 100%
   <tr>
    <td>2017 年 9 月 5 日</td> 
    <td>Dynamic Media 機能パック 14410 および 18912</td> 
-   <td><p>この機能パックは、Dynamic Media ユーザーに新しい自動化および配信機能を提供するもので、Dynamic Media Classic（Scene7）ユーザーが Dynamic Media に移行するためのアップグレードになります。 </p> <p><a href="https://helpx.adobe.com/jp/experience-manager/6-3/assets/using/config-dynamic-fp-14410.html">機能パック 14410 および 18912 を使用した Dynamic Media の設定</a></p> </td> 
+   <td><p>この機能パックは、Dynamic Mediaのお客様向けに新しい自動化および配信機能を提供し、Dynamic Media Classicのお客様がDynamic Mediaに移行するためのアップグレードです。 </p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">機能パック 14410 および 18912 を使用した Dynamic Media の設定</a></p> </td> 
   </tr>
   <tr>
    <td>2017 年 8 月 31 日</td> 
@@ -1242,18 +1232,18 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-2/assets/using/config-dynamic.html#setting%2520up%2520authentication">認証の設定</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-2/assets/using/config-dynamic.html">Dynamic Media の設定</a>に関連します。<br /> 認証の設定をより明確にするために、手順を改善しました。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">認証の設定</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media の設定</a>に関連します。<br /> 認証の設定をより明確にするために、手順を改善しました。<br /> </td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-2/assets/using/config-dynamic.html#ConfiguringImageReplication">レプリケーションエージェントの設定</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html">Dynamic Media の設定</a>に関連します。<br /> レプリケーションエージェントの設定をより明確にするために、手順を改善しました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">レプリケーションエージェントの設定</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media の設定</a>に関連します。<br /> レプリケーションエージェントの設定をより明確にするために、手順を改善しました。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-2/assets/using/config-dynamic.html#troubleshooting%2520authentication">認証のトラブルシューティング</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html">Dynamic Media の設定</a>に関連します。<br /> 認証のトラブルシューティングに関する新しいトピックを 3 つ追加しました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">認証のトラブルシューティング</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media の設定</a>に関連します。<br /> 認証のトラブルシューティングに関する新しいトピックを 3 つ追加しました。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 4 日</td> 
@@ -1303,8 +1293,8 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 12 月 22 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-2/assets/using/aem-assets-6-2-feature-pack-2.html">AEM Assets 6.2 FP2</a></td> 
-   <td>この機能パックには、AEM 6.2 のお客様向けのスケーラビリティ、パフォーマンス、ユーザービリティに関する新しい機能強化が含まれています。機能パックには、カスタムビデオサムネールおよびダイナミックメディアカラーマネジメント機能のサポートも含まれています。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">AEM Assets 6.2 FP2</a></td> 
+   <td>この機能パックには、AEM 6.2 のお客様向けのスケーラビリティ、パフォーマンス、ユーザービリティに関する新しい機能強化が含まれています。この機能パックには、カスタムビデオサムネールとDynamic Mediaのカラーマネジメント機能もサポートされています。</td> 
   </tr>
   <tr>
    <td>2016 年 11 月 22 日</td> 
@@ -1313,12 +1303,12 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 11 月 18 日</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-2/assets/using/config-dynamic.html#configuring%20dynamic%20media%20color%20management">Dynamic Media のカラー補正</a></td> 
-   <td>Dynamic Media アセットをプレビューする前にカラー補正する方法について説明します。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media のカラー補正</a></td> 
+   <td>Dynamic Mediaアセットをプレビューする前にカラー補正する方法について説明します。</td> 
   </tr>
   <tr>
    <td>2016 年 11 月 18 日</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html#ConfiguringImageReplication">画像レプリケーションの設定</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">画像レプリケーションの設定</a></td> 
    <td>画像レプリケーションの設定の新しい手順に関連します。</td> 
   </tr>
   <tr>
@@ -1328,7 +1318,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 11 月 3 日</td> 
-   <td>Dynamic Media の技術要件（<a href="https://helpx.adobe.com/ca/experience-manager/aem-previous-versions.html">6.1</a> 版、<a href="https://helpx.adobe.com/jp/experience-manager/6-2/sites/deploying/using/technical-requirements.html#dynamic-media%20add-on%20prerequisites">6.2</a> 版）の更新</td> 
+   <td>Dynamic Media の技術要件（<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.1</a> 版、<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.2</a> 版）の更新</td> 
    <td>技術要件の Visual Studio C++ 再頒布可能パッケージを更新しました。</td> 
   </tr>
   <tr>
@@ -1343,23 +1333,13 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 10 月 17 日</td> 
-   <td><a href="https://docs.adobe.com/content/docs/ja-JP/aem/6-1/administer/content/dynamic-media/viewer-presets.html">Dynamic Media ビューア</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media ビューア</a></td> 
    <td>AEM 6.2 ビューアが AEM 6.1 で使用できるようになりました。</td> 
   </tr>
   <tr>
    <td>2016 年 10 月 11 日</td> 
-   <td><a href="https://docs.adobe.com/content/docs/ja-JP/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring%20Dynamic%20Media%20Color%20Management">Dynamic Media カラーマネジメント</a></td> 
-   <td>AEM 6.1 の新しい機能パックにより、Dynamic Media アセットをプレビューする前にカラー補正できるようになりました。</td> 
-  </tr>
-  <tr>
-   <td>2016 年 9 月 26 日</td> 
-   <td>AEM 3D Assets</td> 
-   <td>Adobe Experience Manager 3D アセットは AEM の新しいアドオンで、3D コンテンツのアップロード、管理、表示、レンダリングを可能にします。表示とレンダリングのサポートは、個々のオブジェクトに最適化されます。
-    <ul> 
-     <li><a href="https://helpx.adobe.com/jp/experience-manager/6-2/release-notes/aem3d-release-notes.html">AEM 3D Assets リリースノート</a></li> 
-     <li><a href="https://helpx.adobe.com/jp/experience-manager/6-2/release-notes/aem3d-release-notes.html#InstallingandconfiguringAEM3D">AEM 3D Assets のインストールと設定</a></li> 
-     <li><a href="https://helpx.adobe.com/jp/experience-manager/6-2/assets/using/3d-assets.html">3D アセットの使用</a></li> 
-    </ul> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media カラーマネジメント</a></td> 
+   <td>AEM 6.1用の新機能パックで、Dynamic Mediaアセットをプレビューする前にカラー補正を行うことができます。</td> 
   </tr>
   <tr>
    <td>2016 年 9 月 21 日</td> 
@@ -1378,18 +1358,18 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://docs.adobe.com/content/docs/ja-JP/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Setting%20up%20Authentication">認証の設定</a></td> 
-   <td><a href="https://docs.adobe.com/content/docs/ja-JP/aem/6-1/administer/content/dynamic-media/config-dynamic.html">Dynamic Media の設定</a>に関連します。<br /> 認証の設定をより明確にするために、手順を改善しました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">認証の設定</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media の設定</a>に関連します。<br /> 認証の設定をより明確にするために、手順を改善しました。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/docs/ja-JP/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring%20the%20Replication%20Agent">レプリケーションエージェントの設定</a></td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html">Dynamic Media の設定</a>に関連します。<br /> レプリケーションエージェントの設定をより明確にするために、手順を改善しました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">レプリケーションエージェントの設定</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media の設定</a>に関連します。<br /> レプリケーションエージェントの設定をより明確にするために、手順を改善しました。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://docs.adobe.com/content/docs/ja-JP/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Troubleshooting%20Authentication">認証のトラブルシューティング</a></td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html">Dynamic Media の設定</a>に関連します。<br /> 認証のトラブルシューティングに関する新しいトピックを 3 つ追加しました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">認証のトラブルシューティング</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media の設定</a>に関連します。<br /> 認証のトラブルシューティングに関する新しいトピックを 3 つ追加しました。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 12 日</td> 
@@ -1542,10 +1522,10 @@ ht-degree: 100%
    <td>設定に関するビデオと FAQ の更新</td> 
    <td><p>Brand Portal 6.4.5 は機能リリースで、オーサー環境にアクセスしなくても Brand Portal ユーザー（外部の代理店／チーム）が Brand Portal にコンテンツをアップロードして AEM Assets に公開できるようにしたものです。この機能は、<strong>Brand Portal のアセットソーシング</strong>と呼ばれます。</p> <p>ドキュメントでは次の主要アップデートを取り上げています。</p> 
     <ul> 
-     <li>Brand Portal のアセットソーシングの全体的なワークフローを実演する<a href="https://docs.adobe.com/content/help/ja/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">特集ビデオ</a>を追加しました。<br /> </li> 
+     <li>Brand Portal のアセットソーシングの全体的なワークフローを実演する<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=ja">特集ビデオ</a>を追加しました。<br /> </li> 
      <li><a href="https://docs.adobe.com/content/help/ja/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-configure-asset-sourcing.html">AEM Assets のアセットソーシングを設定する方法</a>に新しいビデオを追加しました。</li> 
      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">AEM Assets での投稿フォルダーの設定方法</a>に新しいビデオを追加しました。</li> 
-     <li>アセットソーシングに関する<a href="https://docs.adobe.com/content/help/ja/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html">よくある質問</a>。</li> 
+     <li>アセットソーシングに関する<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">よくある質問</a>。</li> 
     </ul> </td> 
   </tr>
   <tr>
@@ -1553,7 +1533,7 @@ ht-degree: 100%
    <td>アセットソーシング機能のビデオおよび設定に関する記事</td> 
    <td><p>Brand Portal 6.4.5 は機能リリースで、オーサー環境にアクセスしなくても Brand Portal ユーザー（外部の代理店／チーム）が Brand Portal にコンテンツをアップロードして AEM Assets に公開できるようにしたものです。この機能は、<strong>Brand Portal のアセットソーシング</strong>と呼ばれます。</p> <p>ドキュメントでは次の主要アップデートを取り上げています。</p> 
     <ul> 
-     <li>Brand Portal のアセットソーシングの全体的なワークフローを実演する<a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">特集ビデオ</a>を追加しました。</li> 
+     <li>Brand Portal のアセットソーシングの全体的なワークフローを実演する<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">特集ビデオ</a>を追加しました。</li> 
      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">AEM Assets での投稿フォルダーの設定</a></li> 
      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html">アセットソーシングを使用して投稿フォルダーのアセットを AEM Assets に公開する方法</a></li> 
     </ul> </td> 
@@ -1563,19 +1543,19 @@ ht-degree: 100%
    <td>Brand Portal FAQ を導入しました。</td> 
    <td>ドキュメントでは次の主要アップデートを取り上げています。
     <ul> 
-     <li>Brand Portal アセットソーシングに関する<a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html">よくある質問</a>。</li> 
-     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">Brand Portal でのアセットソーシング</a>に関するドキュメントを更新しました。</li> 
+     <li>Brand Portal アセットソーシングに関する<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">よくある質問</a>。</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Brand Portal でのアセットソーシング</a>に関するドキュメントを更新しました。</li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 10 日 </td> 
    <td>Brand Portal でのアセットソーシング</td> 
-   <td><p>AEM Assets でのアセットソーシングの設定方法に関するドキュメントと関連記事。</p> <p>機能に関するドキュメントについては、<a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">Brand Portal のアセットソーシング</a>を参照してください。</p> </td> 
+   <td><p>AEM Assets でのアセットソーシングの設定方法に関するドキュメントと関連記事。</p> <p>機能に関するドキュメントについては、<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Brand Portal のアセットソーシング</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 28 日</td> 
    <td>AEM Assets Brand Portal 6.4.5 リリース</td> 
-   <td><p>Brand Portal 6.4.5 は機能リリースで、オーサー環境にアクセスしなくても Brand Portal ユーザー（外部の代理店／チーム）が Brand Portal にコンテンツをアップロードして AEM Assets に公開できるようにしたものです。この機能は、<strong>Brand Portal のアセットソーシング</strong>と呼ばれます。</p> <p><a href="https://docs.adobe.com/content/help/ja/experience-manager-brand-portal/using/introduction/whats-new.html#what-changed-in-645">Brand Portal 6.4.5 の新機能</a></p> </td> 
+   <td><p>Brand Portal 6.4.5 は機能リリースで、オーサー環境にアクセスしなくても Brand Portal ユーザー（外部の代理店／チーム）が Brand Portal にコンテンツをアップロードして AEM Assets に公開できるようにしたものです。この機能は、<strong>Brand Portal のアセットソーシング</strong>と呼ばれます。</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en#what-changed-in-645">Brand Portal 6.4.5 の新機能</a></p> </td> 
   </tr>
   <tr>
    <td>2019 年 8 月 8 日</td> 
@@ -1584,7 +1564,7 @@ ht-degree: 100%
     <ul> 
      <li><strong>BP 6.4.4.7</strong> - ユーザー同期プロセスを最適化して、同時実行を防止。</li> 
      <li><strong>BP 6.4.4.6</strong> - ダウンロードレポート生成のパフォーマンスを最適化。</li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/ja/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html">Brand Portal リリースノート</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en">Brand Portal リリースノート</a></p> </td> 
   </tr>
   <tr>
    <td>2019 年 2 月 13 日</td> 
@@ -1593,7 +1573,7 @@ ht-degree: 100%
     <ul> 
      <li>検索フィルターのプロパティの述語で、部分フレーズの検索がサポートされるようになりました。</li> 
      <li>検索フィルターのプロパティの述語で、ワイルドカード（*）検索がサポートされるようになりました。</li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/ja/experience-manager-brand-portal/using/introduction/whats-new.html">Brand Portal リリースノート</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">Brand Portal ユーザーガイド</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Brand Portal リリースノート</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Brand Portal ユーザーガイド</a></p> </td> 
   </tr>
   <tr>
    <td>2018 年 11 月 1 日 </td> 
@@ -1602,12 +1582,12 @@ ht-degree: 100%
     <ul> 
      <li>組織は、URL に代替プレフィックスを付けることで、Brand Portal の既存のアクセス URL とは別に、1つの代替 URL をリクエストできます。</li> 
      <li>管理者以外のユーザーに対してフォルダー階層を有効にするための新しい設定を用意しました。</li> 
-     <li>ダイナミックメディアレンディションのプレビュー、再生、ダウンロードが可能です。</li> 
+     <li>Dynamic Mediaレンディションをプレビュー、再生、ダウンロードします。</li> 
      <li>AEM オーサーインスタンスから Brand Portal への公開のスケジュールを設定できます。</li> 
      <li>Dynamic Media 画像サーバー設定をセットアップするための新しい設定を用意しました。</li> 
      <li>検索フォームにパスブラウザーの述語を導入しました。</li> 
      <li>電子メールリンクを使用したダウンロードの有効期限は 45 日間です。 </li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Brand Portal リリースノート</a></p> <p><a href="https://docs.adobe.com/content/help/ja/experience-manager-brand-portal/using/home.html" target="_blank">Brand Portal ユーザーガイド</a></p> </td> 
+    </ul> <p><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Brand Portal リリースノート</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en" target="_blank">Brand Portal ユーザーガイド</a></p> </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 16 日 </td> 
@@ -1623,7 +1603,7 @@ ht-degree: 100%
      <li>検索フィルターで、プロパティの述語および複数値プロパティの述語に対して大文字と小文字を区別しない検索をサポートするようになりました。</li> 
      <li>組織に対する管理を強化しつつ組織が個々のビジネスニーズに対応できるように、6 つの新しい設定を追加しました。</li> 
      <li>OAuth 統合を設定するための UI が <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io/</a> でホストされるようになりました。</li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html">Brand Portal ユーザーガイド</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal ユーザーガイド</a></p> </td> 
   </tr>
   <tr>
    <td>2018 年 5 月 17 日</td> 
@@ -1637,7 +1617,7 @@ ht-degree: 100%
      <li>新しいリンク共有レポートを導入しました。</li> 
      <li>レポートインターフェイスがより直観的になり、レポートをきめ細かくカスタマイズできるようになりました。</li> 
      <li>アセット検索の機能を強化して、正確なタイムスタンプフィルター、新しいアクセスタイプフィルター、ファイルタイプ検索フィルターの新しい検索オプション、検索結果にすぐに戻れる機能を追加しました。</li> 
-    </ul> <p><a href="https://helpx.adobe.com/jp/experience-manager/brand-portal/user-guide.html">Brand Portal ユーザーガイド</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal ユーザーガイド</a></p> </td> 
   </tr>
   <tr>
    <td>2017 年 10 月 26 日</td> 
@@ -1649,8 +1629,8 @@ ht-degree: 100%
      <li>Assets から Brand Portal に完全なメタデータスキーマが公開されるようになりました。</li> 
      <li>レポート機能を強化しました（ダウンロード済み、期限切れ、公開中のアセット）。</li> 
      <li>DRM 機能を新しく導入しました（アセットの有効期限の制御と通知）。</li> 
-     <li>新機能および更新された機能について説明する<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=ja#introduction">新機能</a>記事を更新しました。</li> 
-     <li>バージョンに依存しない新しい <a href="https://helpx.adobe.com/experience-manager/brand-portal/user-guide.html">Brand Portal ユーザーガイド</a>を AEM Assets ユーザーガイドとは独立に用意しました。</li> 
+     <li>新機能および更新された機能について説明する<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">新機能</a>記事を更新しました。</li> 
+     <li>バージョンに依存しない新しい <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal ユーザーガイド</a>を AEM Assets ユーザーガイドとは独立に用意しました。</li> 
     </ul> </td> 
   </tr>
  </tbody>
