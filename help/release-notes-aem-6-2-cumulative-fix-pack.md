@@ -1,9 +1,9 @@
 ---
 title: AEM 6.2 累積修正パック
 description: AEM 6.2 累積修正パックのリリースノート.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19953'
+source-wordcount: '19928'
 ht-degree: 99%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 99%
 | **製品** | Adobe Experience Manager |
 |---|---|
 | **バージョン** | 6.2 |
-| **リリース** | [累積修正パック 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **リリース** | 累積修正パック 6.2 SP1-CFP20 |
 | **前提条件** | [AEM 6.2 サービスパック 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **一般リリース** | 2019 年 6 月 6 日 |
 
@@ -2207,7 +2207,7 @@ CFP パッケージをソフトウェア配布から直接ダウンロードす�
 
 * AEM 6.2 サービスパック 1 が CFP の前提条件です。インストール手順については、[AEM 6.2 サービスパック 1 リリースノート](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)を参照してください。
 
-* 累積修正パックは AEM インスタンスから直接アクセスできる[ソフトウェア配布](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20)からダウンロードできます。
+* 累積修正パックは AEM インスタンスから直接アクセスできる[ソフトウェア配布](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html)からダウンロードできます。
 * RDBMK または MongoDB を使用したクラスターデプロイメントの場合、CFP パッケージは、パッケージマネージャーを使用する任意のオーサーインスタンスにインストールできます。
 
 * 累積修正パックをインストールする前に、必ず AEM インスタンスのスナップショットを作成するか、バックアップを作成してください。

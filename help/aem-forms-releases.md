@@ -3,9 +3,9 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 90a8b515d9cb567a700714c215581361ef05f310
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '9745'
+source-wordcount: '9735'
 ht-degree: 100%
 
 ---
@@ -218,7 +218,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 参照サイトパッケージ</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov 参照サイトパッケージ</a></li> 
      </ul> </td> 
-    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<a href="https://repo.adobe.com/nexus/content/repositories/public/com/adobe/aemfd/aemfd-client-sdk/6.0.80/">6.0.80</a></p> <p>AEM WebSphere グローバルセキュリティ設定パッケージ：6.5.0.20190329.1.935745</p> <p>AEM Forms アプリケーションソース：5.0.16</p> <p> </p> </td> 
+    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.80</p> <p>AEM WebSphere グローバルセキュリティ設定パッケージ：6.5.0.20190329.1.935745</p> <p>AEM Forms アプリケーションソース：5.0.16</p> <p> </p> </td> 
    </tr> 
   </tbody> 
  </table>

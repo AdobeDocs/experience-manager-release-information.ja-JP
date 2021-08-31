@@ -1,9 +1,9 @@
 ---
 title: AEM 6.3 累積修正パック
 description: AEM 6.3 累積修正パックのリリースノート。
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '15916'
+source-wordcount: '15893'
 ht-degree: 99%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 99%
 | **製品** | Adobe Experience Manager |
 |---|---|
 | **バージョン** | 6.3 |
-| **リリース** | [パッケージ共有](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8)の累積修正パック 6.3.3.8、[ソフトウェア配布（ベータ）](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
+| **リリース** | [ソフトウェア配布](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip)の累積修正パック6.3.3.8 |
 | **前提条件** | [AEM 6.3 サービスパック 3（6.3.3.0）](https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **一般リリース** | 2020 年 3 月 5 日 |
 
@@ -1720,7 +1720,7 @@ AEM 累積修正パック 6.3.0.1 は、2017 年 4 月の AEM 6.3 の一般リ�
 
 ## ソフトウェア配布による CFP のダウンロード手順 {#download-instructions-for-cfp-via-package-share}
 
-CFP パッケージは、[ソフトウェア配布](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8)から直接ダウンロードするか、次の手順を実行します。
+CFP パッケージは、[ソフトウェア配布](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html)から直接ダウンロードするか、次の手順を実行します。
 
 1. [ソフトウェア配布](https://experience.adobe.com/downloads)を開きます。ソフトウェア配布にログインするには、Adobe ID が必要です。
 1. ヘッダーメニューで「**[!UICONTROL Adobe Experience Manager]**」をタップします。

@@ -3,16 +3,16 @@ title: 累積修正パックの AEM Forms JEE へのインストール
 description: AEM Forms JEE での累積修正パック（CFP）のインストールおよび設定手順の概要
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '1044'
 ht-degree: 100%
 
 ---
 
 # AEM [!DNL  Forms] JEE への累積修正パックのインストール {#installing-cumulative-fix-packs-on-aem-forms-jee}
 
-## AEM 6.3 [!DNL Forms JEE] に CFP をインストールする {#install-cfp-forms-6-3}
+## AEM 6.3 [!DNL Forms JEE] に CFP をインストールする  {#install-cfp-forms-6-3}
 
 指定した順序で次の手順を実行し、累積修正パックを AEM 6.3 [!DNL Forms JEE] にインストールします。
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ### AEM [!DNL Forms JEE] バンドルパッケージのインストール {#install-aem-forms-jee-bundles-package}
 
-[AEM [!DNL  Forms JEE] パッケージ](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG)（aemfd-jee-bundles-package-6.3CFP1、バージョン 1.0.2）は、AEM [!DNL Forms JEE] 上の [!DNL Forms] ユーザーに、AEM [!DNL Forms OSGi] 上と同じ権限および機能を提供します。パッケージマネージャーでインストール済みのパッケージを確認し、パッケージがまだインストールされていない場合はインストールします。
+AEM [!DNL  Forms JEE] パッケージ（aemfd-jee-bundles-package-6.3CFP1、バージョン 1.0.2）は、AEM [!DNL Forms] 上の [!DNL Forms JEE] ユーザーに、AEM [!DNL Forms OSGi] 上と同じ権限および機能を提供します。パッケージマネージャーでインストール済みのパッケージを確認し、パッケージがまだインストールされていない場合はインストールします。
 
 ### CQ-4208044 の追加手順 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ AEM 6.3 [!DNL Forms JEE] サーバーと Oracle データベースを使用し�
 
 1. 変更したファイルを再度読み込んでから、同期を再実行してください。
 
-## AEM 6.2 [!DNL  Forms JEE] に CFP をインストールする {#install-cfp-on-aem-62-forms-jee}
+## AEM 6.2 [!DNL  Forms JEE] に CFP をインストールする  {#install-cfp-on-aem-62-forms-jee}
 
 指定した順序で次の手順を実行し、累積修正パックを AEM 6.2 [!DNL Forms JEE] にインストールします。
 
@@ -48,16 +48,16 @@ AEM 6.3 [!DNL Forms JEE] サーバーと Oracle データベースを使用し�
 
 1. [Adobe サポート](https://www.adobe.com/account/sign-in.supportportal.html)に連絡して、CFP の AEM 6.2 [!DNL Forms JEE] インストーラーを入手します。
 1. [AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) のインストールと設定の説明に従って、CFP インストーラーを実行し、AEM [!DNL Forms JEE] を設定します。
-1. [AEM Hotfix 12785 バージョン 7.0](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785) をインストールします。
+1. AEM Hotfix 12785 バージョン 7.0 をインストールします。
 1. [AEM 6.2 サービスパック 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) をインストールします。
 1. 最新の [AEM 6.2 サービスパック 1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md) をインストールします。
 1. [AEM 6.2 サービスパック 1 CFP ](aem-forms-releases.md)用 [!DNL Forms] アドオンパッケージをインストールします。
 
 ### AEM [!DNL Forms JEE] バンドルパッケージのインストール {#install-aem-forms-jee-bundles-package-1}
 
-[AEM Forms JEE パッケージ](https://www.adobeaemcloud.com/content/packageshare/tools/login.html?resource=%2Fcontent%2Fmarketplace%2FmarketplaceProxy.html%3FpackagePath%3D%2Fcontent%2Fcompanies%2Fpublic%2Fadobe%2Fpackages%2Fcq620%2Fcumulativefixpack%2Ffd%2FAEM-FORMS-6.2-SP1-CFP5-JEE-PKG&amp;$$login$$=%24%24login%24%24) （aemfd-jee-bundles-package-6.2CFP5、バージョン 1.0.2）は、AEM [!DNL Forms JEE] 上の [!DNL Forms] ユーザーに、AEM [!DNL Forms OSGi] 上と同じ権限および機能を提供します。パッケージマネージャーでインストール済みのパッケージを確認し、パッケージがまだインストールされていない場合はインストールします。
+AEM Forms JEE パッケージ （aemfd-jee-bundles-package-6.2CFP5、バージョン 1.0.2）は、AEM [!DNL Forms] 上の [!DNL Forms JEE] ユーザーに、AEM [!DNL Forms OSGi] 上と同じ権限および機能を提供します。パッケージマネージャーでインストール済みのパッケージを確認し、パッケージがまだインストールされていない場合はインストールします。
 
-### コンポーネントレベルでの操作のタイムアウトの設定（NPR-16774） {#configuring-timeout-for-operations-at-component-level-npr}
+### コンポーネントレベルでの操作のタイムアウトの設定（NPR-16774）  {#configuring-timeout-for-operations-at-component-level-npr}
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
    &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;を設定します。
 
-## AEM [!DNL Forms JEE] のインストールと設定 {#install-and-configure-aem-forms-jee}
+## AEM [!DNL Forms JEE] のインストールと設定  {#install-and-configure-aem-forms-jee}
 
 1. /deploy フォルダーのバックアップを作成します。Quick Fix をアンインストールする場合は必須です。
 1. アプリケーションサーバーを停止します。
