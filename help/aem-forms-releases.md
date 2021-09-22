@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 5ec20490b5845b863e3b707b883f2a819b46e0b0
 workflow-type: tm+mt
 source-wordcount: '10253'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><strong>ビルドバージョン</strong></td> 
    </tr>
    <tr> 
-    <td>2021年9月02日</td> 
+    <td>2021 年 9 月 02 日（PT）</td> 
     <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 10（AEM 6.5.10.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.10.0</a></td> 
     <td> 
@@ -41,7 +41,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.490.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.490.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>            
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">AEM Forms 互換性パッケージ</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.18.zip">AEM Forms on JEE埋め込みパッケージ</a></li>    
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.18.zip">AEM Forms on JEE 埋め込みパッケージ</a></li>    
       <br><b>JEE上のAEM Formsのパッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0032/JBoss/Win/AEMForms-6.5.0-0032_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0032/JBoss/Linux/AEMForms-6.5.0-0032_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -56,10 +56,10 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>      
      </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0032<br /> </p> AEM Forms アドオンパッケージ：6.0.490</p> <p>クライアント SDK：6.0.490<br /> </p><p>AEM Forms 互換性パッケージ：2.0.40</p><p>AEM Forms Designer パッチ：650.017</p><p>AEM Forms on JEE埋め込みパッケージ：5.0.18</p></td> 
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0032<br /> </p> AEM Forms アドオンパッケージ：6.0.490</p> <p>クライアント SDK：6.0.490<br /> </p><p>AEM Forms 互換性パッケージ：2.0.40</p><p>AEM Forms Designer パッチ：650.017</p><p>AEM Forms on JEE 埋め込みパッケージ：5.0.18</p></td> 
    </tr>
    <tr> 
-    <td>2021 年 6 月 3 日（PT）</td> 
+    <td>2021年6月3日（PT）</td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 9（AEM 6.5.9.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.9.0</a></td> 
     <td> 
@@ -67,7 +67,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.434.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.434.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.434.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">AEM Forms on JEE埋め込みパッケージ</a></li>      
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">AEM Forms on JEE 埋め込みパッケージ</a></li>      
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20210524-1-938669/Workbench_DVD.zip">AEM Forms Workbench</a></li>      
       <br><b>JEE パッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/jboss/Win/AEMForms-6.5.0-0028_jboss_win.zip">JBoss Windows</a></li>
@@ -82,10 +82,10 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0028<br /> </p> AEM Forms アドオンパッケージ：6.0.434</p> <p>クライアント SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>AEM Forms on JEE埋め込みパッケージ：5.0.14</p></td> 
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0028<br /> </p> AEM Forms アドオンパッケージ：6.0.434</p> <p>クライアント SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>AEM Forms on JEE 埋め込みパッケージ：5.0.14</p></td> 
    </tr>
    <tr> 
-    <td>2021 年 3 月 18 日（PT）</td> 
+    <td>2021年3月18日（PT）</td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.5.8.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
     <td> 
@@ -112,7 +112,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    </tr>
    <tr>
    <tr> 
-    <td>2020 年 12 月 3 日（PT）</td> 
+    <td>2020年12月3日（PT）</td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.5.7.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.7.0</a></td> 
     <td> 
@@ -138,7 +138,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0020<br /> </p> AEM Forms アドオンパッケージ：6.0.234</p> <p>AEM Forms 互換性パッケージ：2.0.32</p><p>クライアント SDK：6.0.234<br /> </p></td> 
    </tr> 
    <tr> 
-    <td>2020 年 9 月 3 日（PT）</td> 
+    <td>2020年9月3日（PT）</td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM Forms サービスパック 6（AEM 6.5.6.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.6.0</a></td> 
     <td> 
@@ -152,7 +152,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><p>AEM Forms JEE インストーラー：6.5.0-0018<br /> </p> AEM Forms アドオンパッケージ：6.0.192</p> <p>クライアント SDK：6.0.192<br /> </p> <p>AEM Forms Designer パッチ：650.012<br /> </p> </td> 
    </tr>
    <tr> 
-    <td>2020 年 6 月 4 日（PT）</td> 
+    <td>2020年6月4日（PT）</td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 5（AEM 6.5.5.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.5.0</a></td> 
     <td> 
@@ -166,7 +166,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><p>AEM Forms JEE インストーラー：6.5.0-0014<br /> </p> <p>AEM Forms アドオンパッケージ：6.0.160</p> <p>クライアント SDK：6.0.160<br /> </p> <p>AEM Forms Designer パッチ：650.008<br /> </p> </td> 
    </tr>
    <tr> 
-    <td>2020 年 3 月 5 日（PT）</td> 
+    <td>2020年3月5日（PT）</td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 4（AEM 6.5.4.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.4.0</a></td> 
     <td> 
@@ -182,7 +182,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><p>AEM Forms JEE インストーラー：6.5.0-0011<br /> </p> <p>AEM Forms 互換性パッケージ：2.0.26<br />AEM Forms アドオンパッケージ：6.0.138</p> <p>クライアント SDK：6.0.136<br /> </p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956<br /> </p> </td> 
    </tr> 
    <tr> 
-    <td>2019 年 12 月 12 日（PT）</td> 
+    <td>2019年12月12日（PT）</td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 3（AEM 6.5.3.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.3.0</a></td> 
     <td> 
@@ -198,7 +198,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><p>AEM Forms JEE インストーラー：6.5.0-0007</p> <p>AEM Forms 互換性パッケージ：2.0.26</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.122</p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956</p> </td> 
    </tr> 
    <tr> 
-    <td>2019 年 9 月 19 日（PT）</td> 
+    <td>2019年9月19日（PT）</td> 
     <td><a href="https://helpx.adobe.com/jp/experience-manager/6-5/release-notes/sp-release-notes.html">AEM Forms サービスパック 2（AEM 6.5.2.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
     <td> 
@@ -214,7 +214,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><p>AEM Forms JEE インストーラー：6.5.0-0004_3</p> <p>AEM Forms 互換性パッケージ：2.0.22</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.106</p> <p>AEM Forms Workbench：6.5.0.20190917.1.337048</p> </td> 
    </tr> 
    <tr> 
-    <td>2019 年 7 月 3 日（PT）</td> 
+    <td>2019年7月3日（PT）</td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM Forms サービスパック 1（AEM 6.5.1.0 用 AEM Forms アドオンパッケージ）</a></td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.1.0</a></td> 
     <td> 
@@ -229,7 +229,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><p>AEM Forms JEE インストーラー：6.5.0-0004</p> <p>AEM Forms Designer パッチ：6.5.0-005</p> <p>AEM Forms 互換性パッケージ：1.1.16<strong> </strong></p> <p>AEM Forms アドオンパッケージ：6.0.88</p> </td> 
    </tr> 
    <tr> 
-    <td>2019 年 4 月 8 日（PT）</td> 
+    <td>2019年4月8日（PT）</td> 
     <td>AEM 6.5 Forms アドオンパッケージ</td> 
     <td>AEM 6.5</td> 
     <td> 
@@ -268,7 +268,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><strong>ビルドバージョン</strong></td> 
   </tr>
   <tr> 
-   <td>2021 年 3 月 4 日（PT）</td> 
+   <td>2021年3月4日（PT）</td> 
    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
    <td> 
@@ -295,7 +295,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0025<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.212</p> <p>AEM Forms 互換性パッケージ：1.1.18<br /> </p><p>クライアント SDK：5.1.208<br /> </p> </td> 
   </tr> 
   <tr> 
-   <td>2020 年 12 月 3 日（PT）</td> 
+   <td>2020年12月3日（PT）</td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 3（6.4.8.3）用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.3</a></td> 
    <td> 
@@ -321,7 +321,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0023<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.172</p> <p>クライアント SDK：5.1.172<br /> </p> </td> 
   </tr>
   <tr> 
-   <td>2020 年 9 月 3 日（PT）</td> 
+   <td>2020年9月3日（PT）</td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 2（6.4.8.2）用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.2</a></td> 
    <td> 
@@ -337,7 +337,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0019<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.148</p> <p>クライアント SDK：5.1.148<br /> </p> <p>AEM Forms Designer パッチ：640.011</p></td> 
   </tr>
   <tr> 
-   <td>2020 年 6 月 4 日（PT）</td> 
+   <td>2020年6月4日（PT）</td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 1（6.4.8.1）用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.1</a></td> 
    <td> 
@@ -353,7 +353,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0016<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.120</p> <p>クライアント SDK：5.1.120<br /> </p></td> 
   </tr>
   <tr> 
-   <td>2020 年 3 月 5 日（PT）</td> 
+   <td>2020年3月5日（PT）</td> 
    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.4.8.0 用 AEM Forms アドオンパッケージ）</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.8.0</a></td> 
    <td> 
@@ -370,7 +370,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0015<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.100</p> <p>クライアント SDK：5.1.98<br /> </p> <p>AEM Forms 互換性パッケージ：1.1.16</p> <p>AEM Forms Workbench：6.4.0.20200220.1.938252<br /> <br /> </p> </td> 
   </tr> 
   <tr> 
-   <td>2019 年 12 月 12 日（PT）</td> 
+   <td>2019年12月12日（PT）</td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.4.7.0 用 AEM Forms アドオンパッケージ）</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td> 
    <td> 
@@ -387,7 +387,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0013</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.94 </p> <p>AEM Forms 互換性パッケージ：1.1.16</p> </td> 
   </tr> 
   <tr> 
-   <td>2019 年 9 月 19 日（PT）</td> 
+   <td>2019年9月19日（PT）</td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 6（AEM 6.4.6.0 用 AEM Forms アドオンパッケージ）</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.6.0</a></td> 
    <td> 
@@ -404,7 +404,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms JEE インストーラー：6.4.0-0009</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.76</p> <p>AEM Forms 互換性パッケージ：1.1.16</p> </td> 
   </tr> 
   <tr> 
-   <td>2019 年 7 月 3 日（PT）</td> 
+   <td>2019年7月3日（PT）</td> 
    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 5（AEM 6.4.5.0 用 AEM Forms アドオンパッケージ）</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.5.0</a></td> 
    <td> 
@@ -417,7 +417,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms JEE インストーラー：6.4.0-0008_00</p> <p>AEM Forms アドオンパッケージ：5.1.66</p> <p>AEM Forms 互換性パッケージ：1.1.14<strong> </strong></p> <br /> </td> 
   </tr> 
   <tr> 
-   <td>2019 年 4 月 4 日（PT）</td> 
+   <td>2019年4月4日（PT）</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 4（AEM 6.4.4.0 用 AEM Forms アドオンパッケージ）</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.4.0</a></td> 
    <td> 
@@ -433,7 +433,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.58</p> <p>AEM Forms JEE インストーラー：6.4.0-006</p> <p>AEM Forms 互換性パッケージ：1.1.12_1<strong> </strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 12 月 20 日（PT）</td> 
+   <td>2018年12月20日（PT）</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 3（AEM 6.4.3.0 用 AEM Forms アドオンパッケージ）</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td> 
    <td> 
@@ -447,7 +447,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.42</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-004</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 10 月 3 日（PT）</td> 
+   <td>2018年10月3日（PT）</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 2（AEM 6.4.2.0 用 AEM Forms アドオンパッケージ）</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.2.0</a></td> 
    <td> 
@@ -464,7 +464,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.30</strong></p> <p>AEM Forms App Source Code：<strong>4.1.6</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0003</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 6 月 29 日（PT）</td> 
+   <td>2018年6月29日（PT）</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 1（AEM 6.4.1.0 用 AEM Forms アドオンパッケージ）</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a></td> 
    <td> 
@@ -480,7 +480,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.14</strong></p> <p>AEM Forms App Source Code：<strong>4.1.2</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0001</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 4 月 4 日（PT）</td> 
+   <td>2018年4月4日（PT）</td> 
    <td>AEM 6.4 Forms アドオンパッケージ</td> 
    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/sites/deploying/using/deploy.html" target="_blank">AEM 6.4</a></td> 
    <td> 
@@ -524,7 +524,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><strong>ビルドバージョン</strong></td> 
   </tr> 
   <tr> 
-   <td>2020 年 3 月 5 日（PT）</td> 
+   <td>2020年3月5日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.8 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
    <td> 
@@ -540,7 +540,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージ：4.1.160</p> <p>クライアント SDK：4.1.158<br /> </p> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0045<br /> </p> </td> 
   </tr> 
   <tr> 
-   <td>2019 年 12 月 12 日（PT）</td> 
+   <td>2019年12月12日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.7 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.7</a></td> 
    <td> 
@@ -556,7 +556,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：4.1.148</p> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0044 </p> </td> 
   </tr> 
   <tr> 
-   <td>2019 年 9 月 25 日（PT）</td> 
+   <td>2019年9月25日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.6 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.6</a></td> 
    <td> 
@@ -572,7 +572,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.124</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0038</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2019 年 7 月 3 日（PT）</td> 
+   <td>2019年7月3日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.5 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.5</a></td> 
    <td> 
@@ -582,7 +582,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>2019 年 5 月 9 日（PT）</td> 
+   <td>2019年5月9日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.4 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.4</a></td> 
    <td> 
@@ -598,7 +598,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.112</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0036</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2019 年 3 月 14 日（PT）</td> 
+   <td>2019年3月14日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.3 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.3</a></td> 
    <td> 
@@ -614,7 +614,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.104</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0035</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2019 年 1 月 15 日（PT）</td> 
+   <td>2019年1月15日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.2 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.2</a></td> 
    <td> 
@@ -630,7 +630,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.94</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0034</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 11 月 15 日（PT）</td> 
+   <td>2018年11月15日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.1 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html" target="_blank">AEM 6.3.3.1</a></td> 
    <td> 
@@ -646,7 +646,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.90</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0032</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 9 月 12 日（PT）</td> 
+   <td>2018年9月12日（PT）</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3 サービスパック 3 Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.0</a></td> 
    <td> 
@@ -662,7 +662,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.82</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0028</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 6 月 26 日（PT）</td> 
+   <td>2018年6月26日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.2.2 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック</a></td> 
    <td> 
@@ -677,7 +677,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージ：<strong>4.1.74</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0026</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 5 月 10 日（PT）</td> 
+   <td>2018年5月10日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.2.1 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック</a></td> 
    <td> 
@@ -695,7 +695,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.70</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0025</strong></p> <p>AEM Forms Designer インストーラー：<strong>630.005</strong></p> <p>AEM Forms Workbench ホットフィックス：<strong>1007-008</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 4 月 5 日（PT）</td> 
+   <td>2018年4月5日（PT）</td> 
    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 サービスパック 2 Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3.2.0</a></td> 
    <td> 
@@ -711,7 +711,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.64</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0022</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2018 年 1 月 8 日（PT）</td> 
+   <td>2018年1月8日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.1.2 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td> 
    <td> 
@@ -731,7 +731,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.50</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0017</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.22</strong></p> <p>Document Security クライアント SDK：<strong>1.0.0.20171220.2.334666</strong></p> <p>Document Security ポータブル保護ライブラリ：<strong>1.0.0.20171220.2.334661</strong></p> <p>Document Security 強化ポータブル保護ライブラリ：<strong>1.0.0.20171220.1.334662</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2017 年 11 月 29 日（PT）</td> 
+   <td>2017年11月29日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.1.1 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td> 
    <td> 
@@ -743,13 +743,13 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
      <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>JEE上のAEM Forms埋め込みパッケージ<sup>[1] [3]</sup></li> 
+     <li>AEM Forms on JEE 埋め込みパッケージ <sup>[1] [3]</sup></li> 
      <li>AEM Forms アプリケーションソース <sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.36</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0013</strong></p> <p> AEM Forms on JEE埋め込みパッケージ：<strong>4.0.20</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.36</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0013</strong></p> <p> AEM Forms on JEE 埋め込みパッケージ：<strong>4.0.20</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
   </tr> 
   <tr> 
-   <td>2017 年 10 月 13 日（PT）</td> 
+   <td>2017年10月13日（PT）</td> 
    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp1-release-notes.html">AEM 6.3 サービスパック 1 Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/in/experience-manager/6-3/release-notes/sp1-release-notes.html" target="_blank">AEM 6.3 サービスパック 1</a></td> 
    <td> 
@@ -768,7 +768,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.18</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0008</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.16</strong></p> <p>AEM Workbench ホットフィックス：<strong>1003-004</strong></p> <p>AEM Forms FSI 参照サイトパッケージ：<strong>aemfd: cq-we-finance-pkg:3.1.10</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2017 年 8 月 8 日（PT）</td> 
+   <td>2017年8月8日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.0.2 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td> 
    <td> 
@@ -785,7 +785,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.14</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0003</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2017 年 6 月 23 日（PT）</td> 
+   <td>2017年6月23日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.0.1 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td> 
    <td> 
@@ -803,7 +803,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.6</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0002</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.14</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2017 年 4 月 26 日（PT）</td> 
+   <td>2017年4月26日（PT）</td> 
    <td>AEM 6.3 Forms アドオンパッケージ</td> 
    <td><a href="https://docs.adobe.com/docs/en/aem/6-3/deploy.html" target="_blank">AEM 6.3</a></td> 
    <td> 
@@ -820,7 +820,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
 
 `[2]` Mac OS X 用の AEM [!DNL Forms] アドオンパッケージは、実稼動環境ではサポートされていないので、デモ目的でのみ使用してください。PDF Generator 機能は Mac OS X 用パッケージでは使用できません。
 
-`[3]` **重要**:JEE上のAEM Forms埋め込みパッケージをインストールする前に、 [AEM Cumulative Fix Pack 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) をインストールし、 **Apache Sling Authentication** Servicebundleのバージョンが1.4.0以上であることを確認します。そうしないと、サーバーが応答しなくなり、回復できなくなります。バンドルのバージョンは、`http://[server]:[port]/system/console/bundles` で確認できます。
+`[3]` **重要**：AEM Forms on JEE 埋め込みパッケージをインストールする前に、[AEM 累積修正パック 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) をインストールしたうえで、**Apache Sling Authentication Service** バンドルのバージョンが 1.4.0 以上であることを確認します。それ以外のバージョンの場合、サーバーが応答しなくなり回復不能になる可能性があります。バンドルのバージョンは、`http://[server]:[port]/system/console/bundles` で確認できます。
 
 <!--
 ## AEM 6.2 [!DNL Forms] releases {#aem-62-forms-releases}
