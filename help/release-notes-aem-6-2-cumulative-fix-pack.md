@@ -2,9 +2,9 @@
 title: AEM 6.2 累積修正パック
 description: AEM 6.2 累積修正パックのリリースノート.
 source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '19928'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 99%
 | **バージョン** | 6.2 |
 | **リリース** | 累積修正パック 6.2 SP1-CFP20 |
 | **前提条件** | [AEM 6.2 サービスパック 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
-| **一般リリース** | 2019 年 6 月 6 日 |
+| **一般リリース** | 2019年6月6日（PT） |
 
 ### 累積修正パック     {#cumulative-fix-pack}
 
@@ -38,7 +38,7 @@ AEM 累積修正パック 6.2 SP1-CFP20 は、AEM 6.2 用の最後の累積修�
 
 >[!CAUTION]
 >
->インストールされた機能パック間の互換性を検証せずに CFP を適用すると、システム障害またはカスタム設定の損失が発生する恐れがあります。その場合、解決するためにバックアップからの復元が必要になる場合があります。
+>インストールされた機能パック間の互換性を検証せずに CFP を適用すると、システム障害またはカスタム設定の損失が発生する恐れがあります。その場合、解決するためにバックアップから復元する必要が出ることがあります。
 
 >[!NOTE]
 >
@@ -70,9 +70,9 @@ AEM 累積修正パック 6.2 SP1-CFP20 は、AEM 6.2 用の最後の累積修�
 
 * CSRF 保護フレームワークが、AEM 基盤フォームで機能しません。NPR-28612：Granite-22231 のホットフィックス
 
-### フォーム {#forms}
+### Forms {#forms}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
 
 ### Forms アドオンパッケージ {#forms-add-on-package}
 
@@ -108,7 +108,7 @@ AEM Forms の修正は、このリリースで提供されるアドオンパッ�
 
 ### 累積修正パック 19 {#cumulative-fix-pack-1}
 
-AEM 累積修正パック 6.2 SP1-CFP19 は、[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+AEM 累積修正パック 6.2 SP1-CFP19 は、[AEM 6.2 SP1](https://helpx.adobe.com/jp/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
 
 この累積修正パックの主要点は次のとおりです。
 
@@ -155,9 +155,9 @@ AEM 累積修正パック 6.2 SP1-CFP19 は、[AEM 6.2 SP1](https://helpx.adobe.
 * Granite パッケージプラグインは、org.apache.sling.i18n の下位バージョンの依存関係を選択しています。CQ-4263245 のホットフィックス
 * 6.2SP1-CFP15 以降の最新の CFP をインストールすると、com.adobe.cq.com.adobe.cq.ui.commons バンドルが削除されます。CQ-4258808 のホットフィックス
 
-### フォーム {#forms-1}
+### Forms {#forms-1}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
 
 ### Forms アドオンパッケージ {#forms-add-on-package-1}
 
@@ -183,7 +183,7 @@ AEM 6.2 SP1-CFP19 に含まれているコンテンツパッケージの一覧
 
 ### 累積修正パック 18 {#cumulative-fix-pack-2}
 
-AEM 累積修正パック 6.2 SP1-CFP18 は、[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+AEM 累積修正パック 6.2 SP1-CFP18 は、[AEM 6.2 SP1](https://helpx.adobe.com/jp/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
 
 この累積修正パックの主要点は次のとおりです。
 
@@ -215,7 +215,7 @@ AEM 累積修正パック 6.2 SP1-CFP18 は、[AEM 6.2 SP1](https://helpx.adobe.
 
 * 基盤リストコンポーネントに関する検索機能の問題。NPR-26817：CQ-4250324 のホットフィックス
 
-### プラットフォーム {#platform}
+### Platform {#platform}
 
 * 特殊文字の em ダッシュが原因で、パブリッシャーでキャッシュをフラッシュ中に問題が発生します。NPR-27199：CQ-4242790 のホットフィックス
 
@@ -227,9 +227,9 @@ AEM 累積修正パック 6.2 SP1-CFP18 は、[AEM 6.2 SP1](https://helpx.adobe.
 
 * ReplicationListener での JCR セッションリーク。NPR-27063：CQ-4232088 のホットフィックス
 
-### フォーム {#forms-2}
+### Forms {#forms-2}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
 
 ### Forms アドオンパッケージ {#forms-add-on-package-2}
 
@@ -251,7 +251,7 @@ AEM 6.2 SP1-CFP18 に含まれているコンテンツパッケージの一覧
 
 ### 累積修正パック 17 {#cumulative-fix-pack-3}
 
-AEM 累積修正パック 6.2 SP1-CFP17 は、[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+AEM 累積修正パック 6.2 SP1-CFP17 は、[AEM 6.2 SP1](https://helpx.adobe.com/jp/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
 
 この累積修正パックの主要点は次のとおりです。
 
@@ -290,7 +290,7 @@ AEM 累積修正パック 6.2 SP1-CFP17 は、[AEM 6.2 SP1](https://helpx.adobe.
 
 * （Chrome、Firefox）タッチ対応デバイスでのマウスクリックが無視されます。CQ-4247370 のホットフィックス
 
-### プラットフォーム {#platform-1}
+### Platform {#platform-1}
 
 * パッケージの取得／解放時に最大再試行数を設定できるようにしました。NPR-25328：Granite-22376 のホットフィックス
 * レプリケーションエラーが発生した場合に正しくログに記録されません。NPR-25308：CQ-4249402 のホットフィックス
@@ -310,9 +310,9 @@ AEM 累積修正パック 6.2 SP1-CFP17 は、[AEM 6.2 SP1](https://helpx.adobe.
 
 * （オムニサーチ）：Sites の「Title」プロパティが、クロスサイト（XSS）スクリプティングに対して脆弱です。NPR-24994：Granite-19933 のホットフィックス
 
-### フォーム {#forms-3}
+### Forms {#forms-3}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
 
 ### Forms アドオンパッケージ {#forms-add-on-package-3}
 
@@ -343,7 +343,7 @@ AEM 6.2 SP1-CFP17 に含まれているコンテンツパッケージの一覧
 
 ### 累積修正パック 16 {#cumulative-fix-pack-4}
 
-AEM 累積修正パック 6.2 SP1-CFP16 は、[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+AEM 累積修正パック 6.2 SP1-CFP16 は、[AEM 6.2 SP1](https://helpx.adobe.com/jp/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
 
 この累積修正パックの主要点は次のとおりです。
 
@@ -354,8 +354,8 @@ AEM 累積修正パック 6.2 SP1-CFP16 は、[AEM 6.2 SP1](https://helpx.adobe.
 
 ### Assets {#assets-3}
 
-* リスト表示からワークフローを開始できません。NPR-24393：CQ-4245788 のホットフィックス
-* （Firefox／Chrome）アセット共有ページでアセットをダウンロードできません。NPR-24523：CQ-4224408 のホットフィックス
+* リスト表示からワークフローを開始できない。NPR-24393：CQ-4245788 のホットフィックス
+* （Firefox／Chrome）アセット共有ページでアセットをダウンロードできない。NPR-24523：CQ-4224408 のホットフィックス
 * AEM のビデオプレビューのデフォルト画質を向上。NPR-24148：CQ-4244310 のホットフィックス
 
 ### 統合 {#integration-4}
@@ -363,7 +363,7 @@ AEM 累積修正パック 6.2 SP1-CFP16 は、[AEM 6.2 SP1](https://helpx.adobe.
 * コンポーネントがパブリッシュインスタンスをターゲットにすると、ターゲットに設定されたエクスペリエンスより前にデフォルトのエクスペリエンスがちらつきで表示されます。NPR-23992：CQ-4242038 のホットフィックス
 * オーサー環境から削除されたエクスペリエンスが、ページのアクティベーション時に公開サイトから削除されません。NPR-24869：CQ-4247832 のホットフィックス
 
-### プラットフォーム {#platform-2}
+### Platform {#platform-2}
 
 * clientlib から jQuery 1.12.4 にパッチを適用して、セキュリティ修正を含めます。NPR-24129：Granite-20058 のホットフィックス
 * Day CQ 電子メールサービスに STARTTLS サポートを追加しました。NPR-23941：CQ-4240397 のホットフィックス
@@ -413,9 +413,9 @@ AEM 累積修正パック 6.2 SP1-CFP16 は、[AEM 6.2 SP1](https://helpx.adobe.
 * （クラシック UI）コンポーネントが、関連するフォームデータモデルサービスが空のフィールドに設定されている場合でも、デフォルト値を表示します。NPR-21903：Granite-19744 のホットフィックス
 * 要求に FormData が存在しない場合にマルチフィールドが NPE をスローします。NPR-24513：Granite-21055 のホットフィックス
 
-## フォーム {#forms-4}
+## Forms {#forms-4}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
 
 ### Forms アドオンパッケージ {#forms-add-on-package-4}
 
@@ -455,7 +455,7 @@ AEM 6.2 SP1-CFP16 に含まれているコンテンツパッケージの一覧
 
 ### 累積修正パック 15 {#cumulative-fix-pack-5}
 
-AEM 累積修正パック 6.2 SP1-CFP15 は、[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+AEM 累積修正パック 6.2 SP1-CFP15 は、[AEM 6.2 SP1](https://helpx.adobe.com/jp/experience-manager/6-2/release-notes/sp1.html) の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
 
 この累積修正パックの主要点は次のとおりです。
 
@@ -481,7 +481,7 @@ AEM 累積修正パック 6.2 SP1-CFP15 は、[AEM 6.2 SP1](https://helpx.adobe.
 
 * 複数のロールアウト設定を持つライブコピーのロールアウト中に、ResourceNameConflict がルートの下に発生した場合、すべてのブランチを含めずにロールアウトフローが終了します。NPR-22842：CQ-4236188 のホットフィックス
 
-### プラットフォーム {#platform-3}
+### Platform {#platform-3}
 
 * 1 回のリクエストで、逆引きのアプリケーションに対してポーリング制限を実装しました。NPR-23351：Granite-21135 のホットフィックス****
 * メッセージパターンの変更がカスタムロガーに反映されません。NPR-23486：CQ-4241974 のホットフィックス
@@ -499,7 +499,7 @@ AEM 累積修正パック 6.2 SP1-CFP15 は、[AEM 6.2 SP1](https://helpx.adobe.
 * 異なるモードのラベルは、アイコンと共に表示されます。NPR-23275
 * AEM 6.0 から AEM 6.2 にコンポーネントを移行する際の「無効な再帰セレクター値」エラー。NPR-23503：CQ-4241258 のホットフィックス
 
-### コミュニティ {#communities-1}
+### Communities {#communities-1}
 
 * グループへのメッセージ失敗により、Web およびメール通知がトリガーされません。NPR-23447：CQ-4242880 のホットフィックス
 
@@ -521,7 +521,7 @@ AEM 累積修正パック 6.2 SP1-CFP15 は、[AEM 6.2 SP1](https://helpx.adobe.
 
 * 管理 UI プロジェクトリンクのクロスサイトスクリプティング（XSS）。NPR-23272：CQ-4241795 のホットフィックス
 
-## フォーム {#forms-5}
+## Forms {#forms-5}
 
 ### Forms アドオンパッケージ {#forms-add-on-package-5}
 
@@ -595,12 +595,12 @@ AEM 累積修正パック 6.2 SP1-CFP14 は、AEM 6.2 SP1 の一般リリース�
 
 ### Sites {#sites-5}
 
-* （タッチ UI）移動されたタグが、ページのプロパティの古い場所と新しい場所に表示されます。NPR-21921：CQ-4238598 のホットフィックス
-* （タッチ UI）リッチテキストエディターが、&lt;a> タグから id 以外のすべての属性を削除します。NPR-22045：CQ-4234133 のホットフィックス
-* Ctrl + V キーを押しながらリッチテキストエディターにコンテンツを直接貼り付けると、改行がスキップされます。NPR-22117：CUI-5881 のホットフィックス
-* （タッチ UI）名前空間の下に 40 個を超えるタグを表示できません。NPR-22290：CQ-99114 のホットフィックス
+* （タッチ UI）移動されたタグが、ページのプロパティの古い場所と新しい場所に表示される。NPR-21921：CQ-4238598 のホットフィックス
+* （タッチ UI）リッチテキストエディターが、&lt;a> タグから id 以外のすべての属性を削除する。NPR-22045：CQ-4234133 のホットフィックス
+* Ctrl + V キーを押しながらリッチテキストエディターにコンテンツを直接貼り付けると、改行がスキップされる。NPR-22117：CUI-5881 のホットフィックス
+* （タッチ UI）名前空間の下に 40 個を超えるタグを表示できない。NPR-22290：CQ-99114 のホットフィックス
 * RSS フィードの問題、ポート - 1 から AEM 6.2 NPR-22158：CQ-4233339 のホットフィックス
-* （IE）リッチテキストフィールド内の任意の文字を初めてオーサリングする場合、文字の末尾に空白が追加されます。NPR-22443：CQ-4235343 のホットフィックス
+* （IE）リッチテキストフィールド内の任意の文字を初めてオーサリングする場合、文字の末尾に空白が追加される。NPR-22443：CQ-4235343 のホットフィックス
 * パッケージ名と一致しようとすると、Java Use オブジェクトは、パッケージ宣言の末尾に空白文字があるので、SightlyJavaCompilerService をフリーズします。NPR-22557：Granite-20836 のホットフィックス
 * タッチ UI コンソールで、タグ付けに使用する新しい言語が取得されません。NPR-22250：CQ-4239194 のホットフィックス
 
@@ -608,7 +608,7 @@ AEM 累積修正パック 6.2 SP1-CFP14 は、AEM 6.2 SP1 の一般リリース�
 
 * （Digital Publishing Suite）Folio を DPS にアップロードする前に、Folio に対して公開日と表紙日の両方のフィールドを設定する必要がありました。NPR-22484
 
-### コマース {#commerce}
+### Commerce {#commerce}
 
 * コマースカタログの作成ウィザードの複数のクロスサイトスクリプティング（XSS）脆弱性。NPR-22344：CQ-4237017 のホットフィックス
 
@@ -651,11 +651,11 @@ AEM 累積修正パック 6.2 SP1-CFP14 は、AEM 6.2 SP1 の一般リリース�
 
 * Day CQ ワークフロー電子メール通知サービスは、WorkflowCompleted 通知と WorkflowAborted 通知用に、Mongo ノードごとに 1 つの電子メールをトリガーします。NPR-22486：CQ-4238172 のホットフィックス
 
-## フォーム {#forms-6}
+## Forms {#forms-6}
 
 ### Forms アドオンパッケージ {#forms-add-on-package-6}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、AEM Forms リリースを参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、AEM Forms リリースを参照してください。
 
 #### アダプティブフォーム {#adaptive-forms-4}
 
@@ -710,7 +710,7 @@ AEM 累積修正パック 6.2 SP1-CFP13 は、AEM 6.2 SP1 の一般リリース�
 * ターゲットコンポーネントの更新中に待ち時間が長い場合、コンポーネントが完全に更新される前に別のオファーを追加できます。NPR-21744：CQ-4233158／CQ-4234293 のホットフィックス
 * クラウド設定で At.js をクライアントライブラリとしてテストすると、mbox 呼び出しでテスト静的パラメーターの値が表示されません。NPR-21930：CQ-4234520 のホットフィックス
 
-### プラットフォーム {#platform-4}
+### Platform {#platform-4}
 
 * ユーザーまたはグループの数が多い場合に、ユーザー同期でパフォーマンスが低下します。NPR-20431：CQ-4223282 のホットフィックス
 * Sling 配布を使用したユーザー同期でユーザーが同期されません。NPR-21911：Granite-20404 のホットフィックス
@@ -725,7 +725,7 @@ AEM 累積修正パック 6.2 SP1-CFP13 は、AEM 6.2 SP1 の一般リリース�
 
 * フォームドロップダウンコンポーネントの表示／非表示機能が期待どおりに機能しません。NPR-22164：CQ-4235288 のホットフィックス
 
-## フォーム {#forms-7}
+## Forms {#forms-7}
 
 AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、AEM Forms リリースを参照してください。
 
@@ -794,7 +794,7 @@ AEM 累積修正パック 6.2 SP1-CFP12.1 は、AEM 6.2 SP1 の一般リリー�
 
 * LC 内の最初のローカルページを削除すると、ライブコピーのリセットプロセスが停止します。NPR-21276：CQ-4229743 のホットフィックス
 
-### プラットフォーム {#platform-5}
+### Platform {#platform-5}
 
 * AEM 6.3 にアップグレード後、スクリプトとして実装されたタグを参照するカスタム taglib が見つかません。NPR-20149：Granite-18433 のホットフィックス
 
@@ -813,7 +813,7 @@ AEM 累積修正パック 6.2 SP1-CFP12.1 は、AEM 6.2 SP1 の一般リリー�
 * DAM メタデータエディターのクロスサイトスクリプティング（XSS）。NPR-21434：CQ-83472 のホットフィックス
 * 複数の SWF ファイルが、クロスサイトスクリプティング（XSS）に対して脆弱です。NPR-20612：CQ-4213297 のホットフィックス
 
-## フォーム {#forms-8}
+## Forms {#forms-8}
 
 AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、AEM Forms リリースを参照してください。
 
@@ -893,7 +893,7 @@ AEM 累積修正パック 6.2 SP1-CFP11 は、AEM 6.2 SP1 の一般リリース�
 * ページプロパティのエイリアスは、「公開の要求／非公開の要求」に結び付きます。NPR-20731：CQ-4226227 のホットフィックス
 * RTE 要素でのリンクのエンコードに関するテキストコンポーネントの問題。NPR-20755：CQ-4224321 のホットフィックス
 
-### プラットフォーム {#platform-6}
+### Platform {#platform-6}
 
 * ResourceResolverImpl.map() が ResourceDecorator を呼び出しません。NPR-20788：Granite-19718 のホットフィックス
 * org.apache.sling.i18n.DefaultLocaleResolver が org.apache.sling.engine.SlingRequestProcessor を介して要求を処理できません。NPR-20706：CQ-94880 のホットフィックス
@@ -928,9 +928,9 @@ AEM 累積修正パック 6.2 SP1-CFP11 は、AEM 6.2 SP1 の一般リリース�
 
 * AEM の OOTB アセットに対する curl Head リクエストの問題を修正しました。NPR-20511：CQ-4221520 および CQ-103024 のホットフィックス
 
-## フォーム {#forms-9}
+## Forms {#forms-9}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、AEM Forms リリースを参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、AEM Forms リリースを参照してください。
 
 AEM Forms の主なハイライトは次のとおりです。
 
@@ -1001,7 +1001,7 @@ AEM 累積修正パック 6.2 SP1-CFP10 は、AEM 6.2 SP1 の一般リリース�
 * （タッチ UI）クラシック UI コンソールを介してローンチを削除すると、すべてのページが編集できなくなります。NPR-20520：CQ-4225074 のホットフィックス
 * ターゲットドロップダウンは、ダイアログ内の複数の RTE コンポーネントでは機能しません。NPR-20345：CQ-4220981 のホットフィックス
 
-### プラットフォーム {#platform-7}
+### Platform {#platform-7}
 
 * 匿名セッションを使用してアクセスした場合、ClientLibraryProxyServlet は、パブリッシュインスタンス上のクライアントライブラリにリクエストをプロキシせず、「HTTP 404 not found」エラーをスローします。NPR-20195：Granite-14409 のホットフィックス
 
@@ -1009,7 +1009,7 @@ AEM 累積修正パック 6.2 SP1-CFP10 は、AEM 6.2 SP1 の一般リリース�
 
 * ターゲットエンジンを Adobe Target として選択すると、コンポーネントが読み込まれず、サーバーログでエラーがスローされます。NPR-20058：CQ-88071、CQ-109698、CQ-4201600 のホットフィックス
 
-### コマース {#commerce-1}
+### Commerce {#commerce-1}
 
 * 同じページの製品を作成する場合、確認またはリダイレクトポップアップメッセージは表示されません。NPR-20257：CQ-4223414 のホットフィックス
 
@@ -1022,7 +1022,7 @@ AEM 累積修正パック 6.2 SP1-CFP10 は、AEM 6.2 SP1 の一般リリース�
 
 * ImageMap プロパティは、複数のイメージインプレイスエディターコンポーネントからイメージを削除した後も存在します。NPR-20142：CQ-4222982 のホットフィックス
 
-## フォーム {#forms-10}
+## Forms {#forms-10}
 
 AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、AEM Forms リリースを参照してください。
 
@@ -1085,7 +1085,7 @@ AEM 累積修正パック 6.2 SP1～CFP9 は、AEM 6.2 SP1 の一般リリース
 * SiteAdmin でエイリアスを使用して表示した場合に、サイトページが表示されません。NPR-20053：CQ-4221478 のホットフィックス
 * Adobe Campaign のインポーターページを指すライブコピーページを公開する際にエラーが発生します。NPR-20066：CQ-4220846 のホットフィックス
 
-### プラットフォーム {#platform-8}
+### Platform {#platform-8}
 
 * Apache POI をバージョン 3.16 にアップグレードし、PPT スライドの背景画像をレンディションに含めるサポートを追加。NPR-18286
 * 同じフォルダー内の複数のアセットをアップロードする際に、Internet Browser 11 および Edge でレンダリングの問題が発生します。NPR-20062
@@ -1099,7 +1099,7 @@ AEM 累積修正パック 6.2 SP1～CFP9 は、AEM 6.2 SP1 の一般リリース
 
 * tagadmin/tagging コンソールで AEM から Brand Portal にタグを公開できるようになりました。NPR-20271
 
-## フォーム {#forms-11}
+## Forms {#forms-11}
 
 AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、AEM Forms リリースを参照してください。
 
@@ -1168,30 +1168,30 @@ AEM 累積修正パック 6.2 SP1-CFP8 は、AEM 6.2 SP1 の一般リリース�
 * ライブコピーから作成された言語コピーページを編集できません。NPR-18967
 * 階層の変更に伴い、ReferencesUpdateAction は、ネストされたライブコピーへのリンクを更新できません。NPR-18715：CQ-4214105 のホットフィックス
 
-### プラットフォーム {#platform-9}
+### Platform {#platform-9}
 
-* Adobe 電子メールテンプレートサービスが、カスタムユーザーテンプレートにタグを追加します。NPR-19190：CQ-4217113 のホットフィックス
+* Adobe 電子メールテンプレートサービスで、カスタムユーザーテンプレートにタグが追加される。NPR-19190：CQ-4217113 のホットフィックス
 
 ### プロジェクト {#projects-2}
 
-* プロジェクトエディターが、プロジェクトアセットフォルダーにアセットをコピー／ペーストできません。NPR-19619
-* 6.2 SP1-CFP1 をインストールした後、翻訳プロジェクトのプレビューを生成できません。NPR-16481：CQ-4204655
+* プロジェクトエディターが、プロジェクトアセットフォルダーにアセットをコピー／貼り付けできない。NPR-19619
+* 6.2 SP1-CFP1 をインストールした後、翻訳プロジェクトのプレビューを生成できない。NPR-16481：CQ-4204655
 
 ### 統合 {#integration-12}
 
 * クラシック UI の Adobe Digital Publishing Solution で誤って設定されている記事のプロパティにアクセスします。NPR-19366
-* AEM 記事コンソールでの記事のサイズが最大になるため、サムネールのレンダリングが遅くなります。NPR-19086：CQ-4217148
+* AEM 記事コンソールでの記事のサイズが最大になるため、サムネールのレンダリングが遅くなる。NPR-19086：CQ-4217148
 * ユーザーが複数の領域にアクセスできる場合、キャンペーンを介してオファーをパーソナライズするときの、自動フォールドの不正な動作。NPR-19290：CQ-4218029 のホットフィックス
-* ターゲットモジュールを編集して複数回保存すると、ターゲティングモードでターゲティングダイアログが表示されません。NPR-19144：CQ-4216708 のホットフィックス
+* ターゲットモジュールを編集して複数回保存すると、ターゲティングモードでターゲティングダイアログが表示されない。NPR-19144：CQ-4216708 のホットフィックス
 
 ### ワークフロー {#workflow-2}
 
-* インボックスクラシック UI のユーザー／グループで、インボックス内の通知をフィルターできません。NPR-19122：CQ-4215374 のホットフィックス
+* インボックスクラシック UI のユーザー／グループで、インボックス内の通知をフィルターできない。NPR-19122：CQ-4215374 のホットフィックス
 * 画像マップは、HTL 画像コンポーネントで選択された座標を保持しません。NPR-18911：CQ-4211584
 
-## フォーム {#forms-12}
+## Forms {#forms-12}
 
-* AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
+* AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
 
 ### Forms アドオンパッケージ {#forms-add-on-package-12}
 
@@ -1239,7 +1239,7 @@ AEM 累積修正パック 6.2 SP1-CFP7 は、AEM 6.2 SP1 の一般リリース�
 
 この累積修正パックの主要点は次のとおりです。
 
-* String （マルチフィールド）に設定された dc: title プロパティを持つ画像の画像カードにタイトルを表示する際の動作を変更しました。[]
+* dc: title プロパティが String []（マルチフィールド）に設定された画像で、画像カードにタイトルを表示する際の動作を変更しました。
 * Dynamic Media Cloud Services、タッチ Ui、およびセキュリティ UI インターフェイスのパフォーマンスの問題を修正しました。
 * Apache Felix Http Bridge 3.0.8 の修正点
 * オーサーとパブリッシュ環境間のバイナリレスレプリケーション（BLR）を解決しました。
@@ -1273,7 +1273,7 @@ AEM 累積修正パック 6.2 SP1-CFP7 は、AEM 6.2 SP1 の一般リリース�
 * AbstractCopyMoveCommand の並行性の問題。NPR-18591
 * テキストを別の AEM インスタンスから parsys コンポーネントにコピーする場合、parsys が resourceType が設定されていない状態で作成されます。NPR-18511：CQ-4212306 のホットフィックス
 
-### プラットフォーム {#platform-10}
+### Platform {#platform-10}
 
 * JCR インストーラーで、パッケージのインストール後にバンドルバージョンが更新されません。NPR-18728：NPR-15135 のホットフィックス
 * バイナリレスレプリケーション（BLR）は、作成と公開の環境を含むバイナリで失敗します。NPR-18704
@@ -1303,9 +1303,9 @@ AEM 累積修正パック 6.2 SP1-CFP7 は、AEM 6.2 SP1 の一般リリース�
 
 * tagadmin/tagging コンソールで AEM から Brand Portal にタグを公開できるようになりました。CQ-4212165
 
-## フォーム {#forms-13}
+## Forms {#forms-13}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
 
 ### Forms アドオンパッケージ {#forms-add-on-package-13}
 
@@ -1381,24 +1381,24 @@ AEM 累積修正パック 6.2 SP1-CFP6 は、AEM 6.2 SP1 の一般リリース�
 * 多数（2000 以上）のオーディエンスを持つページをロードする場合のパフォーマンスの問題。NPR-17884：CQ-4209567 のホットフィックス
 * ページ上画像を削除した後で、他の画像を選択できません。NPR-17711：CQ-4201323 のホットフィックス
 
-### プラットフォーム {#platform-11}
+### Platform {#platform-11}
 
 * タッチ UI コントロールが、必要な権限を持たないユーザーに対して非表示になりません。NPR-17945：CQ-4211231 のホットフィックス
 * タグピッカーフィールドに日本語タグがありません。NPR-17768：CQ-4210456 のホットフィックス
 * FastQuerySize が有効な場合、getsize() クエリが誤った結果を返します。NPR-18018
 * スタンバイインスタンスの Web コンソールにアクセスできません。NPR-17861：Granite-14582 のホットフィックス
 
-### コマース {#commerce-2}
+### Commerce {#commerce-2}
 
 * カタログのブループリントにセクションに対して条件が定義されていない場合に、クエリトラバーサルが発生します。NPR-18229：CQ-4211924 のホットフィックス
 
-### コミュニティ {#communities-2}
+### Communities {#communities-2}
 
-* PollingImporterImpl.によって AEM のシャットダウンが遅れます。NPR-18298：CQ-96133 のホットフィックス
+* PollingImporterImpl. によって AEM のシャットダウンが遅れます。NPR-18298：CQ-96133 のホットフィックス
 
 ### 統合 {#integrations}
 
-* AEM Day HTTP Client 3.1 OSGi がダイジェスト認証を必要とするプロキシで設定されている場合に発生する可能性がある AEM Search コンポーネントエラーを解決しました。NPR 18128
+* AEM Day HTTP Client 3.1 OSGI がダイジェスト認証を必要とするプロキシで設定されている場合に発生する可能性がある AEM Search コンポーネントエラーを解決。NPR 18128
 * 継承を元に戻すチェックボックスがありません。NPR-17753：CQ-4210139 のホットフィックスリクエスト
 * 1 つのコンポーネントを複数のアクティビティでターゲティングする場合、優先順位を設定できません。NPR-18658：CQ-4210727 のホットフィックス
 * /Etc/segmentation/group1 フォルダーの下に作成されたオーディエンスを選択するために /etc/segmentation フォルダーを参照できません。NPR-18522
@@ -1419,9 +1419,9 @@ AEM 累積修正パック 6.2 SP1-CFP6 は、AEM 6.2 SP1 の一般リリース�
 * HTL 画像コンポーネントがレンダリングされると、URL 内のファイル名が変更され、URL が壊れます。NPR-17908：CQ-4211587 のホットフィックス
 * 変更を加えた後、ページプロパティを終了できません。NPR-17832：CQ-96110 のホットフィックス
 
-## フォーム {#forms-14}
+## Forms {#forms-14}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、[AEM Forms リリース](aem-forms-releases.md)を参照してください。
 
 ### Forms アドオンパッケージ {#forms-add-on-package-14}
 
@@ -1495,7 +1495,7 @@ AEM 累積修正パック 6.2 SP1-CFP5 は、AEM 6.2 SP1 の一般リリース�
 * アセットを選択して開発ツールをクリックした場合、遅い接続ではツールバーのアクションがアクションバーに表示されない場合があり、ページを再読み込みする必要があります。NPR-17568：CQ-108365 のホットフィックス
 * アクションバーが更新され、coral-actionbar-container のかわりに coral-actionbar-primary と coral-actionbar-secondary の 2 つのコンテナが使用される必要があります。NPR-17591：Granite-15225 のホットフィックス
 
-### モバイルオンデマンド {#mobile-on-demand-2}
+### Mobile-on-demand {#mobile-on-demand-2}
 
 * AEM Mobile アプリに対する「読み取り専用」権限を持つユーザーが AEM Mobile コンテンツ管理ページからコンテンツをプレビューできません。NPR-17390：CQ-4209690 のホットフィックス
 
@@ -1504,11 +1504,11 @@ AEM 累積修正パック 6.2 SP1-CFP5 は、AEM 6.2 SP1 の一般リリース�
 * HTMLRendererServlet によって生成された出力の XSS 脆弱性。NPR-17136
 * AEM Web Syndication フィードページで AEM バージョンの公開を防ぐリクエスト。NPR-16219
 
-### フォーム {#forms-15}
+### Forms {#forms-15}
 
 #### Forms アドオンパッケージ {#forms-add-on-package-15}
 
-AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳細については、AEM Forms リリースを参照してください。
+AEM Forms の修正は、このリリースで提供されるアドオンパッケージおよびその他のパッチインストーラーを通じて提供されます。詳しくは、AEM Forms リリースを参照してください。
 
 **アダプティブフォーム**
 
@@ -1595,7 +1595,7 @@ AEM 累積修正パック 6.2 SP1-CFP4 は、AEM 6.2 SP1 の一般リリース�
 * JEE 上の AEM Forms のプロセス管理と出力サービスに関する修正
 * Forms Designer スクリプトエディター関連の修正
 
-### プラットフォーム {#platform-12}
+### Platform {#platform-12}
 
 * Search&amp;Promote 検索フォームでは、クラウドサービスの設定時に `environment` 設定が無視され、オーサーインスタンスで使用できなくなります。NPR-16594：CQ-4206076 のホットフィックス
 * /Apps でオーバーレイして&#x200B;**アセットオムニサーチ**&#x200B;結果に列を追加またはカスタマイズできません。NPR-16737：CQ-4206785 のホットフィックス
@@ -1650,7 +1650,7 @@ AEM 累積修正パック 6.2 SP1-CFP4 は、AEM 6.2 SP1 の一般リリース�
 * ファイルのバイナリを AEM にアップロードする際に MIME タイプ検出が実行されません。NPR-16617
 * LDAP ユーザーのアバター画像のアップロードに関する問題。NPR-16561
 
-### フォーム {#forms-16}
+### Forms {#forms-16}
 
 #### Forms アドオンパッケージ {#forms-add-on-package-16}
 
@@ -1686,7 +1686,7 @@ AEM 累積修正パック 6.2 SP1-CFP4 は、AEM 6.2 SP1 の一般リリース�
 
 * モバイルフォームプレビューでは重なり合うコンテンツが表示されるが、フォームは PDF レンダリングに対して正しく表示されます。NPR-17105
 
-**フォームポータル**
+**Forms ポータル**
 
 * 送信されたフォームの「**[!UICONTROL ダウンロード]**」リンクをクリックすると、PDF フォームではなく HTML ページが開きます。NPR-17082
 
@@ -1742,7 +1742,7 @@ CFP3 の主なハイライト：
 * ファイル添付ウィジェットまたは遅延読み込みフラグメントを含むアダプティブフォームの使い勝手を向上しました。
 * 検索機能の強化、削除されたアセットのログ、データ辞書の読み込みなど、Correspondence Management での操作性が向上しました。
 
-### プラットフォーム {#platform-13}
+### Platform {#platform-13}
 
 * **ModelAdapterFactory** の競合状態。2 つのスレッドが同じフィールドを挿入しようとすると、モデルが構築できない可能性があります。NPR-16443：SLING-6584 のホットフィックス
 * /Apps の下のオーバーレイされたファイル（JSP または JavaScript ファイル）と/libs の下の修正プログラムに含まれるファイルとの間の競合を検出するための、パッケージマネージャーの検証オプション。影響を受けるオーバーレイは、/libs の下のファイルの変更を含むように再ベースできます。NPR-16216：CQ-81729 のホットフィックス
@@ -1781,7 +1781,7 @@ CFP3 の主なハイライト：
 
 * 同期翻訳ジョブは自動的にはトリガーされず、翻訳プロジェクトをポーキングしない限り AEM のポーリングはおこなわれません。NPR-15163：CQ-90856 のホットフィックス
 
-### フォーム {#forms-17}
+### Forms {#forms-17}
 
 #### Forms アドオンパッケージ {#forms-add-on-package-17}
 
@@ -1819,7 +1819,7 @@ CFP3 の主なハイライト：
 * Asset Composer 設定で日付の表示形式を `locale=en_US; dateFormat=MMM dd,yyyy;` に変更すると、期待どおりに動作せず、日付の形式が無効な文字として表示されます。NPR-16007
 * 再オーサリング時のレターのデータリンケージタイプは、以前に異なる設定があった場合でも「ユーザー」として表示されます。NPR-16619
 
-**フォームポータル**
+**Forms ポータル**
 
 * ドラフトコンポーネントと送信コンポーネントのアップグレードシナリオが、データベースサンプルの実装では動作しません。NPR：16752
 
@@ -1866,7 +1866,7 @@ AEM 6.2 SP1 と CFP3 の間で更新された OSGi バンドルのリスト
 * アダプティブフォーム、Correspondence Management、フォームポータルの機能を修正し、オーサリングと管理を強化しました。
 * Forms の JEE コア、XTG、および HTML Workspace コンポーネントを修正しました。
 
-### プラットフォーム {#platform-14}
+### Platform {#platform-14}
 
 * Sling フレームワークを直接参照するページが編集された場合に `SlingPostProcessor` がトリガーされます。NPR-15754：CQ-104153 のホットフィックス
 
@@ -1906,7 +1906,7 @@ AEM 6.2 SP1 と CFP3 の間で更新された OSGi バンドルのリスト
 * ライブコピーを使用するサイトでは、サイト管理コンソールの列パネルで「ライブコピー」チェックボックスを選択すると、ライブコピーのステータスが正しく表示されず、HTML マークアップのみが表示されます。NPR-15108：CQ-97086 のホットフィックス
 * コンテンツフラグメントを編集する際に、ユーザーが投稿の応答を取得する前に「完了」（「√」）をクリックして編集をクリックすると、編集したコンテンツが正しく保存されません。NPR-15014：CQ-4194095 のホットフィックス
 * タイムワープモードで編集ページを閉じ、Siteadmin から再度開こうとすると、ページを再び開く代わりにステータスが「500」エラーが発生します。NPR-14965：CQ-109647 のホットフィックス：
-* Digital Asset Manager(DAM)UI で、「ユーザーピッカー」の「認証可能な項目を検索」を使用すると、「メモリ不足」の例外が発生します。NPR:15307：CQ-98542 のホットフィックス
+* Digital Asset Manager (DAM) UI で、「ユーザーピッカー」の「認証可能な項目を検索」を使用すると、「メモリ不足」の例外が発生します。NPR:15307：CQ-98542 のホットフィックス
 
 ### Assets {#assets-17}
 
@@ -1956,7 +1956,7 @@ data-sly-resource は同じアセットに解決されず、出力パスはド�
 
 * 20 個を超える非アクティブなプロジェクトがリポジトリーに存在しているにもかかわらず、プロジェクト画面に表示されるのは 20 個の非アクティブなプロジェクトのみです。NPR-15656：CQ-4200903 のホットフィックス
 
-### キャンペーン {#campaign-1}
+### Campaign {#campaign-1}
 
 * Campaign - ターゲティングおよび MAC - テストとターゲットの統合コンポーネントを使用している場合、アクティビティのパブリケーション解除によってマスター UI のアクティビティステータスが更新されません。NPR-15401：CQ-4199839 のホットフィックス
 * AEM コマースで製品を移動する際、製品の移動ウィザードでは、製品名、タイトル、参照先ページ、作成者、作成日に対する事前入力済みの値が見つかりません。NPR-15228：CQ-98617 のホットフィックス
@@ -1965,7 +1965,7 @@ data-sly-resource は同じアセットに解決されず、出力パスはド�
 
 * フォームに GET メソッドで CSRF トークンパラメーターを追加しました。NPR-15229
 
-### フォーム {#forms-18}
+### Forms {#forms-18}
 
 #### Forms アドオンパッケージ {#forms-add-on-package-18}
 
@@ -2018,7 +2018,7 @@ AEM 6.2 SP2-CFP1 の主なハイライトは次のとおりです。
 * スマートコレクションのタグ管理を強化
 * フォルダーに対する CRUD 操作中のアクセス制御を強化
 
-### プラットフォーム {#previous}
+### Platform {#previous}
 
 * レプリケーションエージェントの起動中に `ReplicationQueue#forceRetry` API 呼び出しを削除するリクエスト。このような呼び出しは、特に多数のレプリケーションエージェントを持つ場合に、インスタンスの速度を大幅に低下させます。NPR-14032：Granite-13095 のホットフィックス
 * `DurboImportConfigurationProviderService` OSGi 設定に対して、値の配列を格納できるフィールドをサポートするリクエスト。NPR-14570：CQ-108684 のホットフィックス
@@ -2217,7 +2217,7 @@ CFP パッケージをソフトウェア配布から直接ダウンロードす�
 
 既存の AEM 6.2 SP1 インスタンスに累積修正パックをインストールするには、次の手順を実行します。
 
-1. [ソフトウェアの配布](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip)リンクをクリックして、パッケージをダウンロードします。
+1. [ソフトウェア配布](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip)リンクをクリックして、パッケージをダウンロードします。
 
 1. [パッケージマネージャー](http://localhost:4502/crx/packmgr/index.jsp)を開き「**[!UICONTROL パッケージをアップロード]**」をクリックしてパッケージをアップロードします。
 
@@ -2333,7 +2333,7 @@ NPR-21355 は CFP12.1 に含まれています。CFP12.1 以降をインスト�
 
 1. [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ にある jsafeFIPS.jar、jsafeJCEFIPS.jar、certjFIPS.jar ファイルのバックアップを作成し、前述のディレクトリからファイルを削除します。
 
-   [Adobe サポート](https://helpx.adobe.com/marketing-cloud/contact-support.html)に問い合わせて、新しい JAR ファイルを取得します。[Adobe サポート](https://helpx.adobe.com/marketing-cloud/contact-support.html)から取得した JAR ファイルを [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ に配置します。
+   [Adobe サポート](https://helpx.adobe.com/jp/marketing-cloud/contact-support.html)に問い合わせて、新しい JAR ファイルを取得します。[Adobe サポート](https://helpx.adobe.com/jp/marketing-cloud/contact-support.html)から取得した JAR ファイルを [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ に配置します。
 
 1. （Windows のみ）構成ファイル `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` または `domain.conf.bat` を変更します。
 
@@ -2377,7 +2377,7 @@ NPR-21355 は CFP12.1 に含まれています。CFP12.1 以降をインスト�
 
 ## UI の変更 {#ui-changes}
 
-* Dc を持つ画像の画像カード上のタイトルの表示に関する動作の変更：title プロパティが文字列[]（multifield）に設定されました：UI のイメージカードには、最新の変更されたタイトルのみが表示されますが、すべてのタイトルは CRX に保存されます。CQ-4217165 のホットフィックス
+* dc: title プロパティが String []（マルチフィールド）に設定された画像で、画像カードにタイトルを表示する際の動作を変更しました：UI の画像カードには、最新の変更されたタイトルのみが表示されますが、すべてのタイトルは CRX に保存されます。CQ-4217165 のホットフィックス
 
 ## 既知の問題 {#known-issues}
 
@@ -2398,7 +2398,7 @@ AEM 6.2 SP1-CFPx をインストールすると、次の一時的なエラーが
    * com.day.cq.cq-personalization [com.day.cq.personalization.impl.DefaultProfileProvider(938)] Cannot create component instance due to failure to bind reference profileManager
    * org.apache.sling.commons.scheduler FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory returned null. （コンポーネント：com.day.cq.taging.impl.TagGarbageCollector (1687)）
 
-* Mongo と DB2 の CFP インストールでエラーが発生します：**org.apache.sling.discovery.oak.TopologyWebConsolePlugin addDiscoveryLiteHistoryEntry: Exception: java.lang.NullPointerException**.このエラーは、CFP 8 で CFP をインストールした後は発生しません。
+* Mongo と DB2 の CFP インストールでエラーが発生します：**org.apache.sling.discovery.oak.TopologyWebConsolePlugin addDiscoveryLiteHistoryEntry: Exception: java.lang.NullPointerException**. このエラーは、CFP 8 で CFP をインストールした後は発生しません。
 * (Adobe Granite メインテナンススケジューラーアップデートタスク) com.adobe.granite.maintenance.impl.TaskScheduler: No maintenance task found with name WorkflowPurgeTask for window granite:weekly
 * `[sling-oak-observation-8]com.day.cq.dam.scene7.impl.Scene7DamChangeEventListener checking - isAsset`
 * `[sling-oak-observation-8] com.day.cq.dam.scene7.impl.Scene7UploadServiceImpl synchronizeFolder failed for (null) failed`
@@ -2451,5 +2451,5 @@ Maven プロジェクトで Uber Jar を使用するには、プロジェクト 
 >* [AEM 6.2 リリースノート](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM 製品ページ](http://www.adobe.com/jp/solutions/web-experience-management.html)
 >* [AEM 6.2 ドキュメント](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Adobeの優先度製品のアップデート](https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html)
+>* [Adobe の優先製品アップデート](https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html)
 
