@@ -47,7 +47,6 @@ AEM 累積修正パック 6.2 SP1-CFP20 は、AEM 6.2 用の最後の累積修�
 >* Apache Commons の電子メールバンドルに、**org.apache.commons/commons-email/1.5** を追加して、**com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002** を置換。
 >
 >* AEM インスタンスに多数のユーザーがいるお客様には、インストールフォルダーを介して CFP をデプロイすることをお勧めします。
-
 >
 
 
@@ -1322,7 +1321,6 @@ AEM Forms の修正は、このリリースで提供されるアドオンパッ�
 >
 >* Word／Web から CM Text Editor にコピーペーストを実行すると、改行の内容が表示されます。NPR-19530
 >* CM テキストエディターで改行のないコンテンツが折り返されません。NPR-19449
-
 >
 >これらは、将来の CFP で対応される予定です。
 
