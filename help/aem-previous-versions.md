@@ -2,10 +2,10 @@
 title: AEM、CQ、CRX の以前のバージョン
 description: Adobe Experience Manager、CQ、CRX の以前のバージョンのドキュメントパッケージです。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
-workflow-type: ht
+source-git-commit: c18f6ccda6945de5fe36c49421c549b5361dec16
+workflow-type: tm+mt
 source-wordcount: '820'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] ドキュメントの以前のバージョン {#older-version-aem-documentation}
 
-このページにリストされている [!DNL Experience Manager]、 CQ および CRX のバージョンは、提供が終し、アドビによる公式販売はおこなっていません。これらの以前のバージョンについては、公式ドキュメントの最終バージョンがセルフヘルプ用に利用できます。アドビでは、最新バージョン（現在は [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html?lang=ja)）にアップグレードすることをお勧めします。
+このページにリストされている [!DNL Adobe Experience Manager]、 CQ および CRX のバージョンは、提供が終し、アドビによる公式販売はおこなっていません。これらの以前のバージョンについては、公式ドキュメントの最終バージョンがセルフヘルプ用に利用できます。最新バージョン ([[!DNL Adobe Experience Manager] ) にアップグレードすることをCloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にすることをお勧めします。
 
 >[!NOTE]
 >
