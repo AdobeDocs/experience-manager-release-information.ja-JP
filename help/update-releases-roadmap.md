@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 7dbfed32d9f4f294ad65345876a527523612f89f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '299'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 99%
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | 月次リリース | 2021 年 10 月 7 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | 月次リリース | 2021 年 10 月 28 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 月次リリース | 2021 年 12 月 2 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | 月次リリース | 2021 年 10 月 6 日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | 月次リリース | 2021 年 10 月 28 日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 月次リリース | 2021 年 12 月 2 日（PT） |
 
 毎月のリリースに加えて、[!DNL Experience Manager] as a [!DNL Cloud Service] では様々な重要なアップデートが毎日公開されています。
 
@@ -39,7 +39,7 @@ ht-degree: 99%
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 サービスパック 11 | 6.5.11.0 | サービスパック | 2021 年 11 月 25 日 |
+| [!DNL Experience Manager] 6.5 サービスパック 11 | 6.5.11.0 | サービスパック | 2021 年 11 月 25 日（PT） |
 
 >[!NOTE]
 >
