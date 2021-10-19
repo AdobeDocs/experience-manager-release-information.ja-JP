@@ -3,9 +3,9 @@ title: AEM、CQ、CRX の以前のバージョン
 description: Adobe Experience Manager、CQ、CRX の以前のバージョンのドキュメントパッケージです。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: c18f6ccda6945de5fe36c49421c549b5361dec16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '820'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 98%
 
 ## [!DNL Experience Manager] ドキュメントの以前のバージョン {#older-version-aem-documentation}
 
-このページにリストされている [!DNL Adobe Experience Manager]、 CQ および CRX のバージョンは、提供が終し、アドビによる公式販売はおこなっていません。これらの以前のバージョンについては、公式ドキュメントの最終バージョンがセルフヘルプ用に利用できます。最新バージョン ([[!DNL Adobe Experience Manager] ) にアップグレードすることをCloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にすることをお勧めします。
+このページにリストされている [!DNL Adobe Experience Manager]、 CQ および CRX のバージョンは、提供が終し、アドビによる公式販売はおこなっていません。これらの以前のバージョンについては、公式ドキュメントの最終バージョンがセルフヘルプ用に利用できます。最新バージョンである [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 98%
 
 >[!NOTE]
 >
->[!DNL Experience Manager] オーサー環境のこのコンテンツにアクセスするには、ユーザーは [!DNL Experience Manager] インスタンスにログインする必要があります。このコンテンツは、デフォルトでは、AEM パブリッシュではアクセスできません（/libs 以下に存在するため）。
+>[!DNL Experience Manager] オーサー環境のこのコンテンツにアクセスするには、ユーザーは [!DNL Experience Manager] インスタンスにログインする必要があります。このコンテンツは、デフォルトでは、AEM Publish ではアクセスできません（/libs 以下に存在するため）。
 
 ## ソフトウェア配布場所 {#software-distribution-locations}
 
