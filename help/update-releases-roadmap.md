@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4fbe23dcd632ed39fee44b84c18d4d71a3447b1d
+source-git-commit: 92a62256c873371aa95c2afce1d7b02773e9f3b7
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,6 +40,11 @@ ht-degree: 100%
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 サービスパック 11 | 6.5.11.0 | サービスパック | 2021 年 11 月 25 日（PT） |
+| [!DNL Experience Manager] 6.5 サービスパック 12 | 6.5.12.0 | サービスパック   | 2022 年 2 月 24 日 |
+| [!DNL Experience Manager] 6.5 サービスパック 13 | 6.5.13.0 | サービスパック   | 2022 年 5 月 27 日 |
+| [!DNL Experience Manager] 6.5 サービスパック 14 | 6.5.14.0 | サービスパック   | 2022 年 8 月 26 日 |
+| [!DNL Experience Manager] 6.5 サービスパック 15 | 6.5.15.0 | サービスパック   | 2022 年 11 月 24 日 |
+
 
 >[!NOTE]
 >
