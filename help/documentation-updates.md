@@ -3,10 +3,10 @@ title: '[!DNL Experience Manager] の最近のドキュメント更新'
 description: ' [!DNL Experience Manager]  ドキュメントの最新情報、更新、変更点'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: a64bc67f185aaefd41d9376e1119e72a56cce598
 workflow-type: tm+mt
-source-wordcount: '4430'
-ht-degree: 100%
+source-wordcount: '4506'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 100%
 
 | 日付 | トピック | 変更内容 |
 | --- | --- | --- |
+| 2021 年 11 月 25 日（PT） | AEMとDynamic Media — 設定 | Dynamic Mediaデスクトップアプリケーションを使用する代わりに、AEM上のDynamic Mediaから直接、一般設定と公開設定を設定できるようになりました。<br>詳しくは、 [Dynamic Mediaの一般設定](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-general-settings.html) および [Image Server 用のDynamic Media公開設定の指定](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-publish-settings.html).<br>関連トピック [Dynamic Media - Scene7モードの設定](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html?lang=ja) |
 | 2021 年 11 月 4 日（PT） | AEM と Dynamic Media — スマート切り抜き | 最新の Adobe Sensei サービスを使用して、画像アセットのスマート切り抜きとスマートスウォッチを向上しました。ドキュメントの更新内容は次のとおりです。<br>・画像プロファイルの切り抜きオプションダイアログボックスに、新しい「**[!UICONTROL ターゲット解像度間で切り抜きコンテンツを保持]**」オプションが表示されます。<br>・複数のアセットのスマート切り抜きウィンドウの再調整またはサイズ変更を手動で行う場合、後でアセットを再処理する場合であっても、それらの編集内容は保持されます。ただし、画像プロファイルの「**[!UICONTROL レスポンシブ画像の切り抜き]**」で幅、高さ、またはその両方を編集した場合、それらのアセットは再処理の対象となります。<br>・スマート切り抜きとカラースウォッチでサポートされる画像ファイル形式の新しいテーブル。<br>詳しくは、[画像プロファイル](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/image-profiles.html?lang=ja)を参照してください。 |
 | 2021 年 11 月 3 日（PT） | Smart Crop Video Viewer API | Dynamic Mediaビューアリファレンスガイドで新しい [Smart Crop Video Viewer API ドキュメントを利用できるようになりました](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=ja)。 |
 | 2020 年 12 月 2 日（PT） | バッチセットプリセット | Dynamic Media のバッチセットプリセットを使用して画像セットとスピンセットの作成を自動化する方法を説明します。詳しくは、[バッチセットプリセット](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html?lang=ja#dynamicmedia)を参照してください。 |
