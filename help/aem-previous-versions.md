@@ -3,7 +3,7 @@ title: AEM、CQ、CRX の以前のバージョン
 description: Adobe Experience Manager、CQ、CRX の以前のバージョンのドキュメントパッケージです。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 971c4b389b94be04edb48762bb8546fdb6faebe4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '820'
 ht-degree: 100%
 
@@ -95,4 +95,4 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 ## [!DNL Experience Manager]コミュニティにお問い合わせ {#get-help-from-aem-community}
 
-Experience Manager の使用に関するご質問は、[ [!DNL Experience Manager]  フォーラムで、経験豊富なコミュニティの専門家にお問い合わせください](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)。
+Experience Manager の使用に関するご質問は、[ [!DNL Experience Manager]  フォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)で、経験豊富なコミュニティの専門家にお問い合わせください。
