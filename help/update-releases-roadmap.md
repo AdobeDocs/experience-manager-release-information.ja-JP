@@ -59,7 +59,7 @@ ht-degree: 95%
 >[!MORELIKETHIS]
 >
 >* [EOL マトリックス](https://helpx.adobe.com/jp/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] のリリースとアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=ja)
+>* [[!DNL Experience Manager] のリリースとアップデート](https://helpx.adobe.com/jp/experience-manager/aem-releases-updates.html)
 >* [[!DNL Experience Manager] の学習とサポート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 >* [[!DNL Experience Manager] アップデートリリースの提供に関する定義](/help/update-release-vehicle-definitions.md)
 
