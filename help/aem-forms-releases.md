@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 235a2173bf6deb2b68371bdd15200e6df5aafb18
 workflow-type: tm+mt
 source-wordcount: '11648'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0038/WebSphere/Linux/AEMForms-6.5.0-0038_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <br><b>SDK</b></br>
       </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0038<br /> <p>AEM Formsアドオンパッケージ：6.0.566-NPR-37836-B0001</p></td> 
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0038<br /> <p>AEM Forms アドオンパッケージ：6.0.566-NPR-37836-B0001</p></td> 
    </tr>
    <tr> 
     <td>2021年12月3日（PT）</td> 
@@ -314,7 +314,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><strong>ビルドバージョン</strong></td> 
   </tr>
  <tr> 
-   <td>2021 年 12 月 20 日</td> 
+   <td>2021年12月20日（PT）</td> 
    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
    <td> 
@@ -590,7 +590,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    <td><strong>ビルドバージョン</strong></td> 
   </tr> 
    <tr> 
-   <td>2021 年 12 月 21 日</td> 
+   <td>2021年12月21日（PT）</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.8 用 AEM Forms アドオンパッケージ</a></td> 
    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
    <td> 
