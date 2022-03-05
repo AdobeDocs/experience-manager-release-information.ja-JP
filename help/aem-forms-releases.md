@@ -3,10 +3,10 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 235a2173bf6deb2b68371bdd15200e6df5aafb18
+source-git-commit: 66fa1fe6c5d104dd263098754c5785b8794ccf30
 workflow-type: tm+mt
-source-wordcount: '11648'
-ht-degree: 100%
+source-wordcount: '12175'
+ht-degree: 98%
 
 ---
 
@@ -22,24 +22,53 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
 
 ## AEM 6.5 [!DNL Forms] リリース {#aem-65-forms-releases}
 
-<table> 
-  <tbody> 
-   <tr> 
-    <td><strong>日付</strong></td> 
-    <td><strong>AEM Forms リリース</strong></td> 
-    <td><strong>前提条件</strong></td> 
-    <td><strong>入手可能なパッケージ</strong></td> 
-    <td><strong>ビルドバージョン</strong></td> 
+<table>
+  <tbody>
+  <tr>
+    <td><strong>日付</strong></td>
+    <td><strong>AEM Forms リリース</strong></td>
+    <td><strong>前提条件</strong></td>
+    <td><strong>入手可能なパッケージ</strong></td>
+    <td><strong>ビルドバージョン</strong></td>
    </tr>
-   <tr> 
-    <td>2021年12月20日（PT）</td> 
-    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 11（AEM 6.5.11.1 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.11.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.566-NPR-37836-B0001.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.566-NPR-37836-B0001.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.566-NPR-37836-B0001.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>        
+   <tr>
+    <td>2022年2月03日（PT）</td>
+    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 12（AEM 6.5.12.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.12.0</a></td>
+    <td>
+     <ul>
+     <br><b>OSGi パッチインストーラーでのAEM Forms</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.640.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.640.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.640.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
+      <br><b>AEM Forms on JEE の完全インストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20220302-1-12345/JBoss/Win/aemforms_server_6_5_0_jboss_all_win.zip">JBoss Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20220302-1-12345/JBoss/Unix/aemforms_server_6_5_0_jboss_all_unix.tar.gz">JBoss Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20220302-1-12345/Weblogic/win/aemforms_server_6_5_0_weblogic_all_win.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20220302-1-12345/Weblogic/Unix/aemforms_server_6_5_0_weblogic_all_unix.tar.gz">WebLogic Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20220302-1-12345/WebSphere/Win/aemforms_server_6_5_0_websphere_all_win.zip">WebSphere Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20220302-1-12345/WebSphere/Unix/aemforms_server_6_5_0_websphere_all_unix.tar.gz">WebSphere Linux</a></li>
+      <br><b>AEM Forms on JEE パッチインストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/JBoss/Win/AEMForms-6.5.0-0040_jboss_win.zip">JBoss Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/JBoss/Linux/AEMForms-6.5.0-0040_jboss_linux.tar.gz">JBoss Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/Weblogic/Win/AEMForms-6.5.0-0040_weblogic_win.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/Weblogic/Linux/AEMForms-6.5.0-0040_weblogic_linux.tar.gz">WebLogic Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/WebSphere/Win/AEMForms-6.5.0-0040_websphere_win.zip">WebSphere Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/WebSphere/Linux/AEMForms-6.5.0-0040_websphere_linux.tar.gz">WebSphere Linux</a></li>
+      <br><b>SDK</b></br>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.630/">AEM Forms Client SDK</a>
+      </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0040<br /> <p>AEM Forms アドオンパッケージ：6.0.640</p></td>
+   </tr>
+   <tr>
+    <td>2021年12月20日（PT）</td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 11（AEM 6.5.11.1 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.11.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.566-NPR-37836-B0001.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.566-NPR-37836-B0001.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.566-NPR-37836-B0001.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
       <br><b>AEM Forms on JEE パッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0038/JBoss/Win/AEMForms-6.5.0-0038_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0038/JBoss/Linux/AEMForms-6.5.0-0038_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -48,18 +77,19 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0038/WebSphere/Win/AEMForms-6.5.0-0038_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0038/WebSphere/Linux/AEMForms-6.5.0-0038_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <br><b>SDK</b></br>
-      </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0038<br /> <p>AEM Forms アドオンパッケージ：6.0.566-NPR-37836-B0001</p></td> 
+      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a>
+      </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0038<br /> <p>AEM Forms アドオンパッケージ：6.0.566-NPR-37836-B0001</p></td>
    </tr>
-   <tr> 
-    <td>2021年12月3日（PT）</td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 11（AEM 6.5.11.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.11.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.566.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.566.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.566.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>        
+   <tr>
+    <td>2021年12月3日（PT）</td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 11（AEM 6.5.11.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.11.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.566.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.566.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.566.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
       <br><b>AEM Forms on JEE パッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0037/JBoss/Win/AEMForms-6.5.0-0037_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0037/JBoss/Linux/AEMForms-6.5.0-0037_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -72,22 +102,22 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0037/WebSphere/Solaris/AEMForms-6.5.0-0037_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0037/WebSphere/AIX/AEMForms-6.5.0-0037_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <br><b>SDK</b></br>
-      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>      
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0037<br /> </p> AEM Forms アドオンパッケージ：6.0.566</p> <p>クライアント SDK：6.0.566<br /></td> 
+      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0037<br /> </p> AEM Forms アドオンパッケージ：6.0.566</p> <p>クライアント SDK：6.0.566<br /></td>
    </tr>
    <tr>
-   <tr> 
-    <td>2021年9月2日（PT）</td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 10（AEM 6.5.10.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.10.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.490.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.490.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.490.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>            
+   <tr>
+    <td>2021年9月2日（PT）</td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 10（AEM 6.5.10.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.10.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.490.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.490.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.490.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">AEM Forms 互換性パッケージ</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.18.zip">AEM Forms on JEE 埋め込みパッケージ</a></li>    
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.18.zip">AEM Forms on JEE 埋め込みパッケージ</a></li>
       <br><b>AEM Forms on JEE パッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0032/JBoss/Win/AEMForms-6.5.0-0032_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0032/JBoss/Linux/AEMForms-6.5.0-0032_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -100,21 +130,21 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0032/WebSphere/Solaris/AEMForms-6.5.0-0032_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0032/WebSphere/AIX/AEMForms-6.5.0-0032_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <br><b>SDK</b></br>
-      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>      
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0032<br /> </p> AEM Forms アドオンパッケージ：6.0.490</p> <p>クライアント SDK：6.0.490<br /> </p><p>AEM Forms 互換性パッケージ：2.0.40</p><p>AEM Forms Designer パッチ：650.017</p><p>AEM Forms on JEE 埋め込みパッケージ：5.0.18</p></td> 
+      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0032<br /> </p> AEM Forms アドオンパッケージ：6.0.490</p> <p>クライアント SDK：6.0.490<br /> </p><p>AEM Forms 互換性パッケージ：2.0.40</p><p>AEM Forms Designer パッチ：650.017</p><p>AEM Forms on JEE 埋め込みパッケージ：5.0.18</p></td>
    </tr>
-   <tr> 
-    <td>2021年6月3日（PT）</td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 9（AEM 6.5.9.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.9.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.434.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.434.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
+   <tr>
+    <td>2021年6月3日（PT）</td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 9（AEM 6.5.9.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.9.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.434.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.434.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.434.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">AEM Forms on JEE 埋め込みパッケージ</a></li>      
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20210524-1-938669/Workbench_DVD.zip">AEM Forms Workbench</a></li>      
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">AEM Forms on JEE 埋め込みパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20210524-1-938669/Workbench_DVD.zip">AEM Forms Workbench</a></li>
       <br><b>JEE パッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/jboss/Win/AEMForms-6.5.0-0028_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/jboss/Linux/AEMForms-6.5.0-0028_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -127,17 +157,17 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/solaris/AEMForms-6.5.0-0028_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0028<br /> </p> AEM Forms アドオンパッケージ：6.0.434</p> <p>クライアント SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>AEM Forms on JEE 埋め込みパッケージ：5.0.14</p></td> 
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0028<br /> </p> AEM Forms アドオンパッケージ：6.0.434</p> <p>クライアント SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>AEM Forms on JEE 埋め込みパッケージ：5.0.14</p></td>
    </tr>
-   <tr> 
-    <td>2021年3月18日（PT）</td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.5.8.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.334.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.334.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
+   <tr>
+    <td>2021年3月18日（PT）</td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.5.8.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.334.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.334.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.334.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.36.zip">AEM Forms 互換性パッケージ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-014/aem-forms-designer-6.5.0-English.msp">AEM Forms Designer パッチ</a></li>
@@ -153,18 +183,18 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/Solaris/AEMForms-6.5.0-0025_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/AIX/AEMForms-6.5.0-0025_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0025<br /> </p> AEM Forms アドオンパッケージ：6.0.334</p> <p>AEM Forms 互換性パッケージ：2.0.36</p><p>クライアント SDK：6.0.334<br /> </p><p>AEM Forms Designer パッチ：650.014</p></td> 
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0025<br /> </p> AEM Forms アドオンパッケージ：6.0.334</p> <p>AEM Forms 互換性パッケージ：2.0.36</p><p>クライアント SDK：6.0.334<br /> </p><p>AEM Forms Designer パッチ：650.014</p></td>
    </tr>
    <tr>
-   <tr> 
-    <td>2020年12月3日（PT）</td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.5.7.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.7.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.234.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.234.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
+   <tr>
+    <td>2020年12月3日（PT）</td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.5.7.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.7.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.234.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.234.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.234.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.32.zip">AEM Forms 互換性パッケージ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/adobe-lc-mobileworkspace-src-2.5.24.zip">AEM Forms アプリケーションソース</a></li>
@@ -180,120 +210,120 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/Solaris/AEMForms-6.5.0-0020_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/AIX/AEMForms-6.5.0-0020_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0020<br /> </p> AEM Forms アドオンパッケージ：6.0.234</p> <p>AEM Forms 互換性パッケージ：2.0.32</p><p>クライアント SDK：6.0.234<br /> </p></td> 
-   </tr> 
-   <tr> 
-    <td>2020年9月3日（PT）</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM Forms サービスパック 6（AEM 6.5.6.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.6.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.192.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.192.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0020<br /> </p> AEM Forms アドオンパッケージ：6.0.234</p> <p>AEM Forms 互換性パッケージ：2.0.32</p><p>クライアント SDK：6.0.234<br /> </p></td>
+   </tr>
+   <tr>
+    <td>2020年9月3日（PT）</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM Forms サービスパック 6（AEM 6.5.6.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.6.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.192.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.192.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.192.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li>  
-      <li>AEM Forms Client SDK [1]</li> 
-      <li>AEM Forms JEE インストーラー [1]</li> 
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：6.5.0-0018<br /> </p> AEM Forms アドオンパッケージ：6.0.192</p> <p>クライアント SDK：6.0.192<br /> </p> <p>AEM Forms Designer パッチ：650.012<br /> </p> </td> 
+      <li>AEM Forms Client SDK [1]</li>
+      <li>AEM Forms JEE インストーラー [1]</li>
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：6.5.0-0018<br /> </p> AEM Forms アドオンパッケージ：6.0.192</p> <p>クライアント SDK：6.0.192<br /> </p> <p>AEM Forms Designer パッチ：650.012<br /> </p> </td>
    </tr>
-   <tr> 
-    <td>2020年6月4日（PT）</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 5（AEM 6.5.5.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.5.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
+   <tr>
+    <td>2020年6月4日（PT）</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 5（AEM 6.5.5.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.5.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li>  
-      <li>AEM Forms Client SDK [1]</li> 
-      <li>AEM Forms JEE インストーラー [1]</li> 
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：6.5.0-0014<br /> </p> <p>AEM Forms アドオンパッケージ：6.0.160</p> <p>クライアント SDK：6.0.160<br /> </p> <p>AEM Forms Designer パッチ：650.008<br /> </p> </td> 
+      <li>AEM Forms Client SDK [1]</li>
+      <li>AEM Forms JEE インストーラー [1]</li>
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：6.5.0-0014<br /> </p> <p>AEM Forms アドオンパッケージ：6.0.160</p> <p>クライアント SDK：6.0.160<br /> </p> <p>AEM Forms Designer パッチ：650.008<br /> </p> </td>
    </tr>
-   <tr> 
-    <td>2020年3月5日（PT）</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 4（AEM 6.5.4.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.4.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms 互換性パッケージ [3]</a></li> 
-      <li>AEM Workbench [1]</li> 
-      <li>AEM Forms Client SDK [1]</li> 
-      <li>AEM Forms JEE インストーラー [1]</li> 
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：6.5.0-0011<br /> </p> <p>AEM Forms 互換性パッケージ：2.0.26<br />AEM Forms アドオンパッケージ：6.0.138</p> <p>クライアント SDK：6.0.136<br /> </p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956<br /> </p> </td> 
-   </tr> 
-   <tr> 
-    <td>2019年12月12日（PT）</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 3（AEM 6.5.3.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.3.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li> 
-      <li>AEM Workbench [1]</li> 
-      <li>AEM Forms Client SDK [1]</li> 
-      <li>AEM Forms JEE インストーラー [1]</li> 
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：6.5.0-0007</p> <p>AEM Forms 互換性パッケージ：2.0.26</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.122</p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956</p> </td> 
-   </tr> 
-   <tr> 
-    <td>2019年9月19日（PT）</td> 
-    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-5/release-notes/sp-release-notes.html">AEM Forms サービスパック 2（AEM 6.5.2.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2] </li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.2.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li> 
-      <li>AEM Workbench <sup>[1]</sup></li> 
-      <li>AEM Forms Client SDK [1]</li> 
-      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：6.5.0-0004_3</p> <p>AEM Forms 互換性パッケージ：2.0.22</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.106</p> <p>AEM Forms Workbench：6.5.0.20190917.1.337048</p> </td> 
-   </tr> 
-   <tr> 
-    <td>2019年7月3日（PT）</td> 
-    <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM Forms サービスパック 1（AEM 6.5.1.0 用 AEM Forms アドオンパッケージ）</a></td> 
-    <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.1.0</a></td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.1.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li> 
-      <li><a href="https://licensing.adobe.com/">AEM デザイナーインストーラー</a> <sup>[1]</sup></li> 
-      <li>AEM Forms JEE インストーラー <sup>[1]</sup><br /> </li> 
-     </ul> </td> 
-    <td><p>AEM Forms JEE インストーラー：6.5.0-0004</p> <p>AEM Forms Designer パッチ：6.5.0-005</p> <p>AEM Forms 互換性パッケージ：1.1.16<strong> </strong></p> <p>AEM Forms アドオンパッケージ：6.0.88</p> </td> 
-   </tr> 
-   <tr> 
-    <td>2019年4月8日（PT）</td> 
-    <td>AEM 6.5 Forms アドオンパッケージ</td> 
-    <td>AEM 6.5</td> 
-    <td> 
-     <ul> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-WEBSPHERE-GLOBALSEC-CONFIG">AEM WebSphere グローバルセキュリティ設定パッケージ</a> </li> 
-      <li><a href="https://licensing.adobe.com/">AEM Forms JEE インストーラー</a> <sup>[1]</sup></li> 
-      <li><a href="https://licensing.adobe.com/">AEM Workbench</a> <sup>[1]</sup></li> 
-      <li><a href="https://licensing.adobe.com/">AEM デザイナーインストーラー</a> <sup>[1]</sup></li>      
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FORMS-APP-SRC-PKG">AEM Forms アプリケーションソース</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 参照サイトパッケージ</a></li> 
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov 参照サイトパッケージ</a></li> 
-     </ul> </td> 
-    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.80</p> <p>AEM WebSphere グローバルセキュリティ設定パッケージ：6.5.0.20190329.1.935745</p> <p>AEM Forms アプリケーションソース：5.0.16</p> <p> </p> </td> 
-   </tr> 
-  </tbody> 
+   <tr>
+    <td>2020年3月5日（PT）</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 4（AEM 6.5.4.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.4.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms 互換性パッケージ [3]</a></li>
+      <li>AEM Workbench [1]</li>
+      <li>AEM Forms Client SDK [1]</li>
+      <li>AEM Forms JEE インストーラー [1]</li>
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：6.5.0-0011<br /> </p> <p>AEM Forms 互換性パッケージ：2.0.26<br />AEM Forms アドオンパッケージ：6.0.138</p> <p>クライアント SDK：6.0.136<br /> </p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956<br /> </p> </td>
+   </tr>
+   <tr>
+    <td>2019年12月12日（PT）</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 3（AEM 6.5.3.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.3.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li>
+      <li>AEM Workbench [1]</li>
+      <li>AEM Forms Client SDK [1]</li>
+      <li>AEM Forms JEE インストーラー [1]</li>
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：6.5.0-0007</p> <p>AEM Forms 互換性パッケージ：2.0.26</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.122</p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956</p> </td>
+   </tr>
+   <tr>
+    <td>2019年9月19日（PT）</td>
+    <td><a href="https://helpx.adobe.com/jp/experience-manager/6-5/release-notes/sp-release-notes.html">AEM Forms サービスパック 2（AEM 6.5.2.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2] </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.2.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li>
+      <li>AEM Workbench <sup>[1]</sup></li>
+      <li>AEM Forms Client SDK [1]</li>
+      <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：6.5.0-0004_3</p> <p>AEM Forms 互換性パッケージ：2.0.22</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.106</p> <p>AEM Forms Workbench：6.5.0.20190917.1.337048</p> </td>
+   </tr>
+   <tr>
+    <td>2019年7月3日（PT）</td>
+    <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM Forms サービスパック 1（AEM 6.5.1.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.1.0</a></td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.1.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li>
+      <li><a href="https://licensing.adobe.com/">AEM デザイナーインストーラー</a> <sup>[1]</sup></li>
+      <li>AEM Forms JEE インストーラー <sup>[1]</sup><br /> </li>
+     </ul> </td>
+    <td><p>AEM Forms JEE インストーラー：6.5.0-0004</p> <p>AEM Forms Designer パッチ：6.5.0-005</p> <p>AEM Forms 互換性パッケージ：1.1.16<strong> </strong></p> <p>AEM Forms アドオンパッケージ：6.0.88</p> </td>
+   </tr>
+   <tr>
+    <td>2019年4月8日（PT）</td>
+    <td>AEM 6.5 Forms アドオンパッケージ</td>
+    <td>AEM 6.5</td>
+    <td>
+     <ul>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-WEBSPHERE-GLOBALSEC-CONFIG">AEM WebSphere グローバルセキュリティ設定パッケージ</a> </li>
+      <li><a href="https://licensing.adobe.com/">AEM Forms JEE インストーラー</a> <sup>[1]</sup></li>
+      <li><a href="https://licensing.adobe.com/">AEM Workbench</a> <sup>[1]</sup></li>
+      <li><a href="https://licensing.adobe.com/">AEM デザイナーインストーラー</a> <sup>[1]</sup></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FORMS-APP-SRC-PKG">AEM Forms アプリケーションソース</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 参照サイトパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov 参照サイトパッケージ</a></li>
+     </ul> </td>
+    <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：6.0.80</p> <p>AEM WebSphere グローバルセキュリティ設定パッケージ：6.5.0.20190329.1.935745</p> <p>AEM Forms アプリケーションソース：5.0.16</p> <p> </p> </td>
+   </tr>
+  </tbody>
  </table>
 
 `[1]` Workbench、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、[アドビサポート](https://www.adobe.com/account/sign-in.supportportal.html)にお問い合わせください。
@@ -304,21 +334,21 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
 
 ## AEM 6.4 [!DNL Forms] リリース {#aem-64-forms-releases}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>日付</strong></td> 
-   <td><strong>AEM Forms リリース</strong></td> 
-   <td><strong>前提条件</strong></td> 
-   <td><strong>入手可能なパッケージ</strong></td> 
-   <td><strong>ビルドバージョン</strong></td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>日付</strong></td>
+   <td><strong>AEM Forms リリース</strong></td>
+   <td><strong>前提条件</strong></td>
+   <td><strong>入手可能なパッケージ</strong></td>
+   <td><strong>ビルドバージョン</strong></td>
   </tr>
- <tr> 
-   <td>2021年12月20日（PT）</td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
-   <td> 
-    <ul> 
+ <tr>
+   <td>2021年12月20日（PT）</td>
+   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td>
+   <td>
+    <ul>
      <br><b>JEE パッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0027/JBoss/Win/AEMForms-6.4.0-0027_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0027/JBoss/Linux/AEMForms-6.4.0-0027_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -330,19 +360,19 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0027/websphere/Linux/AEMForms-6.4.0-0027_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0027/websphere/solaris/AEMForms-6.4.0-0027_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0027/websphere/AIX/AEMForms-6.4.0-0027_websphere_aix.tar.gz">WebSphere AIX</a></li>  
-    </ul> </td> 
-   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0027<br /> </p> </td> 
-  </tr> 
-  <tr> 
-   <td>2021年3月4日（PT）</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.212.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-win-pkg-5.1.212.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-osx-pkg-5.1.212.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-aix-pkg-5.1.212.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
+    </ul> </td>
+   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0027<br /> </p> </td>
+  </tr>
+  <tr>
+   <td>2021年3月4日（PT）</td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.212.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-win-pkg-5.1.212.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-osx-pkg-5.1.212.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-aix-pkg-5.1.212.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-solaris-pkg-5.1.212.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/adobe-aemfd-compat-pkg-1.1.18.zip">AEM Forms 互換性パッケージ</a></li>
      <br><b>JEE パッチインストーラー</b></br>
@@ -357,19 +387,19 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/websphere/solaris/AEMForms-6.4.0-0025_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/websphere/AIX/AEMForms-6.4.0-0025_websphere_aix.tar.gz">WebSphere AIX</a></li>  
      <li>AEM Forms Client SDK [1]<br /> </li>  
-    </ul> </td> 
-   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0025<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.212</p> <p>AEM Forms 互換性パッケージ：1.1.18<br /> </p><p>クライアント SDK：5.1.208<br /> </p> </td> 
-  </tr> 
-  <tr> 
-   <td>2020年12月3日（PT）</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 3（6.4.8.3）用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.3</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.172.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-win-pkg-5.1.172.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-osx-pkg-5.1.172.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-aix-pkg-5.1.172.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
+    </ul> </td>
+   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0025<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.212</p> <p>AEM Forms 互換性パッケージ：1.1.18<br /> </p><p>クライアント SDK：5.1.208<br /> </p> </td>
+  </tr>
+  <tr>
+   <td>2020年12月3日（PT）</td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 3（6.4.8.3）用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.3</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.172.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-win-pkg-5.1.172.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-osx-pkg-5.1.172.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-aix-pkg-5.1.172.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-solaris-pkg-5.1.172.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>
      <br><b>JEE パッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Jboss/Win/AEMForms-6.4.0-0023_jboss_win.zip">JBoss Windows</a></li>
@@ -383,193 +413,193 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Websphere/Solaris/AEMForms-6.4.0-0023_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Websphere/AIX/AEMForms-6.4.0-0023_websphere_aix.tar.gz">WebSphere AIX</a></li>  
      <li>AEM Forms Client SDK [1]<br /> </li>  
-    </ul> </td> 
-   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0023<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.172</p> <p>クライアント SDK：5.1.172<br /> </p> </td> 
+    </ul> </td>
+   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0023<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.172</p> <p>クライアント SDK：5.1.172<br /> </p> </td>
   </tr>
-  <tr> 
-   <td>2020年9月3日（PT）</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 2（6.4.8.2）用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.2</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.148.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-win-pkg-5.1.148.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-osx-pkg-5.1.148.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-aix-pkg-5.1.148.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
+  <tr>
+   <td>2020年9月3日（PT）</td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 2（6.4.8.2）用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.2</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.148.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-win-pkg-5.1.148.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-osx-pkg-5.1.148.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-aix-pkg-5.1.148.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-solaris-pkg-5.1.148.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>  
-     <li>AEM Forms Client SDK [1]<br /> </li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0019<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.148</p> <p>クライアント SDK：5.1.148<br /> </p> <p>AEM Forms Designer パッチ：640.011</p></td> 
+     <li>AEM Forms Client SDK [1]<br /> </li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0019<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.148</p> <p>クライアント SDK：5.1.148<br /> </p> <p>AEM Forms Designer パッチ：640.011</p></td>
   </tr>
-  <tr> 
-   <td>2020年6月4日（PT）</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 1（6.4.8.1）用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.1</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
+  <tr>
+   <td>2020年6月4日（PT）</td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 1（6.4.8.1）用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.1</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>  
-     <li>AEM Forms Client SDK [1]<br /> </li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0016<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.120</p> <p>クライアント SDK：5.1.120<br /> </p></td> 
+     <li>AEM Forms Client SDK [1]<br /> </li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0016<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.120</p> <p>クライアント SDK：5.1.120<br /> </p></td>
   </tr>
-  <tr> 
-   <td>2020年3月5日（PT）</td> 
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.4.8.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.8.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.7.0-COMPAT.zip">AEM Forms 互換性パッケージ [3]</a></li> 
-     <li>AEM Forms Client SDK [1]<br /> </li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0015<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.100</p> <p>クライアント SDK：5.1.98<br /> </p> <p>AEM Forms 互換性パッケージ：1.1.16</p> <p>AEM Forms Workbench：6.4.0.20200220.1.938252<br /> <br /> </p> </td> 
-  </tr> 
-  <tr> 
-   <td>2019年12月12日（PT）</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.4.7.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.7.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li> 
-     <li>AEM Forms Client SDK [1]<br /> </li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0013</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.94 </p> <p>AEM Forms 互換性パッケージ：1.1.16</p> </td> 
-  </tr> 
-  <tr> 
-   <td>2019年9月19日（PT）</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 6（AEM 6.4.6.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.6.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li> 
+  <tr>
+   <td>2020年3月5日（PT）</td>
+   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.4.8.0 用 AEM Forms アドオンパッケージ）</a></td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.8.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.7.0-COMPAT.zip">AEM Forms 互換性パッケージ [3]</a></li>
+     <li>AEM Forms Client SDK [1]<br /> </li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0015<br /> </p> <p>AEM Forms アドオンパッケージ：5.1.100</p> <p>クライアント SDK：5.1.98<br /> </p> <p>AEM Forms 互換性パッケージ：1.1.16</p> <p>AEM Forms Workbench：6.4.0.20200220.1.938252<br /> <br /> </p> </td>
+  </tr>
+  <tr>
+   <td>2019年12月12日（PT）</td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 7（AEM 6.4.7.0 用 AEM Forms アドオンパッケージ）</a></td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.7.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li>
+     <li>AEM Forms Client SDK [1]<br /> </li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms JEE インストーラー：AEMForms-6.4.0-0013</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.94 </p> <p>AEM Forms 互換性パッケージ：1.1.16</p> </td>
+  </tr>
+  <tr>
+   <td>2019年9月19日（PT）</td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 6（AEM 6.4.6.0 用 AEM Forms アドオンパッケージ）</a></td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.6.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.6.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li> 
-     <li>AEM Forms Client SDK [1]</li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms JEE インストーラー：6.4.0-0009</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.76</p> <p>AEM Forms 互換性パッケージ：1.1.16</p> </td> 
-  </tr> 
-  <tr> 
-   <td>2019年7月3日（PT）</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 5（AEM 6.4.5.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.5.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-LX">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li>      
-     <li>AEM Forms JEE インストーラー [1]<br /> </li> 
-    </ul> </td> 
-   <td><p>AEM Forms JEE インストーラー：6.4.0-0008_00</p> <p>AEM Forms アドオンパッケージ：5.1.66</p> <p>AEM Forms 互換性パッケージ：1.1.14<strong> </strong></p> <br /> </td> 
-  </tr> 
-  <tr> 
-   <td>2019年4月4日（PT）</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 4（AEM 6.4.4.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.4.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.4.0-COMPAT" target="_blank">AEM Forms 互換性パッケージ</a></li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.58</p> <p>AEM Forms JEE インストーラー：6.4.0-006</p> <p>AEM Forms 互換性パッケージ：1.1.12_1<strong> </strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年12月20日（PT）</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 3（AEM 6.4.3.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[2]</sup></a></li>      
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.42</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-004</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年10月3日（PT）</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 2（AEM 6.4.2.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.2.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.6.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li>
+     <li>AEM Forms Client SDK [1]</li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms JEE インストーラー：6.4.0-0009</p> <p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.76</p> <p>AEM Forms 互換性パッケージ：1.1.16</p> </td>
+  </tr>
+  <tr>
+   <td>2019年7月3日（PT）</td>
+   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 5（AEM 6.4.5.0 用 AEM Forms アドオンパッケージ）</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.5.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-LX">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a><br /> </li>
+     <li>AEM Forms JEE インストーラー [1]<br /> </li>
+    </ul> </td>
+   <td><p>AEM Forms JEE インストーラー：6.4.0-0008_00</p> <p>AEM Forms アドオンパッケージ：5.1.66</p> <p>AEM Forms 互換性パッケージ：1.1.14<strong> </strong></p> <br /> </td>
+  </tr>
+  <tr>
+   <td>2019年4月4日（PT）</td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 4（AEM 6.4.4.0 用 AEM Forms アドオンパッケージ）</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.4.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.4.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.4.0-COMPAT" target="_blank">AEM Forms 互換性パッケージ</a></li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：5.1.58</p> <p>AEM Forms JEE インストーラー：6.4.0-006</p> <p>AEM Forms 互換性パッケージ：1.1.12_1<strong> </strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年12月20日（PT）</td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms サービスパック 3（AEM 6.4.3.0 用 AEM Forms アドオンパッケージ）</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ <sup>[2]</sup></a></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.42</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-004</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年10月3日（PT）</td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 2（AEM 6.4.2.0 用 AEM Forms アドオンパッケージ）</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.2.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.2.0-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.2.0-FORMS-APP-SRC-PKG" target="_blank">AEM Forms アプリケーションソース</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.2.0-COMPAT" target="_blank">AEM Forms 互換性パッケージ</a></li>
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.30</strong></p> <p>AEM Forms App Source Code：<strong>4.1.6</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0003</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年6月29日（PT）</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 1（AEM 6.4.1.0 用 AEM Forms アドオンパッケージ）</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.1.0-FORMS-APP-SRC-PKG" target="_blank">AEM Forms アプリケーションソース</a> </li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.14</strong></p> <p>AEM Forms App Source Code：<strong>4.1.2</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0001</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年4月4日（PT）</td> 
-   <td>AEM 6.4 Forms アドオンパッケージ</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/sites/deploying/using/deploy.html" target="_blank">AEM 6.4</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-CMB" target="_blank">Central Migration Bridge パッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-WEBSPHERE-GLOBALSEC-CONFIG" target="_blank">AEM WebSphere グローバルセキュリティ設定パッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-COMPAT" target="_blank">AEM Forms 互換性パッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-FORMS-APP-SRC-PKG" target="_blank">AEM Forms アプリケーションソース </a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-FSI-REF-SITE" target="_blank">AEM Forms FSI 参照サイトパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-GOV-REF-SITE" target="_blank">AEM Forms Gov 参照サイトパッケージ</a></li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     <li>AEM Workbench <sup>[1]</sup></li> 
-     <li>AEM デザイナーインストーラー <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.0.86</strong></p> <p>Central Migration Bridge パッケージ：<strong>6.0.18</strong></p> <p>AEM WebSphere グローバルセキュリティ設定パッケージ：<strong>1.0.0</strong></p> <p>AEM Forms 互換性パッケージ：<strong>1.0.18</strong></p> <p>AEM Forms App Source Code：<strong>4.0.30</strong></p> </td> 
-  </tr> 
- </tbody> 
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.30</strong></p> <p>AEM Forms App Source Code：<strong>4.1.6</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0003</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年6月29日（PT）</td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM Forms サービスパック 1（AEM 6.4.1.0 用 AEM Forms アドオンパッケージ）</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.1.0-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.1.0-FORMS-APP-SRC-PKG" target="_blank">AEM Forms アプリケーションソース</a> </li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.1.14</strong></p> <p>AEM Forms App Source Code：<strong>4.1.2</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.4.0-0001</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年4月4日（PT）</td>
+   <td>AEM 6.4 Forms アドオンパッケージ</td>
+   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-4/sites/deploying/using/deploy.html" target="_blank">AEM 6.4</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-CMB" target="_blank">Central Migration Bridge パッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-WEBSPHERE-GLOBALSEC-CONFIG" target="_blank">AEM WebSphere グローバルセキュリティ設定パッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-COMPAT" target="_blank">AEM Forms 互換性パッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-FORMS-APP-SRC-PKG" target="_blank">AEM Forms アプリケーションソース </a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-FSI-REF-SITE" target="_blank">AEM Forms FSI 参照サイトパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-GOV-REF-SITE" target="_blank">AEM Forms Gov 参照サイトパッケージ</a></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+     <li>AEM Workbench <sup>[1]</sup></li>
+     <li>AEM デザイナーインストーラー <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>5.0.86</strong></p> <p>Central Migration Bridge パッケージ：<strong>6.0.18</strong></p> <p>AEM WebSphere グローバルセキュリティ設定パッケージ：<strong>1.0.0</strong></p> <p>AEM Forms 互換性パッケージ：<strong>1.0.18</strong></p> <p>AEM Forms App Source Code：<strong>4.0.30</strong></p> </td>
+  </tr>
+ </tbody>
 </table>
 
 `[1]` AEM [!DNL Forms JEE]、AEM [!DNL Forms] クライアント SDK、[!DNL AEM Forms on JEE] 埋め込みパッケージ、AEM [!DNL Forms Designer]、RMCSDK、PPL、EnhancedPPL のインストーラーを入手するには、[アドビサポート](https://www.adobe.com/account/sign-in.supportportal.html)にお問い合わせください。
@@ -580,326 +610,326 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
 
 ## AEM 6.3 [!DNL Forms] リリース {#aem-63-forms-releases}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>日付</strong></td> 
-   <td><strong>AEM Forms リリース</strong></td> 
-   <td><strong>前提条件</strong></td> 
-   <td><strong>入手可能なパッケージ</strong></td> 
-   <td><strong>ビルドバージョン</strong></td> 
-  </tr> 
-   <tr> 
-   <td>2021年12月21日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.8 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
-   <td> 
-    <ul> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>日付</strong></td>
+   <td><strong>AEM Forms リリース</strong></td>
+   <td><strong>前提条件</strong></td>
+   <td><strong>入手可能なパッケージ</strong></td>
+   <td><strong>ビルドバージョン</strong></td>
+  </tr>
+   <tr>
+   <td>2021年12月21日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.8 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td>
+   <td>
+    <ul>
       <br><b>AEM Forms on JEE パッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/jboss/Win/AEMForms-6.3.0-0047_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/jboss/Linux/AEMForms-6.3.0-0047_jboss_linux.tar.gz">JBoss Linux</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/jboss/Solaris/AEMForms-6.3.0-0047_jboss_solaris.tar.gz">JBoss Solaris </a> 
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/jboss/Solaris/AEMForms-6.3.0-0047_jboss_solaris.tar.gz">JBoss Solaris </a>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/weblogic/Win/AEMForms-6.3.0-0047_weblogic_win.zip">WebLogic Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/weblogic/solaris/AEMForms-6.3.0-0047_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/weblogic/Linux/AEMForms-6.3.0-0047_weblogic_linux.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/win/AEMForms-6.3.0-0047_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/Linux/AEMForms-6.3.0-0047_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/solaris/AEMForms-6.3.0-0047_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/aix/AEMForms-6.3.0-0047_websphere_aix.tar.gz">WebSphere AIX</a></li> 
-    </ul> </td> 
-   <td> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0047<br /> </p> </td> 
-  </tr> 
-  <tr> 
-   <td>2020年3月5日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.8 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2]<br /> </li> 
-     <li>AEM Forms Client SDK [1]</li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージ：4.1.160</p> <p>クライアント SDK：4.1.158<br /> </p> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0045<br /> </p> </td> 
-  </tr> 
-  <tr> 
-   <td>2019年12月12日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.7 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.7</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2]<br /> </li> 
-     <li>AEM Forms Client SDK [1]</li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：4.1.148</p> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0044 </p> </td> 
-  </tr> 
-  <tr> 
-   <td>2019年9月25日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.6 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.6</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a><br /> [2] </li> 
-     <li>AEM Forms Client SDK [1]</li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.124</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0047</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2019年7月3日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.5 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.5</a></td> 
-   <td> 
-    <ul> 
-     <li>AEM 6.3.3.5 用にリリースされた AEM Forms アドオンパッケージはなし</li> 
-    </ul> </td> 
-   <td>該当なし</td> 
-  </tr> 
-  <tr> 
-   <td>2019年5月9日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.4 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.4</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2] </li> 
-     <li>AEM Forms Client SDK [1]</li> 
-     <li>AEM Forms JEE インストーラー [1]</li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.112</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0036</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2019年3月14日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.3 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.3</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup><sup> </sup></li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.104</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0035</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2019年1月15日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.2 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.2</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup><sup> </sup></li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.94</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0034</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年11月15日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.1 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html" target="_blank">AEM 6.3.3.1</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.90</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0032</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年9月12日（PT）</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3 サービスパック 3 Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.82</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0028</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年6月26日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.2.2 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージ：<strong>4.1.74</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0026</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年5月10日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.2.1 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms Client SDK [1]<sup><br /> </sup></li> 
-     <li>AEM Forms Designer <sup>[1]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     <li>AEM Forms Workbench ホットフィックス <sup>[2]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.70</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0025</strong></p> <p>AEM Forms Designer インストーラー：<strong>630.005</strong></p> <p>AEM Forms Workbench ホットフィックス：<strong>1007-008</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年4月5日（PT）</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 サービスパック 2 Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3.2.0</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.64</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0022</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2018年1月8日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.1.2 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms アプリケーションソース <sup>[1]</sup></li> 
-     <li>Document Security クライアント SDK</li> 
-     <li>Document Security ポータブル保護ライブラリ <sup>[1]</sup></li> 
-     <li>Document Security 強化ポータブル保護ライブラリ <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.50</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0017</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.22</strong></p> <p>Document Security クライアント SDK：<strong>1.0.0.20171220.2.334666</strong></p> <p>Document Security ポータブル保護ライブラリ：<strong>1.0.0.20171220.2.334661</strong></p> <p>Document Security 強化ポータブル保護ライブラリ：<strong>1.0.0.20171220.1.334662</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2017年11月29日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.1.1 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms on JEE 埋め込みパッケージ <sup>[1] [3]</sup></li> 
-     <li>AEM Forms アプリケーションソース <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.36</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0013</strong></p> <p> AEM Forms on JEE 埋め込みパッケージ：<strong>4.0.20</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
-  </tr> 
-  <tr> 
-   <td>2017年10月13日（PT）</td> 
-   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp1-release-notes.html">AEM 6.3 サービスパック 1 Forms アドオンパッケージ</a></td> 
-   <td><a href="https://helpx.adobe.com/in/experience-manager/6-3/release-notes/sp1-release-notes.html" target="_blank">AEM 6.3 サービスパック 1</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms アプリケーションソース <sup>[1]<br /> </sup></li> 
-     <li>AEM Workbench ホットフィックス [1]</li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3-SP1-FSI-REF-SITE" target="_blank">AEM Forms FSI 参照サイトパッケージ</a></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.18</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0008</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.16</strong></p> <p>AEM Workbench ホットフィックス：<strong>1003-004</strong></p> <p>AEM Forms FSI 参照サイトパッケージ：<strong>aemfd: cq-we-finance-pkg:3.1.10</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2017年8月8日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.0.2 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-LX">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup><br /> </li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup><br /> </li> 
-     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
-     <li>AEM Forms アプリケーションソース <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.14</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0003</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2017年6月23日（PT）</td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.0.1 用 AEM Forms アドオンパッケージ</a></td> 
-   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td> 
-   <td> 
-    <ul> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li> 
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/aix/AEMForms-6.3.0-0047_websphere_aix.tar.gz">WebSphere AIX</a></li>
+    </ul> </td>
+   <td> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0047<br /> </p> </td>
+  </tr>
+  <tr>
+   <td>2020年3月5日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.8 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2]<br /> </li>
+     <li>AEM Forms Client SDK [1]</li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージ：4.1.160</p> <p>クライアント SDK：4.1.158<br /> </p> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0045<br /> </p> </td>
+  </tr>
+  <tr>
+   <td>2019年12月12日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.7 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.7</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2]<br /> </li>
+     <li>AEM Forms Client SDK [1]</li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：4.1.148</p> <p>AEM Forms JEE インストーラー：AEMForms-6.3.0-0044 </p> </td>
+  </tr>
+  <tr>
+   <td>2019年9月25日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.6 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.6</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-AIX.zip">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-LX.zip">Linux 用 AEM Forms アドオンパッケージ</a><br /> </li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-WIN.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-SOL.zip">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-OSX.zip">Mac OS X 用 AEM Forms アドオンパッケージ</a><br /> [2] </li>
+     <li>AEM Forms Client SDK [1]</li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.124</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0047</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2019年7月3日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.5 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.5</a></td>
+   <td>
+    <ul>
+     <li>AEM 6.3.3.5 用にリリースされた AEM Forms アドオンパッケージはなし</li>
+    </ul> </td>
+   <td>該当なし</td>
+  </tr>
+  <tr>
+   <td>2019年5月9日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.4 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.4</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> [2] </li>
+     <li>AEM Forms Client SDK [1]</li>
+     <li>AEM Forms JEE インストーラー [1]</li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.112</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0036</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2019年3月14日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.3 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.3</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup><sup> </sup></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.104</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0035</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2019年1月15日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.2 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.2</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup><sup> </sup></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.94</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0034</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年11月15日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック 6.3.3.1 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html" target="_blank">AEM 6.3.3.1</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.90</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0032</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年9月12日（PT）</td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3 サービスパック 3 Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.82</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0028</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年6月26日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.2.2 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージ：<strong>4.1.74</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0026</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年5月10日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.2.1 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 累積修正パック</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li>AEM Forms Client SDK [1]<sup><br /> </sup></li>
+     <li>AEM Forms Designer <sup>[1]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+     <li>AEM Forms Workbench ホットフィックス <sup>[2]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.70</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0025</strong></p> <p>AEM Forms Designer インストーラー：<strong>630.005</strong></p> <p>AEM Forms Workbench ホットフィックス：<strong>1007-008</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年4月5日（PT）</td>
+   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 サービスパック 2 Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3.2.0</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.64</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0022</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2018年1月8日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.1.2 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms アプリケーションソース <sup>[1]</sup></li>
+     <li>Document Security クライアント SDK</li>
+     <li>Document Security ポータブル保護ライブラリ <sup>[1]</sup></li>
+     <li>Document Security 強化ポータブル保護ライブラリ <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.50</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0017</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.22</strong></p> <p>Document Security クライアント SDK：<strong>1.0.0.20171220.2.334666</strong></p> <p>Document Security ポータブル保護ライブラリ：<strong>1.0.0.20171220.2.334661</strong></p> <p>Document Security 強化ポータブル保護ライブラリ：<strong>1.0.0.20171220.1.334662</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2017年11月29日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.1.1 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms on JEE 埋め込みパッケージ <sup>[1] [3]</sup></li>
+     <li>AEM Forms アプリケーションソース <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.36</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0013</strong></p> <p> AEM Forms on JEE 埋め込みパッケージ：<strong>4.0.20</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.16</strong></p> <p> </p> <p> </p> </td>
+  </tr>
+  <tr>
+   <td>2017年10月13日（PT）</td>
+   <td><a href="https://helpx.adobe.com/jp/experience-manager/6-3/release-notes/sp1-release-notes.html">AEM 6.3 サービスパック 1 Forms アドオンパッケージ</a></td>
+   <td><a href="https://helpx.adobe.com/in/experience-manager/6-3/release-notes/sp1-release-notes.html" target="_blank">AEM 6.3 サービスパック 1</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms アプリケーションソース <sup>[1]<br /> </sup></li>
+     <li>AEM Workbench ホットフィックス [1]</li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3-SP1-FSI-REF-SITE" target="_blank">AEM Forms FSI 参照サイトパッケージ</a></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.18</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0008</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.16</strong></p> <p>AEM Workbench ホットフィックス：<strong>1003-004</strong></p> <p>AEM Forms FSI 参照サイトパッケージ：<strong>aemfd: cq-we-finance-pkg:3.1.10</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2017年8月8日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.0.2 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-AIX">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-LX">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-WIN">Windows 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-SOL">Solaris 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-OSX" target="_blank">Mac OS X 用 AEM Forms アドオンパッケージ</a> <sup>[2]</sup><br /> </li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup><br /> </li>
+     <li>AEM Forms Client SDK <sup>[1]</sup></li>
+     <li>AEM Forms アプリケーションソース <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.14</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0003</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2017年6月23日（PT）</td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック 6.3.0.1 用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 累積修正パック</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-AIX" target="_blank">AIX 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-LX" target="_blank">Linux 用 AEM Forms アドオンパッケージ</a></li>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-WIN" target="_blank">Windows 用 AEM Forms アドオンパッケージ</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-SOL" target="_blank">Solaris 用 AEM Forms アドオンパッケージ</a></li>
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ </a></li>      
-     <li>AEM Forms Client SDK <sup>[1]</sup><br /> </li> 
-     <li>AEM Forms Designer <sup>[1]</sup></li> 
-     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li> 
-     <li>AEM Forms アプリケーションソース <sup>[1]</sup></li> 
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.6</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0002</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.14</strong></p> </td> 
-  </tr> 
-  <tr> 
-   <td>2017年4月26日（PT）</td> 
-   <td>AEM 6.3 Forms アドオンパッケージ</td> 
-   <td><a href="https://docs.adobe.com/docs/en/aem/6-3/deploy.html" target="_blank">AEM 6.3</a></td> 
-   <td> 
-    <ul>      
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/fd/AEM-DOCUMENTSECURITY-INDEXER-6.3">AEM Forms Document Security インデクサーパッケージ</a></li> 
-     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client SDK</a></li>      
-    </ul> </td> 
-   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.0.74</strong></p> <p>Central Migration Bridge パッケージ：<strong>5.0.10</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.12</strong></p> <p>AEM Forms Document Security インデクサー：<strong>2.0.4</strong></p> <p>AEM Forms FSI 参照サイトパッケージ：<strong>aemfd: cq-we-finance-pkg:3.0.6</strong></p> <p>AEM Forms Gov 参照サイトパッケージ：<strong>day/cq60/fd: cq -we-gov-all-pkg:4.0.8</strong></p> </td> 
-  </tr> 
- </tbody> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">Mac OS X 用 AEM Forms アドオンパッケージ </a></li>
+     <li>AEM Forms Client SDK <sup>[1]</sup><br /> </li>
+     <li>AEM Forms Designer <sup>[1]</sup></li>
+     <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
+     <li>AEM Forms アプリケーションソース <sup>[1]</sup></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.1.6</strong></p> <p>AEM Forms JEE インストーラー：<strong>6.3.0-0002</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.14</strong></p> </td>
+  </tr>
+  <tr>
+   <td>2017年4月26日（PT）</td>
+   <td>AEM 6.3 Forms アドオンパッケージ</td>
+   <td><a href="https://docs.adobe.com/docs/en/aem/6-3/deploy.html" target="_blank">AEM 6.3</a></td>
+   <td>
+    <ul>
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/fd/AEM-DOCUMENTSECURITY-INDEXER-6.3">AEM Forms Document Security インデクサーパッケージ</a></li>
+     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client SDK</a></li>
+    </ul> </td>
+   <td><p>AEM Forms アドオンパッケージおよびクライアント SDK：<strong>4.0.74</strong></p> <p>Central Migration Bridge パッケージ：<strong>5.0.10</strong></p> <p>AEM Forms アプリケーションソース：<strong>3.1.12</strong></p> <p>AEM Forms Document Security インデクサー：<strong>2.0.4</strong></p> <p>AEM Forms FSI 参照サイトパッケージ：<strong>aemfd: cq-we-finance-pkg:3.0.6</strong></p> <p>AEM Forms Gov 参照サイトパッケージ：<strong>day/cq60/fd: cq -we-gov-all-pkg:4.0.8</strong></p> </td>
+  </tr>
+ </tbody>
 </table>
 
 `[1]` AEM [!DNL Forms] JEE、AEM [!DNL Forms] クライアント SDK、[!DNL AEM Forms on JEE] 埋め込みパッケージ、AEM [!DNL Forms Designer]、RMCSDK、PPL、EnhancedPPL のインストーラーを入手するには、[アドビサポート](https://www.adobe.com/account/sign-in.supportportal.html)にお問い合わせください。
