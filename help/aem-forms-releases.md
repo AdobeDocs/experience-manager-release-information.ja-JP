@@ -3,7 +3,7 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 66fa1fe6c5d104dd263098754c5785b8794ccf30
+source-git-commit: e231653f1fe5027d7ce8bbe5b4cdaf949479872d
 workflow-type: tm+mt
 source-wordcount: '12175'
 ht-degree: 98%
@@ -32,7 +32,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><strong>ビルドバージョン</strong></td>
    </tr>
    <tr>
-    <td>2022年2月03日（PT）</td>
+    <td>2022 年 3 月 03 日</td>
     <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 12（AEM 6.5.12.0 用 AEM Forms アドオンパッケージ）</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.12.0</a></td>
     <td>
