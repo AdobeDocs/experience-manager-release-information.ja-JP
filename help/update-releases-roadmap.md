@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 978e2aa8a6ce928e11249b10550d7bad1bdf5462
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
+workflow-type: tm+mt
+source-wordcount: '325'
+ht-degree: 82%
 
 ---
 
@@ -19,17 +19,15 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) は毎月 1 回のペースでリリースされます。したがって、[!DNL Experience Manager] の新機能は毎月継続的にアップデートされます。[!DNL Experience Manager] as a [!DNL Cloud Service] の今後のリリースは次のとおりです。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) 通常、新機能は毎月のリリースサイクルに従います。 の今後の機能リリース [!DNL Experience Manager] as a [!DNL Cloud Service]は、次のように計画されています。
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 月次リリース | 2021年12月16日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | 月次リリース | 2022年2月3日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 月次リリース | 2022年3月31日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 月次リリース | 2022年4月28日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 月次リリース | 2022年5月26日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 機能リリース | 2022年3月31日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 機能リリース | 2022年4月28日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 機能リリース | 2022年5月26日（PT） |
 
-毎月のリリースに加えて、[!DNL Experience Manager] as a [!DNL Cloud Service] では様々な重要なアップデートが毎日公開されています。
+機能リリースに加えて、重要なバグとセキュリティの修正が [!DNL Experience Manager] as a [!DNL Cloud Service] メンテナンスリリースの形式で、対応するメンテナンスの更新は、通常、毎週おこなわれます。
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
