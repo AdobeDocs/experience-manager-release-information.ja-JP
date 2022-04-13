@@ -3,9 +3,9 @@ title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 82%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) 通常、新機能は毎月のリリースサイクルに従います。 の今後の機能リリース [!DNL Experience Manager] as a [!DNL Cloud Service]は、次のように計画されています。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) は通常、新機能の毎月のリリースサイクルに従います。[!DNL Experience Manager] as a [!DNL Cloud Service] の今後のリリース予定は次のとおりです。
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
@@ -27,7 +27,7 @@ ht-degree: 82%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 機能リリース | 2022年4月28日（PT） |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 機能リリース | 2022年5月26日（PT） |
 
-機能リリースに加えて、重要なバグとセキュリティの修正が [!DNL Experience Manager] as a [!DNL Cloud Service] メンテナンスリリースの形式で、対応するメンテナンスの更新は、通常、毎週おこなわれます。
+[!DNL Experience Manager] as a [!DNL Cloud Service] では、機能リリースに加えて、重要なバグとセキュリティの修正がメンテナンスリリースの形式で、対応するメンテナンスの更新は、通常毎週行われます。
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
@@ -51,12 +51,12 @@ ht-degree: 82%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 サービスパック 8 CFP 4は、 [!DNL Experience Manager] 6.4 の最後の CFP です。最新リリースの CFP の詳細については、[[!DNL Experience Manager] 6.4 累積修正パックリリースノートを参照してください](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)。
+[!DNL Experience Manager] 6.4 サービスパック 8 CFP 4は、[!DNL Experience Manager] 6.4 の最新の CFP です。最新リリースの CFP の詳細については、[[!DNL Experience Manager] 6.4 累積修正パックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)を参照してください。
 
 >[!MORELIKETHIS]
 >
 >* [EOL マトリックス](https://helpx.adobe.com/jp/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager] のリリースとアップデート](https://helpx.adobe.com/jp/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] の学習とサポート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+>* [[!DNL Experience Manager]  の学習とサポート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 >* [[!DNL Experience Manager] アップデートリリースの提供に関する定義](/help/update-release-vehicle-definitions.md)
 
