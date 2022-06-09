@@ -3,10 +3,10 @@ title: 累積修正パックの AEM Forms JEE へのインストール
 description: AEM Forms JEE での累積修正パック（CFP）のインストールおよび設定手順の概要
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: ht
-source-wordcount: '1044'
-ht-degree: 100%
+source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
+workflow-type: tm+mt
+source-wordcount: '910'
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 1. [Adobe サポート](https://www.adobe.com/account/sign-in.supportportal.html)に連絡して、CFP の AEM 6.3 [!DNL Forms JEE] インストーラーを入手します。
 1. [AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) のインストールと設定の説明に従って、CFP インストーラーを実行し、AEM [!DNL Forms JEE] を設定します。
-1. 最新の AEM CFP [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md) をインストールします。
+1. 最新の AEM CFP 6.3.3.x をインストールします。
 1. AEM CFP [6.3.3.x ](aem-forms-releases.md)用の[!DNL Forms]アドオンパッケージをインストールします。
 
 ### AEM [!DNL Forms JEE] バンドルパッケージのインストール {#install-aem-forms-jee-bundles-package}
@@ -27,7 +27,7 @@ AEM [!DNL  Forms JEE] パッケージ（aemfd-jee-bundles-package-6.3CFP1、バ�
 
 ### CQ-4208044 の追加手順 {#additional-instructions-for-cq}
 
-AEM 6.3 [!DNL Forms JEE] サーバーと Oracle データベースを使用している場合は、CFP1 のデプロイ後、つまり Configuration Manager の実行後に、以下の設定を設定します。この設定は、エンタープライズドメインの同期が実行されるときに、ユーザー、グループ、グループメンバーを同期するために必要です。[AEM 6.3 リリースノート](release-notes-aem-6-3-cumulative-fix-pack.md#main-pars-header-853219205)で問題 CQ-4208044 を参照してください。
+AEM 6.3 [!DNL Forms JEE] サーバーと Oracle データベースを使用している場合は、CFP1 のデプロイ後、つまり Configuration Manager の実行後に、以下の設定を設定します。この設定は、エンタープライズドメインの同期が実行されるときに、ユーザー、グループ、グループメンバーを同期するために必要です。
 
 1. **管理者** UI にログインします。
 1. **[!UICONTROL 設定]**／**[!UICONTROL User Management]**／**[!UICONTROL 設定]**／**[!UICONTROL 設定ファイルの読み込みと書き出し]**&#x200B;に移動します
@@ -42,16 +42,12 @@ AEM 6.3 [!DNL Forms JEE] サーバーと Oracle データベースを使用し�
 
 指定した順序で次の手順を実行し、累積修正パックを AEM 6.2 [!DNL Forms JEE] にインストールします。
 
->[!NOTE]
->
->AEM 6.2 [!DNL Forms OSGi] を使用している場合は、[AEM 6.2 CFP リリースノート](release-notes-aem-6-2-cumulative-fix-pack.md)のインストール手順に従ってください。
-
 1. [Adobe サポート](https://www.adobe.com/account/sign-in.supportportal.html)に連絡して、CFP の AEM 6.2 [!DNL Forms JEE] インストーラーを入手します。
 1. [AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) のインストールと設定の説明に従って、CFP インストーラーを実行し、AEM [!DNL Forms JEE] を設定します。
 1. AEM Hotfix 12785 バージョン 7.0 をインストールします。
-1. [AEM 6.2 サービスパック 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) をインストールします。
-1. 最新の [AEM 6.2 サービスパック 1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md) をインストールします。
-1. [AEM 6.2 サービスパック 1 CFP ](aem-forms-releases.md)用 [!DNL Forms] アドオンパッケージをインストールします。
+1. AEM 6.2 サービスパック 1 をインストールします。
+1. 最新の release-notes-aem-6-2-cumulative-fix-pack.md をインストールします。
+1. AEM 6.2 サービスパック 1 CFP 用 [!DNL Forms] アドオンパッケージをインストールします。
 
 ### AEM [!DNL Forms JEE] バンドルパッケージのインストール {#install-aem-forms-jee-bundles-package-1}
 
@@ -61,7 +57,7 @@ AEM Forms JEE パッケージ （aemfd-jee-bundles-package-6.2CFP5、バージ�
 
 >[!NOTE]
 >
->AEM 6.2 CFP4 の後は、次の手順で、アップグレードプロセス中にタイムアウトが原因で問題が発生した場合に DSC 操作のタイムアウトを設定できます。（[AEM 6.2 CFP4 リリースノート](release-notes-aem-6-2-cumulative-fix-pack.md)の NPR-16774 を参照）。
+>AEM 6.2 CFP4 の後は、次の手順で、アップグレードプロセス中にタイムアウトが原因で問題が発生した場合に DSC 操作のタイムアウトを設定できます。
 
 DSC のデプロイメントには、失敗する可能性があるため、変数の時間がかかります。インストール、読み込み、開始、停止などの DSC 操作のタイムアウトを変更するには、JVM 引数に -D オプションで使用して `adobe.component.registry.timeout` を設定する必要があります。
 
@@ -83,7 +79,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
 1. `DesigntimeService` 操作値のタイムアウトを 500 秒に設定するには、次を使用します。
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. `DesigntimeService's previewLCA` 操作値のタイムアウトを 700 秒に設定するには、次を使用します。
 
@@ -91,7 +87,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
 1. 読み込み、インストールなどの `DSC operations` を 600 秒に設定するには、次を使用します。
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## AEM [!DNL Forms JEE] のインストールと設定  {#install-and-configure-aem-forms-jee}
 
@@ -142,22 +138,8 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
    AEM [!DNL Forms] 6.3 の場合は、次を参照してください。
 
-   * [ [!DNL Forms]  AEM のインストールおよびデプロイ（JBoss 版）](https://helpx.adobe.com/jp/pdf/aem-forms/6-3/install-single-server-jboss.pdf)
-   * [ [!DNL Forms]  AEM のインストールおよびデプロイ（WebSphere 版）](https://helpx.adobe.com/jp/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
-   * [ [!DNL Forms]  AEM のインストールおよびデプロイ（WebLogic 版）](https://helpx.adobe.com/jp/pdf/aem-forms/6-3/install-single-server-weblogic.pdf)
-
-   AEM [!DNL Forms] 6.2 の場合は、次を参照してください。
-
-   * [ [!DNL Forms]  AEM のインストールおよびデプロイ（JBoss 版）](http://www.adobe.com/go/learn_aemforms_installJBoss_62_jp)
-   * [ [!DNL Forms]  AEM のインストールおよびデプロイ（WebSphere 版）](http://www.adobe.com/go/learn_aemforms_installWebSphere_62_jp)
-   * [ [!DNL Forms]  AEM のインストールおよびデプロイ（WebLogic 版）](http://www.adobe.com/go/learn_aemforms_installWebLogic_62_jp)
-
-   AEM Forms 6.1 については、次を参照してください。
-
-   * [ [!DNL Forms]  AEM のインストールおよびデプロイ（JBoss 版）](http://www.adobe.com/go/learn_aemforms_installJBoss_61)
-   * [ [!DNL Forms]  AEM のインストールおよびデプロイ（WebSphere 版）](http://www.adobe.com/go/learn_aemforms_installWebSphere_61)
-   * [ [!DNL Forms]  AEM のインストールおよびデプロイ（WebLogic 版）](http://www.adobe.com/go/learn_aemforms_installWebLogic_61)
-
-
+   * [!DNL Forms] AEM のインストールおよびデプロイ（JBoss 版）
+   * [!DNL Forms] AEM のインストールおよびデプロイ（WebSphere 版）
+   * [!DNL Forms] AEM のインストールおよびデプロイ（WebLogic 版）
 
 1. AEM [!DNL Forms] JEE サーバーを再起動します。
