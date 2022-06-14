@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 53cccff092a433c3fba00a43def69606ee6e2a11
-workflow-type: ht
-source-wordcount: '325'
-ht-degree: 100%
+source-git-commit: 75f742e3caa864803ddbbc47cc43fae4cbe52a4a
+workflow-type: tm+mt
+source-wordcount: '343'
+ht-degree: 99%
 
 ---
 
@@ -23,9 +23,12 @@ ht-degree: 100%
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 機能リリース | 2022年3月31日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 機能リリース | 2022年5月5日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 機能リリース | 2022年6月9日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.6.0 | 2022.6.0 | 機能リリース | 2022年6月30日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.7.0 | 2022.7.0 | 機能リリース | 2022 年 7 月 29 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | 機能リリース | 2022 年 8 月 26 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.9.0 | 2022.9.0 | 機能リリース | 2022 年 9 月 30 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 機能リリース | 2022年10月27日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 | 2022.11.0 | 機能リリース | 2022 年 11 月 18 日 |
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] では、機能リリースに加えて、重要なバグとセキュリティの修正がメンテナンスリリースの形式で、対応するメンテナンスの更新は、通常毎週行われます。
 
