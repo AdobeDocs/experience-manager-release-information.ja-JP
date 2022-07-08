@@ -33,7 +33,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
    </tr>
    <tr>
     <td>2022年6月2日（PT）</td>
-    <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 13（AEM 6.5.13.0 用 Forms アドオンパッケージ）</a></td>
+    <td><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms サービスパック 13（AEM 6.5.13.0 用 Forms アドオンパッケージ）</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.13.0</a></td>
     <td>
      <ul>
@@ -380,7 +380,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr>
  <tr>
    <td>2021年12月20日（PT）</td>
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td>
+   <td><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 サービスパック 8 累積修正パック 4（6.4.8.4）用 AEM Forms アドオンパッケージ</a></td>
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td>
    <td>
     <ul>
@@ -485,7 +485,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tr>
   <tr>
    <td>2020年3月5日（PT）</td>
-   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.4.8.0 用 AEM Forms アドオンパッケージ）</a></td>
+   <td><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms サービスパック 8（AEM 6.4.8.0 用 AEM Forms アドオンパッケージ）</a></td>
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.8.0</a></td>
    <td>
     <ul>
