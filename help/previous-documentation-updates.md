@@ -1,16 +1,16 @@
 ---
-title: 以前のドキュメント更新
+title: '以前のドキュメント更新 '
 description: このページでは、以前おこなわれた  [!DNL Adobe Experience Manager] ドキュメントの重要な変更と更新の一覧を示します。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: d984db863b24ced14834c437b76fea80774b17d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3632'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# 以前のドキュメント更新{#previous-documentation-updates}
+# 以前のドキュメント更新 {#previous-documentation-updates}
 
 このページでは、以前おこなわれた [!DNL Adobe Experience Manager] ドキュメントの重要な変更と更新の一覧を示します。最近のドキュメント更新については、[こちら](documentation-updates.md)を参照してください。
 
@@ -46,7 +46,7 @@ ht-degree: 99%
   <tr>
    <td>2019年10月18日（PT）<br /> </td> 
    <td>AEM プロジェクトアーキタイプ<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">AEM プロジェクトアーキタイプ</a>は、独自の AEM プロジェクトの出発点として、ベストプラクティスにもとづいた Adobe Experience Manager プロジェクトを作成します。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=ja">AEM プロジェクトアーキタイプ</a>は、独自の AEM プロジェクトの出発点として、ベストプラクティスにもとづいた Adobe Experience Manager プロジェクトを作成します。<br /> </td> 
   </tr>
   <tr>
    <td>2019年10月18日（PT）<br /> </td> 
@@ -156,7 +156,7 @@ ht-degree: 99%
   <tr>
    <td>2019年7月3日（PT）</td> 
    <td>AEM 6.5 サービスパック 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 サービスパック 1（6.5.1.0）</a>が入手可能になりました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja">AEM 6.5 サービスパック 1（6.5.1.0）</a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019年6月25日（PT）</td> 
@@ -225,7 +225,7 @@ ht-degree: 99%
   <tr>
    <td>2019年4月12日（PT）</td> 
    <td>AEM 6.5 Screens ユーザーガイド</td> 
-   <td><p>詳しくは、<a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Windows 10 プレーヤーの実装</a>を参照してください。</p> </td> 
+   <td><p>詳しくは、<a href="https://docs.adobe.com/content/help/ja/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Windows 10 プレーヤーの実装</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2019年4月08日（PT）</td> 
@@ -262,12 +262,12 @@ ht-degree: 99%
   <tr>
    <td>2019年9月19日（PT）</td> 
    <td>AEM 6.4 サービスパック 6<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 サービスパック 6（6.4.6.0）</a>が入手可能になりました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ja">AEM 6.4 サービスパック 6（6.4.6.0）</a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019年9月9日（PT）<br /> </td> 
    <td>AEM デスクトップアプリケーション</td> 
-   <td>AEM デスクトップアプリケーション v2.0 は、AEM Assets で作業するクリエイティブ、マーケティング担当者、および事業部門ユーザー向けに公開されています。詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">リリースノート</a>を参照してください。</td> 
+   <td>AEM デスクトップアプリケーション v2.0 は、AEM Assets で作業するクリエイティブ、マーケティング担当者、および事業部門ユーザー向けに公開されています。詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=ja" target="_blank">リリースノート</a>を参照してください。</td> 
   </tr>
   <tr>
    <td>2019年9月6日（PT）</td> 
@@ -277,12 +277,12 @@ ht-degree: 99%
   <tr>
    <td>2019年8月20日（PT）</td> 
    <td>AEM Assets のスマートタグ</td> 
-   <td>有効期限が切れた後の<a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">証明書のアップデート</a>方法について説明しています。</td> 
+   <td>有効期限が切れた後の<a href="https://docs.adobe.com/content/help/ja/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">証明書のアップデート</a>方法について説明しています。</td> 
   </tr>
   <tr>
    <td>2019年8月2日（PT）<br /> </td> 
    <td>新しい PDF ラスタライザーパッケージ</td> 
-   <td>AEM Assets が重い AI/PDF ファイルを処理し、プレビューとサムネイルを生成するのに役立つ、<a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-64/assets/administer/aem-pdf-rasterizer.html" target="_blank">新しいパッケージが利用可能です</a>。</td> 
+   <td>AEM Assets が重い AI/PDF ファイルを処理し、プレビューとサムネイルを生成するのに役立つ、<a href="https://docs.adobe.com/content/help/ja/experience-manager-64/assets/administer/aem-pdf-rasterizer.html" target="_blank">新しいパッケージが利用可能です</a>。</td> 
   </tr>
   <tr>
    <td>2019年7月3日（PT）</td> 
@@ -302,7 +302,7 @@ ht-degree: 99%
   <tr>
    <td>2019年4月4日（PT）</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 サービスパック 4（6.4.4.0）</a>が入手可能になりました。</td> 
+   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 サービスパック 4（6.4.4.0）</a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019年2月22日（PT）</td> 
@@ -339,7 +339,7 @@ ht-degree: 99%
   <tr>
    <td>2018年12月20日（PT）</td> 
    <td>AEM 6.4 サービスパック 3</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 サービスパック 3（6.4.3.0）</a>が入手可能になりました。</td> 
+   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 サービスパック 3（6.4.3.0）</a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2018年12月17日（PT）</td> 
@@ -414,7 +414,7 @@ ht-degree: 99%
   <tr>
    <td>2018年10月03日（PT）</td> 
    <td>AEM 6.4 サービスパック 2</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 サービスパック 2</a>（6.4.2.0）が入手可能になりました。</td> 
+   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 サービスパック 2</a>（6.4.2.0）が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2018年9月18日（PT）</td> 
@@ -434,12 +434,12 @@ ht-degree: 99%
   <tr>
    <td>2018年8月24日（PT）</td> 
    <td>リッチテキストエディター<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">リッチテキストエディターの設定</a>の記事を改訂しました。構成を見直し、足りない情報を補い、ワークフローのイラストを追加し、長文の記事を分割しました。</td> 
+   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">リッチテキストエディターの設定</a>の記事を改訂しました。構成を見直し、足りない情報を補い、ワークフローのイラストを追加し、長文の記事を分割しました。</td> 
   </tr>
   <tr>
    <td>2018年8月24日（PT）</td> 
    <td>単一ページアプリケーション<br /> </td> 
-   <td>AEM SPA エディター向けの<a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">単一ページアプリケーション（SPA）</a>の開発に関するドキュメントが更新および拡張されました。<br /> </td> 
+   <td>AEM SPA エディター向けの<a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=ja&amp;topic=%2Fexperience-manager%2F6-4%2Fsites%2Fdeveloping%2Fmorehelp%2Fspa.ug.js">単一ページアプリケーション（SPA）</a>の開発に関するドキュメントが更新および拡張されました。<br /> </td> 
   </tr>
   <tr>
    <td>2018年8月16日（PT）</td> 
@@ -474,7 +474,7 @@ ht-degree: 99%
   <tr>
    <td>2018年7月05日（PT）</td> 
    <td>MC と CC の統合<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">Experience Cloud および Creative Cloud との AEM Assets 統合の設定</a>の記事でバグの修正と編集上の改善をおこないました。</td> 
+   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/administering/integration/configure-assets-cc-integration.html">Experience Cloud および Creative Cloud との AEM Assets 統合の設定</a>の記事でバグの修正と編集上の改善をおこないました。</td> 
   </tr>
   <tr>
    <td>2018年7月05日（PT）</td> 
@@ -489,7 +489,7 @@ ht-degree: 99%
   <tr>
    <td>2018年6月29日（PT）</td> 
    <td>AEM 6.4.1.0</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a> が使用可能になりました。</td> 
+   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a> が使用可能になりました。</td> 
   </tr>
   <tr>
    <td>2018年6月25日（PT）</td> 
@@ -509,7 +509,7 @@ ht-degree: 99%
   <tr>
    <td>2018年6月14日（PT）</td> 
    <td>拡張スマートタグ</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">スマートコンテンツサービスを使用したアセットのタグ付けの設定</a>方法に関するドキュメントを改訂しました。</td> 
+   <td><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">スマートコンテンツサービスを使用したアセットのタグ付けの設定</a>方法に関するドキュメントを改訂しました。</td> 
   </tr>
   <tr>
    <td>2018年6月04日（PT）</td> 
@@ -555,7 +555,7 @@ ht-degree: 99%
   <tr>
    <td>2018年4月24日（PT）<br /> </td> 
    <td>単一ページアプリケーション<br /> </td> 
-   <td><p>単一ページアプリケーション（SPA）により、Web サイトのユーザーに魅力的なエクスペリエンスを提供することができます。開発者にとっては、SPA フレームワークを使用してサイトを構築できると都合がよく。また、作成者にとっては、SPA として構築されたサイトのコンテンツを AEM 内でシームレスに編集できると便利です。</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA オーサリング機能</a>（現在は技術プレビューの段階）には、AEM 内で SPA をサポートするための包括的なソリューションが用意されています。</p> </td> 
+   <td><p>単一ページアプリケーション（SPA）により、Web サイトのユーザーに魅力的なエクスペリエンスを提供することができます。開発者にとっては、SPA フレームワークを使用してサイトを構築できると都合がよく。また、作成者にとっては、SPA として構築されたサイトのコンテンツを AEM 内でシームレスに編集できると便利です。</p> <p><a href="https://docs.adobe.com/content/help/ja/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA オーサリング機能</a>（現在は技術プレビューの段階）には、AEM 内で SPA をサポートするための包括的なソリューションが用意されています。</p> </td> 
   </tr>
   <tr>
    <td>2018年4月04日（PT）</td> 
@@ -571,9 +571,9 @@ ht-degree: 99%
 
 ## 以前のコンテンツ {#legacy-content}
 
-2017 年 10 月 24 日をもって、従来のバージョンのAEMドキュメントは、次の場所に移行しました： [Adobe Experience Manager、CQ、CRX の以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+2017年10月24日（PT）をもって、レガシーバージョンの AEM ドキュメントは、新規の場所 [Adobe Experience Manager、CQ、CRX の以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)に移行しました。
 
-移動したのは次のバージョンです。
+次のバージョンを移行しました。
 
 * AEM 6.3
 * AEM 6.2
