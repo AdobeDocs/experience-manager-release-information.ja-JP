@@ -4,8 +4,8 @@ description: 「[!DNL Adobe Experience Manager] リリースロードマップ�
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: bc57d5d74c91ff4af4f14886a1ba2aefb5daed9f
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->以下の日付とこの記事で利用可能なロードマップの更新は、情報のみを対象としており、いつでも変更される場合があります。
+>以下の日付とこの記事で入手可能なロードマップ更新は情報提供のみを目的としており、いつでも変更される可能性があります。
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
