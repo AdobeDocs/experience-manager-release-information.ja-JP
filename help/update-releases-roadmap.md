@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 2b1db318447c7de771ac734403c59c69f1163f0a
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 98%
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 機能リリース | 2022年11月10日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 機能リリース | 2023 年 1 月 27 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 機能リリース | 2023 年 2 月 24 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 機能リリース | 2023 年 3 月 31 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 機能リリース | 2023 年 4 月 28 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 機能リリース | 2023年1月26日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 機能リリース | 2023年2月23日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 機能リリース | 2023年3月30日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 機能リリース | 2023年4月27日（PT） |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 機能リリース | 2023年5月25日（PT） |
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] では、機能リリースに加えて、重要なバグとセキュリティの修正がメンテナンスリリースの形式で、対応するメンテナンスの更新は、通常毎週行われます。
@@ -44,7 +44,7 @@ ht-degree: 98%
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 サービスパック 14 | 6.5.14.0 | サービスパック | 2022年8月25日（PT） |
 | [!DNL Experience Manager] 6.5 サービスパック 15 | 6.5.15.0 | サービスパック | 2022年11月24日（PT） |
-| [!DNL Experience Manager] 6.5 サービスパック 16 | 6.5.16.0 | サービスパック | 2023 年 2 月 24 日 |
+| [!DNL Experience Manager] 6.5 サービスパック 16 | 6.5.16.0 | サービスパック | 2023年2月23日（PT） |
 | [!DNL Experience Manager] 6.5 サービスパック 17 | 6.5.17.0 | サービスパック | 2023年5月25日（PT） |
 
 >[!NOTE]
