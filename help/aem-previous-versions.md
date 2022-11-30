@@ -1,21 +1,21 @@
 ---
-title: AEM、CQ および CRX ドキュメントの古いバージョンをダウンロードします
-description: 古いバージョンのAdobe Experience Manager、CQ、CRX 用のドキュメントパッケージをダウンロードします。
+title: AEM、CQ および CRX の以前のバージョンのドキュメントのダウンロード
+description: Adobe Experience Manager、CQ および CRX の以前のバージョンのドキュメントパッケージをダウンロードします。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: bb959aa724d80a0c66ec0922214206809ea68904
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '836'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# の以前のバージョン [!DNL Adobe Experience Manager]、CQ および CRX ドキュメント {#older-versions-aem-cq-crx}
+# [!DNL Adobe Experience Manager]、CQ および CRX の以前のバージョンのドキュメント {#older-versions-aem-cq-crx}
 
-AEM、CQ、CRX の以前のバージョンに関する以前のヘルプガイドを参照してください。
+AEM、CQ および CRX の以前のバージョンに関する以前のヘルプガイドを参照してください。
 
 ## [!DNL Experience Manager] ドキュメントの以前のバージョン {#older-version-aem-documentation}
 
-のバージョン。 [!DNL Adobe Experience Manager]、CQ および CRX は、End of Life です。End of Life はAdobeが正式に販売しなくなりました。 これらの以前のバージョンについては、公式ドキュメントの最終バージョンがセルフヘルプ用に利用できます。最新バージョンである [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。
+このページにリストされている [!DNL Adobe Experience Manager]、 CQ および CRX のバージョンは、提供が終了しており、アドビによる公式販売は行われなくなりました。これらの以前のバージョンについては、公式ドキュメントの最終バージョンがセルフヘルプ用に利用できます。最新バージョンである [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。
 
 >[!NOTE]
 >
