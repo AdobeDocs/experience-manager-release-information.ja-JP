@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 297629d471c0c3ac6a13015d3eac1594732837d6
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -19,18 +19,18 @@ ht-degree: 80%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) 通常は、新機能の月次リリースケイデンスをターゲットにします。 の今後の機能の有効化 [!DNL Experience Manager] as a [!DNL Cloud Service]は、次のように計画されています。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) は通常、新機能の毎月のリリースサイクルを目標としています。[!DNL Experience Manager] as a [!DNL Cloud Service] の今後の機能アクティベーションの予定は次のとおりです。
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 機能のアクティベーション | 2022年11月10日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 機能のアクティベーション | 2023年2月9日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 機能のアクティベーション | 2023年2月23日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 機能のアクティベーション | 2023年3月30日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 機能のアクティベーション | 2023年4月27日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 機能のアクティベーション | 2023年5月25日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 機能アクティベーション | 2022年11月10日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 機能アクティベーション | 2023年2月9日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 機能アクティベーション | 2023年2月23日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 機能アクティベーション | 2023年3月30日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 機能アクティベーション | 2023年4月27日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 機能アクティベーション | 2023年5月25日（PT） |
 
-機能リリースに加えて、重要なバグとセキュリティの修正が [!DNL Experience Manager] as a [!DNL Cloud Service] メンテナンスリリースの形で、対応するメンテナンスアップデートは、通常、高い頻度で実行されます。
+[!DNL Experience Manager] as a [!DNL Cloud Service] では、機能リリースに加えて、重大なバグとセキュリティの修正がメンテナンスリリースの形式で公開され、対応するメンテナンスアップデートが通常より高い頻度で行われます。
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
