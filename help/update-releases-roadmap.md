@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5d40d0382bf4c504de7a2d934276e2222faa0561
+source-git-commit: f0b0900828f9728871ab4acc28d778b845e0d559
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 100%
+source-wordcount: '345'
+ht-degree: 95%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) は通常、新機能の毎月のリリースサイクルを目標としています。[!DNL Experience Manager] as a [!DNL Cloud Service] の今後の機能アクティベーションの予定は次のとおりです。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) は通常、新機能の毎月のリリースサイクルを目標としています。の今後の機能の有効化 [!DNL Experience Manager] as a [!DNL Cloud Service] は、次のように計画されています。
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] では、機能リリースに加えて、重大なバグとセキュリティの修正がメンテナンスリリースの形式で公開され、対応するメンテナンスアップデートが通常より高い頻度で行われます。
 
-## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
+## [!DNL Experience Manager] オンプレミスとManaged Services {#aem-on-prem-managed-services}
 
 サポートされている [!DNL Experience Manager] オンプレミスおよび Managed Services の新機能、機能強化、バグ修正に関する製品アップデートが、四半期ごとのサービスパックや累積修正パック（CFP）を通じて提供されます。頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。今後の製品アップデートリリースのスケジュールは以下のとおりです。
 
