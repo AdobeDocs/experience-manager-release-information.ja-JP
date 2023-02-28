@@ -11,7 +11,7 @@ feature: Release Information
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: fc68824d378c564a696b44ecc161c61920d2ba1b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 100%
 
