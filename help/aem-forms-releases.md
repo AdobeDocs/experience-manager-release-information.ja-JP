@@ -3,10 +3,10 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: ac3036467e4d2ecf58a67dbf5dd204ada04ebd30
-workflow-type: ht
-source-wordcount: '13690'
-ht-degree: 100%
+source-git-commit: 7df5ca957b710be1ed37a90fd2b0dfefdc4e38d4
+workflow-type: tm+mt
+source-wordcount: '14217'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,38 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><strong>前提条件</strong></td>
     <td><strong>入手可能なパッケージ</strong></td>
     <td><strong>ビルドバージョン</strong></td>
+   </tr>
+   <tr>
+    <td>2023 年 3 月 02 日</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja">AEM Forms サービスパック 16（AEM 6.5.16.0 用 Forms アドオンパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja">AEM 6.5.16.0</a></td>
+    <td>
+     <ul>
+     <br><b>AEM Forms on OSGi パッチインストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.904.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.904.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.904.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.48.zip">AEM Forms 互換性パッケージ</a></li>
+      <br><b>AEM Forms on JEE パッチインストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/JBoss/win/AEMForms-6.5.0-0062_jboss_win.zip">JBoss Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/JBoss/linux/AEMForms-6.5.0-0062_jboss_linux.tar.gz">JBoss Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/WebLogic/win/AEMForms-6.5.0-0062_weblogic_win.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/WebLogic/linux/AEMForms-6.5.0-0062_weblogic_linux.tar.gz">WebLogic Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/webSphere/win/AEMForms-6.5.0-0062_websphere_win.zip">WebSphere Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/webSphere/Linux/AEMForms-6.5.0-0062_websphere_linux.tar.gz">WebSphere Linux</a></li>
+      <br><b>Workbench インストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20230222-1-12345/workbench_DVD.zip">AEM Forms Workbench インストーラー</a> </li>
+      <br><b>SDK</b></br>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.904/">AEM Forms Client SDK</a> </li>
+      <br><b>Forms Designer</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_English_Cumulative_QF.msp">英語版インストーラー</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_French_Cumulative_QF.msp">フランス語版インストーラー</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_German_Cumulative_QF.msp">ドイツ語版インストーラー</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_Japanese_Cumulative_QF.msp">日本語版インストーラー</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_Spanish_Cumulative_QF.msp">スペイン語版インストーラー</a> </li>
+      </ul> 
+      </td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0062<br/> <p>AEM Forms アドオンパッケージ：6.0.904</p></td>
    </tr>
    <tr>
     <td>2022年12月1日（PT）</td>
