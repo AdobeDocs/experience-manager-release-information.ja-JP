@@ -2,9 +2,9 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: af8f36b78f96e49f6ab9565432b0401e567c6f4c
-workflow-type: ht
-source-wordcount: '345'
+source-git-commit: 05652027b9a88d9aa530d25b6a88f75c1646f310
+workflow-type: tm+mt
+source-wordcount: '339'
 ht-degree: 100%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 100%
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 機能アクティベーション | 2022年11月10日（PT） |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 機能アクティベーション | 2023年2月9日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 機能アクティベーション | 2023年3月16日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 機能アクティベーション | 2023年3月30日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 機能アクティベーション | 2023年3月30日（PT） |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 機能アクティベーション | 2023年4月27日（PT） |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 機能アクティベーション | 2023年5月25日（PT） |
 
