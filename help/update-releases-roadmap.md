@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 05652027b9a88d9aa530d25b6a88f75c1646f310
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 100%
+source-wordcount: '344'
+ht-degree: 91%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja) は通常、新機能の毎月のリリースサイクルを目標としています。[!DNL Experience Manager] as a [!DNL Cloud Service] の今後の機能アクティベーションの予定は次のとおりです。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=ja) は通常、新機能の毎月のリリースサイクルを目標としています。[!DNL Experience Manager] as a [!DNL Cloud Service] の今後の機能アクティベーションの予定は次のとおりです。
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
-サポートされている [!DNL Experience Manager] オンプレミスおよび Managed Services の新機能、機能強化、バグ修正に関する製品アップデートが、四半期ごとのサービスパックや累積修正パック（CFP）を通じて提供されます。頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。今後の製品アップデートリリースのスケジュールは以下のとおりです。
+サポート対象の新機能、機能強化、バグ修正に関する製品アップデート [!DNL Experience Manager] オンプレミスとManaged Servicesは、四半期ごとのサービスパックと累積修正パック (CFP) を通じて提供されます。 頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。今後の製品アップデートリリースのスケジュールは以下のとおりです。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -57,7 +57,7 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [EOL マトリックス](https://helpx.adobe.com/jp/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] のリリースとアップデート](https://helpx.adobe.com/jp/experience-manager/aem-releases-updates.html)
+>* [[!DNL Experience Manager] のリリースとアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=ja)
 >* [[!DNL Experience Manager]  の学習とサポート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 >* [[!DNL Experience Manager] アップデートリリースの提供に関する定義](/help/update-release-vehicle-definitions.md)
 
