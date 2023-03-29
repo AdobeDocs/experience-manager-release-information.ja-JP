@@ -3,10 +3,10 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
+source-git-commit: 9430cbf7e1f9142093ff705300b3d903e1f1c5d8
 workflow-type: tm+mt
-source-wordcount: '14263'
-ht-degree: 90%
+source-wordcount: '14268'
+ht-degree: 91%
 
 ---
 
@@ -38,9 +38,9 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td>
      <ul>
      <br><b>AEM Forms on OSGi パッチインストーラー</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.912.zip">Linux 用 AEM Forms アドオンパッケージ®</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.912.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.912.zip">macOS X 用AEM Formsアドオンパッケージ [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.914.zip">Linux 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.914.zip">Windows 用 AEM Forms アドオンパッケージ</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.914.zip">Mac OS X 用 AEM Forms アドオンパッケージ [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.48.zip">AEM Forms 互換性パッケージ</a></li>
       <br><b>AEM Forms on JEE パッチインストーラー</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/JBoss/win/AEMForms-6.5.0-0062_jboss_win.zip">JBoss® Windows</a></li>
@@ -61,7 +61,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_Spanish_Cumulative_QF.msp">スペイン語版インストーラー</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0062<br/> <p>AEM Forms アドオンパッケージ：6.0.912</p></td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0062<br/><p>AEM Forms OSGi インストーラー：6.0.914<br/> <p>AEM Forms アドオンパッケージ：6.0.912</p></td>
    </tr>
    <tr>
     <td>2022年12月1日（PT）</td>
@@ -453,7 +453,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
   </tbody>
  </table>
 
-`[1]` 連絡先 [Adobeサポート](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support) Workbench、Rights ManagementSDK、ポータブル保護ライブラリ (PPL)、および拡張 PPL 用のインストーラーを取得する。
+`[1]` 連絡先 [Adobeサポート](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home&amp;lang=ja#support) Workbench、Rights ManagementSDK、ポータブル保護ライブラリ (PPL)、および拡張 PPL 用のインストーラーを取得する。
 
 `[2]` AEM [!DNL Forms] macOS X 用アドオンパッケージは、実稼動環境ではサポートされていないので、デモ目的でのみ使用してください。 PDFジェネレーター機能は、macOS X パッケージでは使用できません。
 
@@ -729,7 +729,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
  </tbody>
 </table>
 
-`[1]` 連絡先 [Adobeサポート](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support) AEMのインストーラーを取得する [!DNL Forms JEE], AEM [!DNL Forms] クライアント SDK, [!DNL AEM Forms on JEE] 埋め込みパッケージ、AEM [!DNL Forms Designer]、RMCSDK、PPL および EnhancedPPL の 3 つのリストが含まれます。
+`[1]` 連絡先 [Adobeサポート](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home&amp;lang=ja#support) AEMのインストーラーを取得する [!DNL Forms JEE], AEM [!DNL Forms] クライアント SDK, [!DNL AEM Forms on JEE] 埋め込みパッケージ、AEM [!DNL Forms Designer]、RMCSDK、PPL および EnhancedPPL の 3 つのリストが含まれます。
 
 `[2]` AEM [!DNL Forms] macOS X 用アドオンパッケージは、実稼動環境ではサポートされていないので、デモ目的でのみ使用してください。 PDFジェネレーター機能は、macOS X パッケージでは使用できません。
 
@@ -1060,7 +1060,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
 </table>
 
 `[1]`
-連絡先 [Adobeサポート](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support) AEMのインストーラーを取得する [!DNL Forms] JEE, AEM [!DNL Forms] クライアント SDK, [!DNL AEM Forms on JEE] 埋め込みパッケージ、AEM [!DNL Forms Designer]、RMCSDK、PPL および EnhancedPPL の 3 つのリストが含まれます。
+連絡先 [Adobeサポート](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home&amp;lang=ja#support) AEMのインストーラーを取得する [!DNL Forms] JEE, AEM [!DNL Forms] クライアント SDK, [!DNL AEM Forms on JEE] 埋め込みパッケージ、AEM [!DNL Forms Designer]、RMCSDK、PPL および EnhancedPPL の 3 つのリストが含まれます。
 
 `[2]` AEM [!DNL Forms] macOS X 用アドオンパッケージは、実稼動環境ではサポートされていないので、デモ目的でのみ使用してください。 PDFジェネレーター機能は、macOS X パッケージでは使用できません。
 
