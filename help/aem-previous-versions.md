@@ -3,9 +3,9 @@ title: AEM、CQ および CRX の以前のバージョンのドキュメント�
 description: Adobe Experience Manager、CQ および CRX の以前のバージョンのドキュメントパッケージをダウンロードします。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '818'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -15,15 +15,15 @@ AEM、CQ および CRX の以前のバージョンに関する以前のヘルプ
 
 ## [!DNL Experience Manager] ドキュメントの以前のバージョン {#older-version-aem-documentation}
 
-このページにリストされている [!DNL Adobe Experience Manager]、 CQ および CRX のバージョンは、提供が終了しており、アドビによる公式販売は行われなくなりました。Adobeが提供する、これらの古いバージョンの公式ドキュメントの最新バージョンは、セルフヘルプのニーズに合わせて利用できます。 Adobeでは、最新バージョンにアップグレードすることをお勧めします。 [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).
+このページにリストされている [!DNL Adobe Experience Manager]、 CQ および CRX のバージョンは、提供が終了しており、アドビによる公式販売は行われなくなりました。これらの以前のバージョンについては、公式ドキュメントのアドビの最終バージョンがセルフヘルプ用に利用できます。最新バージョンである [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。
 
 >[!NOTE]
 >
->いつ [!DNL Experience Manager] バージョンがコアサポートの終わりに達しました。詳しくは、 [製品および技術サポート期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html) および検索 `AEM`.
+>[!DNL Experience Manager] バージョンのコアサポートが終了する時期を確認するには、[製品とテクニカルサポート期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html)を参照して、`AEM` を検索してください。
 
 ### インストールの前に {#before-installation}
 
-パッケージをダウンロードする前に、コンテンツを誰が使用するかを決定します。 この決定により、デプロイ方法が決まります。
+パッケージをダウンロードする前に、誰がコンテンツを使用するかを決めます。この決定により、デプロイ方法が決まります。
 
 * 開発者は、クイックリファレンス用にローカルにインストールできます。
 * 組織の幅広いドキュメントニーズに対応するには、内部でアクセス可能な、実稼動以外の AEM オーサーインスタンスにパッケージをデプロイすることをお勧めします。
@@ -34,9 +34,10 @@ AEM、CQ および CRX の以前のバージョンに関する以前のヘルプ
 
 ## ソフトウェア配布場所 {#software-distribution-locations}
 
-有効なAdobe IDが必要です：
+有効な Adobe ID が必要です。
 
-* Adobe IDをお持ちでない場合は、 https://www.adobe.com/でAdobe IDの作成や管理に関するサポートが必要な場合は、 [このガイドを参照](https://helpx.adobe.com/jp/manage-account.html)
+* Adobe ID がない場合は、https://www.adobe.com/jp/ で作成できます。
+Adobe ID の作成や管理に関してサポートが必要な場合は、[このガイドを参照してください](https://helpx.adobe.com/jp/manage-account.html)。
 
 | [!DNL Experience Manager] バージョン | ソフトウェア配布リンク |
 |:-----------:|:--------------------------------------------------:|
@@ -56,7 +57,7 @@ AEM、CQ および CRX の以前のバージョンに関する以前のヘルプ
 
 ## ドキュメントパッケージのインストール方法 {#how-to-install-documentation-package}
 
-レガシードキュメントパッケージをインストールするには、 [!DNL Experience Manager] ローカルドライブまたはネットワークドライブにインストールされ、実行されている。
+従来のドキュメントパッケージをインストールするには、ローカルドライブまたはネットワークドライブに [!DNL Experience Manager] をインストールして実行する必要があります。
 
 ### ドキュメントパッケージのダウンロード {#download-documentation-package}
 
@@ -64,9 +65,9 @@ AEM、CQ および CRX の以前のバージョンに関する以前のヘルプ
 
 1. Adobe ID でのログイン。ID をお持ちでない場合は、作成します。
 
-1. を選択します。 **[!UICONTROL ダウンロード]** 」ボタンをクリックします。
+1. 「**[!UICONTROL ダウンロード]**」ボタンを選択します。
 
-1. 次に例を示します。
+1. 以下のような画面が表示されます。
 
 ![ソフトウェア配布の例](assets/screen_shot_2020-07-10at161922.jpg)
 
@@ -74,9 +75,9 @@ AEM、CQ および CRX の以前のバージョンに関する以前のヘルプ
 
 >[!NOTE]
 >
->AEM 6.2 では、次のコマンドを使用して、最大ヒープサイズを増やしてローカルインスタンスを起動します。 ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+>AEM 6.2 では、次のコマンドを使用し、最大ヒープサイズを増やしてローカルインスタンスを開始します。例：` java -jar -XX:MaxPermSize=2048m aem-author.jar`
 
-1. [!DNL Experience Manager] ユーザーインターフェイスを開きます。Web ブラウザーに次のように入力します。 `http://localhost:4502/`. 管理者としてログインします。
+1. [!DNL Experience Manager] ユーザーインターフェイスを開きます。Web ブラウザーに `http://localhost:4502/` と入力します。管理者としてログインします。
 
 1. **[!UICONTROL ツール]**／**[!UICONTROL デプロイメント]**／**[!UICONTROL パッケージ]**&#x200B;を選択します。
 
@@ -86,14 +87,14 @@ AEM、CQ および CRX の以前のバージョンに関する以前のヘルプ
 
 1. パッケージを選択して、「**[!UICONTROL OK]**」をクリックします。
 
-1. パッケージがアップロードされたら、インストールします。
+1. パッケージのアップロードが完了したら、インストールします。
 
 1. パッケージマネージャーの UI でパッケージを指定して、「**[!UICONTROL インストール]**」を選択します。
 
-1. 確認ダイアログボックスで、「 」を選択します。 **[!UICONTROL インストール]** 再び インストールには数分かかります。
+1. 確認ダイアログボックスで、もう一度「**[!UICONTROL インストール]**」を選択します。インストールには数分かかります。
 
 1. Web ブラウザーで、ドキュメントページを開きます。例えば、AEM 5.6.1 の場合、URL は、http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html のようになります。
 
 ## [!DNL Experience Manager]コミュニティにお問い合わせ {#get-help-from-aem-community}
 
-Experience Managerの使用に関する質問がある場合、Adobeでは [経験豊富なコミュニティエキスパートに連絡を取る [!DNL Experience Manager] フォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Experience Manager の使用について質問がある場合は、[ [!DNL Experience Manager]  フォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)で経験豊富なコミュニティエキスパートにお問い合わせいただくことをお勧めします。
