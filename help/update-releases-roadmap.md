@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
-サポート対象の新機能、機能強化、バグ修正に関する製品アップデート [!DNL Experience Manager] オンプレミスとManaged Servicesは、四半期ごとのサービスパックと累積修正パック (CFP) を通じて提供されます。 頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。今後の製品アップデートリリースのスケジュールは以下のとおりです。
+サポートされている [!DNL Experience Manager] オンプレミスおよび Managed Services の新機能、機能強化、バグ修正に関する製品アップデートが、四半期ごとのサービスパックや累積修正パック（CFP）を通じて提供されます。頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。今後の製品アップデートリリースのスケジュールは以下のとおりです。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
