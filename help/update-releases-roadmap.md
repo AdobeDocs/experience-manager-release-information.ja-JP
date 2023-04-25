@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 070e40df3293af42558f94d50cfdf8aca7180195
+source-git-commit: bbb0560ff5a2cebc0b06ba7d0c7b4041e9290113
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '356'
+ht-degree: 98%
 
 ---
 
@@ -23,11 +23,13 @@ ht-degree: 0%
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 機能アクティベーション | 2022年11月10日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 機能アクティベーション | 2023年2月9日（PT） |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 機能アクティベーション | 2023年4月12日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 機能アクティベーション | 2023年5月4日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 機能アクティベーション | 2023年5月25日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 機能アクティベーション | 2023年5月18日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 2023.6.0 | 機能アクティベーション | 2023 年 6 月 30 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 2023.7.0 | 機能アクティベーション | 2023 年 7 月 28 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | 機能アクティベーション | 2023 年 8 月 31 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 2023.9.0 | 機能アクティベーション | 2023 年 9 月 29 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 2023.10.0 | 機能アクティベーション | 2023 年 10 月 27 日 |
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] では、機能リリースに加えて、重大なバグとセキュリティの修正がメンテナンスリリースの形式で公開され、対応するメンテナンスアップデートが通常より高い頻度で行われます。
 
@@ -41,10 +43,10 @@ ht-degree: 0%
 
 | リリース | バージョン | タイプ | スケジュール |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 サービスパック 14 | 6.5.14.0 | サービスパック | 2022年8月25日（PT） |
-| [!DNL Experience Manager] 6.5 サービスパック 15 | 6.5.15.0 | サービスパック | 2022年11月24日（PT） |
 | [!DNL Experience Manager] 6.5 サービスパック 16 | 6.5.16.0 | サービスパック | 2023年2月23日（PT） |
 | [!DNL Experience Manager] 6.5 サービスパック 17 | 6.5.17.0 | サービスパック | 2023年5月25日（PT） |
+| [!DNL Experience Manager] 6.5 サービスパック 18 | 6.5.18.0 | サービスパック | 2023 年 8 月 31 日 |
+| [!DNL Experience Manager] 6.5 サービスパック 19 | 6.5.19.0 | サービスパック | 2023 年 11 月 31 日 |
 
 >[!NOTE]
 >
