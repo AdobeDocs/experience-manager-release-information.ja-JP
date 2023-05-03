@@ -2,10 +2,10 @@
 title: AEM、CQ および CRX の以前のバージョンのドキュメントのダウンロード
 description: Adobe Experience Manager、CQ および CRX の以前のバージョンのドキュメントパッケージをダウンロードします。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '818'
-ht-degree: 100%
+source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
+workflow-type: tm+mt
+source-wordcount: '828'
+ht-degree: 95%
 
 ---
 
@@ -25,8 +25,8 @@ AEM、CQ および CRX の以前のバージョンに関する以前のヘルプ
 
 パッケージをダウンロードする前に、誰がコンテンツを使用するかを決めます。この決定により、デプロイ方法が決まります。
 
-* 開発者は、クイックリファレンス用にローカルにインストールできます。
-* 組織の幅広いドキュメントニーズに対応するには、内部でアクセス可能な、実稼動以外の AEM オーサーインスタンスにパッケージをデプロイすることをお勧めします。
+* 開発者は、すばやく参照できるようにローカルにインストールできます。
+* 組織のドキュメントに関するより広範なニーズに対しては、パッケージを実稼動以外の AEM オーサーインスタンスで内部的にアクセス可能な状態でデプロイすることをお勧めします。
 
 >[!NOTE]
 >
@@ -41,6 +41,7 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 | [!DNL Experience Manager] バージョン | ソフトウェア配布リンク |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4 ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ja) |
 | [!DNL Experience Manager] 6.3 | [ソフトウェア配布から AEM-DOCS-6.3 をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [ソフトウェア配布から AEM-DOCS-6.2 をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [ソフトウェア配布から AEM-DOCS-6.1 をダウンロード](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
@@ -79,7 +80,7 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 1. [!DNL Experience Manager] ユーザーインターフェイスを開きます。Web ブラウザーに `http://localhost:4502/` と入力します。管理者としてログインします。
 
-1. **[!UICONTROL ツール]**／**[!UICONTROL デプロイメント]**／**[!UICONTROL パッケージ]**&#x200B;を選択します。
+1. 選択 **[!UICONTROL ツール]** > **[!UICONTROL 導入]** > **[!UICONTROL パッケージ]**.
 
 1. パッケージマネージャーの UI から、「**[!UICONTROL パッケージをアップロード]**」を選択します。
 
