@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: a6fe2531f159b29279c7fcbf9f782e1985700eee
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 97%
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 機能アクティベーション | 2023年4月12日（PT） |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 機能アクティベーション | 2023年5月18日（PT） |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 2023.6.0 | 機能アクティベーション | 2023 年 6 月 30 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 2023.7.0 | 機能アクティベーション | 2023 年 7 月 28 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | 機能アクティベーション | 2023 年 8 月 31 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 2023.9.0 | 機能アクティベーション | 2023 年 9 月 29 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 2023.10.0 | 機能アクティベーション | 2023 年 10 月 27 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 2023.6.0 | 機能アクティベーション | 2023年6月29日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 2023.7.0 | 機能アクティベーション | 2023年7月27日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | 機能アクティベーション | 2023年8月31日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 2023.9.0 | 機能アクティベーション | 2023年9月28日（PT） |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 2023.10.0 | 機能アクティベーション | 2023年10月26日（PT） |
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] では、機能リリースに加えて、重大なバグとセキュリティの修正がメンテナンスリリースの形式で公開され、対応するメンテナンスアップデートが通常より高い頻度で行われます。
 
@@ -45,8 +45,8 @@ ht-degree: 97%
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 サービスパック 16 | 6.5.16.0 | サービスパック | 2023年2月23日（PT） |
 | [!DNL Experience Manager] 6.5 サービスパック 17 | 6.5.17.0 | サービスパック | 2023年5月25日（PT） |
-| [!DNL Experience Manager] 6.5 サービスパック 18 | 6.5.18.0 | サービスパック | 2023 年 8 月 31 日 |
-| [!DNL Experience Manager] 6.5 サービスパック 19 | 6.5.19.0 | サービスパック | 2023 年 11 月 31 日 |
+| [!DNL Experience Manager] 6.5 サービスパック 18 | 6.5.18.0 | サービスパック | 2023年8月31日（PT） |
+| [!DNL Experience Manager] 6.5 サービスパック 19 | 6.5.19.0 | サービスパック | 2023年11月30日（PT） |
 
 >[!NOTE]
 >
