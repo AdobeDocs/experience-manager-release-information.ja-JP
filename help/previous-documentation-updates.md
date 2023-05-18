@@ -4,9 +4,9 @@ description: このページでは、以前おこなわれた  [!DNL Adobe Exper
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 892e95b3e6aadd854900dfca8b5974e86120a765
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1467'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -26,12 +26,12 @@ ht-degree: 84%
    <tr>
    <td>2019年12月12日（PT）</td> 
    <td>3D アセットのプレビュー<br /> </td> 
-   <td><p>AEM では、オーサリングプロセスの一環として、3D アセットのアップロード、配信、インタラクティブプレビューをサポートしています。インタラクティブ 3D ビューアは、AEMのアセットの詳細ページから使用できます。 このビューアには、3D アセットをオービット、ズームおよびパンできるインタラクティブなカメラコントロールのコレクションが含まれます。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=ja" target="_blank">3D アセットのプレビュー</a>を参照してください。</p> </td> 
+   <td><p>AEM では、オーサリングプロセスの一環として、3D アセットのアップロード、配信、インタラクティブプレビューをサポートしています。AEM のアセットの詳細ページから、インタラクティブ 3D ビューアーを使用できます。このビューアには、3D アセットをオービット、ズームおよびパンできるインタラクティブなカメラコントロールのコレクションが含まれます。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=ja" target="_blank">3D アセットのプレビュー</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2019年12月12日（PT）</td> 
    <td>AEM 6.5 サービスパック 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=ja">AEM 6.5 Service Pack 3</a> が使用可能です。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=ja">AEM 6.5 サービスパック 3 </a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019年12月5日（PT）</td> 
@@ -46,12 +46,12 @@ ht-degree: 84%
   <tr>
    <td>2019年10月18日（PT）<br /> </td> 
    <td>AEM プロジェクトアーキタイプ<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=ja">AEMプロジェクトアーキタイプ</a> は、独自のAEMプロジェクトの出発点として、ベストプラクティスに基づくAdobe Experience Managerプロジェクトを作成します。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=ja">AEM プロジェクトアーキタイプ</a>は、独自の AEM プロジェクトの出発点として、ベストプラクティスにもとづいた Adobe Experience Manager プロジェクトを作成します。<br /> </td> 
   </tr>
   <tr>
    <td>2019年10月18日（PT）<br /> </td> 
    <td>ヘッドレスエクスペリエンス管理<br /> </td> 
-   <td>の機能 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=ja#remote-content-renderer">リモートコンテンツレンダラー</a>は、単一ページアプリケーションのサーバーサイドレンダリングに使用されます。ドキュメントに記載されています。<br /> </td> 
+   <td>単一ページアプリケーションのサーバー側レンダリングに使用される、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=ja#remote-content-renderer">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
   </tr>
   <tr>
    <td>2019年10月11日（PT）</td> 
@@ -61,12 +61,12 @@ ht-degree: 84%
   <tr>
    <td>2019年10月10日（PT）</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager バージョン 2019.10.0 は、2019年10月10日（PT）にリリースされました。</p> <p>参照： <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=ja">リリースノート (2019.10.0)</a> ハイライト <i>最新情報</i> およびデプロイメント手順と maven プロジェクトバージョンの処理に関する更新。<br /> </p> </td> 
+   <td><p>Cloud Manager バージョン 2019.10.0 は、2019年10月10日（PT）にリリースされました。</p> <p><i>新機能</i>のハイライトや、デプロイメント手順と Maven プロジェクトのバージョン処理についてのアップデートに関する<a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=ja"> 2019.10.0 のリリースノート</a>を参照してください。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019年10月8日（PT）</td> 
    <td>AEM Screens<br /> </td> 
-   <td><p>AEM Screens は、AEM 6.4.6 機能パック 6 および AEM 6.5.2 機能パック 2 をリリースしました。</p> <p>参照： <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html?lang=ja">機能パック201909のリリースノート</a> を参照してください。</p> </td> 
+   <td><p>AEM Screens は、AEM 6.4.6 機能パック 6 および AEM 6.5.2 機能パック 2 をリリースしました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html?lang=ja">機能パック 201909 のリリースノート</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2019年10月1日（PT）</td> 
@@ -85,13 +85,13 @@ ht-degree: 84%
   </tr>
   <tr>
    <td>2019年9月25日（PT）</td> 
-   <td>AEM Assets検索<br /> </td> 
+   <td>AEM Assets 検索<br /> </td> 
    <td>アセットの検索と検出に関する最新のコンテンツは、使用、構成、トラブルシューティング、制限、およびヒントに関する情報のワンストップショップです。詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=ja" target="_blank">アセットの検索</a>を参照してください。</td> 
   </tr>
   <tr>
    <td>2019年9月25日（PT）</td> 
-   <td>Scene7:アセット再処理ワークフロー<br /> </td> 
-   <td><p>後で変更した既存の処理プロファイルが存在するフォルダー内のアセットを再処理できるようになりました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=ja#reprocessing-assets" target="_blank">フォルダー内のアセットの再処理</a>を参照してください。<br /> </p> </td> 
+   <td>Scene7：アセット再処理ワークフロー<br /> </td> 
+   <td><p>後で変更した既存の処理プロファイルがあるフォルダー内のアセットを再処理できるようになりました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=ja#reprocessing-assets" target="_blank">フォルダー内のアセットの再処理</a>を参照してください。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019年9月25日（PT）</td> 
@@ -125,27 +125,27 @@ ht-degree: 84%
   </tr>
   <tr>
    <td>2019年8月20日（PT）</td> 
-   <td>AEM Assetsスマートタグ<br /> </td> 
+   <td>AEM Assets のスマートタグ<br /> </td> 
    <td>有効期限が切れた後の<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html?lang=ja#certrenew" target="_blank">証明書のアップデート</a>方法について説明しています。</td> 
   </tr>
   <tr>
    <td>2019年8月2日（PT）</td> 
-   <td>新しいPDFラスタライザパッケージ<br /> </td> 
+   <td>新しい PDF ラスタライザーパッケージ<br /> </td> 
    <td>AEM Assets が重い AI/PDF ファイルを処理し、プレビューとサムネイルを生成するのに役立つ、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-pdf-rasterizer.html?lang=ja" target="_blank">新しいパッケージが利用可能です</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2019年7月25日（PT）</td> 
-   <td>AEM Assets機能の異なるライセンス</td> 
+   <td>異なるライセンスの AEM Assets 機能</td> 
    <td>スタンドアロン DAM ライセンスと AEM MediaLibrary で使用可能な AEM Assets の<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=ja" target="_blank">機能の一覧</a>が AEM 6.5 リリース向けに更新されました。<br /> </td> 
   </tr>
   <tr>
    <td>2019年7月12日（PT）</td> 
-   <td>Dynamic Media Classicでのファイルのアップロード</td> 
+   <td>Dynamic Media Classic でのファイルのアップロード</td> 
    <td>Dynamic Media Classic の<a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html?lang=ja#upload-options">アップロードオプションを設定ダイアログボックス</a>のトピックが書き直され、更新されました。</td> 
   </tr>
   <tr>
    <td>2019年7月8日（PT）</td> 
-   <td>タッチ操作対応 UI への移行</td> 
+   <td>タッチ対応 UI への移行</td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=ja#introduction">タッチ対応 UI への移行</a>に関する情報とリソースの一覧を示すランディングページです。</td> 
   </tr>
   <tr>
@@ -165,8 +165,8 @@ ht-degree: 84%
   </tr>
   <tr>
    <td>2019年6月17日（PT）<br /> </td> 
-   <td>AEM AssetsとCreative Cloudの統合</td> 
-   <td>ベストプラクティスは、ビジネス要件、Adobeソリューションの提供内容、お客様の使用例を明確にマッピングして更新されました。 視覚的に魅力的にするための解説図が追加されました。 詳しくは、 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ja" target="_blank">AEMCreative Cloud統合のベストプラクティス</a>.<br /> </td> 
+   <td>AEM Assets と Creative Cloud の統合</td> 
+   <td>ベストプラクティスが、ビジネス要件の明確なマッピング、アドビのソリューションオファリング、およびカスタマー事例で更新されました。視覚に訴えるインフォグラフィックが追加されています。<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ja" target="_blank">AEM Creative Cloud 統合のベストプラクティス</a>を参照してください。<br /> </td> 
   </tr>
   <tr>
    <td>2019年6月3日（PT）</td> 
@@ -180,7 +180,7 @@ ht-degree: 84%
   </tr>
   <tr>
    <td>2019年5月24日（PT）</td> 
-   <td>AEM 6.5 のタッチ操作対応 UI 機能のステータス<br /> </td> 
+   <td>AEM 6.5 のタッチ対応 UI 機能ステータス<br /> </td> 
    <td>AEM 6.5 の<a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=ja">タッチ対応 UI 機能ステータス</a>ページを公開しました<br /> </td> 
   </tr>
   <tr>
@@ -214,9 +214,9 @@ ht-degree: 84%
    <td><p>入手可能な<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html?lang=ja">参考資料</a>は次のとおりです。</p> 
     <ul> 
      <li>Adobe AEM 6.5.0 API</li> 
-     <li>Granite UI（タッチ操作対応 UI）API ドキュメント</li> 
+     <li>Granite UI（タッチ対応 UI）API ドキュメント</li> 
      <li>Coral UI ガイド</li> 
-     <li>ウィジェット API（クラシック UI）ドキュメント</li> 
+     <li>Widgets API（クラシック UI）ドキュメント</li> 
      <li>UI テストフレームワーク</li> 
      <li>JavaScript API リファレンス</li> 
      <li>単一ページアプリケーションの JavaScript API リファレンス</li> 
@@ -237,7 +237,7 @@ ht-degree: 84%
 
 ## 以前のコンテンツ {#legacy-content}
 
-2023 年 5 月 1 日以降、従来のバージョンのAEMドキュメントは、次の場所に移動しました： [Adobe Experience Manager、CQ、CRX の以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+2023年5月1日（PT）をもって、レガシーバージョンの AEM ドキュメントは、新規の場所 [Adobe Experience Manager、CQ、CRX の以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)に移行しました。
 
 次のバージョンを移行しました。
 
