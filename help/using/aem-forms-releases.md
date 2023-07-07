@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 81c18c5423b4c62a192666fa8774f754d8ff4745
 workflow-type: tm+mt
 source-wordcount: '7427'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -32,8 +32,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
     <td><strong>ビルドバージョン</strong></td>
    </tr>
    <tr>
-    <td>2023 年 6 月 01 日</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6517">AEM Forms サービスパック 17（AEM 6.5.17.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td>2023年6月1日（PT）</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja#forms-6517">AEM Forms サービスパック 17（AEM 6.5.17.0 用 AEM Forms アドオンパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja">AEM 6.5.17.0</a></td>
     <td>
      <ul>
@@ -61,7 +61,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp17/Designer6.5.0_Spanish_Cumulative_QF.msp">スペイン語版インストーラー</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE インストーラー：AEM Forms-6-5-0-0065<br/><p>AEM Forms アドオンパッケージ：6.0.968</p></td>
+    <td><p>AEM Forms JEE インストーラー：AEMForms-6-5-0-0065<br/><p>AEM Forms アドオンパッケージ：6.0.968</p></td>
    </tr>
    <tr>
     <td>2023年3月2日（PT）</td>
@@ -496,9 +496,9 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
 * 上記の AEM Forms アドオンパッケージは、OSGi 上の AEM [!DNL Forms] にも JEE 上の AEM [!DNL Forms] にも適用できます。
 * AEM [!DNL Forms] のアドオンパッケージとクイックフィックスはすべて累積的です。つまり、あるアドオンパッケージとクイックフィックスには、対応するバージョンのコンポーネントに対するそれまでのすべてのアドオンとクイックフィックスが含まれています。例えば、AEM [!DNL Forms] クイックフィックス 2.4.50 には、アドオンパッケージ 2.4.26 が既に含まれています。
 
-   >[!NOTE]
-   >
-   >累積アドオンパッケージとクイックフィックスは、バージョンの最初の 2 つの数値が同じであることを意味します。
+  >[!NOTE]
+  >
+  >累積アドオンパッケージとクイックフィックスは、バージョンの最初の 2 つの数値が同じであることを意味します。
 
 * 常に、使用可能な最新のサービスパック／機能パックアドオンをインストールしてください。これには、ベースバージョンの一般リリース（GA）以降にリリースされた、セキュリティ、パフォーマンス、安定性の面およびユーザー向けの主要な修正と機能強化が含まれているので、その適用を強くお勧めします。
 * サービスパックをインストールしたり AEM の以前のバージョンから新しいバージョンにアップグレードする際は、対応する AEM [!DNL Forms] アドオンパッケージを必ずインストールしてください。例えば、AEM 6.1 [!DNL Forms] アドオンパッケージ 2.2.4 から AEM 6.1 サービスパック 1 にアップグレードする場合は、AEM 6.1 サービスパック 1 のインストール後に AEM [!DNL Forms] アドオンパッケージ 2.4.50 をインストールします。
