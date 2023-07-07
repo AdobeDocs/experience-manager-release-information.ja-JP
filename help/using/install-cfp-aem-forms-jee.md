@@ -4,9 +4,9 @@ description: AEM Forms JEE での累積修正パック（CFP）のインスト�
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -91,7 +91,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
 ## AEM [!DNL Forms JEE] のインストールと設定  {#install-and-configure-aem-forms-jee}
 
-1. /deploy フォルダーのバックアップを作成します。クイックフィックスをアンインストールする場合に必要です。
+1. /deploy フォルダーのバックアップを作成します。Quick Fix をアンインストールする場合は必須です。
 1. アプリケーションサーバーを停止します。
 1. パッチインストーラーアーカイブファイルをハードディスクに展開します。
 1. 使用しているオペレーティングシステムに従って名前が付けられたディレクトリで、次の操作を実行します。
@@ -127,12 +127,12 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
 1. 概要パネルで「**[!UICONTROL 次へ]**」をクリックします。
 1. インストールフォルダーを選択画面で、表示されるデフォルトの場所が既存のインストール場所であることを確認するか、または「**[!UICONTROL 参照]**」をクリックして AEM [!DNL Forms]がインストールされている別のフォルダーを選択してから、「**[!UICONTROL 次へ]**」をクリックします。
-1. クイックフィックスパッチの概要の情報を読み、 **[!UICONTROL 次へ]**.
+1. Quick Fix パッチの概要の情報を読み、「**[!UICONTROL 次へ]**」をクリックします。
 1. プリインストールの概要情報を読み、「**[!UICONTROL インストール]**」をクリックします。
 1. インストールが完了したら、「**[!UICONTROL 次へ]**」をクリックして、インストールされたファイルに対して Quick Fix アップデートを適用します。
 1. 「Configuration Manager を起動」チェックボックスはデフォルトで選択されています。「**[!UICONTROL 完了]**」をクリックして Configuration Manager を実行します。
 
-   後で Configuration Manager を実行するには、「 **[!UICONTROL Configuration Manager を起動します。]** オプションを使用して、 **[!UICONTROL 完了]**. *`[AEM_forms_root]`/configurationManager/bin* ディレクトリにある該当するスクリプトを使用して、Configuration Manager を後で起動することができます。
+   Configuration Manager を後で実行する場合は、「**[!UICONTROL 完了]**」をクリックする前に、「**[!UICONTROL Configuration Manager を起動]**」オプションの選択を解除します。*`[AEM_forms_root]`/configurationManager/bin* ディレクトリにある該当するスクリプトを使用して、Configuration Manager を後で起動することができます。
 
 1. アプリケーションサーバーに応じて、以下のいずれかのドキュメントを選択し、「*AEM [!DNL Forms]* の設定とデプロイ」節の指示に従ってください。
 
