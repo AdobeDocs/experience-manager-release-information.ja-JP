@@ -3,9 +3,9 @@ title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 8431dac82cec9454c6a4683dc566f34c3978fae6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '336'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 87%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 機能アクティベーション | 2023年9月28日（PT） | ターゲット |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 機能アクティベーション | 2023年10月26日（PT） | ターゲット |
 
-機能リリースに加えて、重要なバグとセキュリティの修正が [!DNL Experience Manager] as a [!DNL Cloud Service] 形で [メンテナンスリリース](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html)を使用します。通常は、対応するメンテナンス更新が高い頻度でおこなわれます。
+[!DNL Experience Manager] as a [!DNL Cloud Service] では、機能リリースに加えて、重大なバグとセキュリティの修正が[メンテナンスリリース](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja)の形式で公開され、対応するメンテナンスアップデートが高頻度で行われます。
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
