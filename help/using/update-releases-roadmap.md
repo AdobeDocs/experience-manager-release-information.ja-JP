@@ -2,9 +2,9 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0d6d189e10b38d5a87baf381bfab15c8afc7a128
-workflow-type: ht
-source-wordcount: '336'
+source-git-commit: 0e08661d65926e57a853ed8bc37170abba695308
+workflow-type: tm+mt
+source-wordcount: '341'
 ht-degree: 100%
 
 ---
@@ -41,12 +41,12 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックで提供されます。新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja)を参照してください。
 
-| リリース | バージョン | タイプ | スケジュール |
-|---|---|---|---|
-| [!DNL Experience Manager] 6.5 サービスパック 16 | 6.5.16.0 | サービスパック | 2023年2月23日（PT） |
-| [!DNL Experience Manager] 6.5 サービスパック 17 | 6.5.17.0 | サービスパック | 2023年5月25日（PT） |
-| [!DNL Experience Manager] 6.5 サービスパック 18 | 6.5.18.0 | サービスパック | 2023年8月31日（PT） |
-| [!DNL Experience Manager] 6.5 サービスパック 19 | 6.5.19.0 | サービスパック | 2023年11月30日（PT） |
+| リリース | バージョン | タイプ | スケジュール | ステータス |
+|---|---|---|---|---|
+| [!DNL Experience Manager] 6.5 サービスパック 16 | 6.5.16.0 | サービスパック | 2023年2月23日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 サービスパック 17 | 6.5.17.0 | サービスパック | 2023年5月25日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 サービスパック 18 | 6.5.18.0 | サービスパック | 2023年8月24日（PT） | ターゲット |
+| [!DNL Experience Manager] 6.5 サービスパック 19 | 6.5.19.0 | サービスパック | 2023年11月23日（PT） | ターゲット |
 
 >[!NOTE]
 >
