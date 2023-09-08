@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 15841ed517305f1db2d12931add81ff1ef817492
-workflow-type: ht
-source-wordcount: '372'
-ht-degree: 100%
+source-git-commit: 3c1188eba0a6a7efb252d4d0fe5152778afa4a77
+workflow-type: tm+mt
+source-wordcount: '406'
+ht-degree: 76%
 
 ---
 
@@ -19,19 +19,27 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=ja) は通常、新機能の毎月のリリースサイクルを目標としています。[!DNL Experience Manager] as a [!DNL Cloud Service] の今後の機能アクティベーションの予定は次のとおりです。
+[!DNL Experience Manager] as a [!DNL Cloud Service] 新機能は、 [月別機能の有効化](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja)に対し、機能強化およびバグ修正は月に 2 回、 [メンテナンスリリース](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja).
+の今後のリリース [!DNL Experience Manager] as a [!DNL Cloud Service] は、次のように計画されています。
 
-| リリース | タイプ | スケジュール | ステータス |
+| リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 機能アクティベーション | 2023年6月29日（PT） | アクティベート済み |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 機能アクティベーション | 2023年7月27日（PT） | アクティベート済み |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 機能アクティベーション | 2023年8月31日（PT） | ターゲット |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 機能アクティベーション | 2023年9月28日（PT） | ターゲット |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 機能アクティベーション | 2023年10月26日（PT） | ターゲット |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.11.0 | 機能アクティベーション | 2023年11月30日（PT） | ターゲット |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.12.0 | 機能アクティベーション | 2023年12月14日（PT） | ターゲット |
-
-[!DNL Experience Manager] as a [!DNL Cloud Service] では、機能リリースに加えて、重大なバグとセキュリティの修正が[メンテナンスリリース](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja)の形式で公開され、対応するメンテナンスアップデートが高頻度で行われます。
+| 機能リリース 2023.6.0 | 機能アクティベーション | 2023年6月29日（PT） | アクティベート済み |
+| 機能リリース 2023.7.0 | 機能アクティベーション | 2023年7月27日（PT） | アクティベート済み |
+| メンテナンスリリース | 自動更新 | 2023 年 8 月 7～10 日 | セッション属性を有効化するために    |
+| メンテナンスリリース | 自動更新 | 2023 年 8 月 21 日～24 日 | セッション属性を有効化するために    |
+| 機能リリース 2023.8.0 | 機能アクティベーション | 2023年8月31日（PT） | アクティベート済み |
+| メンテナンスリリース | 自動更新 | 2023 年 9 月 4～7 日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2023 年 9 月 18～21 日 | ターゲット |
+| 機能リリース 2023.9.0 | 機能アクティベーション | 2023年9月28日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2023 年 10 月 2～5 日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2023 年 10 月 16～19 日 | ターゲット |
+| 機能リリース2023.10.0 | 機能アクティベーション | 2023年10月26日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2023 年 10 月 30 日～11 月 2 日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2023 年 11 月 13 日～16 日 | ターゲット |
+| 機能リリース2023.11.0 | 機能アクティベーション | 2023年11月30日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2023 年 12 月 11～14 日 | ターゲット |
+| 機能リリース2023.12.0 | 機能アクティベーション | 2023年12月14日（PT） | ターゲット |
 
 >[!CAUTION]
 >
@@ -54,7 +62,7 @@ ht-degree: 100%
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 サービスパック 16 | 6.5.16.0 | サービスパック | 2023年2月23日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 サービスパック 17 | 6.5.17.0 | サービスパック | 2023年5月25日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 サービスパック 18 | 6.5.18.0 | サービスパック | 2023年8月24日（PT） | ターゲット |
+| [!DNL Experience Manager] 6.5 サービスパック 18 | 6.5.18.0 | サービスパック | 2023年8月24日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 サービスパック 19 | 6.5.19.0 | サービスパック | 2023年11月23日（PT） | ターゲット |
 
 >[!NOTE]
