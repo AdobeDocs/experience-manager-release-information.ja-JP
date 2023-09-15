@@ -4,8 +4,8 @@ description: 「[!DNL Adobe Experience Manager] リリースロードマップ�
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 90d4952453c4e0123badfb46633106af056c24f0
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 75%
+source-wordcount: '497'
+ht-degree: 93%
 
 ---
 
@@ -19,28 +19,28 @@ ht-degree: 75%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] as a [!DNL Cloud Service] 新機能は、 [月別機能の有効化](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja)に対し、機能強化およびバグ修正は月に 2 回、 [メンテナンスリリース](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja).
-の今後のリリース [!DNL Experience Manager] as a [!DNL Cloud Service] は、次のように計画されています。
+[!DNL Experience Manager] as a [!DNL Cloud Service] の新機能は[毎月の機能アクティベーション](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja)を通じて提供され、機能強化およびバグ修正は月に 2 回の[メンテナンスリリース](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja)を通じて提供されます。
+[!DNL Experience Manager] as a [!DNL Cloud Service] の今後のリリースの予定は次のとおりです。
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
 | 機能リリース [2023.6.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-6-0.html?lang=ja) | 機能アクティベーション | 2023年6月29日（PT） | アクティベート済み |
 | 機能リリース [2023.7.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-7-0.html?lang=ja) | 機能アクティベーション | 2023年7月27日（PT） | アクティベート済み |
-| メンテナンスリリース [12874](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-12874) | 自動更新 | 2023年8月2日（PT） | セッション属性を有効化するために    |
-| メンテナンスリリース [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | 自動更新 | 2023年8月21日（PT） | セッション属性を有効化するために    |
+| メンテナンスリリース [12874](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-12874) | 自動アップデート | 2023年8月2日（PT） | 更新済み |
+| メンテナンスリリース [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | 自動アップデート | 2023年8月21日（PT） | 更新済み |
 | 機能リリース [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja) | 機能アクティベーション | 2023年8月31日（PT） | アクティベート済み |
-| メンテナンスリリース [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | 自動更新 | 2023年9月1日（PT） | セッション属性を有効化するために    |
-| メンテナンスリリース [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja) | 自動更新 | 2023年9月12日（PT） | セッション属性を有効化するために    |
-| メンテナンスリリース | 自動更新 | 2023 年 9 月 18～20 日 | ターゲット |
+| メンテナンスリリース [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | 自動アップデート | 2023年9月1日（PT） | 更新済み |
+| メンテナンスリリース [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja) | 自動アップデート | 2023年9月12日（PT） | 更新済み |
+| メンテナンスリリース | 自動アップデート | 2023年9月18～20日（PT） | ターゲット |
 | 機能リリース 2023.9.0 | 機能アクティベーション | 2023年9月28日（PT） | ターゲット |
-| メンテナンスリリース | 自動更新 | 2023 年 10 月 2～5 日 | ターゲット |
-| メンテナンスリリース | 自動更新 | 2023 年 10 月 16～19 日 | ターゲット |
-| 機能リリース2023.10.0 | 機能アクティベーション | 2023年10月26日（PT） | ターゲット |
-| メンテナンスリリース | 自動更新 | 2023 年 10 月 30 日～11 月 2 日 | ターゲット |
-| メンテナンスリリース | 自動更新 | 2023 年 11 月 13 日～16 日 | ターゲット |
-| 機能リリース2023.11.0 | 機能アクティベーション | 2023年11月30日（PT） | ターゲット |
-| メンテナンスリリース | 自動更新 | 2023 年 12 月 11～14 日 | ターゲット |
-| 機能リリース2023.12.0 | 機能アクティベーション | 2023年12月14日（PT） | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2023年10月2～5日（PT） | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2023年10月16～19日（PT） | ターゲット |
+| 機能リリース 2023.10.0 | 機能アクティベーション | 2023年10月26日（PT） | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2023年10月30日～11月2日（PT） | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2023年11月13～16日（PT） | ターゲット |
+| 機能リリース 2023.11.0 | 機能アクティベーション | 2023年11月30日（PT） | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2023年12月11～14日（PT） | ターゲット |
+| 機能リリース 2023.12.0 | 機能アクティベーション | 2023年12月14日（PT） | ターゲット |
 
 >[!CAUTION]
 >
