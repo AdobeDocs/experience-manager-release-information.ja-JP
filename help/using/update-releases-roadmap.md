@@ -2,9 +2,9 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: d49db9de4e6fd520d7c6e502c1c4573e4c49a45e
+source-git-commit: 90d4952453c4e0123badfb46633106af056c24f0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '493'
 ht-degree: 75%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 75%
 | 機能リリース [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja) | 機能アクティベーション | 2023年8月31日（PT） | アクティベート済み |
 | メンテナンスリリース [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | 自動更新 | 2023年9月1日（PT） | セッション属性を有効化するために    |
 | メンテナンスリリース [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja) | 自動更新 | 2023年9月12日（PT） | セッション属性を有効化するために    |
+| メンテナンスリリース | 自動更新 | 2023 年 9 月 18～20 日 | ターゲット |
 | 機能リリース 2023.9.0 | 機能アクティベーション | 2023年9月28日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2023 年 10 月 2～5 日 | ターゲット |
 | メンテナンスリリース | 自動更新 | 2023 年 10 月 16～19 日 | ターゲット |
