@@ -2,7 +2,7 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 637b09e67d30277b49879859c8943812f750e728
+source-git-commit: 578f404ad359536461fd93a364a4ac4e59381e0e
 workflow-type: tm+mt
 source-wordcount: '539'
 ht-degree: 100%
@@ -30,7 +30,7 @@ ht-degree: 100%
 | メンテナンスリリース [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html?lang=ja#release-13206) | 自動アップデート | 2023年8月21日（PT） | 更新済み |
 | 機能リリース [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-8-0.html?lang=ja) | 機能アクティベーション | 2023年8月31日（PT） | アクティベート済み |
 | メンテナンスリリース [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html?lang=ja#release-13323) | 自動アップデート | 2023年9月1日（PT） | 更新済み |
-| メンテナンスリリース [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html?lang=ja#release-13420)) | 自動アップデート | 2023年9月18～20日（PT） | 更新済み |
+| メンテナンスリリース [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html?lang=ja#release-13420) | 自動アップデート | 2023年9月18～20日（PT） | 更新済み |
 | 機能リリース [2023.9.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0.html?lang=ja) | 機能アクティベーション | 2023年9月28日（PT） | アクティベート済み |
 | メンテナンスリリース [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=ja#release-13665) | 自動アップデート | 2023年10月2～5日（PT） | 更新済み |
 | メンテナンスリリース [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=ja#release-13804) | 自動アップデート | 2023年10月16～19日（PT） | 更新済み |
