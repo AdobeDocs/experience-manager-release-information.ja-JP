@@ -3,16 +3,20 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: e8497431ba050d485d3b359efbb708cbd6fdfa83
-workflow-type: ht
-source-wordcount: '8127'
-ht-degree: 100%
+source-git-commit: 1c30659ecbc0b7f9fc845bec4996a1e3367b5011
+workflow-type: tm+mt
+source-wordcount: '8164'
+ht-degree: 99%
 
 ---
 
 # AEM [!DNL Forms] リリース {#aem-forms-releases}
 
 Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリケーションです。これを使用すると、顧客を引きつける Web およびモバイルエクスペリエンスをエンタープライズフォームおよびドキュメントにも拡張することができ、ユーザーエクスペリエンスを向上させ、ビジネスの範囲を拡大しながら、複雑なデジタルインタラクションを完成することが可能になります。AEM クイックスタートに含まれている標準の AEM [!DNL Forms] は、機能が限定されています。AEM [!DNL Forms] アドオンパッケージには、[!DNL Adobe Analytics] や [!DNL Adobe Sign] との統合、ドキュメントサービス、ワークフローエンジンなどの高度な機能が用意されています。
+
+>[!NOTE]
+>
+>アダプティブFormsの機能 (AEM 6.5 QuickStart で使用可能 ) は、調査と評価の目的でのみ設計されています。 アダプティブForms機能には適切なライセンスが必要なので、実稼動環境で使用する場合は、AEM Formsの有効なライセンスを取得する必要があります。
 
 <!--
 >[!NOTE]
