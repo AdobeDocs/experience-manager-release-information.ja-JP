@@ -3,9 +3,9 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: b5065a6d171c0ed51a5cb8e8bca592fa4f00e380
+source-git-commit: f03a2ce6bef6d167e780f750c7fdb6627d088094
 workflow-type: tm+mt
-source-wordcount: '8167'
+source-wordcount: '8168'
 ht-degree: 99%
 
 ---
@@ -16,7 +16,8 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
 
 >[!NOTE]
 >
->AEM Formsの機能 ( アダプティブFormsなど ) は、 [AEM 6.5 QuickStart](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html)は、調査および評価の目的でのみ使用されます。 実稼動環境で使用する場合は、AEM Formsの有効なライセンスを取得する必要があります。
+> AEM Formsの機能 ( アダプティブFormsなど ) は、 [AEM 6.5 QuickStart](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html)は、調査および評価の目的でのみ使用されます。 実稼動環境で使用する場合は、AEM Formsの有効なライセンスを取得する必要があります。
+
 
 <!--
 >[!NOTE]
