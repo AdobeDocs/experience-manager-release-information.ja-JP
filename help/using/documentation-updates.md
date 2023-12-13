@@ -4,8 +4,8 @@ description: ' [!DNL Experience Manager]  ドキュメントの最新情報、�
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
-source-wordcount: '2459'
+workflow-type: ht
+source-wordcount: '1940'
 ht-degree: 100%
 
 ---

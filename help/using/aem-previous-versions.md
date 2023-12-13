@@ -3,8 +3,8 @@ title: AEM、CQ および CRX の以前のバージョンのドキュメント�
 description: Adobe Experience Manager、CQ および CRX の以前のバージョンのドキュメントパッケージをダウンロードします。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
-source-wordcount: '828'
+workflow-type: ht
+source-wordcount: '570'
 ht-degree: 100%
 
 ---
