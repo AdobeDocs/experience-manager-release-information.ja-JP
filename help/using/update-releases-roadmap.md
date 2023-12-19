@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 969cfa155a54fbd7a133e893e19932fe8eeac169
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -33,8 +33,8 @@ ht-degree: 97%
 | メンテナンスリリース [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=ja#release-13804) | 自動アップデート | 2023年10月16～19日（PT） | 更新済み |
 | 機能リリース [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0.html?lang=ja) | 機能アクティベーション | 2023年10月26日（PT） | アクティベート済み |
 | メンテナンスリリース [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html?lang=ja#release-14029) | 自動アップデート | 2023年10月30日～11月2日（PT） | 更新済み |
-| メンテナンスリリース [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html#release-14227) | 自動アップデート | 2023年11月13～16日（PT） | 更新済み |
-| 機能リリース [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html) | 機能アクティベーション | 2023年11月30日（PT） | アクティベート済み |
+| メンテナンスリリース [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html?lang=ja#release-14227) | 自動アップデート | 2023年11月13～16日（PT） | 更新済み |
+| 機能リリース [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html?lang=ja) | 機能アクティベーション | 2023年11月30日（PT） | アクティベート済み |
 | メンテナンスリリース [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja) | 自動アップデート | 2023年12月11～14日（PT） | 更新済み |
 | 機能リリース [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja) | 機能アクティベーション | 2023年12月14日（PT） | アクティベート済み |
 
@@ -42,10 +42,10 @@ ht-degree: 97%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース | 自動アップデート | 2024 年 1 月 8 日～10 日 | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2024 年 1 月 22 日～24 日 | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2024年1月8～10日（PT） | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2024年1月22～24日（PT） | ターゲット |
 | 機能リリース 2024.1.0 | 機能アクティベーション | 2024年1月25日（PT） | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2024 年 2 月 5～7 日 | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2024年2月5～7日（PT） | ターゲット |
 | 機能リリース 2024.2.0 | 機能アクティベーション | 2024年2月29日（PT） | ターゲット |
 | 機能リリース 2024.3.0 | 機能アクティベーション | 2024年3月28日（PT） | ターゲット |
 | 機能リリース 2024.4.0 | 機能アクティベーション | 2024年4月25日（PT） | ターゲット |

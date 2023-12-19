@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 2fc4c522d03c2ff0bc4492d3156d778e9e158a32
 workflow-type: tm+mt
 source-wordcount: '2746'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
   </tr>
   <tr>
     <td>2023 年 12 月 15 日</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en#forms-6519"> (JEE 上のAEM Formsのみ )AEM 6.5 Forms Service Pack 19.1(6.5.19.1)</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja#forms-6519"> (JEE 上のAEM Formsのみ )AEM 6.5 Forms Service Pack 19.1(6.5.19.1)</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja">AEM 6.5.19.0</a></td>
     <td>
      <ul>
@@ -57,8 +57,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
     <td><p>AEM Forms JEE パッチインストーラー：aemforms-6-5-0-0079 <br/></td>
    </tr>
   <tr>
-    <td>2023 年 12 月 8 日</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en#forms-6519">AEM Forms サービスパック 19（AEM 6.5.19.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td>2023年12月8日（PT）</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja#forms-6519">AEM Forms サービスパック 19（AEM 6.5.19.0 用 AEM Forms アドオンパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja">AEM 6.5.19.0</a></td>
     <td>
      <ul>
@@ -135,7 +135,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>2023年6月1日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6517">AEM Forms サービスパック 17（AEM 6.5.17.0 用 AEM Forms アドオンパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja#forms-6517">AEM Forms サービスパック 17（AEM 6.5.17.0 用 AEM Forms アドオンパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja">AEM 6.5.17.0</a></td>
     <td>
      <ul>
