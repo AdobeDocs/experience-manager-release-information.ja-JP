@@ -4,8 +4,8 @@ description: このページでは、以前おこなわれた  [!DNL Adobe Exper
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
-source-wordcount: '1467'
+workflow-type: ht
+source-wordcount: '1236'
 ht-degree: 100%
 
 ---
@@ -106,7 +106,7 @@ ht-degree: 100%
   <tr>
    <td>2019年9月9日（PT）</td> 
    <td>AEM デスクトップアプリケーション</td> 
-   <td>AEM デスクトップアプリケーション v2.0 は、AEM Assets で作業するクリエイティブ、マーケティング担当者、および事業部門ユーザー向けに公開されています。詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=ja" target="_blank">リリースノート</a>を参照してください。<br /> </td> 
+   <td>AEM デスクトップアプリケーション v2.0 は、AEM Assets で作業するクリエイティブ、マーケターおよび事業部門ユーザー向けに公開されています。<a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=ja" target="_blank">リリースノート</a>を参照してください。<br /> </td> 
   </tr>
   <tr>
    <td>2019年9月9日（PT）</td> 

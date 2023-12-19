@@ -5,7 +5,7 @@ contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: ht
-source-wordcount: '910'
+source-wordcount: '921'
 ht-degree: 100%
 
 ---
@@ -138,7 +138,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
    AEM [!DNL Forms] 6.3 の場合は、次を参照してください。
 
-   * [!DNL Forms] AEM のインストールおよびデプロイ（JBoss 版）®
+   * AEM [!DNL Forms] for JBoss® のインストールおよびデプロイ
    * AEM [!DNL Forms] のインストールおよびデプロイ（WebSphere® 版）
    * [!DNL Forms] AEM のインストールおよびデプロイ（WebLogic 版）
 
