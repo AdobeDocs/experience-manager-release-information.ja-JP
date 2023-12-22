@@ -4,9 +4,9 @@ description: すべての AEM Forms リリースとそれらに対応するパ�
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 2fc4c522d03c2ff0bc4492d3156d778e9e158a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2746'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -41,8 +41,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
   </tr>
   <tr>
-    <td>2023 年 12 月 15 日</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja#forms-6519"> (JEE 上のAEM Formsのみ )AEM 6.5 Forms Service Pack 19.1(6.5.19.1)</a></td>
+    <td>2023年12月15日（PT）</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja#forms-6519"> （AEM Forms on JEE のみ）AEM 6.5 Forms サービスパック 19.1（6.5.19.1）</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja">AEM 6.5.19.0</a></td>
     <td>
      <ul>
