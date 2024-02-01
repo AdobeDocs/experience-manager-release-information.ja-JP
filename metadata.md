@@ -3,9 +3,10 @@ cloud: Experience Cloud
 type: Documentation
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.ja-JP
 index: true
-source-git-commit: 56ad6aa6c57b997f001c33abc43e9644ebd43447
+recommendations: noDisplay
+source-git-commit: 193e6ce46e042cb01e0d7ff43e6364019ab1663f
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
