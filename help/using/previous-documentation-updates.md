@@ -3,7 +3,7 @@ title: 以前のドキュメント更新
 description: このページでは、以前おこなわれた  [!DNL Adobe Experience Manager] ドキュメントの重要な変更と更新の一覧を示します。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 042bc34d6a43f3dcbac5d34588fa417cb4e6b5c0
+source-git-commit: afc24b365d5ab6cbc6c0b9817e35521cf15ec94b
 workflow-type: tm+mt
 source-wordcount: '1236'
 ht-degree: 98%
@@ -31,7 +31,7 @@ ht-degree: 98%
   <tr>
    <td>2019年12月12日（PT）</td> 
    <td>AEM 6.5 サービスパック 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-3.html">AEM 6.5 サービスパック 3 </a>が入手可能になりました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html">AEM 6.5 サービスパック 3 </a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019年12月5日（PT）</td> 
@@ -101,7 +101,7 @@ ht-degree: 98%
   <tr>
    <td>2019年9月19日（PT）</td> 
    <td>AEM 6.5 サービスパック 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-2.html">AEM 6.5 サービスパック 2（6.5.2.0）</a>が入手可能になりました。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html">AEM 6.5 サービスパック 2（6.5.2.0）</a>が入手可能になりました。</td>
   </tr>
   <tr>
    <td>2019年9月9日（PT）</td> 
@@ -156,7 +156,7 @@ ht-degree: 98%
   <tr>
    <td>2019年7月3日（PT）</td> 
    <td>AEM 6.5 サービスパック 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-1.html">AEM 6.5 サービスパック 1（6.5.1.0）</a>が入手可能になりました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html">AEM 6.5 サービスパック 1（6.5.1.0）</a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019年6月25日（PT）</td> 

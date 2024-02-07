@@ -2,7 +2,7 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f01868f5f3b12d8bcd3de1954465f015ddb601a2
+source-git-commit: 98344e1994596f917f947243fdaf94e5d33f9039
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 96%
@@ -58,13 +58,13 @@ ht-degree: 96%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックで提供されます。新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja)を参照してください。
+[!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックで提供されます。新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
-| [!DNL Experience Manager][ 6.5 サービスパック 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-17.html) | 6.5.17.0 | サービスパック | 2023年5月25日（PT） | アクティベート済み |
-| [!DNL Experience Manager][ 6.5 サービスパック 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-18.html) | 6.5.18.0 | サービスパック | 2023年8月24日（PT） | アクティベート済み |
-| [!DNL Experience Manager][ 6.5 サービスパック 19](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja) | 6.5.19.0 | サービスパック | 2023年11月30日（PT） | アクティベート済み |
+| [!DNL Experience Manager][ 6.5 サービスパック 17](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-17.html) | 6.5.17.0 | サービスパック | 2023年5月25日（PT） | アクティベート済み |
+| [!DNL Experience Manager][ 6.5 サービスパック 18](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-18.html) | 6.5.18.0 | サービスパック | 2023年8月24日（PT） | アクティベート済み |
+| [!DNL Experience Manager][ 6.5 サービスパック 19](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html) | 6.5.19.0 | サービスパック | 2023年11月30日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 サービスパック 20 | 6.5.20.0 | サービスパック | 2024年2月22日（PT） | ターゲット |
 | [!DNL Experience Manager] 6.5 サービスパック 21 | 6.5.21.0 | サービスパック | 2024年5月23日（PT） | ターゲット |
 | [!DNL Experience Manager] 6.5 サービスパック 22 | 6.5.22.0 | サービスパック | 2024年8月22日（PT） | ターゲット |
