@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7c38fa83d5f24c4ad3d953b00e00306a4a2e70c9
+source-git-commit: 8d7f2b64a2bb4608a916b8d2c4f55abb463caa0a
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 96%
+source-wordcount: '479'
+ht-degree: 95%
 
 ---
 
@@ -35,16 +35,16 @@ ht-degree: 96%
 | メンテナンスリリース [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html#release-14029) | 自動アップデート | 2023年10月30日～11月2日（PT） | 更新済み |
 | メンテナンスリリース [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html#release-14227) | 自動アップデート | 2023年11月13～16日（PT） | 更新済み |
 | 機能リリース [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html?lang=ja) | 機能アクティベーション | 2023年11月30日（PT） | アクティベート済み |
-| メンテナンスリリース [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja) | 自動アップデート | 2023年12月11～14日（PT） | 更新済み |
+| メンテナンスリリース [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0.html#release-14697) | 自動アップデート | 2023年12月11～14日（PT） | 更新済み |
 | 機能リリース [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html) | 機能アクティベーション | 2023年12月14日（PT） | アクティベート済み |
 | 機能リリース [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja) | 機能アクティベーション | 2024年1月25日（PT） | アクティベート済み |
+| メンテナンスリリース [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=ja) | 自動アップデート | 2024 年 3 月 11 日～13 日 | アクティベート済み |
 
 ### 今後のリリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
 | 機能リリース 2024.2.0 | 機能アクティベーション | 2024年2月29日（PT） | キャンセル |
-| メンテナンスリリース | 自動アップデート | 2024 年 3 月 11 日～13 日 | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2024 年 4 月 1 日～3 日 | ターゲット |
 | 機能リリース 2024.3.0 | 機能アクティベーション | 2024年4月4日（PT） | ターゲット |
 | 機能リリース 2024.4.0 | 機能アクティベーション | 2024年4月25日（PT） | ターゲット |
