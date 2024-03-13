@@ -2,9 +2,9 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 8d7f2b64a2bb4608a916b8d2c4f55abb463caa0a
+source-git-commit: 4c3f6652b13c99bdd2140c7e4a03be9eb9417a06
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '471'
 ht-degree: 95%
 
 ---
@@ -44,7 +44,6 @@ ht-degree: 95%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| 機能リリース 2024.2.0 | 機能アクティベーション | 2024年2月29日（PT） | キャンセル |
 | メンテナンスリリース | 自動アップデート | 2024 年 4 月 1 日～3 日 | ターゲット |
 | 機能リリース 2024.3.0 | 機能アクティベーション | 2024年4月4日（PT） | ターゲット |
 | 機能リリース 2024.4.0 | 機能アクティベーション | 2024年4月25日（PT） | ターゲット |
