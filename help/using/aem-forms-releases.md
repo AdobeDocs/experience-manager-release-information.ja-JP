@@ -3,9 +3,9 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースとそれらに対応するパッケージの一覧が記載されています
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: bb4642a31de49303b670a17426c88c9893f7912a
+source-git-commit: 630d69aa3d4a45e883523b12432cebc1c83cabf7
 workflow-type: tm+mt
-source-wordcount: '2892'
+source-wordcount: '2899'
 ht-degree: 96%
 
 ---
@@ -56,6 +56,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/weblogic/linux/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-LINUX-WEBLOGIC.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/websphere/win/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-WINDOWS-WEBSPHERE.zip">WebSphere® Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/websphere/linux/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-LINUX-WEBSPHERE.tar.gz">WebSphere® Linux</a></li>
+      <br><b>Workbench インストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20240229-1-12345/workbench_dvd.zip">AEM Forms Workbench インストーラー</a> </li>
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk/6.0.1192">AEM Forms Client SDK</a> </li>
       <br><b>Forms Designer 32 ビット版のパッチインストーラー</b></br>
