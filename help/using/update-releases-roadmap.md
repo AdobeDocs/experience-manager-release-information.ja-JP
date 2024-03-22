@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9ef364f5e561b07ae9d81dba9b772e884e74d322
+source-git-commit: 36981c8f4942f9c8b0581204cdfff769d942351d
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 90%
+source-wordcount: '536'
+ht-degree: 76%
 
 ---
 
@@ -39,25 +39,15 @@ ht-degree: 90%
 | 機能リリース [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html) | 機能アクティベーション | 2023年12月14日（PT） | アクティベート済み |
 | 機能リリース [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja) | 機能アクティベーション | 2024年1月25日（PT） | アクティベート済み |
 | メンテナンスリリース [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html#release-15262) | 自動アップデート | 2024 年 3 月 11 日～13 日 | アクティベート済み |
+| メンテナンスリリース [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動アップデート | 2024 年 3 月 19～21 日 | アクティベート済み |
 
 
 ### 今後のリリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動アップデート | 2024 年 3 月 19～21 日 | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2024 年 4 月 1 日～3 日 | ターゲット |
-| 機能リリース 2024.3.0 | 機能アクティベーション | 2024年4月4日（PT） | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2024 年 4 月 15～17 日 | ターゲット |
-| 機能リリース 2024.4.0 | 機能アクティベーション | 2024年4月25日（PT） | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2024 年 4 月 29 日～5 月 1 日 | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2024 年 5 月 13 日～15 日 | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2024 年 5 月 27～29 日 | ターゲット |
-| 機能リリース 2024.5.0 | 機能アクティベーション | 2024年5月30日（PT） | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2024 年 6 月 10 日～12 日 | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2024 年 6 月 24 日～26 日 | ターゲット |
-| 機能リリース 2024.6.0 | 機能アクティベーション | 2024年6月27日（PT） | ターゲット |
-| 機能リリース 2024.7.0 | 機能アクティベーション | 2024年7月25日（PT） | ターゲット |
+
+| メンテナンスリリース|自動更新|2024 年 4 月 8 日～10 日|Target| | 機能リリース 2024.3.0 |機能のアクティベーション| 2024 年 4 月 5 日 |ターゲット| | メンテナンスリリース|自動更新|2024 年 4 月 22 日～24 日|Target| | 機能リリース 2024.4.0 |機能のアクティベーション| 2024 年 4 月 26 日 |ターゲット| | メンテナンスリリース|自動更新|2024 年 5 月 6～8 日|Target| | メンテナンスリリース|自動更新|2024 年 5 月 20 日～22 日|Target| | 機能リリース 2024.5.0 |機能のアクティベーション| 2024 年 5 月 30 日 |ターゲット| | メンテナンスリリース|自動更新|2024 年 6 月 3 日～5 日|Target| | メンテナンスリリース|自動更新|2024 年 6 月 17～19 日|Target| | 機能リリース 2024.6.0 |機能のアクティベーション| 2024 年 6 月 28 日 |ターゲット| | メンテナンスリリース|自動更新|2024 年 7 月 1 日～3 日|Target| | 機能リリース 2024.7.0 |機能のアクティベーション| 2024 年 7 月 26 日 |ターゲット|
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
