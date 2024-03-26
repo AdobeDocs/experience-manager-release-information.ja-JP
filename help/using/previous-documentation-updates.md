@@ -4,9 +4,9 @@ description: このページでは、以前おこなわれた  [!DNL Adobe Exper
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: afc24b365d5ab6cbc6c0b9817e35521cf15ec94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1236'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,12 +26,12 @@ ht-degree: 98%
    <tr>
    <td>2019年12月12日（PT）</td> 
    <td>3D アセットのプレビュー<br /> </td> 
-   <td><p>AEM では、オーサリングプロセスの一環として、3D アセットのアップロード、配信、インタラクティブプレビューをサポートしています。AEM のアセットの詳細ページから、インタラクティブ 3D ビューアーを使用できます。このビューアには、3D アセットをオービット、ズームおよびパンできるインタラクティブなカメラコントロールのコレクションが含まれます。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html" target="_blank">3D アセットのプレビュー</a>を参照してください。</p> </td> 
+   <td><p>AEM では、オーサリングプロセスの一環として、3D アセットのアップロード、配信、インタラクティブプレビューをサポートしています。AEM のアセットの詳細ページから、インタラクティブ 3D ビューアーを使用できます。このビューアには、3D アセットをオービット、ズームおよびパンできるインタラクティブなカメラコントロールのコレクションが含まれます。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=ja" target="_blank">3D アセットのプレビュー</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2019年12月12日（PT）</td> 
    <td>AEM 6.5 サービスパック 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html">AEM 6.5 サービスパック 3 </a>が入手可能になりました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html?lang=ja">AEM 6.5 サービスパック 3 </a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019年12月5日（PT）</td> 
@@ -51,7 +51,7 @@ ht-degree: 98%
   <tr>
    <td>2019年10月18日（PT）<br /> </td> 
    <td>ヘッドレスエクスペリエンス管理<br /> </td> 
-   <td>単一ページアプリケーションのサーバー側レンダリングに使用される、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html#remote-content-renderer">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
+   <td>単一ページアプリケーションのサーバー側レンダリングに使用される、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=ja#remote-content-renderer">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
   </tr>
   <tr>
    <td>2019年10月11日（PT）</td> 
@@ -61,7 +61,7 @@ ht-degree: 98%
   <tr>
    <td>2019年10月10日（PT）</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager バージョン 2019.10.0 は、2019年10月10日（PT）にリリースされました。</p> <p><i>新機能</i>のハイライトや、デプロイメント手順と Maven プロジェクトのバージョン処理についてのアップデートに関する<a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html"> 2019.10.0 のリリースノート</a>を参照してください。<br /> </p> </td> 
+   <td><p>Cloud Manager バージョン 2019.10.0 は、2019年10月10日（PT）にリリースされました。</p> <p><i>新機能</i>のハイライトや、デプロイメント手順と Maven プロジェクトのバージョン処理についてのアップデートに関する<a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=ja"> 2019.10.0 のリリースノート</a>を参照してください。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019年10月8日（PT）</td> 
@@ -91,17 +91,17 @@ ht-degree: 98%
   <tr>
    <td>2019年9月25日（PT）</td> 
    <td>Scene7：アセット再処理ワークフロー<br /> </td> 
-   <td><p>後で変更した既存の処理プロファイルがあるフォルダー内のアセットを再処理できるようになりました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html#reprocessing-assets" target="_blank">フォルダー内のアセットの再処理</a>を参照してください。<br /> </p> </td> 
+   <td><p>後で変更した既存の処理プロファイルがあるフォルダー内のアセットを再処理できるようになりました。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=ja#reprocessing-assets" target="_blank">フォルダー内のアセットの再処理</a>を参照してください。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019年9月25日（PT）</td> 
    <td>Dynamic Media ビューアと Adobe Analytics および Adobe Launch の統合</td> 
-   <td><p>Dynamic Media ビューア 5.13 のリリースと共に、Adobe Launch の Dynamic Media ビューア拡張機能を使用すると、Dynamic Media、Adobe Analytics、Adobe Launch のユーザーは、Adobe Launch 設定で Dynamic Media ビューア固有のイベントとデータを使用できます。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html" target="_blank">Dynamic Media ビューアと Adobe Analytics および Adobe Launch の統合</a>を参照してください。 </p> </td> 
+   <td><p>Dynamic Media ビューア 5.13 のリリースと共に、Adobe Launch の Dynamic Media ビューア拡張機能を使用すると、Dynamic Media、Adobe Analytics、Adobe Launch のユーザーは、Adobe Launch 設定で Dynamic Media ビューア固有のイベントとデータを使用できます。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=ja" target="_blank">Dynamic Media ビューアと Adobe Analytics および Adobe Launch の統合</a>を参照してください。 </p> </td> 
   </tr>
   <tr>
    <td>2019年9月19日（PT）</td> 
    <td>AEM 6.5 サービスパック 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html">AEM 6.5 サービスパック 2（6.5.2.0）</a>が入手可能になりました。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html?lang=ja">AEM 6.5 サービスパック 2（6.5.2.0）</a>が入手可能になりました。</td>
   </tr>
   <tr>
    <td>2019年9月9日（PT）</td> 
@@ -136,7 +136,7 @@ ht-degree: 98%
   <tr>
    <td>2019年7月25日（PT）</td> 
    <td>異なるライセンスの AEM Assets 機能</td> 
-   <td>スタンドアロン DAM ライセンスと AEM MediaLibrary で使用可能な AEM Assets の<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html" target="_blank">機能の一覧</a>が AEM 6.5 リリース向けに更新されました。<br /> </td> 
+   <td>スタンドアロン DAM ライセンスと AEM MediaLibrary で使用可能な AEM Assets の<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=ja" target="_blank">機能の一覧</a>が AEM 6.5 リリース向けに更新されました。<br /> </td> 
   </tr>
   <tr>
    <td>2019年7月12日（PT）</td> 
@@ -146,7 +146,7 @@ ht-degree: 98%
   <tr>
    <td>2019年7月8日（PT）</td> 
    <td>タッチ対応 UI への移行</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html#introduction">タッチ対応 UI への移行</a>に関する情報とリソースの一覧を示すランディングページです。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=ja#introduction">タッチ対応 UI への移行</a>に関する情報とリソースの一覧を示すランディングページです。</td> 
   </tr>
   <tr>
    <td>2019年7月3日（PT）</td> 
@@ -156,7 +156,7 @@ ht-degree: 98%
   <tr>
    <td>2019年7月3日（PT）</td> 
    <td>AEM 6.5 サービスパック 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html">AEM 6.5 サービスパック 1（6.5.1.0）</a>が入手可能になりました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html?lang=ja">AEM 6.5 サービスパック 1（6.5.1.0）</a>が入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019年6月25日（PT）</td> 
@@ -171,7 +171,7 @@ ht-degree: 98%
   <tr>
    <td>2019年6月3日（PT）</td> 
    <td>リッチテキストエディター（RTE）<br /> </td> 
-   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">複合マルチフィールドコンポーネントを作成するサンプル</a>にパッケージを追加しました。<br /> </p> <p>お客様からのフィードバックに基づいて、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">トラブルシューティング FAQ</a> を作成しました。</p> </td> 
+   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">複合マルチフィールドコンポーネントを作成するサンプル</a>にパッケージを追加しました。<br /> </p> <p>お客様からのフィードバックに基づいて、<a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html?lang=ja" target="_blank">トラブルシューティング FAQ</a> を作成しました。</p> </td> 
   </tr>
   <tr>
    <td>2019年5月31日（PT）</td> 
@@ -181,12 +181,12 @@ ht-degree: 98%
   <tr>
    <td>2019年5月24日（PT）</td> 
    <td>AEM 6.5 のタッチ対応 UI 機能ステータス<br /> </td> 
-   <td>AEM 6.5 の<a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html">タッチ対応 UI 機能ステータス</a>ページを公開しました<br /> </td> 
+   <td>AEM 6.5 の<a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=ja">タッチ対応 UI 機能ステータス</a>ページを公開しました<br /> </td> 
   </tr>
   <tr>
    <td>2019年5月14日（PT）</td> 
    <td>ビューアリファレンスガイド</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html">ビデオ</a>ビューアや <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html">Video360</a> ビューアにおけるビデオプレーヤーの修飾子 preload に関するドキュメントを追加しました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html?lang=ja">ビデオ</a>ビューアや <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html?lang=ja">Video360</a> ビューアにおけるビデオプレーヤーの修飾子 preload に関するドキュメントを追加しました。</td> 
   </tr>
   <tr>
    <td>2019年5月14日（PT）</td> 
@@ -196,7 +196,7 @@ ht-degree: 98%
   <tr>
    <td>2019年5月13日（PT）</td> 
    <td>IS/IR API</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html">画像カタログ属性リファレンスセクション</a>に新しい BFC（ブラウザフォーマット変換）値を追加しました。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html?lang=ja">画像カタログ属性リファレンスセクション</a>に新しい BFC（ブラウザフォーマット変換）値を追加しました。</td> 
   </tr>
   <tr>
    <td>2019年5月08日（PT）</td> 
@@ -206,7 +206,7 @@ ht-degree: 98%
   <tr>
    <td>2019年5月01日（PT）</td> 
    <td>ビューアリファレンスガイド</td> 
-   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html">360/VR ビデオに関するドキュメント</a>を新しく追加しました。</p> </td> 
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html?lang=ja">360/VR ビデオに関するドキュメント</a>を新しく追加しました。</p> </td> 
   </tr>
   <tr>
    <td>2019年4月18日（PT）</td> 
@@ -225,7 +225,7 @@ ht-degree: 98%
   <tr>
    <td>2019年4月12日（PT）</td> 
    <td>AEM 6.5 Screens ユーザーガイド</td> 
-   <td><p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Windows 10 プレーヤーの実装</a>を参照してください。</p> </td> 
+   <td><p>詳しくは、<a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html?lang=ja">Windows 10 プレーヤーの実装</a>を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2019年4月08日（PT）</td> 
