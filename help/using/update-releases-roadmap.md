@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: dfad170db445a5bcbb9e1abc65f297a1cd4f928e
+source-git-commit: 7fe057f759a0ae328957efd6d425c6a2d37ef1d1
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックで提供されます。新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html?lang=ja)を参照してください。
+[!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックで提供されます。新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
