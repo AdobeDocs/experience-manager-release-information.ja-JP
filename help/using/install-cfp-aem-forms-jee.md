@@ -1,12 +1,12 @@
 ---
 title: 累積修正パックの AEM Forms JEE へのインストール
-description: AEM Forms JEE での累積修正パック（CFP）のインストールおよび設定手順の概要
+description: AEM Forms JEE に累積修正パック（CFP）をインストールして設定する手順の概要です。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '921'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '909'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ AEM 6.3 [!DNL Forms JEE] に累積修正パックをインストールするに�
 
 AEM [!DNL  Forms JEE] パッケージ（aemfd-jee-bundles-package-6.3CFP1、バージョン 1.0.2）は、AEM [!DNL Forms JEE] 上の [!DNL Forms] ユーザーに、AEM [!DNL Forms OSGi] 上と同じ権限および機能を提供します。パッケージマネージャーでインストール済みのパッケージを確認し、パッケージがまだインストールされていない場合はインストールします。
 
-### CQ-4208044 の追加手順 {#additional-instructions-for-cq}
+### CQ-4208044 の詳細手順 {#additional-instructions-for-cq}
 
 AEM 6.3 [!DNL Forms JEE] サーバーと Oracle データベースを使用している場合は、CFP1 のデプロイ後、つまり Configuration Manager の実行後に、以下の設定を設定します。この設定は、エンタープライズドメインの同期が実行されるときに、ユーザー、グループ、グループメンバーを同期するために必要です。
 
@@ -36,7 +36,7 @@ AEM 6.3 [!DNL Forms JEE] サーバーと Oracle データベースを使用し�
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
-1. 変更したファイルを再度読み込んでから、同期を再実行してください。
+1. 変更したファイルを再度インポートしてから、同期を再実行してください。
 
 ## AEM 6.2 [!DNL  Forms JEE] に CFP をインストールする  {#install-cfp-on-aem-62-forms-jee}
 
@@ -100,8 +100,8 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
    インストールメディア上、またはインストーラーをコピーしたハードディスク上のフォルダーの適切なディレクトリに移動します。
 
-   * （Windows 32 ビット版）：Disk1\InstData\Windows\VM
-   * （Windows 64 ビット版）：Disk1\InstData\Windows_64bit\VM
+   * （`Windows 32-bit`）: `Disk1\InstData\Windows\VM`
+   * （`Windows 64-bit`）: `Disk1\InstData\Windows_64bit\VM`
 
    次に、次の名前のファイルをダブルクリックします。
 
@@ -126,7 +126,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
    インストールウィザードが起動し、インストール手順が示されます。
 
 1. 概要パネルで「**[!UICONTROL 次へ]**」をクリックします。
-1. インストールフォルダーを選択画面で、表示されるデフォルトの場所が既存のインストール場所であることを確認するか、または「**[!UICONTROL 参照]**」をクリックして AEM [!DNL Forms]がインストールされている別のフォルダーを選択してから、「**[!UICONTROL 次へ]**」をクリックします。
+1. インストールフォルダーを選択画面で、表示されるデフォルトの場所が既存のインストール場所であることを確認します。 または、 **[!UICONTROL 参照]** AEMで代替フォルダーを選択するには [!DNL Forms] がインストールされている場合は、 **[!UICONTROL 次]**.
 1. Quick Fix パッチの概要の情報を読み、「**[!UICONTROL 次へ]**」をクリックします。
 1. プリインストールの概要情報を読み、「**[!UICONTROL インストール]**」をクリックします。
 1. インストールが完了したら、「**[!UICONTROL 次へ]**」をクリックして、インストールされたファイルに対して Quick Fix アップデートを適用します。

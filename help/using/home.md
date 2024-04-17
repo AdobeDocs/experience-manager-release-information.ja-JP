@@ -1,17 +1,17 @@
 ---
-title: 「[!DNL Adobe Experience Manager] リリースのアップデートとロードマップ」
-description: 「[!DNL Adobe Experience Manager] リリースのアップデートとロードマップ」
+title: Adobe Experience Manager リリースのアップデートとロードマップ
+description: Adobe Experience Manager リリースのアップデートとロードマップ。
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '56'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 66%
 
 ---
 
 # Adobe Experience Manager リリースのアップデートとロードマップ
 
-このガイドでは、[!DNL Adobe Experience Manager] リリースのロードマップ、以前のリリースのアップデート、ドキュメントの更新に関する情報を扱っています。
+このガイドでは、 [!DNL Adobe Experience Manager] リリースロードマップ、以前のリリースのアップデート、ドキュメントのアップデート。
 
 * [[!DNL Experience Manager] リリースのアップデート](aem-releases-updates.md)
 * [[!DNL Experience Manager] リリースロードマップ](update-releases-roadmap.md)
