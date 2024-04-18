@@ -2,10 +2,10 @@
 title: AEM 6.3 累積修正パック
 description: AEM 6.3 累積修正パックのリリースノート.
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
-source-git-commit: 426c19d12d87b22c86c49a0606465db162ef3434
+source-git-commit: e8c9b5343208458febe55d8c1a0b541b112d3911
 workflow-type: tm+mt
-source-wordcount: '17150'
-ht-degree: 83%
+source-wordcount: '17123'
+ht-degree: 79%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 |---|---|
 | **バージョン** | 6.3 |
 | **リリース** | [ソフトウェア配布](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip)の累積修正パック 6.3.3.8 |
-| **前提条件** | [AEM 6.3 サービスパック 3（6.3.3.0）](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) |
+| **前提条件** | [AEM 6.3 サービスパック 3（6.3.3.0）](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) |
 | **一般リリース** | 2020年3月5日（PT） |
 
 ### 累積修正パック     {#cumulative-fix-pack}
@@ -28,13 +28,13 @@ ht-degree: 83%
 * 品質保証の向上
 * インストールの単純化（最新のサービスパック以外の依存関係がない単一パッケージとして CFP をインストールします）。
 
-CFP および他のタイプのリリースについて詳しくは、[メンテナンスリリースの提供に関する定義](https://experienceleague.adobe.com/docs/?lang=ja)を参照してください。
+CFP および他のタイプのリリースについて詳しくは、[メンテナンスリリースの提供に関する定義](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)を参照してください。
 
 ## リリースについて {#about-the-release}
 
 AEM 累積修正パック 6.3.3.8 は、2018年9月の AEM 6.3 サービスパック 3（6.3.3.0）の一般リリース以降に対応された、内部およびお客様向けの修正を含む重要な更新です。
 
-AEM累積修正パック 6.3.3.8 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+AEM累積修正パック 6.3.3.8 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 **AEM 累積修正パック**&#x200B;の主なハイライトは次のとおりです。
 
@@ -104,7 +104,7 @@ AEM Forms の修正は、このリリースで提供されるアドオンパッ�
 
 AEM 累積修正パック 6.3.3.7 は、2018年9月の AEM 6.3 サービスパック 3（6.3.3.0）の一般リリース以降に対応された、内部およびお客様向けの修正を含む重要な更新です。
 
-AEM累積修正パック 6.3.3.7 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+AEM累積修正パック 6.3.3.7 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 ### Assets {#assets-1}
 
@@ -172,7 +172,7 @@ AEM Forms の修正は、このリリースで提供されるアドオンパッ�
 
 AEM 累積修正パック 6.3.3.6 は、2018年9月の AEM 6.3 サービスパック 3（6.3.3.0）の一般リリース以降に対応された、内部およびお客様向けの修正を含む重要な更新です。
 
-AEM累積修正パック 6.3.3.6 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+AEM累積修正パック 6.3.3.6 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 ### Assets {#assets-2}
 
@@ -226,7 +226,7 @@ AEM Forms の修正は、このリリースで提供されるアドオンパッ�
 
 AEM 累積修正パック 6.3.3.5 は、2018年9月の AEM 6.3 サービスパック 3（6.3.3.0）の一般リリース以降に対応された、内部およびお客様向けの修正を含む重要な更新です。
 
-AEM累積修正パック 6.3.3.5 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+AEM累積修正パック 6.3.3.5 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 **AEM 累積修正パック**&#x200B;の主なハイライトは次のとおりです。
 
@@ -294,7 +294,7 @@ AEM 6.3.3.5 に含まれているコンテンツパッケージの一覧
 
 AEM 累積修正パック 6.3.3.4 は、2018年9月の AEM 6.3 サービスパック 3（6.3.3.0）の一般リリース以降に対応された、内部およびお客様向けの修正を含む重要な更新です。
 
-AEM累積修正パック 6.3.3.4 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+AEM累積修正パック 6.3.3.4 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 **AEM 累積修正パック**&#x200B;の主なハイライトは次のとおりです。
 
@@ -402,7 +402,7 @@ AEM 6.3.3.4 に含まれているコンテンツパッケージの一覧
 
 AEM 累積修正パック 6.3.3.3 は、2018年9月の AEM 6.3 サービスパック 3（6.3.3.0）の一般リリース以降に対応された、内部およびお客様向けの修正を含む重要な更新です。
 
-AEM累積修正パック 6.3.3.3 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+AEM累積修正パック 6.3.3.3 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 **AEM 累積修正パック**&#x200B;の主なハイライトは次のとおりです。
 
@@ -447,7 +447,7 @@ AEM累積修正パック 6.3.3.3 は、AEM 6.3 サービスパック 3 に依存
 
 #### レプリケーション {#replication-1}
 
-* 6.3.3.1 で DispatcherFlushRules によりレプリケーションが中断される。NPR-28150:CQ-4261401 のホットフィックス
+* 6.3.3.1 の DispatcherFlushRules によってレプリケーションが機能しない。NPR-28150:CQ-4261401 のホットフィックス
 
 #### Campaign - ターゲティング {#campaign-targeting-1}
 
@@ -530,7 +530,7 @@ AEM 累積修正パックの主なハイライトは次のとおりです。
 * 他のページプロパティを編集すると、Cloud Service 設定の継承が中断される。NPR-27311：CQ-4256785 のホットフィックス
 * 基盤フォームと共にコアコンポーネントフォームを使用すると、ヌルポインター例外が発生する。 NPR-27333：CQ-4249176 のホットフィックス
 * リッチテキストエディターが空の alt タグを削除する。NPR-26938：CQ-4253267 のホットフィックス
-* （クラシック UI）複数のドロップダウンがある場合、選択変更リスナーのパフォーマンスの問題。 NPR-27115：CQ-4237215 のホットフィックス
+* （クラシック UI）選択に関するパフォーマンスの問題、ドロップダウンが複数ある場合はリスナーが変更されました。 NPR-27115：CQ-4237215 のホットフィックス
 * リッチテキストエディターを複数のフィールドと組み合わせると、「Uncaught TypeError: fieldAPI.getName is not a function at foundation.js」というエラーが発生する。NPR-27146：CQ-4253155、CQ-4259967 のホットフィックス
 * Safari ブラウザーでラジオボタンをクリックしても、フォーカス／カーソルがリッチテキストエディターに残る。NPR-27144：CQ-4249635 のホットフィックス
 * ユーザーがコンテンツフラグメントを編集しようとすると、ページが空白として表示される。NPR-27669
@@ -608,7 +608,7 @@ AEM 累積修正パックの主なハイライトは次のとおりです。
 #### Forms - アダプティブフォーム {#forms-adaptive-forms-1}
 
 * AEM Forms の XML インジェクションの脆弱性。NPR-27863：CQ-4257315 のホットフィックス
-* サイトページで間違ったフォームが設定され、「フォームがページの幅全体をカバー」チェックボックスが選択されると、AEM Forms コンテナコンポーネントが非表示になる。NPR-25972：CQ-4239287、CQ-4249133 のホットフィックス
+* AEM Formsページで間違ったフォームが設定され、「フォームがページの幅全体をカバー」チェックボックスが選択されると、AEM Sites コンテナコンポーネントが非表示になる。 NPR-25972：CQ-4239287、CQ-4249133 のホットフィックス
 
 ### Forms JEE インストーラー {#forms-jee-installer-5}
 
@@ -630,7 +630,7 @@ AEM 6.3.3.2 に含まれているコンテンツパッケージの一覧
 
 AEM 累積修正パック 6.3.3.1 は、2018年9月の AEM 6.3 サービスパック 3（6.3.3.0）の一般リリース以降に対応された、内部およびお客様向けの修正を含む重要な更新です。
 
-AEM累積修正パック 6.3.3.1 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、[AEM 6.3 サービスパック 3 リリースノート](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)を参照してください。
+AEM累積修正パック 6.3.3.1 は、AEM 6.3 サービスパック 3 に依存しています。 したがって、AEM 6.3 サービスパック 3 をインストールした後、AEM 累積修正パック 6.3.3.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください。 [AEM 6.3 サービスパック 3](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 **AEM 累積修正パック**&#x200B;の主なハイライトは次のとおりです。
 
@@ -647,7 +647,7 @@ AEM累積修正パック 6.3.3.1 は、AEM 6.3 サービスパック 3 に依存
 * IDS 分離を有効にすると、DAM アセット更新ワークフローが参照をリンクしなくなる。NPR-26135：CQ-4250933 のホットフィックス
 * 作成されたアーカイブに、名前に % が付いたフォルダーが含まれている場合、アーカイブを解凍しても開かない。NPR-26275：CQ-4251482 のホットフィックス
 * 単一引用符文字が原因で、メタデータを更新できない。NPR-26808：CQ-4254305 のホットフィックス
-* （オムニサーチ）コレクション内の検索でパフォーマンスの問題が発生する。NPR-26714：CQ-4253408 のホットフィックス
+* （オムニサーチ）コレクション内で検索する際のパフォーマンスの問題。 NPR-26714：CQ-4253408 のホットフィックス
 * テキスト内に「OR」文字列を含んだ全文検索で GQLConverter を使用すると、誤って処理される。NPR-26564：CQ-4247362 のホットフィックス
 * マルチテナントからのアセットリンクを共有すると、テナント ID が先頭に付加されて、無効な URL になる。NPR-26482：CQ-4253540 のホットフィックス
 * Dynamic Media クラウド設定 UI の「会社のルートフォルダーパス」を無効化。NPR-26361：CQ-4249505 のホットフィックス
@@ -667,7 +667,7 @@ AEM累積修正パック 6.3.3.1 は、AEM 6.3 サービスパック 3 に依存
 * タイトルと名前のケースタイプに違いがある場合、タグが 2 回作成される。NPR-26877：CQ-4254134 のホットフィックス
 * 編集ダイアログボックスのリッチテキストエディター機能が、ポリシーで制御されない。 NPR-27059、NPR-26750：CQ-4241130 のホットフィックス
 * クライアントコンテキストの segment.js のキャッシュ時と非キャッシュ時の問題。NPR-26622：CQ-4253486 のホットフィックス
-* 従来の子ルールのセグメントルール（/etc/segmentation）のアクティブ化により、公開が停止する。NPR-26601：CQ-4253588 のホットフィックス
+* 従来の子ルールのセグメントルール（/etc/segmentation）のアクティベーションが原因で、公開が停止する。 NPR-26601：CQ-4253588 のホットフィックス
 * 「特殊文字」を追加すると、リッチテキストエディターダイアログボックスが上部までスクロールする。 NPR-26435：CQ-4249869 のホットフィックス
 * （タッチ UI）フルスクリーンからフローティングダイアログボックスに切り替えると、複数のリッチテキストエディターでツールバーが使用できなくなる。 NPR-25652：CQ-4206008 のホットフィックス
 * 複数ページのローンチを昇格させると、ページごとに複数のバージョンが作成される。NPR-26810：CQ-4254663 のホットフィックス
@@ -677,7 +677,7 @@ AEM累積修正パック 6.3.3.1 は、AEM 6.3 サービスパック 3 に依存
 * バリエーションをライブコピーとして作成するには、反映するページを更新する必要があります。 NPR-26663：CQ-4254328 のホットフィックス
 * （クラシック UI）ページのプロパティに戻ると、サムネール画像が継承を使用せず、サイト管理やサイドキックから消えて、画像が空白で表示される。NPR-26562：CQ-4252346 のホットフィックス
 * ページのバージョンが作成され、比較がトリガーされると、ブループリントのライブコピーのリストに/content/versionshistory 内のノードがリストされる。 NPR-26506：CQ-4243957 のホットフィックス
-* エクスペリエンスフラグメント管理者エディターの URL でオーバーレイを使用できない。NPR-26318：CQ-4252156 のホットフィックス
+* エクスペリエンスフラグメント管理エディターの URL でオーバーレイを使用できない。 NPR-26318：CQ-4252156 のホットフィックス
 
 #### Platform {#platform}
 
@@ -687,13 +687,13 @@ AEM累積修正パック 6.3.3.1 は、AEM 6.3 サービスパック 3 に依存
 #### 統合 {#integration-3}
 
 * AEM に埋め込まれた TSDK は、互換性のないテンプレートを使用しているので、Handlebars 4 にアップグレードすると機能しなくなる。NPR-26699：CQ-4248974 のホットフィックス
-* 新しいアセットを含んだページを公開すると、子ページが通知なしにパブリッシュインスタンスからアクティベート解除される。NPR-24869：CQ-4247832 のホットフィックス
-* レプリケーションでは、oauth の期限切れトークンを使用します。 NPR-25984：Granite-22388 のホットフィックス
+* 新しいアセットを含んだページを公開すると、子ページが通知なしに公開インスタンスからアクティベート解除される。 NPR-24869：CQ-4247832 のホットフィックス
+* レプリケーションで OAauth に期限切れのトークンが使用されます。 NPR-25984：Granite-22388 のホットフィックス
 
 #### レプリケーション {#replication-2}
 
 * 開かれているセッションが HTTP トランスポートでリークされる可能性がある。Granite-17434 のホットフィックス
-* アクセストークンノードが複数のレプリケーションエージェントから同時にアクセスされているときにログで例外が発生する。NPR-26964：GRANITE-23276、Granite-23155 のホットフィックス
+* アクセストークンノードが複数のレプリケーションエージェントから同時にアクセスされているときにログで例外が発生する。 NPR-26964：GRANITE-23276、Granite-23155 のホットフィックス
 
 #### ContextHub {#contexthub}
 
@@ -719,7 +719,7 @@ AEM累積修正パック 6.3.3.1 は、AEM 6.3 サービスパック 3 に依存
 * モデレーションページでコンテンツをフィルタリングできない。NPR-26697：CQ-4213766 のホットフィックス
 * （セキュリティの脆弱性）JWT の設定ミスによるアカウントの乗っ取り。NPR-26440：CQ-4253314 のホットフィックス
 * Adobe ストレージリソースプロバイダーからのデータの取得が遅い。NPR-26237：NPR-24152 のホットフィックス
-* プライベートメッセージ作成ページの動作が不安定で遅い。NPR-26120：CQ-4250923 のホットフィックス
+* プライベートメッセージ構成ページが不安定で遅い。 NPR-26120：CQ-4250923 のホットフィックス
 * 「すべて既読としてマーク」の通知で、ページが更新されずに最初の 10 個のみが未読とされる。NPR-27036：CQ-4254058 のホットフィックス
 * Communities の「コメント」セクションのページネーションクリックとページ読み込みの動作。NPR-27030：CQ-4251228 のホットフィックス
 * （フォーラム検索）「戻る」ボタンを押すと、ページをスキップして forum.html に戻る。NPR-26949：CQ-4254804 のホットフィックス
@@ -727,18 +727,18 @@ AEM累積修正パック 6.3.3.1 は、AEM 6.3 サービスパック 3 に依存
 * （SearchScheduledPosts ジョブ）ConfigMgr に有効／無効スイッチを追加。NPR-26924：CQ-4250463 のホットフィックス
 * 割り当てページをスクロールすると、Tomcat Context（/aempublish）パスがドロップする。NPR-26919：CQ-4254345 のホットフィックス
 * グループおよびメンバーの作成中に NullPointerException が発生する。NPR-26778：CQ-4248095 のホットフィックス
-* モデレーターがピン留めを解除およびおすすめを取り消したコンテンツが、MySQL の単一責任の原則（SRP）に対応しない。NPR-26767：CQ-4251520 のホットフィックス
+* モデレーターがピン留めを解除およびおすすめを取り消したコンテンツが、MySQL の単一責任の原則（SRP）に対応しない。 NPR-26767：CQ-4251520 のホットフィックス
 * 特定の文字に関する検索機能の問題。NPR-26726：CQ-4247744 のホットフィックス
 * モデレーション UI およびイネーブルメントリソースのディープリンクを有効にする。NPR-26705：CQ-4251381 のホットフィックス
 * フォーラムコンポーネントに関する検索の問題。NPR-26577：CQ-4251303 のホットフィックス
-* Communities のメッセージングで姓と名を一緒に指定して検索しても、予期した結果が返されない。NPR-26377：CQ-4253150 のホットフィックス
+* コミュニティメッセージで姓と名を一緒に検索しても、予期した結果が返されない。 NPR-26377：CQ-4253150 のホットフィックス
 * 返信を削除しても、ページネーションが更新されない。NPR-26327
 * 投稿の削除は機能するが、コンソールにエラーが表示され、投稿が UI に表示されたままになる。NPR-26292：CQ-4252803 のホットフィックス
 * ページネーションが動的に更新されず、返信のリストが長くなり続ける。NPR-26145：CQ-4251586 のホットフィックス
-* グループの設定が、5 万〜10 万人のユーザーを含むグループに読み込まれない。NPR-25642：CQ-4238426 のホットフィックス
+* グループ設定が、何千ものユーザーを含むグループに読み込まれない。 NPR-25642：CQ-4238426 のホットフィックス
 * コンテキストパスに対してカタログリソースプレーヤーが失敗する。NPR-25640：CQ-4238426 のホットフィックス
 * （フォーラム検索）- 多数の投稿があるスレッドへのページ分割されたリンクが、通知で機能しない。CQ-4254202 のホットフィックス
-* Firefox でモデレーションコンソールに 5 つのエントリしか表示されない。CQ-4254128 のホットフィックス
+* Firefox でモデレーションコンソールに 5 つのエントリしか表示されない。 CQ-4254128 のホットフィックス
 * サイトの作成中にグループが表示されない。NPR-27148：CQ-4251788 のホットフィックス
 * グループとメンバーをロール設定に追加し、ブログ機能で権限を持つメンバーを許可する際のヌルポインター例外。NPR-21732、NPR-27176：CQ-4255909 のホットフィックス
 * サイトを編集し、役割の設定にメンバーを追加すると、ヌルポインター例外がスローされる。NPR-27132：CQ-4255909 のホットフィックス
@@ -777,7 +777,7 @@ AEM累積修正パック 6.3.3.1 は、AEM 6.3 サービスパック 3 に依存
 
 * Workspace が断続的にハングし、開始ポイントが繰り返し表示される。NPR-26461：CQ-4253439 のホットフィックス
 * タスク名に中括弧が使用されていると、ログに ESAPI 例外がスローされる。CQ-4256627 のホットフィックス
-* 事前入力されていないアダプティブフォーム／フォームセットに関連付けられた開始ポイントが開かれると、ヌルポインター例外がスローされる。CQ-4256124 のホットフィックス
+* 事前入力されていないアダプティブフォームまたはフォームセットに関連付けられた開始ポイントが開かれると、ヌルポインター例外がスローされる。 CQ-4256124 のホットフィックス
 * グローバル設定を使用してメールを送信できない。NPR-26163：CQ-111110 のホットフィックス
 * axis.jar ファイルを適用した後、Workspace を開けない。NPR-26131：CQ-4251126 のホットフィックス
 * 更新ボタンが、サーバーからアダプティブフォームへの最新データの同期に失敗する。CQ-4255670 のホットフィックス
@@ -828,13 +828,13 @@ AEM 6.3.3.1 に含まれているコンテンツパッケージの一覧
 
 AEM 累積修正パック 6.3.2.2 は、2018年4月の AEM 6.3 サービスパック 2（6.3.2.0）の一般リリース以降に対応された、内部およびお客様向けの修正を含む重要な更新です。
 
-AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存しています。 したがって、AEM 6.3 サービスパック 2 をインストールした後、AEM 累積修正パック 6.3.2.x パッケージをインストールする必要があります。インストール手順については、[AEM 6.3 サービスパック 2 リリースノート](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)を参照してください。
+AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存しています。 したがって、AEM 6.3 サービスパック 2 をインストールした後、AEM 累積修正パック 6.3.2.x パッケージをインストールする必要があります。インストール手順については、リリースノートのを参照してください。 [AEM 6.3 サービスパック 2](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 **AEM 累積修正パック**&#x200B;の主なハイライトは次のとおりです。
 
 * 組み込み型のリポジトリ（Apache Jackrabbit Oak）をバージョン 1.6.11 に更新しました。
 * Brand Portal でサブアセットと複数ページアセットビューアを有効にしました。
-* 様々なタイプの添付ファイルで考えられるすべての MIME タイプをサポートするよう、フィールドタイプの長さを 255 に変更しました。
+* フィールドタイプの長さを 255 に変更して、様々なタイプの添付ファイルで使用可能なすべての MIME タイプをサポートするようにしました。
 * 画像がアップロード基準に違反した場合にサーバーから送信されるエラーメッセージを設定しました。
 * Day CQ メールサービスに STARTTLS サポートを追加しました。
 * cq-wcm-content と com.adobe.cq.launches.it.serverside を最新バージョンに更新しました。
@@ -845,7 +845,7 @@ AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存
 ### Assets {#assets-8}
 
 * アセットフォルダーの閉じられたユーザーグループ（CUG）フィールドが「everyone」グループを返さない。NPR-23163：CQ-4239377 のホットフィックス
-* スマートコレクションの保存済み検索結果の検索で、必ずしもすべての結果が返されない。NPR-23243：CQ-4240355 のホットフィックス
+* 保存したスマートコレクション検索の検索で、必ずしもすべての結果が返されない。 NPR-23243：CQ-4240355 のホットフィックス
 * （ExpiryNotificationJobImpl）既存クエリの最適化。NPR-23330：CQ-4205249 のホットフィックス
 * （メタデータプロファイル）作成時に設定された標準タグ値が、保存後に使用できない。NPR-23370：CQ-4235458 のホットフィックス
 * （タッチ UI）JS エラーのため、複数のアセットを移動できない。NPR-23395：CQ-4241279 のホットフィックス
@@ -857,8 +857,8 @@ AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存
 * （Brand Portal）ディレクトリ述語の検索は、複製時に除外される必要がある。NPR-23292：CQ-4241385 のホットフィックス
 * 「Brand Portal に公開」UI アクションを使用できない。NPR-23293：CQ-4241161 のホットフィックス
 * コンテンツフラグメントに対して、「Brand Portal に公開」または「Brand Portal で非公開」ボタンを使用できないようにする。NPR-23318：CQ-4245086 のホットフィックス
-* （Brand Portal）アセットの公開時にサブアセットの作成を有効にする。NPR-23331：CQ-4242018 のホットフィックス
-* Dynamic Media リクエストで、プロキシ／HTTP 共通クライアントが使用されない。NPR-10727：CQ-45695、CQ-88800 のホットフィックス
+* （Brand Portal）アセットが公開されたときにサブアセットを作成できるようにします。 NPR-23331：CQ-4242018 のホットフィックス
+* Dynamic Media リクエストで、プロキシ/HTTP 共通クライアントが使用されない。 NPR-10727：CQ-45695、CQ-88800 のホットフィックス
 * Dynamic Media S7（DMS7）で単一レンディション MP4 ビデオアセットに注釈を付けることができない。NPR-22046：CQ-4215912 のホットフィックス
 * EmbedXMP データは、Tiff、Pyramid 生成プロセスでは常に「アクティブ」に設定されます。 NPR-22903：CQ-4234498 のホットフィックス
 * 多数の画像プリセットに関する動的レンディションの表示／選択の問題。NPR-23151：CQ-4217511 のホットフィックス
@@ -870,7 +870,7 @@ AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存
 * 6.2 と 6.3 で異なる xPath 変換が生じるクエリビルダーの不一致。NPR-23245：CQ-4240396 のホットフィックス
 * ページプロパティの「サムネール」タブが、ダイアログボックスの拡張時に機能しない。 NPR-22844：CQ-4241474 のホットフィックス
 * Parsys がエミュレーターデバイスのフレーム幅を破棄し、追加されたコンポーネントをトリミングする。NPR-22926：CQ-4238224 のホットフィックス
-* 複数のローンチを実行すると、ローンチはオーサーで昇格するが、レプリケーション権限がないため、パブリッシュサーバーで変更がレプリケートされない。 NPR-22934：CQ-4234746 のホットフィックス
+* 複数のローンチを実行すると、ローンチはオーサーで昇格するが、レプリケーション権限がないため、パブリッシングサーバーで変更がレプリケートされない。 NPR-22934：CQ-4234746 のホットフィックス
 * 最初のセッションでユーザーがロックしたページを、別のセッションで別のユーザーが変更できる。NPR-23057：CQ-4199017 のホットフィックス
 * リスト表示の並べ替え可能オプションを修正。 NPR-23065：CQ-4239321 のホットフィックス
 * （ページエディター）画像コンポーネントの画像が、ダイアログボックスを再度開くと表示されなくなります。 NPR-23156：CQ-4239978 のホットフィックス
@@ -916,7 +916,7 @@ AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存
 
 ### 翻訳 {#translation-3}
 
-* 言語コピーの作成中、ライブコピープロパティが削除されない。NPR-23123：CQ-4230641 のホットフィックス
+* 言語コピーの作成中、ライブコピープロパティが削除されない。 NPR-23123：CQ-4230641 のホットフィックス
 
 ### ユーザーインターフェイス {#user-interface-1}
 
@@ -928,7 +928,7 @@ AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存
 
 ### Granite {#granite-1}
 
-* Apache HTTP クライアントトラッキング接続と高いヒープ使用率が原因で、AEM サーバーがクラッシュする。NPR-23906：Granite-21056 のホットフィックス
+* Apache HTTP クライアントトラッキング接続と高いヒープ使用率が原因で、AEM サーバーがクラッシュする。 NPR-23906：Granite-21056 のホットフィックス
 
 ### Commerce {#commerce-2}
 
@@ -949,7 +949,7 @@ AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存
 * 多くの検索結果を生成する検索語を検索したあと、新しい検索語を入力すると、ページングがリセットされない。NPR-23739：CQ-4222593 のホットフィックス
 * フォーラムコンポーネントで検索を実行する際の問題。 NPR-23838：CQ-4243770 のホットフィックス
 * （Communities モデレートフラグ）フラグ付きメッセージの一括許可が機能していない。NPR-23845：CQ-4243962 のホットフィックス
-* デフォルトの並べ替え順を選択する代わりに、デフォルトで選択された値が並べ替えボタンのテキストに表示されません。 NPR-23881：CQ-4243375 のホットフィックス
+* デフォルトの並べ替え順を選択しても、ボタンテキストがデフォルトの選択値を表示しない。 NPR-23881：CQ-4243375 のホットフィックス
 * グループへのメッセージ失敗により、Web およびメール通知がトリガーされません。NPR-23934：CQ-4242880 のホットフィックス
 * DSRP 設定を使用すると、フラグのユーザーと設定理由の詳細が表示されない。NPR-23973：CQ-4243205 のホットフィックス
 * フラグが解除されたユーザーからのフラグ設定理由が表示されたままになる。NPR-23974：CQ-4243822 のホットフィックス
@@ -965,12 +965,12 @@ AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存
 
 ### MSM {#msm}
 
-* ページをロールアウトすると、プライマリから継承されたオン／オフ時間プロパティがライブコピーに表示されない。NPR-23873：CQ-4243431 のホットフィックス
+* ページをロールアウトする際に、ライブコピーに、プライマリから継承されたオン/オフの時間プロパティが表示されません。 NPR-23873：CQ-4243431 のホットフィックス
 * ライブコピー操作で、削除されたコンポーネントの子ノードが無視されない。NPR-23058：CQ-4211662 のホットフィックス
 
 ### オフロード {#offloading}
 
-* 処理後または定期的にワーカーインスタンスからアセットをクリーンアップするメカニズムに対するリクエスト。NPR-23638：Granite-21337 のホットフィックス
+* 処理後または定期的にワーカーインスタンスからアセットをクリーンアップするメカニズムのリクエスト。 NPR-23638：Granite-21337 のホットフィックス
 
 ## Forms {#forms-8}
 
@@ -978,13 +978,13 @@ AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存
 
 #### アダプティブフォーム {#adaptive-forms-1}
 
-* ReCaptchaConfigService を内部パッケージに移動。CQ-4217459 のホットフィックス
+* 移動 `ReCaptchaConfigService` を内部パッケージに追加します。 CQ-4217459 のホットフィックス
 * 数値フィールドが最小値に違反する。NPR-23967：CQ-4244830 のホットフィックス
 * Adobe Signとの Adaptive Forms統合でのマルチシャードのサポート。 NPR-23383
 
 #### バックエンド統合 {#backend-integration}
 
-* （FDM）（WebService）WSDL パーサーにおける WSDL の拡張機能のサポート。NPR-23640、NPR：4205821 のホットフィックス :23236:
+* （FDM）（WebService）WSDL パーサーにおける WSDL の拡張機能のサポート。NPR-23640
 * Forms アドオンクライアント SDK に SDLInvokerParams を含める。NPR-23157
 
 ### Forms JEE インストーラー {#forms-jee-installer-7}
@@ -1001,7 +1001,7 @@ AEM累積修正パック 6.3.2.2 は、AEM 6.3 サービスパック 2 に依存
 
 #### PDFG サービス {#pdfg-service-2}
 
-* TIFF ファイル（約 50 KB）を同時に処理しているときに、ペーパーキャプチャサービスがクラッシュする。NPR-23556
+* TIFFファイル（約 50 キロバイト）を同時に処理しているときに、ペーパーキャプチャサービスがクラッシュする。 NPR-23556
 
 #### Forms Designer {#forms-designer}
 
@@ -1040,14 +1040,14 @@ AEM 累積修正パック 6.3.2.1 は、2018年4月の AEM 6.3 サービスパ�
 * アセットフォルダーの設定でタイトルまたはサムネール画像を変更すると、フォルダーの元のグループと権限が上書きされます。NPR-22171：CQ-4216080 のホットフィックス
 * ジョブがレプリケーションキューに追加され、アセットが Brand Portal に公開されるにもかかわらず、UI が「Brand Portal に公開できませんでした」という誤ったエラーをスローする。NPR-22179：CQ-4205273 のホットフィックス
 * （タッチ UI）列表示でのアセットのデフォルトアップロード場所。NPR-22465：CQ-4237057 のホットフィックス
-* /conf/global から /conf/mytenant にアセットスキーマをコピーしようとすると、AEM が StackOverflow エラーをスローする。NPR-22489：CQ-4235875 のホットフィックス
+* /conf/global から/conf/mytenant にアセットスキーマをコピーしようとすると、AEMが StackOverflow エラーをスローする。 NPR-22489：CQ-4235875 のホットフィックス
 * フォルダー名の末尾のスペースが原因で、ZIP アーカイブを解凍しようとすると失敗する。NPR-22522：CQ-4238036 のホットフィックス
 * アセットタイトル列を使用した並べ替えが、検索結果に対して機能しない。NPR-22908：CQ-4239076 のホットフィックス
 * YouTube ビデオに、タグ名そのものではなくフルパスのタグが付けられます。 NPR-22976：CQ-4238669 のホットフィックス
 * 並べ替え可能なフォルダーの下でフォルダーの並べ替えが保持されない。 NPR-23125：CQ-4231761 のホットフィックス
 * HTTP 504：共有リンクを使用してコレクションを共有しようとすると、ゲートウェイタイムアウトエラーが発生する。NPR-21928：CQ-4234507 のホットフィックス
 * PDF アセットに複数のキーワードが関連付けられている場合、PDF キーワードメタデータが適切に抽出されず、誤って変更されます。この問題を解決するために、PDF アセットのサブジェクトフィールドメタデータプロパティを削除しました。ただし、メタデータスキーマを編集して、サブジェクトフィールドに複数値のテキストフィールドを追加することは可能です。NPR-21972：4215741 のホットフィックス****
-* 選択したフォルダーを 2 つのポップアップが表示される間に変更すると、間違ったアセットが削除される。NPR-21980：CQ-4233675 のホットフィックス
+* 選択したフォルダーを 2 つのポップアップが表示される間に変更すると、間違ったアセットが削除される。 NPR-21980：CQ-4233675 のホットフィックス
 * （DAM）コレクションウィザードに追加する際の複数のクロスサイトスクリプティング（XSS）の脆弱性。NPR-22432：CQ-4327086 のホットフィックス
 * Safari でアセットの Digital Rights Management を使用すると、アセットをダウンロードできません。免責事項を含み、長いファイル名が付いたアセットをダウンロードできません。NPR-22747：CQ-4236460 および CQ-4235274 のホットフィックス
 * Brand Portal にアセットを公開する際、公開共有をデフォルトオプションに設定。NPR-21931：CQ-4218816 のホットフィックス
@@ -1066,7 +1066,7 @@ AEM 累積修正パック 6.3.2.1 は、2018年4月の AEM 6.3 サービスパ�
 * テキストが空の場合、TreeNode を name 属性にフォールバックさせる。 NPR-22146：CQ-4234724／CQ-4236300 のホットフィックス
 * RSS フィードの問題、ポート - 1 から AEM 6.3。NPR-22176：CQ-4233339 のホットフィックス
 * （クラシック UI）テキストショートカット（Ctrl + V）の貼り付けが、OOTB テキスト（リッチテキスト）コンポーネントで機能しない。NPR-22224：CQ-4236224 のホットフィックス
-* Tagfield のフィルタリングが、テキスト入力時に期待どおりに機能しない。 NPR-22236：CQ-4236655 のホットフィックス
+* タグフィールドのフィルタリングが、テキスト入力時に期待どおりに機能しない。 NPR-22236：CQ-4236655 のホットフィックス
 * （ページエディター）画像マップコンポーネントにテキストデータを貼り付けると、テキストコンポーネントも貼り付けられる。NPR-22264：CQ-4236230 のホットフィックス
 * ダイアログの FileUpload フィールドが必須なため、ダイアログボックスの送信で問題が発生する。 NPR-22464：CQ-4222192 のホットフィックス
 * レプリケーション権限なしで移動すると、移動されたページまたはそのリファラーをアクティベートできない場合は、「アクティベーションをリクエスト」ワークフローが開始される。NPR-22467：CQ-4211765 のホットフィックス
@@ -1078,7 +1078,7 @@ AEM 累積修正パック 6.3.2.1 は、2018年4月の AEM 6.3 サービスパ�
 * インラインモードを使用してコンポーネントを開くと、以前に読み込まれたプラグインは 2 回目は表示されません。 NPR-22591：CQ-4236850 のホットフィックス
 * ネストされたローンチでローンチを削除すると、サブローンチが孤立します。 NPR-22621：CQ-4202639 のホットフィックス
 * （クラシック UI サイドキック）ページがワークフローロックステージにある場合、「ワークフロー」タブが無効になる。NPR-22722：CQ-4237557 のホットフィックス
-* ページ上の画像コンポーネントに追加された画像を反転すると、変更が保存されず、元の画像がページに表示されます。 次の方法で画像コアコンポーネントにレンダリングのサポートが追加されました [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components/pull/141](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components/pull/141). NPR-22801：CQ-4221539 のホットフィックス
+* ページ上の画像コンポーネントに追加された画像を反転すると、変更が保存されず、元の画像がページに表示されます。 次の方法で画像コアコンポーネントにレンダリングのサポートが追加されました [https://github.com/adobe/aem-core-wcm-components/pull/141](https://github.com/adobe/aem-core-wcm-components/pull/141). NPR-22801：CQ-4221539 のホットフィックス
 * アンカーメニューから既存のアンカーを削除しようとすると、リッチテキストエディターコンポーネントウィンドウが閉じられ、変更内容が未保存のままになる。NPR-22802：CQ-4238167 のホットフィックス
 * オムニサーチフィルターを使用すると、Sites コンソールに必ずしもすべてのアクションが表示されない。NPR-22804：CQ-4239007 のホットフィックス
 * OS クリップボードと内部AEM クリップボードでのタッチ UI のコピー/貼り付けの問題。 NPR-22807：CQ-4220383 のホットフィックス
@@ -1101,7 +1101,7 @@ AEM 累積修正パック 6.3.2.1 は、2018年4月の AEM 6.3 サービスパ�
 * ターゲットエンジン（mbox.js、at.js）が、マングリングされた URL を使用せず、特定のデプロイメントで失敗する可能性があるコロンを含む URL を使用します。NPR-22366：CQ-4237854 のホットフィックス
 * カスタムの at.js または mbox.js を指定すると、含まれたスクリプトがHTMLタグではなくテキストとしてページに書き込まれます。 NPR-22441：CQ-4203691 のホットフィックス
 * ターゲットモードで、作成者がブループリントから継承されたコンポーネントを、継承をキャンセルせずに変更できます。 NPR-22751：CQ-4237907 のホットフィックス
-* jcr:content ノードがないため、PersonalizationDataSource が Null ポインター例外をスローする。 NPR-22850：CQ-4222122 のホットフィックス
+* PersonalizationDataSource で、 `jcr:content` ノード。 NPR-22850：CQ-4222122 のホットフィックス
 * 英語以外の言語を使用すると、AEMのターゲティングが失敗します。 NPR-22917：CQ-4218213 のホットフィックス
 * ターゲットコンテンツを含むページを公開すると、関連リソースが欠落します。NPR-23064：CQ-4227119 のホットフィックス
 * クラウド設定で At.js をクライアントライブラリとしてテストすると、mbox 呼び出しでテスト静的パラメーターの値が表示されません。NPR-21930：CQ-4234520 のホットフィックス
@@ -1128,7 +1128,7 @@ AEM 累積修正パック 6.3.2.1 は、2018年4月の AEM 6.3 サービスパ�
 ### Granite {#granite-2}
 
 * Asset Share AEM パブリッシャーインスタンスで、メモリリークに起因する安定性の問題が発生します。 NPR-22205、NPR-23178：Sling-5668、Sling-7292、Sling-7470 のホットフィックス。
-* 不安定なサービス ID はセッション属性名に使用できません。NPR-22821：Granite-21059 のホットフィックス
+* セッション属性名の不安定なサービス ID は使用できません。 NPR-22821：Granite-21059 のホットフィックス
 * http Whiteboard が管理するセッションが無効化されると、セッションに他のセッション属性がない場合、コンテナセッションも無効化されます。 NPR-23059：FELIX-5819 のホットフィックス
 * LogbackManager が、起動時に一部の OSGi 設定を失う可能性があります。NPR-23060：Granite-19791 のホットフィックス
 
@@ -1181,7 +1181,7 @@ AEM Forms の主なハイライトは次のとおりです。
 * Samsung の Android™ 6.0 デバイスでは、アダプティブフォームのテキストボックスに指定された最大文字数が無視される。 NPR-22363、NPR-22364：CQ-4235205 のホットフィックス
 * （Microsoft® Edge）（IE11）複数行フィールドを持つアダプティブフォームのテキストフィールドコンポーネントで、空白ではなく「Null」がデフォルト値として表示される。 NPR-22284：CQ-69107 のホットフィックス
 * アダプティブフォームの SOAP UTF-8 入力エンコーディングでエラーが返され、ページが文字化けする。NPR-20105：CQ-4222669 のホットフィックス
-* サイトページで間違ったフォームを設定すると、AEM Forms コンテナコンポーネントが編集できなくなる。CQ-4237456 のホットフィックス
+* AEM Sites ページで間違ったフォームを設定すると、AEM Forms コンテナコンポーネントが編集できなくなる。 CQ-4237456 のホットフィックス
 * 開発テストが JEE サーバーで実行すると失敗する。CQ-4222082 のホットフィックス
 * Calvin フレームワークの縮小の問題が原因で、JEE サーバーで AF テストが失敗する。CQ-4217220 のホットフィックス
 
@@ -1224,7 +1224,7 @@ AEM Forms の主なハイライトは次のとおりです。
 
 #### PDFG サービス {#pdfg-service-3}
 
-* 指定されたブックマークレベルで PDF Generator が PDF ドキュメントを生成できません。NPR-22921、NPR-22285：CQ-4230562 のホットフィックス
+* PDF Generatorが、指定されたブックマークレベルでPDF文書を生成できない。 NPR-22921、NPR-22285：CQ-4230562 のホットフィックス
 * PDF/A-2a または PDF/A-3a に準拠する PDF ファイルの生成のサポートを追加。NPR-23021：CQ-4214172 のホットフィックス
 
 #### Forms Designer {#forms-designer-1}
@@ -1275,7 +1275,7 @@ AEM 累積修正パックの主なハイライトは次のとおりです。
 * 文字列プロパティ documentNumber のメタデータが日付として表示されるが、数値である必要があります。NPR-20291：CQ-4223991 のホットフィックス
 * 破損した PDF のテキスト抽出が停止します。NPR-20416：CTG-4150375 のホットフィックス
 * UTF-8 と互換性のない名前のアセットを含んだ圧縮ファイルが正しくダウンロードされません。 NPR-20420：CQ-4219961 のホットフィックス
-* オムニサーチの文字が多すぎると、AEM サーバーがクラッシュします。NPR-20434：CQ-4223602 のホットフィックス
+* オムニサーチの文字が多すぎると、AEM サーバーがクラッシュする可能性があります。 NPR-20434：CQ-4223602 のホットフィックス
 * DAM Asset API メタデータの不具合により、XMP 書き戻し API が機能しません。 NPR-20607：CQ-4220455 のホットフィックス
 * コレクションにユーザーを追加する際のパフォーマンスの問題。NPR-20699：CQ-4225733 のホットフィックス
 * AEM から Brand Portal への公開は、Dynamic Media セットでは許可されません。NPR-20320：CQ-4221147 のホットフィックス
@@ -1288,11 +1288,11 @@ AEM 累積修正パックの主なハイライトは次のとおりです。
 
 * 管理者権限の問題：閉じられたユーザーグループのメンバーをページプロパティから削除できない。NPR-20631
 * 「公開を管理」を使用してページを公開する場合、入力されたワークフロー名が通知ボックスに表示される必要がある。NPR-20046：CQ-4221586 のホットフィックス
-* リッチテキストエディターで 2 行にスタイル付きテキストを適用し、それらを 1 つの段落にマージすると、スタイル付きスパンが削除される。NPR-20110：CQ-4223051 のホットフィックス
+* リッチテキストエディターでスタイル設定されたテキストを 2 行に適用し、それらを 1 つの段落に結合すると、スタイル設定されたスパンが削除されます。 NPR-20110：CQ-4223051 のホットフィックス
 * プロパティ編集ダイアログの複数のタブで、フィールドプロパティに加えた変更が保存されないことがある。NPR-20286
 * コンテンツフラグメントの貼り付けられたコンテンツの最後に、予期しないタグがある。NPR-20413：CQ-4224014 のホットフィックス
 * 外部のターゲティングリソースからコンテンツリソースのポリシーを取得するメカニズムを Adobe Campaign に実装。NPR-20667
-* リッチテキストプラグインが、マルチフィールドタッチ UI のインラインバーとフルスクリーンバーの両方で機能しない。NPR-20973
+* マルチフィールドタッチ UI のインラインバーとフルスクリーンバーの両方で、リッチテキストプラグインが機能しない。 NPR-20973
 
 ### Campaign {#campaign-1}
 
@@ -1306,7 +1306,7 @@ AEM 累積修正パックの主なハイライトは次のとおりです。
 
 ### Communities {#communities-8}
 
-* 検索結果が searchresult コンポーネントと一致しない。NPR-20070：CQ-4220913 のホットフィックス
+* 検索結果が検索結果コンポーネントと一致しない。 NPR-20070：CQ-4220913 のホットフィックス
 * メール通知が、公開されたコンポーネントでのモデレーター関連のアクティビティに対してトリガーされない。NPR-20122
 * 結果を含まない空白のページネーションが匿名のコミュニティユーザーに表示される。NPR-20136：CQ-4220738 のホットフィックス
 * ユーザー生成コンテンツがスパムとして検出された場合や、ユーザーが事前にモデレートされたサイトに投稿した場合のアラートトリガーを設定。NPR-20274：CQ-96850 のホットフィックス
@@ -1337,18 +1337,18 @@ AEM 累積修正パックの主なハイライトは次のとおりです。
 ### プロジェクト {#projects-1}
 
 * プロジェクトコンソールから様々なプロジェクトにアクセスすると、ロードに時間がかかる。NPR-20314
-* AEM 6.3.0.1 をインストールすると、dam-update-service ユーザーのキーストアが削除される。NPR-20018
+* AEM 6.3.0.1 をインストールすると、が削除される `dam-update-service` ユーザーのキーストア。 NPR-20018
 * 一部のカスタムデプロイメントで、タスクの追加モジュールで担当者を選択しようとすると、ユーザーピッカーにリストを入力するのに時間がかかります。 NPR-20283：CQ-4224193 のホットフィックス
 
 ### ユーザーインターフェイス {#user-interface-3}
 
 * ダイアログボックスの属性にかかわらず、カラーフィールドが「常に必須」に設定される。 NPR-19702
-* Internet Explorer 11 の全画面表示で、マルチフィールドコンポーネントのスクロールバーが表示されません。NPR-20261：CQ-4219782 のホットフィックス
+* Internet Explorer 11 の全画面表示で、コンポーネントのマルチフィールドに対してスクロールバーが表示されない。 NPR-20261：CQ-4219782 のホットフィックス
 * 連続したクエリがトリガーされて誤った結果が生じても、以前のクエリが中止されません。NPR-20398：GRANITE-19306 のホットフィックス
 
 ### ワークフロー {#workflow-1}
 
-* インボックスに受け取るワークフロータスクが通知されません。NPR-20213：CQ-4221639 のホットフィックス
+* インボックスに受け取るワークフロータスクが通知されません。 NPR-20213：CQ-4221639 のホットフィックス
 * OOTB granite ユーザーピッカーは、ワークフローモデルのダイアログ参加者ステップでドロップダウンをクリックしても、ユーザーを読み込まない。 NPR-20236
 
 ## Forms {#forms-10}
@@ -1467,7 +1467,7 @@ AEM 累積修正パックの主なハイライトは次のとおりです。
 * AEM 実稼働サーバーのデプロイメントに関する安定性の問題。NPR-19707
 * AEM 6.3 にアップグレード後、スクリプトとして実装されたタグを参照するカスタム taglib が見つからない。NPR-19087
 * AEM 6.3.1 の HTL バグ修正。NPR-19161
-* リッチテキストフィールドが、マルチフィールドコンポーネントでは編集できない。NPR-19604：Granite-16755 のホットフィックス
+* 複数フィールドコンポーネントではリッチテキストフィールドを編集できません。 NPR-19604：Granite-16755 のホットフィックス
 * Adobe メールテンプレートサービスが、カスタムユーザーテンプレートにタグを追加する。NPR-19190
 * Oak 1.6.5 のホットフィックス。NPR-19148
 
@@ -1481,7 +1481,7 @@ AEM 累積修正パックの主なハイライトは次のとおりです。
 
 ### Web コンテンツ管理 {#web-content-management}
 
-* ロールアウト画面で、ライブコピーページに対応するチェックボックスをオンまたはオフにできない。NPR-19518
+* ロールアウト画面で、ライブコピーページに対応するチェックボックスをオンまたはオフにできない。 NPR-19518
 * 現在、すべてのタブとフィールドが一括編集可能なので、ページプロパティの一括編集を適切に使用できない。NPR-19451
 * クラシック UI で画像を編集する場合、OOTB プロパティと画像整列プロパティが表示されない。NPR-19488：CQ-4217914 のホットフィックス
 
@@ -1505,9 +1505,9 @@ AEM Forms の修正は、このリリースで提供されるアドオンパッ�
 #### アダプティブフォーム {#adaptive-forms-4}
 
 * 「JEE に送信」ワークフローで、JEE 側から AEM に出力パラメーターが返されず、「Ignoring because the value is not primitive」エラーがスローされる。NPR-20265
-* Safari では、アダプティブフォームで PDF を添付ファイルとして使用できない。NPR-19625
+* アダプティブFormsでは、Safari で添付ファイルとしてPDFすることはできません。 NPR-19625
 * RestoreGuideState で customcontextproperty マップが上書きされる。CQ-4222877
-* Cloud Service を使用して Google reCaptcha を設定する場合、外部接続用に org.apache.http.proxyconfigurator の設定が必要な環境では、POST 呼び出しがプロキシを通過しないように思われる。NPR-20454
+* Googleの設定時 `reCaptcha` 外部接続用に org.apache.http.proxyconfigurator の設定が必要な環境でCloud Serviceを使用すると、POSTの呼び出しがプロキシを経由しないように思われる。 NPR-20454
 * 「.」以外の小数点区切り記号を持つロケールを使用したインストールで、XSD スキーマに基づくアダプティブフォームが数値フィールドの誤った XML 値を送信し、エラーが発生する。NPR-20444
 * 「Apache HTTP Components Proxy Configuration」に設定されたプロキシ設定が、サードパーティサーバーへの HTTP リクエストをおこなっている間優先されない。HTTP GET または POST 呼び出しを使用した接続タイムアウトの問題。NPR-20457、NPR-20456、NPR-20455、NPR-20451
 
@@ -1536,7 +1536,7 @@ AEM Forms の修正は、このリリースで提供されるアドオンパッ�
 #### プロセス管理 {#process-management-3}
 
 * フォームを最大化/最小化してドラフトとして保存または転送する場合、Workspace のワークフローの添付ファイル、「メモ」、および「詳細」タブは機能しません。 NPR-20243
-* HTML Workspace でデータを送信した後、複数行テキストフィールド（TextArea）がテキスト中の改行文字を保持しない。NPR-20085
+* HTMLワークスペースでデータを送信した後、複数行テキストフィールド（TextArea）がテキスト内の改行文字を保持しない。 NPR-20085
 
 #### プロセスレポート {#process-reporting}
 
@@ -1654,7 +1654,7 @@ AEM Forms の修正は、このリリースで提供される Forms アドオン
 
 AEM Forms の主なハイライトは次のとおりです。
 
-* Correspondence Management テキストモジュール、レタープレビューおよび「Correspondence Management を作成」UI のプログラムによる起動の修正。
+* Correspondence Management テキストモジュール、レタープレビューおよび「Correspondence Management を作成」 UI のプログラムによる起動の修正。
 * PDF Generator での PDF/A-1b 検証、大きな画像ファイルの PDF への変換、および日本語 PDF ドキュメントの修正。
 * Correspondence management、ドキュメントセキュリティ、Forms Workflowのユーザビリティが修正されました。
 * Scribble 署名フィールドの監査イベントをキャプチャするサポートを追加。
@@ -1668,7 +1668,7 @@ AEM Forms の主なハイライトは次のとおりです。
 * テキストエディターでは箇条書きリストの上下に余分なマージンが表示されるが、HTMLおよびPDFレンディションでは表示されない。 NPR-18126
 * HTML 送信で POST メソッドを使用すると、「通信を作成」UI を起動できない。NPR-18202
 * テキストモジュールが保存され、テキストモジュールの式に開始または終了の式タグが含まれていない場合、エラーメッセージが表示されません。テキストモジュールがエラーメッセージを表示し、レターのレンダリングに失敗します。NPR-18535
-* 新しいコンテンツが追加されるか、Enter キーが押されると、div タグがテキストモジュールに追加される。NPR-18240
+* 新しいコンテンツが追加されたとき、または `Enter` キーが押され、div タグがテキストモジュールに追加されます。 NPR-18240
 
 **Assembler**
 
@@ -1739,15 +1739,15 @@ CFP パッケージは、[ソフトウェア配布](https://experience.adobe.com
 
 >[!NOTE]
 >
->アドビが提供するオプションの機能パックは、リリースのバージョンと累積修正パックに依存関係があります。機能パックがインストールされている場合は、[AEM サポートチーム](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)に連絡し、AEM 6.3 用のこの累積修正パックとの互換性を検証してください。
+>アドビが提供するオプションの機能パックは、リリースのバージョンと累積修正パックに依存関係があります。機能パックがインストールされている場合は、 [AEM カスタマーケアチーム](https://experienceleague.adobe.com/ja?support-solution=General#support) AEM 6.3 用のこの累積修正パックとの互換性を検証します。
 
 >[!NOTE]
 >
 >パッケージをインストールする前に、新しいインストールパッケージごとに検証を実行することをお勧めします。事前検証は、インストール前に見つかったエラーを分析および報告し、そのようなエラーを事前に警告します。
 >
->検証オプションのドキュメントについては、[https://docs.adobe.com/content/docs/ja-JP/aem/6-3/administer/content/package-manager.html#Package%20Validator](https://docs.adobe.com/content/docs/ja-JP/aem/6-3/administer/content/package-manager.html#Package%20Validator) を参照してください。
+>次の場所にある「検証」オプションのドキュメントにアクセスできます [https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 
-* AEM 6.3.3.0 が CFP の前提条件です。訪問 [アップグレードドキュメント](https://docs.adobe.com/docs/en/aem/6-3/deploy/upgrade.html) AEM インストールからAEM 6.3 へのアップグレード手順について詳しくは、こちらを参照してください。
+* AEM 6.3.3.0 が CFP の前提条件です。訪問 [アップグレードドキュメント](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) AEM インストールからAEM 6.3 へのアップグレード手順について詳しくは、こちらを参照してください。
 * RDBMK または MongoDB を使用したクラスターデプロイメントの場合、CFP パッケージは、パッケージマネージャーを使用する任意のオーサーインスタンスにインストールできます。
 * 累積修正パックをインストールする前に、必ず AEM インスタンスのスナップショットを作成するか、バックアップを作成してください。
 * CFP のアンインストールはサポートされていません。
@@ -1756,7 +1756,7 @@ CFP パッケージは、[ソフトウェア配布](https://experience.adobe.com
 
 SP／CFP のインストール中に、デバッグレベルのログを設定してアクティビティログを取得するには、次の手順を実行します。
 
-* デフォルトの場所 [http://localhost:4502/system/console/slinglog](http://localhost:4502/system/console/slinglog) に新しいロガーを追加できます。プロパティは以下のとおりです。
+* デフォルトの場所にロガーを追加できます [http://localhost:4502/system/console/slinglog](http://localhost:4502/system/console/slinglog) 次のプロパティを使用します。
 
    * Log Level：Debug
    * Additive：false
@@ -1767,9 +1767,7 @@ activity.log が crx -quickstart /logs フォルダーに作成されます。
 
 ### ソフトウェア配布による累積修正パックのインストール {#install-the-cumulative-fix-pack-via-package-share}
 
-既存の AEM 6.3 インスタンスに累積修正パックをインストールするには、次の手順を実行します。
-
-1. [ソフトウェア配布](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip)リンクをクリックして、パッケージをダウンロードします。
+1. 「」をクリックします [ソフトウェア配布](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip) パッケージをダウンロードするためのリンク。
 
 1. [パッケージマネージャー](http://localhost:4502/crx/packmgr/index.jsp)を開き「**[!UICONTROL パッケージをアップロード]**」をクリックしてパッケージをアップロードします。
 
@@ -1780,7 +1778,7 @@ activity.log が crx -quickstart /logs フォルダーに作成されます。
 CFP は、次の方法で実行中のインスタンスに自動インストールできます。
 
 * サーバーの実行中にパッケージを `../crx-quickstart/install` に配置します。パッケージは自動的にインストールされます。
-* [パッケージマネージャーから HTTP API](https://helpx.adobe.com/jp/experience-manager/6-3/sites/administering/using/package-manager.html) を使用します。`cmd=install&recursive=true` を使用して、ネストされたパッケージをインストールします。
+* [パッケージマネージャーから HTTP API](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) を使用します。`cmd=install&recursive=true` を使用して、ネストされたパッケージをインストールします。
 
 ### インストールの検証 {#validate-installation}
 
@@ -1805,7 +1803,7 @@ CFP は、次の方法で実行中のインスタンスに自動インストー�
 
 1. AEM 6.3.3.x CFP パッケージがインストールされていることを確認してください。
 1. [AEM Forms リリース](aem-forms-releases.md)のリストから、使用しているオペレーティングシステムに対応する Forms アドオンパッケージをダウンロードします。
-1. [AEM Forms アドオンパッケージのインストール](https://helpx.adobe.com/jp/experience-manager/6-3/forms/using/installing-configuring-aem-forms-osgi.html)の記載どおりに Forms アドオンパッケージをインストールします。
+1. [AEM Forms アドオンパッケージのインストール](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)の記載どおりに Forms アドオンパッケージをインストールします。
 
 #### AEM Forms JEE バンドルパッケージのインストール {#install-aem-forms-jee-bundles-package}
 
@@ -1821,7 +1819,7 @@ AEM Forms JEE の修正は、別個のインストーラーで提供されます
 
 >[!NOTE]
 >
->6.3.3.0 以降のリリースをインストールする場合、以下の手順を実行して JBoss® アプリケーションサーバーを設定します。 oracle WebLogic またはIBM® WebSpehere アプリケーションサーバーで動作しているAEM Forms Server に 6.3.3.0 をインストールする場合、追加の設定は必要ありません。 詳しくは、[AEM 6.3.3.0 リリースノート](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)を参照してください。
+>6.3.3.0 以降のリリースをインストールする場合、以下の手順を実行して JBoss® アプリケーションサーバーを設定します。 oracle WebLogic またはIBM® WebSpehere アプリケーションサーバーで動作しているAEM Forms Server に 6.3.3.0 をインストールする場合、追加の設定は必要ありません。 詳しくは、[AEM 6.3.3.0 リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)を参照してください。
 
 ## Search&amp;Promote 統合の設定の更新 {#configuration-updates-for-search-promote-integration}
 
@@ -1832,7 +1830,7 @@ AEM 累積修正パック 6.3.0.2 以降のリリースでは、Search&amp;Promo
 * AEM CFP 6.3.3.x のインストール中に次のエラーや警告が発生する場合がありますが、無視しても問題ありません。
 
    * &#42;WARN&#42; [OsgiInstallerImpl] org.apache.jackrabbit.vault.packaging.impl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallhook-0.0.2-jar-with-dependencies.jar threw runtime exception.
-   * &#42;ERROR&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Timeout waiting for reg change to complete unregistered.CQ-4209974.
+   * &#42;エラー&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl （2174）] 登録変更が登録解除を完了するのを待機中にタイムアウトになりました。 CQ-4209974.
    * org.apache.sling.engine.impl.SlingRequestProcessorImpl ServletResolver service missing, cannot service requests , sending status 503
    * com.day.cq.wcm.mobile.core.MobileUtil isMobileResource: cannot check resource [/bin/receive], page manager unavailable
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver: Calling the error handler resulted in an error
@@ -1848,7 +1846,7 @@ AEM 累積修正パック 6.3.0.2 以降のリリースでは、Search&amp;Promo
 
 >[!NOTE]
 >
->これらの 2 つの問題のいずれかに影響を受ける場合は、[AEM カスタマーケア](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)にお問い合わせください。
+>これらの 2 つの問題のいずれかに影響を受ける場合は、[AEM カスタマーケア](https://experienceleague.adobe.com/ja?support-solution=General#support)にお問い合わせください。
 
 * 管理者の検索機能のリクエストが多いため、CPU 使用率が高くなります。NPR-24229
 * コンポーネントを再度開くと、pathBrowser で PathField が選択されません。 NPR-24177
@@ -1867,7 +1865,7 @@ adobe- LiveCycle® cq -author.ear/ cq .war の変更を手動で更新するに�
 
    * **sling.bootdelegation.ibm** param-name 値を次のように更新します。
 
-   * com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat
+   * `com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat`
 
    * 上記の変更後、init-param は次のようになります。
 
@@ -1893,7 +1891,7 @@ ACL ポリシーを更新するには、CRX-DE を使用して以下のアクセ
 `b)` プリンシパル : reference-adjustment-service タイプ：権限の許可：jcr:read、jcr:modifyProperties 制限：rep:glob=&quot;/&#42;/jcr:content/&#42;“
 
 `2)` 「/content/usergenerated」パス
-`a)` プリンシパル : reference-adjustment-service タイプ：権限を許可：jcr:write
+`a)` プリンシパル : reference-adjustment-service タイプ：権限を許可： `jcr:write`
 
 `3)` 「/etc」パスで
 `a)` プリンシパル : reference-adjustment-service タイプ：権限の許可：jcr:read、jcr:modifyProperties 制限：rep:glob=&quot;/&#42;/jcr:content&quot;
@@ -1909,21 +1907,21 @@ ACL ポリシーを更新するには、CRX-DE を使用して以下のアクセ
 
 このプロパティは、ページの ` /jcr:content` ノード配下にあるノードサブツリーの最大階層数を制御します。リポジトリーに存在するこの深さまでのノードが、ページプロパティの取得に使用されます。このプロパティで指定された深さより下にあるノードは無視されます。
 
-デフォルト値は 1 です。この値は、ファイル constants.js （`/libs/cq/ui/widgets/source/constants.js`） CQ.PAGE_PROPERTIES_MAX_RECURSION_LEVEL プロパティのコメントを解除し、必要な値（ページプロパティのデータが保存されるまでのページの/jcr:content の下の最大深度）を割り当てます。
+デフォルト値は 1 です。ファイル constants.js をオーバーレイして値をオーバーライドします（`/libs/cq/ui/widgets/source/constants.js`） CQ.PAGE_PROPERTIES_MAX_RECURSION_LEVEL プロパティのコメントを解除して、必要な値（ページの下にある最大深度）を割り当てます `/jcr:content` （ページプロパティのデータが保存される）。
 
-**ページの/jcr:content ノードの下のノードの数が 1000 を超えるように、ユーザーが複数のページのバリアントを作成する必要がある場合は、次の手順を使用して設定を変更します。**
+**ページの配下にあるノードの数が `/jcr:content` ノードが 1000 より大きくなる場合は、次の手順を使用して設定を変更します。**
 
 * Apache Sling のプロパティ JSON Max 結果を設定します。
 * `/system/console/ configMgr` を使用してサーブレットを取得します。
-* 値を 1000 より大きい数（現在のデフォルト）に設定して、上記で設定した深さまで、この数が/ jcr:content サブツリーのノードの合計数より大きくなるようにします。
+* この値を 1000 より大きい数（現在のデフォルト）に設定し、この数が `/jcr:content` 上記の設定された深さまでサブツリーします。
 
 これで、Sling Get Servlet は必要なすべてのノードを返すことができます。
 
 ## Uber Jar {#uber-jar}
 
-6.3.3.8 用 Uber Jar は [Adobe Public Maven リポジトリー](https://repo.adobe.com/nexus/content/groups/public/com/adobe/aem/uber-jar/6.3.3.8/)にあります。
+6.3.3.8 の Uber Jar は、Adobeの Public Maven リポジトリーで入手できます
 
-Maven プロジェクトで Uber Jar を使用するには、[Uber Jar の使用方法](https://helpx.adobe.com/jp/experience-manager/6-3/sites/developing/using/ht-projects-maven.html)を参照して、プロジェクト POM に以下の依存関係を追加します。
+Maven プロジェクトで Uber Jar を使用するには、[Uber Jar の使用方法](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)を参照して、プロジェクト POM に以下の依存関係を追加します。
 
 ```TXT
 <dependency>
@@ -1941,7 +1939,7 @@ Maven プロジェクトで Uber Jar を使用するには、[Uber Jar の使用
 
 | 領域 | 機能 | 代替手段 | バージョン |
 |----|-----|-----|-----|
-| Assets と Adobe Creative Cloud の統合 | [AEM／Creative Cloud フォルダー共有](https://helpx.adobe.com/jp/experience-manager/6-3/sites/administering/using/creative-cloud.html)は、クリエイティブユーザーに AEM のアセットへのアクセスを提供する方法として、AEM 6.2 で導入されました。Creative Cloud アプリケーションでリリースされた新しい機能である Adobe Asset Link では、ユーザーエクスペリエンスが大幅に向上し、Photoshop、InDesign および Illustrator 内から AEM のアセットへの直接アクセスが強化されています。<br /> アドビでは、このフォルダー共有機能をさらに強化する予定はありません。 この機能はAEMに含まれていますが、代替手段を使用することをお勧めします。 | Adobe Asset Link またはデスクトップアプリケーション。詳しくは、[AEM Creative Cloud の統合](https://helpx.adobe.com/jp/experience-manager/6-3/assets/using/aem-cc-integration-best-practices.html)の記事を参照してください。 | AEM 6.3.3.x |
+| Assets と Adobe Creative Cloud の統合 | [AEM／Creative Cloud フォルダー共有](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)は、クリエイティブユーザーに AEM のアセットへのアクセスを提供する方法として、AEM 6.2 で導入されました。Creative Cloudアプリケーションでリリースされた新しい機能であるAdobeアセットリンクでは、ユーザーエクスペリエンスが向上し、Photoshop、InDesignおよびIllustrator内からAEMのアセットへの直接アクセスが強化されています。</br></br> Adobeは、フォルダー共有機能の機能をさらに強化していません。 この機能はAEMに含まれていますが、代替手段を使用することをお勧めします。 | Adobe Asset Link またはデスクトップアプリケーション。詳しくは、[AEM Creative Cloud の統合](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)の記事を参照してください。 | AEM 6.3.3.x |
 
 ## 含まれている OSGi バンドルとコンテンツパッケージ {#osgi-bundles-and-content-packages-included-1}
 
@@ -1953,9 +1951,9 @@ Maven プロジェクトで Uber Jar を使用するには、[Uber Jar の使用
 
 >[!MORELIKETHIS]
 >
->* [AEM のリリースとアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=ja)
->* [AEM 6.3 ホットフィックスページ](https://helpx.adobe.com/jp/experience-manager/kb/aem63-available-hotfixes.html)
->* [AEM 6.3 リリースノート](https://docs.adobe.com/docs/en/aem/6-3/release-notes.html)
->* [AEM 製品ページ](http://www.adobe.com/jp/solutions/web-experience-management.html)
->* [AEM 6.3 ドキュメント](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
+>* [AEM のリリースとアップデート](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
+>* [AEM 6.3 ホットフィックスページ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
+>* [AEM 6.3 リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
+>* [AEM 製品ページ](https://business.adobe.com/jp/products/experience-manager/adobe-experience-manager.html)
+>* [AEM 6.3 ドキュメント](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 >* [Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)のサブスクリプションを購入する
