@@ -2,12 +2,13 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: e8096928919b05bf86a972dcd7debbba3f0f6b59
+source-git-commit: 40be99e9ba97274e3a601b7df20d7a671eb4c88b
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 96%
+ht-degree: 91%
 
 ---
+
 
 # [!DNL Experience Manager] リリースロードマップ {#aem-releases-roadmap}
 
@@ -60,7 +61,7 @@ ht-degree: 96%
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
-サポートされている [!DNL Experience Manager] オンプレミスおよび Managed Services の新機能、機能強化、バグ修正に関する製品アップデートが、四半期ごとのサービスパックや累積修正パック（CFP）を通じて提供されます。頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。今後の製品アップデートリリースのスケジュールは以下のとおりです。
+サポート対象の新機能、機能強化、バグ修正に関する製品アップデート [!DNL Experience Manager] オンプレミスおよびManaged Servicesは、四半期ごとのサービスパックや累積修正パック（CFP）を通じて提供されます。 頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。今後の製品アップデートリリースのスケジュールは以下のとおりです。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
