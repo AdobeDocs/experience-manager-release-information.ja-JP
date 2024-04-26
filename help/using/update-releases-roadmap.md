@@ -2,9 +2,9 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 40be99e9ba97274e3a601b7df20d7a671eb4c88b
+source-git-commit: f2d1c4df7e8313c622b8ffde1dab9a2b8c117ff6
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '484'
 ht-degree: 91%
 
 ---
@@ -27,29 +27,23 @@ ht-degree: 91%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [13323](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13323) | 自動更新 | 2023年9月1日（PT） | アップデート済み |
-| メンテナンスリリース [13420](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13420) | 自動更新 | 2023年9月18～20日（PT） | アップデート済み |
-| 機能リリース [2023.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0) | 機能アクティベーション | 2023年9月28日（PT） | アクティベート済み |
-| メンテナンスリリース [13665](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13665) | 自動更新 | 2023年10月2～5日（PT） | アップデート済み |
-| メンテナンスリリース [13804](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13804) | 自動更新 | 2023年10月16～19日（PT） | アップデート済み |
-| 機能リリース [2023.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0) | 機能アクティベーション | 2023年10月26日（PT） | アクティベート済み |
-| メンテナンスリリース [14029](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | 自動更新 | 2023年10月30日～11月2日（PT） | アップデート済み |
-| メンテナンスリリース [14227](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | 自動更新 | 2023年11月13～16日（PT） | アップデート済み |
+| メンテナンスリリース [14029](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | 自動更新 | 2023年10月30日～11月2日（PT） | 更新済み |
+| メンテナンスリリース [14227](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | 自動更新 | 2023年11月13～16日（PT） | 更新済み |
 | 機能リリース [2023.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | 機能アクティベーション | 2023年11月30日（PT） | アクティベート済み |
-| メンテナンスリリース [14697](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0#release-14697) | 自動更新 | 2023年12月11～14日（PT） | アップデート済み |
+| メンテナンスリリース [14697](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0#release-14697) | 自動更新 | 2023年12月11～14日（PT） | 更新済み |
 | 機能リリース [2023.12.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0) | 機能アクティベーション | 2023年12月14日（PT） | アクティベート済み |
 | 機能リリース [2024.1.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | 機能アクティベーション | 2024年1月25日（PT） | アクティベート済み |
-| メンテナンスリリース [15262](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | 自動更新 | 2024年3月11～13日（PT） | アップデート済み |
-| メンテナンスリリース [15575](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | 自動更新 | 2024年3月19～21日（PT） | アップデート済み |
-| 機能リリース [2024.3.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2024年4月11日（PT） | アクティベート済み |
-| メンテナンスリリース [15860](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | 自動更新 | 2024年4月8～15日（PT） | アップデート済み |
+| メンテナンスリリース [15262](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | 自動更新 | 2024年3月11～13日（PT） | 更新済み |
+| メンテナンスリリース [15575](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | 自動更新 | 2024年3月19～21日（PT） | 更新済み |
+| 機能リリース [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | 機能アクティベーション | 2024年4月11日（PT） | アクティベート済み |
+| メンテナンスリリース [15860](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | 自動更新 | 2024年4月8～15日（PT） | 更新済み |
+| メンテナンスリリース [15977](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024年4月20～24日（PT） | 更新済み |
+| 機能リリース [2024.4.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2024年4月25日（PT） | アクティベート済み |
 
 ### 今後のリリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [15977](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024年4月20～24日（PT） | ターゲット |
-| 機能リリース 2024.4.0 | 機能アクティベーション | 2024年4月25日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2024年5月6〜8日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2024年5月20～22日（PT） | ターゲット |
 | 機能リリース 2024.5.0 | 機能アクティベーション | 2024年5月30日（PT） | ターゲット |
@@ -84,6 +78,6 @@ ht-degree: 91%
 >[!MORELIKETHIS]
 >
 >* [EOL マトリックス](https://helpx.adobe.com/jp/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] のリリースとアップデート](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
+>* [[!DNL Experience Manager] のリリースとアップデート](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
 >* [[!DNL Experience Manager]  の学習とサポート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service)
 >* [[!DNL Experience Manager] アップデートリリースの提供に関する定義](/help/using/update-release-vehicle-definitions.md)
