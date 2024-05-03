@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Experience Manager] に関する以前の重要なド
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1228'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -175,7 +175,7 @@ ht-degree: 99%
   </tr>
   <tr>
    <td>2019年5月31日（PT）</td> 
-   <td>AEMとAdobe Commerceの統合 </td> 
+   <td>AEM と Adobe Commerce の統合 </td> 
    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">コマース統合フレームワーク</a></td> 
   </tr>
   <tr>
