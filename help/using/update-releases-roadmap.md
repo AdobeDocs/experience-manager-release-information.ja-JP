@@ -2,7 +2,7 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5bbd2b76be333b2db3fa2ad59967700305150b45
+source-git-commit: d7ac4ea6cc3e823eeb7e0cc3a582d115a74cf60b
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 99%
@@ -67,7 +67,7 @@ ht-degree: 99%
 | [!DNL Experience Manager][ 6.5 サービスパック 18](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-18) | 6.5.18.0 | サービスパック | 2023年8月24日（PT） | アクティベート済み |
 | [!DNL Experience Manager][ 6.5 サービスパック 19](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-19) | 6.5.19.0 | サービスパック | 2023年11月30日（PT） | アクティベート済み |
 | [!DNL Experience Manager][ 6.5 サービスパック 20](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.20.0 | サービスパック | 2024年2月22日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 サービスパック 21 | 6.5.21.0 | サービスパック | 2024年5月23日（PT） | ターゲット |
+| [!DNL Experience Manager] 6.5 サービスパック 21 | 6.5.21.0 | サービスパック | 2024年6月6日（PT） | ターゲット |
 | [!DNL Experience Manager] 6.5 サービスパック 22 | 6.5.22.0 | サービスパック | 2024年8月22日（PT） | ターゲット |
 | [!DNL Experience Manager] 6.5 サービスパック 23 | 6.5.23.0 | サービスパック | 2024年11月21日（PT） | ターゲット |
 
