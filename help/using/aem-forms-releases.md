@@ -3,10 +3,10 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースと対応するパッケージについて説明します。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 59688701f3ec75fa204bf26a0ad2239b4d58a179
-workflow-type: ht
-source-wordcount: '3030'
-ht-degree: 100%
+source-git-commit: 3671b89ee5b2b9052be0233b6534e9eee5516ba1
+workflow-type: tm+mt
+source-wordcount: '3052'
+ht-degree: 91%
 
 ---
 
@@ -41,7 +41,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tr>
   <tr>
     <td>2024年6月13日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM Forms サービスパック 20（AEM 6.5.21.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms サービスパック 21 （AEM 6.5.21.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.21.0</a></td>
     <td>
      <ul>
@@ -70,7 +70,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   <tr>
     <td>2024年3月8日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM Forms サービスパック 20（AEM 6.5.20.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms サービスパック 20 （AEM 6.5.20.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.20.0</a></td>
     <td>
      <ul>
@@ -123,7 +123,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   <tr>
     <td>2023年12月8日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6519">AEM Forms サービスパック 19（AEM 6.5.19.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6519">AEM 6.5 Forms サービスパック 19 （AEM 6.5.19.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.19.0</a></td>
     <td>
      <ul>
@@ -160,7 +160,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2023年8月31日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6518">AEM Forms サービスパック 18（AEM 6.5.18.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6518">AEM 6.5 Forms サービスパック 18 （AEM 6.5.18.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.18.0</a></td>
     <td>
      <ul>
@@ -200,7 +200,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2023年6月1日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6517">AEM Forms サービスパック 17（AEM 6.5.17.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6517">AEM 6.5 Forms サービスパック 17 （AEM 6.5.17.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.17.0</a></td>
     <td>
      <ul>
@@ -232,7 +232,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2023年3月2日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-16#forms-6516">AEM Forms サービスパック 16（AEM 6.5.16.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-16#forms-6516">AEM 6.5 Forms サービスパック 16 （AEM 6.5.16.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-16">AEM 6.5.16.0</a></td>
     <td>
      <ul>
@@ -264,7 +264,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2022年12月1日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-15#forms-6515">AEM Forms サービスパック 15（AEM 6.5.15.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-15#forms-6515">AEM 6.5 Forms サービスパック 15 （AEM 6.5.15.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-15">AEM 6.5.15.0</a></td>
     <td>
      <ul>
@@ -296,7 +296,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2022年9月5日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-14#forms-6514">AEM Forms サービスパック 14（AEM 6.5.14.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-14#forms-6514">AEM 6.5 Forms サービスパック 14 （AEM 6.5.14.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-14">AEM 6.5.14.0</a></td>
     <td>
      <ul>
@@ -324,7 +324,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2022年6月2日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-13#forms-65130">AEM Forms サービスパック 13（AEM 6.5.13.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-13#forms-65130">AEM 6.5 Forms サービスパック 13 （AEM 6.5.13.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-13">AEM 6.5.13.0</a></td>
     <td>
      <ul>
@@ -352,7 +352,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2022年3月3日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-12#forms-65120">AEM Forms サービスパック 12（AEM 6.5.12.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-12#forms-65120">AEM 6.5 Forms サービスパック 12 （AEM 6.5.12.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-12">AEM 6.5.12.0</a></td>
     <td>
      <ul>
@@ -388,7 +388,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2021年12月20日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">AEM Forms サービスパック 11（AEM 6.5.11.1 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">AEM 6.5 Forms サービスパック 11 （AEM 6.5.11.1 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11">AEM 6.5.11.0</a></td>
     <td>
      <ul>
@@ -409,7 +409,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2021年12月3日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">AEM Forms サービスパック 11（AEM 6.5.11.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">AEM 6.5 Forms サービスパック 11 （AEM 6.5.11.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11">AEM 6.5.11.0</a></td>
     <td>
      <ul>
@@ -435,7 +435,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    <tr>
    <tr>
     <td>2021年9月2日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-10#forms-65100">AEM Forms サービスパック 10（AEM 6.5.10.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-10#forms-65100">AEM 6.5 Forms サービスパック 10 （AEM 6.5.10.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-10">AEM 6.5.10.0</a></td>
     <td>
      <ul>
@@ -462,7 +462,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2021年6月3日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590">AEM Forms サービスパック 9（AEM 6.5.9.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590">AEM 6.5 Forms サービスパック 9 （AEM 6.5.9.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-9">AEM 6.5.9.0</a></td>
     <td>
      <ul>
@@ -488,7 +488,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2021年3月18日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-8#forms-6580">AEM Forms サービスパック 8（AEM 6.5.8.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-8#forms-6580">AEM 6.5 Forms サービスパック 8 （AEM 6.5.8.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-8">AEM 6.5.8.0</a></td>
     <td>
      <ul>
@@ -515,7 +515,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    <tr>
    <tr>
     <td>2020年12月3日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-7#forms-6570">AEM Forms サービスパック 7（AEM 6.5.7.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-7#forms-6570">AEM 6.5.7.0 用AEM 6.5 Forms サービスパック 7 Forms アドインパッケージ</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-7">AEM 6.5.7.0</a></td>
     <td>
      <ul>
@@ -541,7 +541,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2020年9月3日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560">AEM Forms サービスパック 6（AEM 6.5.6.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560">AEM 6.5 Forms サービスパック 6 （AEM 6.5.6.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-6">AEM 6.5.6.0</a></td>
     <td>
      <ul>
@@ -555,7 +555,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2020年6月4日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550">AEM Forms サービスパック 5（AEM 6.5.5.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550">AEM 6.5.5.0 用AEM 6.5 Forms サービスパック 5 Forms アドインパッケージ</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-5">AEM 6.5.5.0</a></td>
     <td>
      <ul>
@@ -569,7 +569,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2020年3月5日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-4#forms-6540">AEM Forms サービスパック 4（AEM 6.5.4.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-4#forms-6540">AEM 6.5.4.0 用AEM 6.5 Forms サービスパック 4 Forms アドインパッケージ</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-4">AEM 6.5.4.0</a></td>
     <td>
      <ul>
@@ -585,7 +585,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2019年12月12日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-3#forms-6530">AEM Forms サービスパック 3（AEM 6.5.3.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-3#forms-6530">AEM 6.5.3.0 用AEM 6.5 Forms サービスパック 3 Forms アドインパッケージ</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-3">AEM 6.5.3.0</a></td>
     <td>
      <ul>
@@ -601,7 +601,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2019年9月19日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-2#forms-6520">AEM Forms サービスパック 2（AEM 6.5.2.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-2#forms-6520">AEM 6.5.2.0 用AEM 6.5 Forms サービスパック 2 Forms アドインパッケージ</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-2">AEM 6.5.2.0</a></td>
     <td>
      <ul>
@@ -617,7 +617,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2019年7月3日（PT）</td>
-    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-1#forms">AEM Forms サービスパック 1（AEM 6.5.1.0 用 Forms アドインパッケージ）</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-1#forms">AEM 6.5 Forms サービスパック 1 （AEM 6.5.1.0 用Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-1">AEM 6.5.1.0</a></td>
     <td>
      <ul>
