@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 45057aad42ca62bd60b965968872f7091dc389f7
-workflow-type: ht
-source-wordcount: '474'
-ht-degree: 100%
+source-git-commit: 0ccece7cd8146c9871c6143dc5f265128ec8220a
+workflow-type: tm+mt
+source-wordcount: '476'
+ht-degree: 99%
 
 ---
 
@@ -35,14 +35,14 @@ ht-degree: 100%
 | メンテナンスリリース [16461](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16461) | 自動更新 | 2024年5月27日～6月3日（PT） | 更新済み |
 | 機能リリース [2024.5.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-5-0) | 機能アクティベーション | 2024年5月30日（PT） | アクティベート済み |
 | メンテナンスリリース [16544](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16544) | 自動更新 | 2024年6月10～12日（PT） | 更新済み |
-| メンテナンスリリース [16799](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024年6月24～26日（PT） | 更新済み |
+| メンテナンスリリース [16799](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16799) | 自動更新 | 2024年6月24～26日（PT） | 更新済み |
 | 機能リリース [2024.6.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2024年6月27日（PT） | アクティベート済み |
 
 ### 今後のリリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース | 自動更新 | 2024年7月8～10日（PT） | ターゲット |
+| メンテナンスリリース [16971](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024年7月8～10日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2024年7月22～24日（PT） | ターゲット |
 | 機能リリース 2024.7.0 | 機能アクティベーション | 2024年7月25日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2024年8月5～7日（PT） | ターゲット |
