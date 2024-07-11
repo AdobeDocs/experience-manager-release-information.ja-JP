@@ -1,12 +1,12 @@
 ---
 title: 累積修正パックの AEM Forms JEE へのインストール
-description: AEM Forms JEE での累積修正パック（CFP）のインストールおよび設定手順の概要。
+description: AEM Forms JEE に累積修正パック（CFP）をインストールして設定する手順の概要です。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '909'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '905'
+ht-degree: 91%
 
 ---
 
@@ -27,12 +27,12 @@ AEM [!DNL  Forms JEE] パッケージ（aemfd-jee-bundles-package-6.3CFP1、バ�
 
 ### CQ-4208044 の詳細な手順 {#additional-instructions-for-cq}
 
-AEM 6.3 [!DNL Forms JEE] サーバーと Oracle データベースを使用している場合は、CFP1 のデプロイ後、つまり Configuration Manager の実行後に、以下の設定を設定します。この設定は、エンタープライズドメインの同期が実行されるときに、ユーザー、グループ、グループメンバーを同期するために必要です。
+AEM 6.3 を使用する場合 [!DNL Forms JEE] oracleデータベースを備えたサーバーで、CFP1 のデプロイ後、つまり Configuration Manager の実行後に、以下の設定を設定します。 この設定は、エンタープライズドメインの同期が実行されるときに、ユーザー、グループ、グループメンバーを同期するために必要です。
 
 1. **管理** UI にログインします。
 1. **[!UICONTROL 設定]**／**[!UICONTROL User Management]**／**[!UICONTROL 設定]**／**[!UICONTROL 設定ファイルの読み込みと書き出し]**&#x200B;に移動します
 1. Config.xml ファイルを書き出します。
-1. *Config.xml* のドメイン設定で、「`groupMemberDBQueryBatchSize`」のエントリを変更します。エントリ例：
+1. 「」のエントリを変更`groupMemberDBQueryBatchSize`ドメイン設定の下の「 *config.xml*. エントリ例：
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
 1. すべてのサービス操作のタイムアウトを 600 秒に設定するには、次を使用します。
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   set ```JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`“
 
 1. `DesigntimeService` 操作値のタイムアウトを 500 秒に設定するには、次を使用します。
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   set ```JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`“
 
 1. `DesigntimeService's previewLCA` 操作値のタイムアウトを 700 秒に設定するには、次を使用します。
 
-   set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   set ```JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`“
 
 1. 読み込み、インストールなどの `DSC operations` を 600 秒に設定するには、次を使用します。
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   set ```JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`“
 
 ## AEM [!DNL Forms JEE] のインストールと設定  {#install-and-configure-aem-forms-jee}
 
@@ -98,7 +98,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
    **Windows**
 
-   インストールメディア上、またはインストーラーをコピーしたハードディスク上のフォルダーの適切なディレクトリに移動します。
+   インストールメディアのディレクトリまたはインストーラーをコピーしたフォルダーに移動します。
 
    * （`Windows 32-bit`）：`Disk1\InstData\Windows\VM`
    * （`Windows 64-bit`）：`Disk1\InstData\Windows_64bit\VM`
@@ -113,8 +113,8 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
    適切なディレクトリに移動します。
 
-   * （Linux®）：/Disk1/InstData/Linux/ NoVM
-   * （Solaris™）：/Disk1/InstData/Solaris/ NoVM
+   * （Linux®）:Disk1/InstData/Linux/NoVM
+   * （Solaris™）: Disk1/InstData/Solaris/NoVM
    * （AIX®）：/Disk1/InstData/AIX/VM
 
    コマンドプロンプトで、次のように入力します。
@@ -128,7 +128,7 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 1. 概要パネルで「**[!UICONTROL 次へ]**」をクリックします。
 1. インストールフォルダーを選択画面で、表示されるデフォルトの場所が既存のインストールに対して正しいことを確認します。または、「**[!UICONTROL 参照]**」をクリックして AEM [!DNL Forms] がインストールされている代替フォルダーを選択し、「**[!UICONTROL 次へ]**」をクリックします。
 1. Quick Fix パッチの概要の情報を読み、「**[!UICONTROL 次へ]**」をクリックします。
-1. プリインストールの概要情報を読み、「**[!UICONTROL インストール]**」をクリックします。
+1. プリインストールの概要情報を読み、**[!UICONTROL インストール]**&#x200B;をクリックします。
 1. インストールが完了したら、「**[!UICONTROL 次へ]**」をクリックして、インストールされたファイルに対して Quick Fix アップデートを適用します。
 1. 「Configuration Manager を起動」チェックボックスはデフォルトで選択されています。「**[!UICONTROL 完了]**」をクリックして Configuration Manager を実行します。
 
