@@ -12,7 +12,7 @@ ht-degree: 93%
 
 # [!DNL Experience Manager] リリースロードマップ {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] 新機能および既存機能の改善を継続的に提供します。 これは、以下のユーザーにバグ修正を提供します [!DNL Cloud Service]、Managed Servicesおよびオンプレミスバージョン。 この記事では、[!DNL Experience Manager] の今後のリリース一覧を示します。
+[!DNL Adobe Experience Manager] は、新機能と既存機能の改善を一貫して提供します。 [!DNL Cloud Service]、Managed Servicesおよびオンプレミスバージョンをまたぐユーザーに対してバグ修正を提供します。 この記事では、[!DNL Experience Manager] の今後のリリース一覧を示します。
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ ht-degree: 93%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 製品のアップデートは、四半期ごとのサービスパックを通じて提供されます。 新機能、拡張機能、バグ修正が含まれます。 リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
+[!DNL Experience Manager] 6.5 の製品アップデートは、四半期ごとのサービスパックを通じて提供されます。 新機能、拡張機能、バグ修正が含まれます。 リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|

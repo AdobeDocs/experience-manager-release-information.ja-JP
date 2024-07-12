@@ -44,19 +44,19 @@ ht-degree: 80%
    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-core-components/using/developing/archetype/overview">AEM プロジェクトアーキタイプ</a>は、AEM プロジェクトのフロントエンド開発を容易にする便利で柔軟なツールです。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 18 日（Pt）<br /> </td> 
+   <td>2019 年 10 月 18 日（Pt） <br /> </td> 
    <td>AEM プロジェクトアーキタイプ<br /> </td> 
    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-core-components/using/developing/archetype/overview">AEM プロジェクトアーキタイプ</a>は、独自の AEM プロジェクトの出発点として、Adobe Experience Manager プロジェクトを作成します。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 18 日（Pt）<br /> </td> 
+   <td>2019 年 10 月 18 日（Pt） <br /> </td> 
    <td>ヘッドレスエクスペリエンス管理<br /> </td> 
    <td>単一ページアプリケーションのサーバーサイドレンダリングに使用される、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 11 日（Pt）</td> 
    <td>Activity Map</td> 
-   <td><p>Adobe Analytics API 内のセキュリティ変更により、AEM に含まれているバージョンの Activity Map は使用できなくなりました。参照： <a href="https://experienceleague.adobe.com/ja/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Adobe Analyticsが提供するActivity Mapプラグイン</a> を使用できるようになりました。 </p> </td> 
+   <td><p>Adobe Analytics API 内のセキュリティ変更により、AEM に含まれているバージョンの Activity Map は使用できなくなりました。Adobe Analyticsが提供する <a href="https://experienceleague.adobe.com/ja/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Activity Mapプラグインを今すぐ使用する必要があります </a>。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 10 日（Pt）</td> 
@@ -76,7 +76,7 @@ ht-degree: 80%
   <tr>
    <td>2019 年 10 月 1 日（Pt） </td> 
    <td>AEM Screens プロジェクトのベストプラクティスガイド</td> 
-   <td><p>この新しいガイドは、意図したとおりにカスタマーエクスペリエンスを想像し、デザインし、デジタルサイネージの実装を導入する包括的なインサイトと実用的なアドバイスを提供します。また、AEM Screens でデジタルサイネージプロジェクトをデプロイする際に従ういくつかのベストプラクティスを使用して、ビジネスにプラスの影響をもたらす方法についても説明します。</p> <p>を参照してください。 <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-screens/using/about-guide">AEM Screens プロジェクトのベストプラクティスガイド</a> を参照してください。</p> </td> 
+   <td><p>この新しいガイドは、意図したとおりにカスタマーエクスペリエンスを想像し、デザインし、デジタルサイネージの実装を導入する包括的なインサイトと実用的なアドバイスを提供します。また、AEM Screens でデジタルサイネージプロジェクトをデプロイする際に従ういくつかのベストプラクティスを使用して、ビジネスにプラスの影響をもたらす方法についても説明します。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-screens/using/about-guide">AEM Screens プロジェクトのベストプラクティスガイド </a> を参照してください。</p> </td> 
   </tr>
   <tr>
    <td>2019年9月25日（PT）</td> 
@@ -121,12 +121,12 @@ ht-degree: 80%
   <tr>
    <td>2019 年 8 月 21 日（Pt）</td> 
    <td>AEM 6.5 Screens ユーザーガイド</td> 
-   <td>ネットワークデプロイメントの基本に関する新しいセクションが公開されました。を参照してください。 <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-screens/user-guide/aem-screens-introduction">ユーザーガイド</a> を参照してください。</td> 
+   <td>ネットワークデプロイメントの基本に関する新しいセクションが公開されました。詳しくは、『 <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-screens/user-guide/aem-screens-introduction"> ユーザーガイド </a> を参照してください。</td> 
   </tr>
   <tr>
    <td>2019 年 8 月 20 日（Pt）</td> 
    <td>AEM Assets のスマートタグ<br /> </td> 
-   <td>～する方法を知っている <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">証明書の更新</a> 有効期限が切れた後。</td> 
+   <td>有効期限が切れた後の <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank"> 証明書の更新 </a> 方法について説明しています。</td> 
   </tr>
   <tr>
    <td>2019 年 8 月 2 日（Pt）</td> 
@@ -136,7 +136,7 @@ ht-degree: 80%
   <tr>
    <td>2019 年 7 月 25 日（Pt）</td> 
    <td>異なるライセンスの AEM Assets 機能</td> 
-   <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">機能のリスト</a> のAEM AssetsがAEM MediaLibrary と比較してスタンドアロン DAM ライセンスで利用可能な場合、AEM 6.5 リリースに合わせて更新されました。<br /> </td> 
+   <td>スタンドアロンの DAM ライセンスとAEM MediaLibrary で利用できるAEM Assetsの <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank"> 機能のリスト </a> は、AEM 6.5 リリースに対応するように更新されました。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 7 月 12 日（Pt）</td> 
@@ -164,7 +164,7 @@ ht-degree: 80%
    <td>新しいアコーディオン、ボタン、コンテナ、およびダウンロードコンポーネントを含むコアコンポーネントリリース 2.5.0 が、<a href="https://github.com/adobe/aem-core-wcm-components">GitHub で利用可能な開発者の詳細とプロジェクトのダウンロード</a>と共に入手可能になりました。</td> 
   </tr>
   <tr>
-   <td>2019 年 6 月 17 日（Pt）<br /> </td> 
+   <td>2019 年 6 月 17 日（Pt） <br /> </td> 
    <td>AEM Assets と Creative Cloud の統合</td> 
    <td>ベストプラクティスが、ビジネス要件の明確なマッピング、アドビのソリューションオファリングおよび顧客のユースケースで更新されました。視覚に訴えるインフォグラフィックが追加されています。<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 統合のベストプラクティス</a>を参照してください。<br /> </td> 
   </tr>
@@ -237,7 +237,7 @@ ht-degree: 80%
 
 ## 以前のコンテンツ {#legacy-content}
 
-2023 年 5 月 1 日（PT）をもって、レガシーバージョンのAEM ドキュメントは、新しい場所（）に移動しました [Adobe Experience Manager、CQ およびCRXの以前のバージョン](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+2023 年 5 月 1 日（PT）をもって、レガシーバージョンのAEM ドキュメントは、新規の場所 [Adobe Experience Manager、CQ およびCRXの以前のバージョン ](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) に移行しました。
 
 次のバージョンを移行しました。
 

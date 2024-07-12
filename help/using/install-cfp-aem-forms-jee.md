@@ -27,12 +27,12 @@ AEM [!DNL  Forms JEE] パッケージ（aemfd-jee-bundles-package-6.3CFP1、バ�
 
 ### CQ-4208044 の詳細な手順 {#additional-instructions-for-cq}
 
-AEM 6.3 を使用する場合 [!DNL Forms JEE] oracleデータベースを備えたサーバーで、CFP1 のデプロイ後、つまり Configuration Manager の実行後に、以下の設定を設定します。 この設定は、エンタープライズドメインの同期が実行されるときに、ユーザー、グループ、グループメンバーを同期するために必要です。
+AEM 6.3 [!DNL Forms JEE] サーバーとOracleデータベースを使用する場合は、CFP1 のデプロイ後、つまり Configuration Manager の実行後に、以下の設定を設定します。 この設定は、エンタープライズドメインの同期が実行されるときに、ユーザー、グループ、グループメンバーを同期するために必要です。
 
 1. **管理** UI にログインします。
 1. **[!UICONTROL 設定]**／**[!UICONTROL User Management]**／**[!UICONTROL 設定]**／**[!UICONTROL 設定ファイルの読み込みと書き出し]**&#x200B;に移動します
 1. Config.xml ファイルを書き出します。
-1. 「」のエントリを変更`groupMemberDBQueryBatchSize`ドメイン設定の下の「 *config.xml*. エントリ例：
+1. *config.xml* のドメイン設定の下の「`groupMemberDBQueryBatchSize`」のエントリを変更します。 エントリ例：
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ DSC のデプロイメントには、失敗する可能性があるため、変�
 
 1. すべてのサービス操作のタイムアウトを 600 秒に設定するには、次を使用します。
 
-   set ```JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`“
+   「`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`」を設定
 
 1. `DesigntimeService` 操作値のタイムアウトを 500 秒に設定するには、次を使用します。
 
-   set ```JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`“
+   「`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`」を設定
 
 1. `DesigntimeService's previewLCA` 操作値のタイムアウトを 700 秒に設定するには、次を使用します。
 
-   set ```JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`“
+   「`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`」を設定
 
 1. 読み込み、インストールなどの `DSC operations` を 600 秒に設定するには、次を使用します。
 
-   set ```JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`“
+   「`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`」を設定
 
 ## AEM [!DNL Forms JEE] のインストールと設定  {#install-and-configure-aem-forms-jee}
 
