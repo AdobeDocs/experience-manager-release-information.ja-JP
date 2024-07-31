@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c53f3d28c02939b953a1b817314399ba399b8041
-workflow-type: ht
-source-wordcount: '419'
-ht-degree: 100%
+source-git-commit: ef01ba25b04e890eb58c59dff08e677ecbce6cf1
+workflow-type: tm+mt
+source-wordcount: '421'
+ht-degree: 87%
 
 ---
 
@@ -41,12 +41,13 @@ ht-degree: 100%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース | 自動更新 | 2024年8月5～7日（PT） | ターゲット |
-| メンテナンスリリース | 自動更新 | 2024年8月19～21日（PT） | ターゲット |
-| 機能リリース 2024.8.0 | 機能アクティベーション | 2024年8月29日（PT） | ターゲット |
-| メンテナンスリリース | 自動更新 | 2024年9月2～4日（PT） | ターゲット |
-| メンテナンスリリース | 自動更新 | 2024年9月16～18日（PT） | ターゲット |
-| 機能リリース 2024.9.0 | 機能アクティベーション | 2024年9月26日（PT） | ターゲット |
+
+| メンテナンスリリース [17258](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest#release-17258)|自動更新|2024 年 8 月 5～7 日|ターゲット|
+| メンテナンスリリース|自動更新|2024 年 8 月 19～21 日|ターゲット|
+|機能リリース 2024.8.0 |機能のアクティベーション|2024 年 8 月 29 日 |ターゲット|
+| メンテナンスリリース|自動更新|2024 年 9 月 2～4 日|ターゲット|
+| メンテナンスリリース|自動更新|2024 年 9 月 16～18 日|ターゲット|
+|機能リリース 2024.9.0 |機能のアクティベーション|2024 年 9 月 26 日 |ターゲット|
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
