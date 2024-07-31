@@ -5,14 +5,14 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b48c3d7991339a3921093eda1290c54bcb1d5b1f
 workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
 # [!DNL Experience Manager] リリースロードマップ {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] は、新機能と既存機能の機能強化を一貫して提供します。[!DNL Cloud Service]、Managed Services、オンプレミスバージョンにわたるユーザーにバグ修正を提供します。この記事では、[!DNL Experience Manager] の今後のリリース一覧を示します。
+[!DNL Adobe Experience Manager] は、新機能と既存機能の機能強化を一貫して提供します。 [!DNL Cloud Service]、Managed Services、オンプレミスバージョンにわたるユーザーにバグ修正を提供します。 この記事では、[!DNL Experience Manager] の今後のリリース一覧を示します。
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 99%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース[17258](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest#release-17258) | 自動更新 | 2024年8月5～7日（PT） | ターゲット |
+| メンテナンスリリース[17258](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest#release-17258) | 自動更新 | 2024年8月5～7日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2024年8月19～21日（PT） | ターゲット |
 | 機能リリース 2024.8.0 | 機能アクティベーション | 2024年8月29日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2024年9月2～4日（PT） | ターゲット |
@@ -54,7 +54,7 @@ ht-degree: 99%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックを通じて提供されます。新機能、拡張機能、バグ修正が含まれます。 リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
+[!DNL Experience Manager] 6.5 製品アップデートは、四半期ごとのサービスパックを通じて提供されます。 新機能、拡張機能、バグ修正が含まれます。 リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
