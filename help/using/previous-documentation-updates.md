@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Experience Manager] に関する以前の重要なド
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 2aac500e8b094977f5431d213dbe658f5ff58729
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1255'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 99%
   <tr>
    <td>2019年10月11日（PT）</td> 
    <td>Activity Map</td> 
-   <td><p>Adobe Analytics API 内のセキュリティ変更により、AEM に含まれているバージョンの Activity Map は使用できなくなりました。<a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/overlay/launch" target="_blank">Adobe Analytics が提供する ActivityMap プラグイン</a>の使用が必要になりました。詳細を参照してください。 </p> </td> 
+   <td><p>Adobe Analytics API 内のセキュリティ変更により、AEM に含まれているバージョンの Activity Map は使用できなくなりました。<a href="https://experienceleague.adobe.com/ja/docs/analytics/analyze/activity-map/overlay/launch" target="_blank">Adobe Analytics が提供する ActivityMap プラグイン</a>の使用が必要になりました。詳細を参照してください。 </p> </td> 
   </tr>
   <tr>
    <td>2019年10月10日（PT）</td> 
