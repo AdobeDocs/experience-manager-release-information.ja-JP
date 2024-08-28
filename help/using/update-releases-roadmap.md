@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 90%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 の製品アップデートは、サービスパックを通じて提供されます。 新機能、拡張機能、バグ修正が含まれます。 リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
+[!DNL Experience Manager] 6.5 製品アップデートは、サービスパックを通じて提供されます。新機能、拡張機能、バグ修正が含まれます。 リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
-> AEM 6.5 サービスパックのリリース日は、以前のような四半期ごとの固定サイクルではなく、個別に計画されるようになりました。 今後のサービスパックリリースについては、このページをご覧ください。
+> AEM 6.5 サービスパックのリリース日は、以前のような四半期ごとの固定サイクルではなく、個別に計画されるようになります。今後のサービスパックのリリースについては、このページを参照してください。
 
 >[!NOTE]
 >
