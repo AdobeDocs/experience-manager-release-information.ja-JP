@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
-workflow-type: ht
-source-wordcount: '458'
-ht-degree: 100%
+source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
+workflow-type: tm+mt
+source-wordcount: '459'
+ht-degree: 92%
 
 ---
 
@@ -66,7 +66,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
-> AEM 6.5 サービスパックのリリース日は、以前のような四半期ごとの固定サイクルではなく、個別に計画されるようになります。今後のサービスパックのリリースについては、このページを参照してください。
+> AEM 6.5 サービスパックのリリース日は、以前のような四半期ごとの固定サイクルではなく、個別に計画されるようになりました。 このページの今後のサービスパックリリースについて、必ず情報を入手してください。
 
 >[!NOTE]
 >

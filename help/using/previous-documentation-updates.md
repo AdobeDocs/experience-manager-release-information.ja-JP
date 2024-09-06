@@ -3,10 +3,10 @@ title: 以前のドキュメント更新
 description: ' [!DNL Adobe Experience Manager] に関する以前の重要なドキュメントの変更と更新について説明します。'
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 2aac500e8b094977f5431d213dbe658f5ff58729
-workflow-type: ht
-source-wordcount: '1255'
-ht-degree: 100%
+source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
+workflow-type: tm+mt
+source-wordcount: '1172'
+ht-degree: 98%
 
 ---
 
@@ -24,17 +24,17 @@ ht-degree: 100%
    <td>変更点</td>
   </tr>
    <tr>
-   <td>2019年12月12日（PT）</td> 
+   <td>2019 年 12 月 12 日（Pt）</td> 
    <td>3D アセットのプレビュー<br /> </td> 
    <td><p>AEM では、オーサリングプロセスの一環として、3D アセットのアップロード、配信、インタラクティブプレビューをサポートしています。AEM のアセットの詳細ページから、インタラクティブ 3D ビューアーを使用できます。このビューアには、3D アセットをオービット、ズームおよびパンできるインタラクティブなカメラコントロールのコレクションが含まれます。</p> <p>詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/using/previewing-3d-assets" target="_blank">3D アセットのプレビュー</a>を参照してください。</p> </td> 
   </tr>
   <tr>
-   <td>2019年12月12日（PT）</td> 
+   <td>2019 年 12 月 12 日（Pt）</td> 
    <td>AEM 6.5 サービスパック 3<br /> </td> 
    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-3">AEM 6.5 サービスパック 3 </a>が入手可能になりました。</td> 
   </tr>
   <tr>
-   <td>2019年12月5日（PT）</td> 
+   <td>2019 年 12 月 5 日（Pt）</td> 
    <td>コアコンポーネント<br /> </td> 
    <td>多数の修正を含んだコアコンポーネントリリース 2.8.0 が、<a href="https://github.com/adobe/aem-core-wcm-components">GitHub で入手できる開発者向け詳細およびプロジェクトのダウンロード</a>と共に、使用可能になりました。</td> 
   </tr>
@@ -44,12 +44,12 @@ ht-degree: 100%
    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-core-components/using/developing/archetype/overview">AEM プロジェクトアーキタイプ</a>は、AEM プロジェクトのフロントエンド開発を容易にする便利で柔軟なツールです。<br /> </td> 
   </tr>
   <tr>
-   <td>2019年10月18日（PT）<br /> </td> 
+   <td>2019 年 10 月 18 日（Pt） <br /> </td> 
    <td>AEM プロジェクトアーキタイプ<br /> </td> 
    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-core-components/using/developing/archetype/overview">AEM プロジェクトアーキタイプ</a>は、独自の AEM プロジェクトの出発点として、Adobe Experience Manager プロジェクトを作成します。<br /> </td> 
   </tr>
   <tr>
-   <td>2019年10月18日（PT）<br /> </td> 
+   <td>2019 年 10 月 18 日（Pt） <br /> </td> 
    <td>ヘッドレスエクスペリエンス管理<br /> </td> 
    <td>単一ページアプリケーションのサーバーサイドレンダリングに使用される、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
   </tr>
@@ -61,7 +61,7 @@ ht-degree: 100%
   <tr>
    <td>2019年10月10日（PT）</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager バージョン 2019.10.0 は、2019年10月10日（PT）にリリースされました。</p> <p><i>新機能</i>のハイライトや、デプロイメント手順と Maven プロジェクトのバージョン処理についてのアップデートに関する<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0"> 2019.10.0 のリリースノート</a>を参照してください。<br /> </p> </td> 
+   <td><p>Cloud Manager 2019.10.0 は 2019 年 10 月 10 日（PT）にリリースされました。</p> <p><i>新機能</i>のハイライトや、デプロイメント手順と Maven プロジェクトのバージョン処理についてのアップデートに関する<a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/rn-2019/2019-10-0"> 2019.10.0 のリリースノート</a>を参照してください。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019年10月8日（PT）</td> 
@@ -164,7 +164,7 @@ ht-degree: 100%
    <td>新しいアコーディオン、ボタン、コンテナ、およびダウンロードコンポーネントを含むコアコンポーネントリリース 2.5.0 が、<a href="https://github.com/adobe/aem-core-wcm-components">GitHub で利用可能な開発者の詳細とプロジェクトのダウンロード</a>と共に入手可能になりました。</td> 
   </tr>
   <tr>
-   <td>2019年6月17日（PT）<br /> </td> 
+   <td>2019 年 6 月 17 日 <br /> </td> 
    <td>AEM Assets と Creative Cloud の統合</td> 
    <td>ベストプラクティスが、ビジネス要件の明確なマッピング、アドビのソリューションオファリングおよび顧客のユースケースで更新されました。視覚に訴えるインフォグラフィックが追加されています。<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 統合のベストプラクティス</a>を参照してください。<br /> </td> 
   </tr>
@@ -199,12 +199,12 @@ ht-degree: 100%
    <td><a href="https://experienceleague.adobe.com/ja/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc">画像カタログ属性リファレンスセクション</a>に新しい BFC（ブラウザフォーマット変換）値を追加しました。</td> 
   </tr>
   <tr>
-   <td>2019年5月8日（PT）</td> 
+   <td>2019年5月08日（PT）</td> 
    <td>コアコンポーネント<br /> </td> 
    <td>新しいコンテンツフラグメントリストコンポーネントを含んだコアコンポーネントリリース 2.4.0 が、<a href="https://github.com/adobe/aem-core-wcm-components">開発者向け詳細およびプロジェクトのダウンロードと共に GitHub で入手</a>できるようなりました。<br /> </td> 
   </tr>
   <tr>
-   <td>2019年5月1日（PT）</td> 
+   <td>2019年5月01日（PT）</td> 
    <td>ビューアリファレンスガイド</td> 
    <td><p><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/dynamic/360-video">360/VR ビデオに関するドキュメント</a>を新しく追加しました。</p> </td> 
   </tr>
@@ -228,7 +228,7 @@ ht-degree: 100%
    <td><p>詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player">Windows 10 プレーヤーの実装</a>を参照してください。</p> </td> 
   </tr>
   <tr>
-   <td>2019年4月8日（PT）</td> 
+   <td>2019年4月08日（PT）</td> 
    <td>AEM Assets</td> 
    <td>フォルダー共有機能は廃止されました。詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes" target="_blank">フォルダー共有のベストプラクティス</a>を参照してください。</td> 
    </tr>
