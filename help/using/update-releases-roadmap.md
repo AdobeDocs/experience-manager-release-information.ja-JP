@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: dd035a73bbb70bf5067b15b39cd49472d3a34481
+source-git-commit: 60521ed99a45b4f820611accbc6e907fb17b6065
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 99%
+source-wordcount: '513'
+ht-degree: 98%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 99%
 > AEMaaCS の自動メンテナンスは、次の期間（午前0時（00:00、CET） に開始／終了）には実行されません：
 >
 >* 2024年11月25日月曜日～2024年12月3日火曜日（PT）。
->* 年末の除外期間は、近日中に追加される予定です。
+>* 2024 年 12 月 16 日月曜日～2025 年 1 月 3 日金曜日
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
