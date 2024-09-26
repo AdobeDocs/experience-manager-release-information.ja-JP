@@ -40,7 +40,7 @@ ht-degree: 98%
 | メンテナンスリリース[17465](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | 自動更新 | 2024年8月19～21日（PT） | 更新済み |
 | 機能リリース [2024.8.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2024年8月29日（PT） | アクティベート済み |
 | メンテナンスリリース[17569](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | 自動更新 | 2024年9月2～4日（PT） | 更新済み |
-| メンテナンスリリース[17689](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | 自動更新 | 2024年9月16～18日（PT） | 更新済み |
+| メンテナンスリリース[17689](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | 自動更新 | 2024年9月16～18日（PT） | 更新済み |
 
 ### 今後のリリース {#upcoming}
 
