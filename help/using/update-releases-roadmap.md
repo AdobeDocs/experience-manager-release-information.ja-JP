@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 0a01342f5510d13dde08e2908070278adefe8b94
 workflow-type: tm+mt
 source-wordcount: '530'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 98%
 > AEMaaCS の自動メンテナンスは、次の期間（午前0時（00:00、CET） に開始／終了）には実行されません：
 >
 >* 2024年11月25日月曜日～2024年12月3日火曜日（PT）。
->* 2024 年 12 月 16 日月曜日～2025 年 1 月 3 日金曜日
+>* 2024年12月16日月曜日～2025年1月3日金曜日（PT）。
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
