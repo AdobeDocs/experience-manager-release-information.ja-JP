@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 139cdaab2d3d0a7d47809538501a92d13ba4dfdb
+source-git-commit: 449a49c2a13c7657d606aa7c0745f995cc09beb2
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 99%
+source-wordcount: '493'
+ht-degree: 95%
 
 ---
 
@@ -27,9 +27,6 @@ ht-degree: 99%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [16971](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | 自動更新 | 2024年7月8～10日（PT） | 更新済み |
-| メンテナンスリリース[17098](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-17098) | 自動更新 | 2024年7月22～24日（PT） | 更新済み |
-| 機能リリース [2024.7.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-7-0) | 機能アクティベーション | 2024年7月25日（PT） | アクティベート済み |
 | メンテナンスリリース[17258](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17258) | 自動更新 | 2024年8月5～7日（PT） | 更新済み |
 | メンテナンスリリース[17465](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | 自動更新 | 2024年8月19～21日（PT） | 更新済み |
 | 機能リリース [2024.8.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-8-0) | 機能アクティベーション | 2024年8月29日（PT） | アクティベート済み |
@@ -47,7 +44,14 @@ ht-degree: 99%
 | 機能リリース 2024.10.0 | 機能アクティベーション | 2024年10月31日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2024年11月11～13日（PT） | ターゲット |
 | 機能リリース 2024.11.0 | 機能アクティベーション | 2024年11月21日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2024 年 12 月 9～11 日 | ターゲット |
 | 機能リリース 2024.12.0 | 機能アクティベーション | 2024年12月12日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025 年 1 月 20～22 日 | ターゲット |
+| 機能リリース 2025.1.0 | 機能アクティベーション | 2025年1月30日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025 年 2 月 3～5 日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025 年 2 月 17～19 日 | ターゲット |
+| 機能リリース 2025.2.0 | 機能アクティベーション | 2025年2月27日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025 年 3 月 3～5 日 | ターゲット |
 
 >[!CAUTION]
 >
