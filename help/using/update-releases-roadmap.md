@@ -2,8 +2,8 @@
 title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 2771a67a9be25da1d9f7ea8b601bbd32974bff2c
-workflow-type: ht
+source-git-commit: 5cfeb22daf15d2fd9ab681ee60db8283ec1240b5
+workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 100%
 
@@ -37,12 +37,12 @@ ht-degree: 100%
 | メンテナンスリリース[18175](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | 自動更新 | 2024年10月14～16日（PT） | 更新済み |
 | メンテナンスリリース[18311](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | 自動更新 | 2024年10月28～30日（PT） | 更新済み |
 | 機能リリース [2024.10.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2024年10月31日（PT） | アクティベート済み |
+| メンテナンスリリース[18598](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024年11月11～13日（PT） | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース[18598](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024年11月11～13日（PT） | ターゲット |
 | 機能リリース 2024.11.0 | 機能アクティベーション | 2024年11月21日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2024 年 12 月 9～11 日 | ターゲット |
 | 機能リリース 2024.12.0 | 機能アクティベーション | 2024年12月12日 | ターゲット |
