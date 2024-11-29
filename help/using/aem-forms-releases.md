@@ -3,7 +3,7 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースと対応するパッケージについて説明します。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: e095e86171db989af0c0f4f56b408d77540f3486
+source-git-commit: 8537ddb58ced1f776334381184376233fe159cc4
 workflow-type: tm+mt
 source-wordcount: '3156'
 ht-degree: 99%
@@ -25,6 +25,7 @@ Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリ�
 >AEM Forms releases the add-in packages one week after the scheduled AEM Service Pack and Cumulative Fix Pack release date.
 
 The following list contains all the AEM [!DNL Forms] add-in packages released until today, corresponding AEM versions (Pre-requisites), download links of packages, and other helpful information.
+
 -->
 
 ## AEM 6.5 [!DNL Forms] リリース {#aem-65-forms-releases}
