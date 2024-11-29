@@ -3,9 +3,9 @@ title: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 description: 「[!DNL Adobe Experience Manager] リリースロードマップ」
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 657fecf2d8df9bdf5f50daa63aadc42a828218ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '484'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 94%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース | 自動更新 | 2025 年 1 月 13～15 日 | ターゲット |
-| メンテナンスリリース | 自動更新 | 2025 年 1 月 27～29 日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025年1月13～15日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025年1月27～29日（PT） | ターゲット |
 | 機能リリース 2025.1.0 | 機能アクティベーション | 2025年1月30日（PT） | ターゲット |
-| メンテナンスリリース | 自動更新 | 2025 年 2 月 10～12 日 | ターゲット |
-| メンテナンスリリース | 自動更新 | 2025 年 2 月 24～26 日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025年2月10～12日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025年2月24～26日（PT） | ターゲット |
 | 機能リリース 2025.2.0 | 機能アクティベーション | 2025年2月27日（PT） | ターゲット |
-| メンテナンスリリース | 自動更新 | 2025 年 3 月 10～12 日 | ターゲット |
-| メンテナンスリリース | 自動更新 | 2025 年 3 月 24～26 日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025年3月10～12日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025年3月24～26日（PT） | ターゲット |
 | 機能リリース 2025.3.0 | 機能アクティベーション | 2025年3月27日（PT） | ターゲット |
 
 >[!CAUTION]
@@ -71,7 +71,7 @@ ht-degree: 94%
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
 | [!DNL Experience Manager][ 6.5 サービスパック 20](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | サービスパック | 2024年2月22日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 [サービスパック 21](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | サービスパック | 2024年6月6日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 [サービスパック 21](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | サービスパック | 2024年6月6日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 [サービスパック 22](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | サービスパック | 2024年11月21日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 サービスパック 23 | 6.5.23.0 | サービスパック | 2025年5月22日（PT） | ターゲット |
 | [!DNL Experience Manager] 6.5 サービスパック 24 | 6.5.24.0 | サービスパック | 2025年11月20日（PT） | ターゲット |
