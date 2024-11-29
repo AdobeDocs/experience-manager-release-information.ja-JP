@@ -2,8 +2,7 @@
 title: AEM Forms リリース
 description: すべての AEM Forms リリースと対応するパッケージについて説明します。
 contentOwner: khsingh
-exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 8537ddb58ced1f776334381184376233fe159cc4
+source-git-commit: 55e864d7cbed138167652c54e1dec58e7c07f19a
 workflow-type: tm+mt
 source-wordcount: '3156'
 ht-degree: 99%
