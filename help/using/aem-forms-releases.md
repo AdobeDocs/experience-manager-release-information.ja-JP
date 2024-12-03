@@ -40,13 +40,13 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   </tr>
   <tr>
-    <td>2024 年 11 月 29 日（Pt）</td>
+    <td>2024年11月29日（PT）</td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms サービスパック 22（AEM 6.5.22.0 用 Forms アドインパッケージ）</a></td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.22.0</a></td>
     <td>
      <ul>
-     <br><b>AEM Forms on OSGi パッチインストーラー</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1328.zip">Linux® 用 AEM Forms アドインパッケージ</a></li>
+     <br><b>OSGi 上の AEM Forms パッチインストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/ja/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1328.zip">Linux® 用 AEM Forms アドインパッケージ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1328.zip">Windows 用 AEM Forms アドインパッケージ</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1328.zip">macOS X 用 AEM Forms アドインパッケージ [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.50.zip">AEM Forms 互換性パッケージ</a></li>
