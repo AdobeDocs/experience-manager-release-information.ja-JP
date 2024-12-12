@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9bc7d082c4f68bd076dcbcb9c9ab9352e871a24a
+source-git-commit: d333addbba29fa670297a433ee12f8c0464b66c0
 workflow-type: tm+mt
-source-wordcount: '451'
-ht-degree: 94%
+source-wordcount: '453'
+ht-degree: 93%
 
 ---
 
@@ -31,14 +31,14 @@ ht-degree: 94%
 | メンテナンスリリース[18175](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | 自動更新 | 2024年10月14～16日（PT） | 更新済み |
 | メンテナンスリリース[18311](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | 自動更新 | 2024年10月28～30日（PT） | 更新済み |
 | 機能リリース [2024.10.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | 機能アクティベーション | 2024年10月31日（PT） | アクティベート済み |
-| メンテナンスリリース[18598](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024年11月11～13日（PT） | 更新済み |
+| メンテナンスリリース[18598](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | 自動更新 | 2024年11月11～13日（PT） | 更新済み |
 | 機能リリース [2024.11.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2024年11月21日（PT） | アクティベート済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース | 自動更新 | 2025年1月13～15日（PT） | ターゲット |
+| メンテナンスリリース[18751](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025年1月13～15日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2025年1月27～29日（PT） | ターゲット |
 | 機能リリース 2025.1.0 | 機能アクティベーション | 2025年1月30日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2025年2月10～12日（PT） | ターゲット |
