@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: d333addbba29fa670297a433ee12f8c0464b66c0
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 93%
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
-サポートされている [!DNL Experience Manager] オンプレミスおよびManaged Servicesの新機能、機能強化、バグ修正に関する製品アップデートが、サービスパックおよび累積修正パック（CFP）を通じて提供されます。 頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。 今後の製品アップデートリリースのスケジュールは以下のとおりです。
+サポートされている [!DNL Experience Manager]（オンプレミス版および Managed Services）の新機能、機能強化、バグ修正に関する製品アップデートが、サービスパックや累積修正パック（CFP）を通じて提供されます。頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。 今後の製品アップデートリリースのスケジュールは以下のとおりです。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
