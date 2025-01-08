@@ -4,7 +4,7 @@ description: すべての AEM Forms リリースと対応するパッケージ�
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 1c00252ff9c14591369cbddf0c24ef2134990c7e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3159'
 ht-degree: 100%
 
