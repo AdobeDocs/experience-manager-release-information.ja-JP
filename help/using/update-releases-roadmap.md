@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: bf25e2de0798ce9b3b8df54b651e7f77ea3df28a
-workflow-type: ht
-source-wordcount: '442'
-ht-degree: 100%
+source-git-commit: f1d7dbd4a6ddba756ce9a438282969361a47d71d
+workflow-type: tm+mt
+source-wordcount: '443'
+ht-degree: 96%
 
 ---
 
@@ -38,18 +38,18 @@ ht-degree: 100%
 | メンテナンスリリース [19352](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | 自動アップデート | 2025年2月10～12日（PT） | 更新済み |
 | メンテナンスリリース [19687](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | 自動アップデート | 2025年2月24～26日（PT） | 更新済み |
 | 機能リリース [2025.2.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2025年3月4日（PT） | アクティベート済み |
+| メンテナンスリリース [19823](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動アップデート | 2025年3月10～12日（PT） | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [19823](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動アップデート | 2025年3月10～12日（PT） | ターゲット |
 | 機能リリース 2025.3.0 | 機能アクティベーション | 2025年3月27日（PT） | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2025年3月31日 ～ 4月2日 (PT) | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2025年4月14日 ～ 16日 (PT) | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2025 年 4 月 7～10 日 | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2025 年 4 月 21～23 日 | ターゲット |
 | 機能リリース 2025.4.0 | 機能アクティベーション | 2025年4月24日（PT） | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2025年4月28日 ～ 30日 (PT) | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2025年5月12 日～ 14日 (PT) | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2025 年 5 月 5～7 日 | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2025 年 5 月 19～21 日 | ターゲット |
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
