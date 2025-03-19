@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f1d7dbd4a6ddba756ce9a438282969361a47d71d
-workflow-type: ht
-source-wordcount: '443'
-ht-degree: 100%
+source-git-commit: 2ec3c4f14009d804a6a935ae310705be6a547f59
+workflow-type: tm+mt
+source-wordcount: '434'
+ht-degree: 96%
 
 ---
 
@@ -27,11 +27,6 @@ ht-degree: 100%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース[18175](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | 自動アップデート | 2024年10月14～16日（PT） | 更新済み |
-| メンテナンスリリース[18311](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | 自動アップデート | 2024年10月28～30日（PT） | 更新済み |
-| 機能リリース [2024.10.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | 機能アクティベーション | 2024年10月31日（PT） | アクティベート済み |
-| メンテナンスリリース[18598](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | 自動アップデート | 2024年11月11～13日（PT） | 更新済み |
-| 機能リリース [2024.11.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-11-0) | 機能アクティベーション | 2024年11月21日（PT） | アクティベート済み |
 | メンテナンスリリース [18751](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | 自動アップデート | 2025年1月13～15日（PT） | アクティベート済み |
 | メンテナンスリリース [19149](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | 自動アップデート | 2025年1月27～29日（PT） | 更新済み |
 | 機能リリース [2025.1.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-1-0) | 機能アクティベーション | 2025年1月30日（PT） | アクティベート済み |
@@ -45,11 +40,16 @@ ht-degree: 100%
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
 | 機能リリース 2025.3.0 | 機能アクティベーション | 2025年3月27日（PT） | ターゲット |
-| メンテナンスリリース | 自動アップデート | 2025年4月7～10日（PT） | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2025 年 4 月 7～9 日 | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2025年4月21～23日（PT） | ターゲット |
 | 機能リリース 2025.4.0 | 機能アクティベーション | 2025年4月24日（PT） | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2025年5月5～7日（PT） | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2025年5月19～21日（PT） | ターゲット |
+| 機能リリース 2025.5.0 | 機能アクティベーション | 2025年5月29日（PT） | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2025 年 6 月 2～4 日 | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2025 年 6 月 16～18 日 | ターゲット |
+| 機能リリース 2025.6.0 | 機能アクティベーション | 2025年6月26日（PT） | ターゲット |
+| メンテナンスリリース | 自動アップデート | 2025 年 6 月 30 日～7 月 2 日 | ターゲット |
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
