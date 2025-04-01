@@ -4,9 +4,9 @@ description: '[!DNL Adobe Experience Manager] リリースのアップデート'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 6a1200fcc366ec68118c1016a7321d8d16f354f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '231'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -30,13 +30,13 @@ Managed Services およびオンプレミス製品の場合、この記事では
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-[!DNL Experience Manager] 6.5 の製品アップデートは、半年ごとのサービスパックを通じて提供され、新機能、機能強化、バグ修正が含まれます。
+[!DNL Experience Manager] 6.5 製品アップデートは半年ごとのサービスパックを通じて提供され、新機能、機能強化、バグ修正が含まれます。
 
-現在／最新のバージョンについて詳しくは、[[!DNL Experience Manager] 6.5 最新の機能パック](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。 ここから、以前のバージョンの詳細（時系列に並べ替えたもの）に移動することもできます。
+現在／最新のバージョンについて詳しくは、[[!DNL Experience Manager] 6.5 最新の機能パック](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。ここから、以前のバージョンの詳細（時系列に並べ替えたもの）に移動することもできます。
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem-65-lts}
 
-[!DNL Experience Manager] 6.5 LTS 製品のアップデートは、四半期ごとのサービスパックを通じて提供され、新機能、機能強化、バグ修正が含まれています。
+[!DNL Experience Manager] 6.5 LTS 製品アップデートは、四半期ごとのサービスパックを通じて提供され、新機能、機能強化、バグ修正が含まれます。
 
-現在/最新のバージョンについて詳しくは、[[!DNL Experience Manager] 6.5 LTS 最新の機能パック ](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=en) を参照してください。
+現在／最新のバージョンについて詳しくは、[[!DNL Experience Manager]  6.5 LTS 最新の機能パック](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=jp)を参照してください。
 
