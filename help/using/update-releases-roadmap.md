@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 05be3351acbfa775f8af6ba5e1d409ea1d3e1d2f
+source-git-commit: 9cb73dcc651c4d66dfc0f2230b96601bc80f2b31
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '437'
 ht-degree: 99%
 
 ---
@@ -33,14 +33,14 @@ ht-degree: 99%
 | メンテナンスリリース [19352](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | 自動アップデート | 2025年2月10～12日（PT） | 更新済み |
 | メンテナンスリリース [19687](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | 自動アップデート | 2025年2月24～26日（PT） | 更新済み |
 | 機能リリース [2025.2.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) | 機能アクティベーション | 2025年3月4日（PT） | アクティベート済み |
-| メンテナンスリリース [19823](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動アップデート | 2025年3月10～12日（PT） | 更新済み |
+| メンテナンスリリース [19823](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-3-0#19823) | 自動アップデート | 2025年3月10～12日（PT） | 更新済み |
 | 機能リリース [2025.3.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2025年3月27日（PT） | アクティベート済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース | 自動アップデート | 2025年4月7～9日（PT） | ターゲット |
+| メンテナンスリリース [20133](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動アップデート | 2025年4月7～9日（PT） | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2025年4月21～23日（PT） | ターゲット |
 | 機能リリース 2025.4.0 | 機能アクティベーション | 2025年4月24日（PT） | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2025年5月5～7日（PT） | ターゲット |
