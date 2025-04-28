@@ -4,9 +4,9 @@ description: すべての AEM Forms リリースと対応するパッケージ�
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 42410da78ff4efcafa86893d907c800ee98c1b5f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3226'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -45,10 +45,10 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
     <td>
      <ul>
-     <br><b>OSGi 完全インストーラーでのAEM Forms 6.5 LTS</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">AEM Forms 6.5 LTS アドオン Linux® 版</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">Windows 用AEM Forms 6.5 LTS アドオン</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">mac OSX 用AEM Forms 6.5 LTS アドオン</a></li>
+     <br><b>AEM Forms 6.5 LTS on OSGi フルインストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">Linux® 用 AEM Forms 6.5 LTS アドオン</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">Windows 用 AEM Forms 6.5 LTS アドオン</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">macOS X 用 AEM Forms 6.5 LTS アドオン</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms 6.5 LTS 互換性パッケージ</a></li>
       </ul> 
       </td>
