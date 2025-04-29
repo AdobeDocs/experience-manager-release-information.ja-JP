@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 65c62261b3b1d96a131cf804ab0e7d59058b1692
+source-git-commit: a955c9315d3b2a0c34f035cfae4504798463dc57
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '409'
 ht-degree: 99%
 
 ---
@@ -27,9 +27,6 @@ ht-degree: 99%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [18751](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | 自動アップデート | 2025年1月13～15日（PT） | アクティベート済み |
-| メンテナンスリリース [19149](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | 自動アップデート | 2025年1月27～29日（PT） | 更新済み |
-| 機能リリース [2025.1.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-1-0) | 機能アクティベーション | 2025年1月30日（PT） | アクティベート済み |
 | メンテナンスリリース [19352](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | 自動アップデート | 2025年2月10～12日（PT） | 更新済み |
 | メンテナンスリリース [19687](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | 自動アップデート | 2025年2月24～26日（PT） | 更新済み |
 | 機能リリース [2025.2.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) | 機能アクティベーション | 2025年3月4日（PT） | アクティベート済み |
@@ -45,8 +42,8 @@ ht-degree: 99%
 |---|---|---|---|
 | メンテナンスリリース | 自動アップデート | 2025年5月5～7日（PT） | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2025年5月19～21日（PT） | ターゲット |
-| 機能リリース 2025.5.0 | 機能アクティベーション | 2025年5月29日（PT） | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2025年6月2～4日（PT） | ターゲット |
+| 機能リリース 2025.5.0 | 機能アクティベーション | 2025年6月5日（PT） | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2025年6月16～18日（PT） | ターゲット |
 | 機能リリース 2025.6.0 | 機能アクティベーション | 2025年6月26日（PT） | ターゲット |
 | メンテナンスリリース | 自動アップデート | 2025年6月30日～7月2日（PT） | ターゲット |
