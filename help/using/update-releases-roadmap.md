@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b7c4e0328e3a33350cabf5614df28a12fa1e115d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
