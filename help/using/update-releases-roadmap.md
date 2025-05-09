@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: b7c4e0328e3a33350cabf5614df28a12fa1e115d
-workflow-type: ht
-source-wordcount: '411'
-ht-degree: 100%
+source-git-commit: ab91a806528566521503837899b8e2e3ea7b5de2
+workflow-type: tm+mt
+source-wordcount: '437'
+ht-degree: 98%
 
 ---
 
@@ -35,18 +35,21 @@ ht-degree: 100%
 | メンテナンスリリース [20133](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | 自動更新 | 2025年4月7～9日（PT） | 更新済み |
 | メンテナンスリリース [20476](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476) | 自動更新 | 2025年4月22～24日（PT） | 更新済み |
 | 機能リリース [2025.4.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2025年4月24日（PT） | アクティベート済み |
+| メンテナンスリリース [20626](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025年5月5～7日（PT） | アクティベート済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [20626](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025年5月5～7日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2025年5月19～21日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2025年6月2～4日（PT） | ターゲット |
 | 機能リリース 2025.5.0 | 機能アクティベーション | 2025年6月5日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2025年6月16～18日（PT） | ターゲット |
 | 機能リリース 2025.6.0 | 機能アクティベーション | 2025年6月26日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2025年6月30日～7月2日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025 年 7 月 14～16 日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2025 年 7 月 28～30 日 | ターゲット |
+| 機能リリース 2025.7.0 | 機能アクティベーション | 2025年7月31日（PT） | ターゲット |
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
