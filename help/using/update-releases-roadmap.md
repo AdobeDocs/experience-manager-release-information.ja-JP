@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9062751317033be48bf9b6247ec4984abe589bda
+source-git-commit: ed9f891e2a8a353ab73e33fdfe5835e3b639c7f6
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 100%
+source-wordcount: '476'
+ht-degree: 94%
 
 ---
 
@@ -53,6 +53,14 @@ ht-degree: 100%
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
 サポートされている [!DNL Experience Manager]（オンプレミス版および Managed Services）の新機能、機能強化、バグ修正に関する製品アップデートが、サービスパックや累積修正パック（CFP）を通じて提供されます。 頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。 今後の製品アップデートリリースのスケジュールは以下のとおりです。
+
+### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
+
+[!DNL Experience Manager] 6.5 LTS 製品のアップデートは、サービスパックを通じて提供されます。 新機能、拡張機能、バグ修正が含まれます。 最新リリースのサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 LTS リリースノート ](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) を参照してください。
+
+| リリース | バージョン | タイプ | スケジュール | ステータス |
+|---|---|---|---|---|
+| [!DNL Experience Manager] 6.5 LTS サービスパック 1 | 6.5.LTS.SP1 | サービスパック | 2025年8月21日（PT） | ターゲット |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
