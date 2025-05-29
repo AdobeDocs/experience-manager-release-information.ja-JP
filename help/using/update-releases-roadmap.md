@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 15c9a8197e64ecc50fcaed8a699a94d8871a34bd
 workflow-type: tm+mt
 source-wordcount: '478'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 94%
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
-[!DNL Experience Manager] 6.5 LTS 製品のアップデートは、サービスパックを通じて提供されます。 新機能、拡張機能、バグ修正が含まれます。 最新リリースのサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 LTS リリースノート ](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) を参照してください。
+[!DNL Experience Manager] 6.5 LTS 製品アップデートは、サービスパックを通じて提供されます。アップデートには新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 LTS リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ ht-degree: 94%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 製品アップデートは、サービスパックを通じて提供されます。 新機能、拡張機能、バグ修正が含まれます。 リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
+[!DNL Experience Manager] 6.5 製品アップデートは、サービスパックを通じて提供されます。 アップデートには新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
