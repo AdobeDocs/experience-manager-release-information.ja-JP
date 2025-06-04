@@ -2,8 +2,8 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 15c9a8197e64ecc50fcaed8a699a94d8871a34bd
-workflow-type: ht
+source-git-commit: 81dde5ba3ee4bb56947b4de2ac5e7635a2688c4f
+workflow-type: tm+mt
 source-wordcount: '478'
 ht-degree: 100%
 
@@ -36,12 +36,12 @@ ht-degree: 100%
 | メンテナンスリリース [20476](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476) | 自動更新 | 2025年4月22～24日（PT） | 更新済み |
 | 機能リリース [2025.4.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2025年4月24日（PT） | アクティベート済み |
 | メンテナンスリリース [20626](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | 自動更新 | 2025年5月5～7日（PT） | アクティベート済み |
+| メンテナンスリリース [21005](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025年6月2～4日（PT） | アクティベート済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [21005](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025年6月2～4日（PT） | ターゲット |
 | 機能リリース 2025.5.0 | 機能アクティベーション | 2025年6月5日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2025年6月16～18日（PT） | ターゲット |
 | 機能リリース 2025.6.0 | 機能アクティベーション | 2025年6月26日（PT） | ターゲット |
