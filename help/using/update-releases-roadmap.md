@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: a72bc8ba4664a662e2cf3f6e791b8faba7dca103
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 99%
+source-wordcount: '494'
+ht-degree: 95%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 99%
 | メンテナンスリリース [21193](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | 自動更新 | 2025年6月16～18日（PT） | 更新済み |
 | 機能リリース [2025.6.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2025年6月26日（PT） | アクティベート済み |
 | メンテナンスリリース [21331](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | 自動更新 | 2025年6月30日～7月2日（PT） | 更新済み |
-| メンテナンスリリース [21484](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21484) | 自動更新 | 2025年7月10日（PT） | 更新済み |
+| メンテナンスリリース [21484](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21484) | 自動更新 | 2025年7月10日（PT） | 更新済み |
 | メンテナンスリリース [21570](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025年7月15日（PT） | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
@@ -58,7 +58,7 @@ ht-degree: 99%
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
-[!DNL Experience Manager] 6.5 LTS 製品アップデートは、サービスパックを通じて提供されます。アップデートには新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 LTS リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes)を参照してください。
+[!DNL Experience Manager] 6.5 LTS 製品アップデートは、サービスパックを通じて提供されます。これらのサービスパックには、新機能、機能強化、バグ修正が含まれています。 リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 LTS リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ ht-degree: 99%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 製品アップデートは、サービスパックを通じて提供されます。 アップデートには新機能、拡張機能、バグ修正が含まれます。リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
+[!DNL Experience Manager] 6.5 製品アップデートは、サービスパックを通じて提供されます。 これらのサービスパックには、新機能、機能強化、バグ修正が含まれています。 リリースされている最新のサービスパックについて詳しくは、[[!DNL Experience Manager] 6.5 サービスパックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)を参照してください。
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
