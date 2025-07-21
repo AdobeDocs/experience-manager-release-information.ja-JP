@@ -51,7 +51,7 @@ ht-degree: 97%
   <tr>
    <td>2019年10月18日（PT）<br /> </td> 
    <td>ヘッドレスエクスペリエンス管理<br /> </td> 
-   <td>単一ページアプリケーションのサーバーサイドレンダリングに使用される、<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
+   <td>単一ページアプリケーションのサーバーサイドレンダリングに使用される、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
   </tr>
   <tr>
    <td>2019年10月11日（PT）</td> 
@@ -71,7 +71,7 @@ ht-degree: 97%
   <tr>
    <td>2019年10月1日（PT）</td> 
    <td>JEE 上の AEM Forms インストール </td> 
-   <td><p>Oracle 18c データベースドライバーの AEM Forms サポートが追加されました。 </p> <p>Platform マトリックス：<a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Oracle 18c データベースドライバーの AEM Forms サポートが追加されました。 </p> <p>Platform マトリックス：<a href="https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>2019年10月1日（PT） </td> 
