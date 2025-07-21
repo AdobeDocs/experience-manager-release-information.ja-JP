@@ -10,7 +10,7 @@ ht-degree: 97%
 
 ---
 
-# AEM [!DNL  Forms] JEE への累積修正パックのインストール {#installing-cumulative-fix-packs-on-aem-forms-jee}
+# AEM [!DNL &#x200B; Forms] JEE への累積修正パックのインストール {#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## AEM 6.3 [!DNL Forms JEE] に CFP をインストールする  {#install-cfp-forms-6-3}
 
@@ -23,7 +23,7 @@ AEM 6.3 [!DNL Forms JEE] に累積修正パックをインストールするに�
 
 ### AEM [!DNL Forms JEE] バンドルパッケージのインストール {#install-aem-forms-jee-bundles-package}
 
-AEM [!DNL  Forms JEE] パッケージ（aemfd-jee-bundles-package-6.3CFP1、バージョン 1.0.2）は、AEM [!DNL Forms JEE] 上の [!DNL Forms] ユーザーに、AEM [!DNL Forms OSGi] 上と同じ権限および機能を提供します。パッケージマネージャーでインストール済みのパッケージを確認し、パッケージがまだインストールされていない場合はインストールします。
+AEM [!DNL &#x200B; Forms JEE] パッケージ（aemfd-jee-bundles-package-6.3CFP1、バージョン 1.0.2）は、AEM [!DNL Forms JEE] 上の [!DNL Forms] ユーザーに、AEM [!DNL Forms OSGi] 上と同じ権限および機能を提供します。パッケージマネージャーでインストール済みのパッケージを確認し、パッケージがまだインストールされていない場合はインストールします。
 
 ### CQ-4208044 の詳細な手順 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ AEM 6.3 [!DNL Forms JEE] サーバーを Oracle データベースと共に使�
 
 1. 変更したファイルを再度読み込んでから、同期を再実行してください。
 
-## AEM 6.2 [!DNL  Forms JEE] への CFP のインストール {#install-cfp-on-aem-62-forms-jee}
+## AEM 6.2 [!DNL &#x200B; Forms JEE] への CFP のインストール {#install-cfp-on-aem-62-forms-jee}
 
 AEM 6.2 [!DNL Forms JEE] に累積修正パックをインストールするには、次の一連の手順を実行します。
 
