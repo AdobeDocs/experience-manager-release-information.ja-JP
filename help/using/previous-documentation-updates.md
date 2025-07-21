@@ -3,10 +3,10 @@ title: 以前のドキュメント更新
 description: ' [!DNL Adobe Experience Manager] に関する以前の重要なドキュメントの変更と更新について説明します。'
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
-workflow-type: ht
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 100%
   <tr>
    <td>2019年10月18日（PT）<br /> </td> 
    <td>ヘッドレスエクスペリエンス管理<br /> </td> 
-   <td>単一ページアプリケーションのサーバーサイドレンダリングに使用される、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
+   <td>単一ページアプリケーションのサーバーサイドレンダリングに使用される、<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">リモートコンテンツレンダラー</a>機能のドキュメントが作成されました。<br /> </td> 
   </tr>
   <tr>
    <td>2019年10月11日（PT）</td> 
@@ -71,7 +71,7 @@ ht-degree: 100%
   <tr>
    <td>2019年10月1日（PT）</td> 
    <td>JEE 上の AEM Forms インストール </td> 
-   <td><p>Oracle 18c データベースドライバーの AEM Forms サポートが追加されました。 </p> <p>Platform マトリックス：<a href="https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Oracle 18c データベースドライバーの AEM Forms サポートが追加されました。 </p> <p>Platform マトリックス：<a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>2019年10月1日（PT） </td> 
@@ -81,7 +81,7 @@ ht-degree: 100%
   <tr>
    <td>2019年9月25日（PT）</td> 
    <td>コアコンポーネント</td> 
-   <td>埋め込みコンポーネントを導入したコアコンポーネントリリース 2.7.0 が、<a href="https://github.com/adobe/aem-core-wcm-components">GitHub で入手できる開発者向け詳細およびプロジェクトのダウンロード</a>と共に、使用可能になりました。</td> 
+   <td>「埋め込みコンポーネント」を導入したコアコンポーネントリリース 2.7.0 が、<a href="https://github.com/adobe/aem-core-wcm-components">GitHub で利用可能な開発者の詳細とプロジェクトのダウンロード </a> と共に入手可能になりました。</td> 
   </tr>
   <tr>
    <td>2019年9月25日（PT）</td> 
@@ -171,7 +171,7 @@ ht-degree: 100%
   <tr>
    <td>2019年6月3日（PT）</td> 
    <td>リッチテキストエディター（RTE）<br /> </td> 
-   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">複合マルチフィールドコンポーネントを作成するサンプル</a>にパッケージを追加しました。<br /> </p> <p>お客様からのフィードバックに基づいて、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">トラブルシューティング FAQ</a> を作成しました。</p> </td> 
+   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank"> 作成されたマルチフィールドコンポーネント </a> にパッケージを追加しました。<br /> </p> <p>お客様からのフィードバックに基づいて、<a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">トラブルシューティング FAQ</a> を作成しました。</p> </td> 
   </tr>
   <tr>
    <td>2019年5月31日（PT）</td> 

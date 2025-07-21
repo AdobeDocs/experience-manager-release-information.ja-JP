@@ -3,10 +3,10 @@ title: 累積修正パックの AEM Forms JEE へのインストール
 description: AEM Forms JEE での累積修正パック（CFP）のインストールおよび設定手順の概要。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '905'
-ht-degree: 100%
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 AEM 6.3 [!DNL Forms JEE] に累積修正パックをインストールするには、次の一連の手順を実行します。
 
-1. CFP 用の AEM 6.3 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&amp;lang=ja&amp;support-tab=home#support)にお問い合わせください。
+1. CFP 用の AEM 6.3 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 1. [AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) のインストールと設定の説明に従って、CFP インストーラーを実行し、AEM [!DNL Forms JEE] を設定します。
 1. 最新の AEM CFP 6.3.3.x をインストールします。
 1. AEM CFP [6.3.3.x ](aem-forms-releases.md)用の[!DNL Forms]アドオンパッケージをインストールします。
@@ -42,7 +42,7 @@ AEM 6.3 [!DNL Forms JEE] サーバーを Oracle データベースと共に使�
 
 AEM 6.2 [!DNL Forms JEE] に累積修正パックをインストールするには、次の一連の手順を実行します。
 
-1. CFP 用の AEM 6.2 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&amp;lang=ja&amp;support-tab=home#support)にお問い合わせください。
+1. CFP 用の AEM 6.2 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 1. [AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) のインストールと設定の説明に従って、CFP インストーラーを実行し、AEM [!DNL Forms JEE] を設定します。
 1. AEM Hotfix 12785 バージョン 7.0 をインストールします。
 1. AEM 6.2 サービスパック 1 をインストールします。
@@ -59,7 +59,7 @@ AEM Forms JEE パッケージ（aemfd-jee-bundles-package-6.2CFP5、バージョ
 >
 >AEM 6.2 CFP4 の後は、次の手順で、アップグレードプロセス中にタイムアウトが原因で問題が発生した場合に DSC 操作のタイムアウトを設定できます。
 
-DSC のデプロイメントには、失敗する可能性があるため、変数の時間がかかります。インストール、読み込み、開始、停止などの DSC 操作のタイムアウトを変更するには、JVM 引数に -D オプションで使用して `adobe.component.registry.timeout` を設定する必要があります。
+DSC のデプロイメントには、失敗する可能性があるため、変数の時間がかかります。インストール、読み込み、開始、停止などの DSC 操作のタイムアウトを変更するには、JVM 引数に `adobe.component.registry.timeout` オプションで使用して `-D` を設定する必要があります。
 
 キーの値を秒単位で指定します。例：`-Dadobe.component.registry.timeout=300`
 
