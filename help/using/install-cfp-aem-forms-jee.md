@@ -4,26 +4,26 @@ description: AEM Forms JEE での累積修正パック（CFP）のインスト�
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '904'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# AEM [!DNL &#x200B; Forms] JEE への累積修正パックのインストール {#installing-cumulative-fix-packs-on-aem-forms-jee}
+# AEM [!DNL  Forms] JEE への累積修正パックのインストール {#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## AEM 6.3 [!DNL Forms JEE] に CFP をインストールする  {#install-cfp-forms-6-3}
 
 AEM 6.3 [!DNL Forms JEE] に累積修正パックをインストールするには、次の一連の手順を実行します。
 
-1. CFP 用の AEM 6.3 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
+1. CFP 用の AEM 6.3 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 1. [AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) のインストールと設定の説明に従って、CFP インストーラーを実行し、AEM [!DNL Forms JEE] を設定します。
 1. 最新の AEM CFP 6.3.3.x をインストールします。
 1. AEM CFP [6.3.3.x ](aem-forms-releases.md)用の[!DNL Forms]アドオンパッケージをインストールします。
 
 ### AEM [!DNL Forms JEE] バンドルパッケージのインストール {#install-aem-forms-jee-bundles-package}
 
-AEM [!DNL &#x200B; Forms JEE] パッケージ（aemfd-jee-bundles-package-6.3CFP1、バージョン 1.0.2）は、AEM [!DNL Forms JEE] 上の [!DNL Forms] ユーザーに、AEM [!DNL Forms OSGi] 上と同じ権限および機能を提供します。パッケージマネージャーでインストール済みのパッケージを確認し、パッケージがまだインストールされていない場合はインストールします。
+AEM [!DNL  Forms JEE] パッケージ（aemfd-jee-bundles-package-6.3CFP1、バージョン 1.0.2）は、AEM [!DNL Forms JEE] 上の [!DNL Forms] ユーザーに、AEM [!DNL Forms OSGi] 上と同じ権限および機能を提供します。パッケージマネージャーでインストール済みのパッケージを確認し、パッケージがまだインストールされていない場合はインストールします。
 
 ### CQ-4208044 の詳細な手順 {#additional-instructions-for-cq}
 
@@ -38,11 +38,11 @@ AEM 6.3 [!DNL Forms JEE] サーバーを Oracle データベースと共に使�
 
 1. 変更したファイルを再度読み込んでから、同期を再実行してください。
 
-## AEM 6.2 [!DNL &#x200B; Forms JEE] への CFP のインストール {#install-cfp-on-aem-62-forms-jee}
+## AEM 6.2 [!DNL  Forms JEE] への CFP のインストール {#install-cfp-on-aem-62-forms-jee}
 
 AEM 6.2 [!DNL Forms JEE] に累積修正パックをインストールするには、次の一連の手順を実行します。
 
-1. CFP 用の AEM 6.2 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
+1. CFP 用の AEM 6.2 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 1. [AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) のインストールと設定の説明に従って、CFP インストーラーを実行し、AEM [!DNL Forms JEE] を設定します。
 1. AEM Hotfix 12785 バージョン 7.0 をインストールします。
 1. AEM 6.2 サービスパック 1 をインストールします。
@@ -59,7 +59,7 @@ AEM Forms JEE パッケージ（aemfd-jee-bundles-package-6.2CFP5、バージョ
 >
 >AEM 6.2 CFP4 の後は、次の手順で、アップグレードプロセス中にタイムアウトが原因で問題が発生した場合に DSC 操作のタイムアウトを設定できます。
 
-DSC のデプロイメントには、失敗する可能性があるため、変数の時間がかかります。インストール、読み込み、開始、停止などの DSC 操作のタイムアウトを変更するには、JVM 引数に `adobe.component.registry.timeout` オプションで使用して `-D` を設定する必要があります。
+DSC のデプロイメントには、失敗する可能性があるため、変数の時間がかかります。インストール、読み込み、開始、停止などの DSC 操作のタイムアウトを変更するには、`-D` オプションを使用して JVM 引数で `adobe.component.registry.timeout` を設定する必要があります。
 
 キーの値を秒単位で指定します。例：`-Dadobe.component.registry.timeout=300`
 
