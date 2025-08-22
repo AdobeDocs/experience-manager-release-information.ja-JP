@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 3ebaf5e0257cf289904e5018013086ad0e213e28
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 92%
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 92%
 | メンテナンスリリース [21570](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | 自動更新 | 2025 年 7 月 14～16 日  (PT） | 更新済み |
 | メンテナンスリリース [21706](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | 自動更新 | 2025 年 7 月 28～30 日 （PT） | 更新済み |
 | 機能リリース [2025.7.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2025年8月7日（PT） | アクティベート済み |
-| メンテナンスリリース [21772](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | 自動更新 | 2025年8月11～13日 | 更新済み |
+| メンテナンスリリース [21772](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | 自動更新 | 2025年8月11～13日 | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
@@ -51,12 +51,12 @@ ht-degree: 92%
 
 >[!CAUTION]
 >
->**計画されたメンテナンスの除外期間**
+>**定期メンテナンスの除外期間**
 >
-> AEMaaCS の自動メンテナンスは、次の期間（中央ヨーロッパ時間 00:00 （午前 0 時）に開始および終了）には実行されません。
+> AEMaaCS の自動メンテナンスは、次の期間（中央ヨーロッパ時間 00:00 に開始および終了）には実行されません。
 >
->* 2025 年 11 月 24 日（月）から 2025 年 12 月 2 日（火）
->* 2025 年 12 月 8 日月曜日～2026 年 1 月 2 日金曜日
+>* 2025年11月24日月曜日～2025年12月2日火曜日（PT）。
+>* 2025年12月8日月曜日～2026年1月2日金曜日（PT）。
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
