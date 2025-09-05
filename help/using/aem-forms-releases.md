@@ -3,10 +3,10 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースと対応するパッケージについて説明します。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
-source-wordcount: '3323'
-ht-degree: 100%
+source-git-commit: 39a62f724dc810e593e3a653fe1d724cb2949ec0
+workflow-type: tm+mt
+source-wordcount: '3381'
+ht-degree: 99%
 
 ---
 
@@ -39,6 +39,22 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><strong>ビルドバージョン</strong></td>
    </tr>
   </tr>
+  <tr>
+    <td>2025年9月5日（PT）</td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms サービスパック 1</a></td>
+    <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms サービスパック 1</a></td>
+    <td>
+     <ul>
+     <br><b>AEM Forms 6.5 LTS on OSGi フルインストーラー</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.176.zip">Linux® 用 AEM Forms 6.5 LTS アドオン</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.176.zip">Windows 用 AEM Forms 6.5 LTS アドオン</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.176.zip">macOS X 用 AEM Forms 6.5 LTS アドオン</a></li>
+      <!--<li><a href="">AEM Forms 6.5 LTS Compatibility Package</a></li>-->
+      </ul> 
+      </td>
+    <td><p>AEM Forms 6.5 LTS パッケージアドオン：6.1.176 <br/></p><!--<p>AEM Forms 6.5 LTS Compatibility Package:-->  </td>
+   </tr>
+    <tr>
     <tr>
     <td>2025年6月6日（PT）</td>
     <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms サービスパック 23（AEM 6.5.23.0 用 Forms アドインパッケージ）</a></td>
@@ -733,7 +749,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
+`[1]` Workbench、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 
 `[2]` macOS X 用の AEM [!DNL Forms] アドインパッケージは、実稼動環境ではサポートされていないので、デモ目的でのみ使用してください。PDF Generator 機能は macOS X 用パッケージでは使用できません。
 
