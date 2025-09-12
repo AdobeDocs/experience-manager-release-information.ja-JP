@@ -3,9 +3,9 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースと対応するパッケージについて説明します。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 2bf864f7ac9af12e4875ad871d1a00bc27844cec
+source-git-commit: bef19dd66deed90c57d499308ce4b54343cbe41b
 workflow-type: tm+mt
-source-wordcount: '3401'
+source-wordcount: '3400'
 ht-degree: 95%
 
 ---
@@ -57,7 +57,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         </a>
       </td>
       <td>
-        <b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS on OSGi フルインストーラー</b>
+        <b style="display:block; margin:10px 0;">OSGi インストーラーでのAEM Forms 6.5 LTS</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.176.zip">Linux® 用 AEM Forms 6.5 LTS アドオン</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.176.zip">Windows 用 AEM Forms 6.5 LTS アドオン</a></li>
@@ -287,7 +287,6 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6519"> （AEM Forms on JEE のみ）AEM 6.5 Forms サービスパック 19.1（6.5.19.1）</a></td>
       <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.19.0</a></td>
     <td>
-     <ul>
       <b style="display:block; margin:10px 0;">AEM Forms on JEE パッチインストーラー</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0079/jboss/win/adobe-aem-forms-jee-service-pack-6.5.19.1-windows-jboss.zip">JBoss® Windows</a></li>
@@ -934,7 +933,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
+`[1]` Workbench、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 
 `[2]` macOS X 用の AEM [!DNL Forms] アドインパッケージは、実稼動環境ではサポートされていないので、デモ目的でのみ使用してください。PDF Generator 機能は macOS X 用パッケージでは使用できません。
 
