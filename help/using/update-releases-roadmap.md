@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 51fab06be0453ea781fbf1a8f2e21b6d12eccd40
+source-git-commit: 74027a8580b6f7522a04250cc52aa3009b802072
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '552'
 ht-degree: 99%
 
 ---
@@ -32,16 +32,16 @@ ht-degree: 99%
 | 機能リリース [2025.7.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) | 機能アクティベーション | 2025年8月7日（PT） | アクティベート済み |
 | メンテナンスリリース [21772](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | 自動更新 | 2025年8月11～13日 | 更新済み |
 | メンテナンスリリース [21994](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | 自動更新 | 2025年8月25～27日 | 更新済み |
-| 機能リリース [2025.8.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-8-0) | 機能アクティベーション | 2025年8月28日（PT） | アクティベート済み |
+| 機能リリース [2025.8.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-8-0) | 機能アクティベーション | 2025年8月28日（PT） | アクティベート済み |
 | メンテナンスリリース [22171](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | 自動更新 | 2025年9月8～10日 | 更新済み |
-| メンテナンスリリース [22450](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22450) | 自動更新 | 2025年9月22～24日 | 更新済み |
+| メンテナンスリリース [22450](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22450) | 自動更新 | 2025年9月22～24日 | 更新済み |
 | 機能リリース [2025.9.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2025年9月25日（PT） | アクティベート済み |
+| メンテナンスリリース [22758](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025年10月6～8日 | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [22758](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025年10月6～8日 | ターゲット |
 | メンテナンスリリース | 自動更新 | 2025年10月20～22日（PT） | ターゲット |
 | 機能リリース 2025.10.0 | 機能アクティベーション | 2025年10月30日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2025年11月3～5日（PT） | ターゲット |
@@ -73,6 +73,7 @@ ht-degree: 99%
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 LTS [サービスパック 1](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | サービスパック | 2025年8月28日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 LTS サービスパック 2 | 6.5.LTS.SP2 | サービスパック | 2026年2月19日（PT） | ターゲット |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -80,7 +81,6 @@ ht-degree: 99%
 
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 [サービスパック 20](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | サービスパック | 2024年2月22日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 [サービスパック 21](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | サービスパック | 2024年6月6日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 [サービスパック 22](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | サービスパック | 2024年11月21日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 [サービスパック 23](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.23.0 | サービスパック | 2025年5月22日（PT） | アクティベート済み |
