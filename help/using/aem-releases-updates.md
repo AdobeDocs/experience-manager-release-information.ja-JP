@@ -21,7 +21,7 @@ ht-degree: 85%
 
 [!DNL Experience Manager]as a[!DNL Cloud Service] は通常、新機能の毎月のリリースサイクルを目標としています。
 
-現在／最新のバージョンの詳細については、[ [!DNL Experience Manager] as a [!DNL Cloud Service] の現在のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)を参照してください。ここから、以前のバージョンの詳細（時系列に並べ替えたもの）に移動することもできます。
+現在／最新のバージョンの詳細については、[&#x200B; [!DNL Experience Manager] as a [!DNL Cloud Service] の現在のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)を参照してください。ここから、以前のバージョンの詳細（時系列に並べ替えたもの）に移動することもできます。
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
