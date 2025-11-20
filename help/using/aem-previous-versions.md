@@ -99,4 +99,4 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 ## [!DNL Experience Manager]コミュニティにお問い合わせ {#get-help-from-aem-community}
 
-Experience Manager の使用について質問がある場合は、[ [!DNL Experience Manager]  フォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)で経験豊富なコミュニティエキスパートにお問い合わせいただくことをお勧めします。
+Experience Manager の使用について質問がある場合は、[&#x200B; [!DNL Experience Manager]  フォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)で経験豊富なコミュニティエキスパートにお問い合わせいただくことをお勧めします。
