@@ -3,10 +3,10 @@ title: 以前のドキュメント更新
 description: ' [!DNL Adobe Experience Manager] に関する以前の重要なドキュメントの変更と更新について説明します。'
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 4789d586a9222d7f94283c56b7b71680f68726fe
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 100%
   <tr>
    <td>2019年10月1日（PT）</td> 
    <td>JEE 上の AEM Forms インストール </td> 
-   <td><p>Oracle 18c データベースドライバーの AEM Forms サポートが追加されました。 </p> <p>Platform マトリックス：<a href="https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/ja/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Oracle 18c データベースドライバーの AEM Forms サポートが追加されました。 </p> <p>Platform マトリックス：<a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>2019年10月1日（PT） </td> 
@@ -141,7 +141,7 @@ ht-degree: 100%
   <tr>
    <td>2019年7月12日（PT）</td> 
    <td>Dynamic Media Classic でのファイルのアップロード</td> 
-   <td>Dynamic Media Classic の<a href="https://experienceleague.adobe.com/ja/docs/dynamic-media-classic/using/upload-publish/uploading-files">アップロードオプションを設定ダイアログボックス</a>のトピックが書き直され、更新されました。</td> 
+   <td>Dynamic Media Classic の<a href="https://experienceleague.adobe.com/ja/docs/dynamic-media-classic/using/upload-publish/uploading-files">アップロードジョブのオプションダイアログボックス</a>のトピックが書き直され、更新されました。</td> 
   </tr>
   <tr>
    <td>2019年7月8日（PT）</td> 
@@ -176,7 +176,7 @@ ht-degree: 100%
   <tr>
    <td>2019年5月31日（PT）</td> 
    <td>AEM と Adobe Commerce の統合 </td> 
-   <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">コマース統合フレームワーク</a></td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">コマース統合フレームワーク</a></td> 
   </tr>
   <tr>
    <td>2019年5月24日（PT）</td> 
