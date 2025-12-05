@@ -3,10 +3,10 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースと対応するパッケージについて説明します。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: bef19dd66deed90c57d499308ce4b54343cbe41b
-workflow-type: ht
-source-wordcount: '3400'
-ht-degree: 100%
+source-git-commit: e9f62685514d1fad6d529498e171188c50cbc1ae
+workflow-type: tm+mt
+source-wordcount: '3522'
+ht-degree: 99%
 
 ---
 
@@ -107,6 +107,50 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>前提条件</strong></td>
       <td><strong>入手可能なパッケージ</strong></td>
       <td><strong>ビルドバージョン</strong></td>
+    </tr>
+    <tr>
+      <td>2025年12月4日（PT）</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">
+          AEM 6.5 Forms サービスパック 24（AEM 6.5.24.0 用 Forms アドインパッケージ）
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">
+          AEM 6.5.24.0
+        </a>
+      </td>
+      <td>
+        <b style="display:block; margin:10px 0;">OSGi 上の AEM Forms パッチインストーラー</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1448.zip">Linux® 用 AEM Forms アドインパッケージ</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1448.zip">Windows 用 AEM Forms アドインパッケージ</a></li>
+          <li><a href=" https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1448.zip">macOS X 用 AEM Forms アドインパッケージ [2]</a></li>
+        </ul>
+        <b style="display:block; margin:10px 0;">AEM Forms on JEE パッチインストーラー</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-win-jboss.zip">JBoss® Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-jboss.gz">JBoss®Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-win-weblogic.zip">WebLogic Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-weblogic.gz">WebLogic Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/softwhttps://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-windows-websphere.zip">WebSphere® Windows</a></li>
+          <li><a href=" https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-websphere.gz">WebSphere® Linux®</a>      </li>
+        </ul>
+        <b style="display:block; margin:10px 0;">SDK</b>
+        <ul>
+          <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.1448/">AEM Forms Client SDK</a>       </li>
+        </ul>
+        <b style="display:block; margin:10px 0;">Forms Designer 64 ビットパッチインストーラー</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_English_Cumulative_QF.msp">英語インストーラー</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_French_Cumulative_QF.msp">フランス語インストーラー</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_German_Cumulative_QF.msp">ドイツ語インストーラー</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">日本語インストーラー</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">スペイン語インストーラー</a> </li>
+        </ul>
+      </td>
+      <td>
+        <p>AEM Forms OSGI パッチインストーラー：6.0.1448 <br/><p>AEM Forms JEE パッチインストーラー：6-5-0-0114 <br/><p>AEM Forms 互換性パッケージ：6.0.1448 <br/></p></td>
     </tr>
     <tr>
       <td>2025年6月6日（PT）</td>
@@ -254,9 +298,9 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/ja/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/websphere/win/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-WINDOWS-WEBSPHERE.zip">WebSphere® Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/ja/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/websphere/linux/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-LINUX-WEBSPHERE.tar.gz">WebSphere® Linux®</a>      </li>
         </ul>
-        <b style="display:block; margin:10px 0;">Workbench インストーラー</b>
+        <b style="display:block; margin:10px 0;">ワークベンチインストーラー</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/ja/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20240229-1-12345/workbench_dvd.zip">AEM Forms Workbench インストーラー</a>       </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/ja/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20240229-1-12345/workbench_dvd.zip">AEM Forms ワークベンチインストーラー</a>       </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
@@ -319,9 +363,9 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0078/websphere/win/adobe-aem-forms-jee-service-pack-6.5.19.0-windows-websphere.zip">WebSphere® Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0078/websphere/linux/adobe-aem-forms-jee-service-pack-6.5.19.0-linux-websphere.gz">WebSphere® Linux®</a>      </li>
         </ul>
-        <b style="display:block; margin:10px 0;">Workbench インストーラー</b>
+        <b style="display:block; margin:10px 0;">ワークベンチインストーラー</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20231119-1-12345/Workbench_DVD.zip">AEM Forms Workbench インストーラー</a>       </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20231119-1-12345/Workbench_DVD.zip">AEM Forms ワークベンチインストーラー</a>       </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
@@ -377,9 +421,9 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0069/websphere/win/adobe-aem-forms-jee-service-pack-6.5.18.0-windows-websphere.zip">WebSphere® Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0069/websphere/linux/adobe-aem-forms-jee-service-pack-6.5.18.0-linux-websphere.gz">WebSphere® Linux®</a>      </li>
         </ul>
-        <b style="display:block; margin:10px 0;">Workbench インストーラー</b>
+        <b style="display:block; margin:10px 0;">ワークベンチインストーラー</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20230828-1-12345/Workbench_DVD.zip">AEM Forms Workbench インストーラー</a>       </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20230828-1-12345/Workbench_DVD.zip">AEM Forms ワークベンチインストーラー</a>       </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
@@ -419,9 +463,9 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0065/WebSphere/win/AEMForms-6.5.0-0065_websphere_win.zip">WebSphere® Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0065/WebSphere/linux/AEMForms-6.5.0-0065_websphere_linux.tar.gz">WebSphere® Linux®</a>      </li>
         </ul>
-        <b style="display:block; margin:10px 0;">Workbench インストーラー</b>
+        <b style="display:block; margin:10px 0;">ワークベンチインストーラー</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20230222-1-12345/workbench_DVD.zip">AEM Forms Workbench インストーラー</a>       </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20230222-1-12345/workbench_DVD.zip">AEM Forms ワークベンチインストーラー</a>       </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
@@ -460,9 +504,9 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/webSphere/win/AEMForms-6.5.0-0062_websphere_win.zip">WebSphere® Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/webSphere/Linux/AEMForms-6.5.0-0062_websphere_linux.tar.gz">WebSphere® Linux®</a>      </li>
         </ul>
-        <b style="display:block; margin:10px 0;">Workbench インストーラー</b>
+        <b style="display:block; margin:10px 0;">ワークベンチインストーラー</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20230222-1-12345/workbench_DVD.zip">AEM Forms Workbench インストーラー</a>       </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20230222-1-12345/workbench_DVD.zip">AEM Forms ワークベンチインストーラー</a>       </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
@@ -501,9 +545,9 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0057/WebSphere/win/AEMForms-6.5.0-0057_websphere_win.zip">WebSphere® Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0057/WebSphere/linux/AEMForms-6.5.0-0057_websphere_linux.tar.gz">WebSphere® Linux®</a>      </li>
         </ul>
-        <b style="display:block; margin:10px 0;">Workbench インストーラー</b>
+        <b style="display:block; margin:10px 0;">ワークベンチインストーラー</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20221122-1-12345/Workbench_DVD.zip">AEM Forms Workbench インストーラー</a>       </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20221122-1-12345/Workbench_DVD.zip">AEM Forms ワークベンチインストーラー</a>       </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
@@ -629,7 +673,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-027/Designer6.5.0_German_Cumulative_QF.msp">ドイツ語インストーラー</a> </li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-027/Designer6.5.0_Japanese_Cumulative_QF.msp">日本語インストーラー</a>       </li>
         </ul>
-        <b style="display:block; margin:10px 0;">Forms Workbench</b>
+        <b style="display:block; margin:10px 0;">Forms ワークベンチ</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20220303-3-12345/Workbench_DVD.zip">英語インストーラー</a> </li>
       </ul> </td>
@@ -735,7 +779,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.434.zip">Windows 用 AEM Forms アドインパッケージ</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.434.zip">macOS X 用 AEM Forms アドインパッケージ [2]</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">AEM Forms on JEE 埋め込みパッケージ</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20210524-1-938669/Workbench_DVD.zip">AEM Forms Workbench</a>      </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20210524-1-938669/Workbench_DVD.zip">AEM Forms ワークベンチ</a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;">JEE パッチインストーラー</b>
         <ul>
@@ -752,7 +796,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>AEM Forms Client SDK [1]</li>  
      </ul> </td>
       <td>
-        <p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0028<br /> </p> AEM Forms パッケージアドイン：6.0.434</p> <p>クライアント SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>AEM Forms on JEE 埋め込みパッケージ：5.0.14</p></td>
+        <p>AEM Forms JEE インストーラー：AEMForms-6.5.0-0028<br /> </p> AEM Forms パッケージアドイン：6.0.434</p> <p>クライアント SDK：6.0.434<br /> </p><p>AEM Forms ワークベンチ：6.5.0.20210524.1.938669</p><p>AEM Forms on JEE 埋め込みパッケージ：5.0.14</p></td>
     </tr>
    <tr>
     <td>2021年3月18日（PT）</td>
@@ -853,12 +897,12 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-WIN.zip">Windows 用 AEM Forms アドインパッケージ</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-OSX.zip">macOS X 用 AEM Forms アドインパッケージ [2]</a> </li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms 互換性パッケージ [3]</a></li>
-          <li>AEM Workbench [1]</li>
+          <li>AEM ワークベンチ [1]</li>
           <li>AEM Forms Client SDK [1]</li>
           <li>AEM Forms JEE インストーラー [1]</li>
      </ul> </td>
       <td>
-        <p>AEM Forms JEE インストーラー：6.5.0-0011<br /> </p> <p>AEM Forms 互換性パッケージ：2.0.26<br />AEM Forms パッケージアドイン：6.0.138</p> <p>クライアント SDK：6.0.136<br /> </p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956<br /> </p> </td>
+        <p>AEM Forms JEE インストーラー：6.5.0-0011<br /> </p> <p>AEM Forms 互換性パッケージ：2.0.26<br />AEM Forms パッケージアドイン：6.0.138</p> <p>クライアント SDK：6.0.136<br /> </p> <p>AEM Forms ワークベンチ：6.5.0.20191119.1.935956<br /> </p> </td>
     </tr>
    <tr>
     <td>2019年12月12日（PT）</td>
@@ -870,12 +914,12 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-WIN.zip">Windows 用 AEM Forms アドインパッケージ</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-OSX.zip">macOS X 用 AEM Forms アドインパッケージ [2]</a> </li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li>
-          <li>AEM Workbench [1]</li>
+          <li>AEM ワークベンチ [1]</li>
           <li>AEM Forms Client SDK [1]</li>
           <li>AEM Forms JEE インストーラー [1]</li>
      </ul> </td>
       <td>
-        <p>AEM Forms JEE インストーラー：6.5.0-0007</p> <p>AEM Forms 互換性パッケージ：2.0.26</p> <p>AEM Forms パッケージアドインおよびクライアント SDK：6.0.122</p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956</p> </td>
+        <p>AEM Forms JEE インストーラー：6.5.0-0007</p> <p>AEM Forms 互換性パッケージ：2.0.26</p> <p>AEM Forms パッケージアドインおよびクライアント SDK：6.0.122</p> <p>AEM Forms ワークベンチ：6.5.0.20191119.1.935956</p> </td>
     </tr>
    <tr>
     <td>2019年9月19日（PT）</td>
@@ -887,7 +931,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-WIN.zip">Windows 用 AEM Forms アドインパッケージ</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-OSX.zip">macOS X 用 AEM Forms アドインパッケージ</a> [2] </li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.2.0-COMPAT.zip">AEM Forms 互換性パッケージ</a></li>
-          <li>AEM Workbench <sup>[1]</sup></li>
+          <li>AEM ワークベンチ <sup>[1]</sup></li>
           <li>AEM Forms Client SDK [1]</li>
           <li>AEM Forms JEE インストーラー <sup>[1]</sup></li>
      </ul> </td>
@@ -933,9 +977,9 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
+`[1]` ワークベンチ、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 
-`[2]` macOS X 用の AEM [!DNL Forms] アドインパッケージは、実稼動環境ではサポートされていないので、デモ目的でのみ使用してください。PDF Generator 機能は macOS X 用パッケージでは使用できません。
+`[2]` macOS X 用の AEM [!DNL Forms] アドインパッケージは、本番環境ではサポートされていないので、デモ目的でのみ使用してください。PDF Generator 機能は macOS X 用パッケージでは使用できません。
 
 `[3]` 6.5.4.0 の AEM [!DNL Forms] 互換性パッケージは、6.5.3.0 リリースの場合と同じです。
 
