@@ -3,10 +3,10 @@ title: Experience Manager の最近のドキュメント更新
 description: Experience Manager ドキュメントの最新情報、更新、変更点について説明します。
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 19c14469de7ac389ca49bd321550ecafce5ef618
+workflow-type: tm+mt
 source-wordcount: '1934'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 | 日付 | トピック | 変更点 |
 | --- | --- | --- |
 | 2021年11月25日（PT） | AEM と Dynamic Media の設定 | Dynamic Mediaデスクトップアプリケーションを使用する代わりに、AEMでDynamic Mediaから直接、一般設定と公開設定ができるようになりました。<br>詳しくは、[Dynamic Media の一般設定](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/dynamic/dm-general-settings)および[Image Server 用の Dynamic Media の公開設定](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/dynamic/dm-publish-settings)を参照してください。<br>[Dynamic Media の設定 - Scene7 モード](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/dynamic/config-dms7)も参照してください |
-| 2021年11月4日（PT） | AEM と Dynamic Media — スマート切り抜き | 最新の Adobe Sensei サービスを使用して、画像アセットのスマート切り抜きとスマートスウォッチを改善しました。ドキュメントの更新に含まれるもの：<br>・画像プロファイルの切り抜きオプションダイアログボックスに、新しい「**[!UICONTROL ターゲット解像度間で切り抜きコンテンツを保持]**」オプションが表示されます。<br>• エンタープライズフォームとドキュメントについて、web およびモバイルエクスペリエンスを強化します。この機能により、組織は複雑なデジタルインタラクションを完了し、ユーザーエクスペリエンスを向上させ、ビジネスの範囲を拡大できます。ただし、画像プロファイルの「**[!UICONTROL レスポンシブ画像の切り抜き]**」で幅、高さ、またはその両方を編集した場合、それらのアセットは再処理の対象となります。<br>・スマート切り抜きとカラースウォッチでサポートされる画像ファイル形式の新しいテーブル。<br>詳しくは、[画像プロファイル](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles)を参照してください。 |
+| 2021年11月4日（PT） | AEM と Dynamic Media — スマート切り抜き | 最新のAdobe AI サービスを使用して、画像アセットのスマート切り抜きとスマートスウォッチを改善しました。 ドキュメントの更新に含まれるもの：<br>・画像プロファイルの切り抜きオプションダイアログボックスに、新しい「**[!UICONTROL ターゲット解像度間で切り抜きコンテンツを保持]**」オプションが表示されます。<br>• エンタープライズフォームとドキュメントについて、web およびモバイルエクスペリエンスを強化します。この機能により、組織は複雑なデジタルインタラクションを完了し、ユーザーエクスペリエンスを向上させ、ビジネスの範囲を拡大できます。ただし、画像プロファイルの「**[!UICONTROL レスポンシブ画像の切り抜き]**」で幅、高さ、またはその両方を編集した場合、それらのアセットは再処理の対象となります。<br>・スマート切り抜きとカラースウォッチでサポートされる画像ファイル形式の新しいテーブル。<br>これらのアップデートについて詳しくは、[画像プロファイル](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles)を参照してください。 |
 | 2021年11月3日（PT） | Smart Crop Video Viewer API | Dynamic Media ビューアリファレンスガイドで、新しい[スマート切り抜きビデオビューアー API ドキュメントを利用できるようになりました](https://experienceleague.adobe.com/ja/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference)。 |
 | 2020年12月2日（PT） | `Batch Set Presets` | Dynamic Media のバッチセットプリセットを使用して画像セットとスピンセットの作成を自動化する方法を説明します。詳しくは、[バッチセットプリセット](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/dynamicmedia/batch-set-presets-dm)を参照してください。 |
 | 2020年12月2日（PT） | Dynamic Media のアクセシビリティ  | Dynamic Media と Dynamic Media ビューアでは、オーサリングユーザーインターフェイス全体でキーボードコントロールおよび支援テクノロジー（JAWS スクリーンリーダーや NVDA スクリーンリーダーなど）をサポートしています。詳しくは、[Dynamic Media のアクセシビリティ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/dynamicmedia/accessibility-dm)を参照してください。 |
