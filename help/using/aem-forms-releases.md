@@ -3,7 +3,7 @@ title: AEM Forms リリース
 description: すべての AEM Forms リリースと対応するパッケージについて説明します。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 6a222f920c79c624b9c70cbf95e89c0a6d43f8a4
+source-git-commit: 41b9970bbde35a85f6de1e558eb9531f7f1b4816
 workflow-type: tm+mt
 source-wordcount: '3577'
 ht-degree: 98%
@@ -132,7 +132,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>ビルドバージョン</strong></td>
     </tr>
     <tr>
-      <td>2025年1月28日（PT）</td>
+      <td>2026年1月28日（PT）</td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">
           AEM 6.5 Forms サービスパック 24（AEM 6.5.24.0 用 Forms アドインパッケージ）
@@ -1001,7 +1001,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` ワークベンチ、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
+`[1]` ワークベンチ、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 
 `[2]` macOS X 用の AEM [!DNL Forms] アドインパッケージは、本番環境ではサポートされていないので、デモ目的でのみ使用してください。PDF Generator 機能は macOS X 用パッケージでは使用できません。
 
