@@ -68,7 +68,7 @@ ht-degree: 67%
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 LTS [サービスパック 1](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | サービスパック | 2025年8月28日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 LTS [ サービスパック 2](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | サービスパック | 2026年2月19日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 LTS [&#x200B; サービスパック 2](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | サービスパック | 2026年2月19日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 LTS サービスパック 3 | 6.5.LTS.SP3 | サービスパック | 2026 年 8 月 20 日（Pt） | ターゲット |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
