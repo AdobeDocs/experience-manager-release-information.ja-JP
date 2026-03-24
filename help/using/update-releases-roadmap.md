@@ -35,19 +35,19 @@ ht-degree: 57%
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | 自動更新 | 2025年10月6～8日 | 更新済み |
-| メンテナンスリリース [22943](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | 自動更新 | 2025年10月20～22日（PT） | 更新済み |
-| 機能リリース [2025.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | 機能アクティベーション | 2025年10月30日（PT） | アクティベート済み |
-| メンテナンスリリース [23385](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-11-0#23385) | 自動更新 | 2025年11月17～19日（PT） | 更新済み |
-| 機能リリース [2025.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-11-0) | 機能アクティベーション | 2025年11月20日（PT） | アクティベート済み |
-| メンテナンスリリース [23482](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | 自動更新 | 2025年12月8～10日（PT） | 更新済み |
-| 機能リリース [2025.12.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-12-0) | 機能アクティベーション | 2025年12月11日（PT） | アクティベート済み |
-| メンテナンスリリース [23963](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-1-0#23963) | 自動更新 | 2026年1月26～28日（PT） | 更新済み |
-| 機能リリース [2026.1.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) | 機能アクティベーション | 2026年1月29日（PT） | アクティベート済み |
-| メンテナンスリリース [24288](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) | 自動更新 | 2026年2月9日～11日 | 更新済み |
+| メンテナンスリリース [22758](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | 自動更新 | 2025年10月6～8日 | 更新済み |
+| メンテナンスリリース [22943](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | 自動更新 | 2025年10月20～22日（PT） | 更新済み |
+| 機能リリース [2025.10.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | 機能アクティベーション | 2025年10月30日（PT） | アクティベート済み |
+| メンテナンスリリース [23385](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-11-0#23385) | 自動更新 | 2025年11月17～19日（PT） | 更新済み |
+| 機能リリース [2025.11.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-11-0) | 機能アクティベーション | 2025年11月20日（PT） | アクティベート済み |
+| メンテナンスリリース [23482](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | 自動更新 | 2025年12月8～10日（PT） | 更新済み |
+| 機能リリース [2025.12.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-12-0) | 機能アクティベーション | 2025年12月11日（PT） | アクティベート済み |
+| メンテナンスリリース [23963](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-1-0#23963) | 自動更新 | 2026年1月26～28日（PT） | 更新済み |
+| 機能リリース [2026.1.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) | 機能アクティベーション | 2026年1月29日（PT） | アクティベート済み |
+| メンテナンスリリース [24288](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) | 自動更新 | 2026年2月9日～11日 | 更新済み |
 | メンテナンスリリース [24464](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年2月23～25日 | 更新済み |
 | 機能リリース [2026.2.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2026年3月3日（PT） | アクティベート済み |
-| メンテナンスリリース [24678](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) | 自動更新 | 2026年3月9日～11日 | 更新済み |
+| メンテナンスリリース [24678](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) | 自動更新 | 2026年3月9日～11日 | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
@@ -86,7 +86,7 @@ ht-degree: 57%
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [サービスパック 21](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | サービスパック | 2024年6月6日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 [サービスパック 22](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | サービスパック | 2024年11月21日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 [サービスパック 23](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | サービスパック | 2025年5月22日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 [サービスパック 23](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | サービスパック | 2025年5月22日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 [サービスパック 24](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.24.0 | サービスパック | 2025年11月26日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 サービスパック 25 | 6.5.25.0 | サービスパック | 2026年5月21日（PT） | ターゲット |
 | [!DNL Experience Manager] 6.5 サービスパック 26 | 6.5.26.0 | サービスパック | 2026年11月19日（PT） | ターゲット |
