@@ -29,7 +29,7 @@ ht-degree: 56%
 >
 >お客様の環境を現在のバージョンに移行する計画を調整するには、Adobeの技術担当者（CSME、TAM）にお問い合わせください。 現在のリリースから&#x200B;**6か月以上経過している**&#x200B;以前のバージョンでは、Adobeのサポートを利用して段階的に計画された更新が必要です。
 >
->2026年4月30日（PT）までに何もアクションを実行しない場合、デプロイメントパイプラインが非アクティブ化され、他のAEMaaCS機能に影響が及ぶ可能性があります。 ****&#x200B;サポートされていないバージョンで操作を続けると、アプリケーションの安定性とアップタイムに悪影響を及ぼし、セキュリティの露出がさらに増加する可能性があります。
+>2026年4月30日（PT）までに何もアクションを実行しない場合、デプロイメントパイプラインが非アクティブ化され、他のAEMaaCS機能に影響が及ぶ可能性があります。 **&#x200B;**&#x200B;サポートされていないバージョンで操作を続けると、アプリケーションの安定性とアップタイムに悪影響を及ぼし、セキュリティの露出がさらに増加する可能性があります。
 
 ### 過去の [!DNL Cloud Service] リリース {#past}
 
@@ -75,7 +75,7 @@ ht-degree: 56%
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 LTS [サービスパック 1](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | サービスパック | 2025年8月28日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 LTS [ サービスパック 2](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | サービスパック | 2026年2月19日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 LTS [&#x200B; サービスパック 2](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | サービスパック | 2026年2月19日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 LTS サービスパック 3 | 6.5.LTS.SP3 | サービスパック | 2026年8月20日（PT） | ターゲット |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
