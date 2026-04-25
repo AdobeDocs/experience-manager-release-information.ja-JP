@@ -49,7 +49,7 @@ ht-degree: 55%
 | 機能リリース [2026.2.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-2-0) | 機能アクティベーション | 2026年3月3日（PT） | アクティベート済み |
 | メンテナンスリリース [24678](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) | 自動更新 | 2026年3月9日～11日 | 更新済み |
 | 機能リリース [2026.3.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2026年3月26日（PT） | アクティベート済み |
-| メンテナンスリリース [25194](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | 自動更新 | 2026年4月6日～8日 | 更新済み |
+| メンテナンスリリース [25194](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | 自動更新 | 2026年4月6日～8日 | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
