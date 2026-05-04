@@ -11,9 +11,9 @@ feature: Release Information
 role: Leader, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: bbca238b99f4c72d65418f224103c37d417793d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
