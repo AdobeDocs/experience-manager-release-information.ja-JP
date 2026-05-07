@@ -2,8 +2,8 @@
 title: Adobe Experience Manager リリースのアップデートとロードマップ
 description: Adobe Experience Manager リリースのアップデートとロードマップについて説明します。
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 4390791c7698fb476af4d7f74e6e919875031608
-workflow-type: ht
+source-git-commit: ff508bf61f024474b6c15d836686ff6dbe7587e4
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 
@@ -21,4 +21,3 @@ ht-degree: 100%
 
 * [[!DNL Experience Manager] Forms リリース](aem-forms-releases.md)
 * [ [!DNL Experience Manager] Forms JEE への累積修正パックのインストール](install-cfp-aem-forms-jee.md)
-
