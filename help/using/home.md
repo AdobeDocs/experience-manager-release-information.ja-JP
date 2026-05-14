@@ -3,7 +3,7 @@ title: Adobe Experience Manager リリースのアップデートとロードマ
 description: Adobe Experience Manager リリースのアップデートとロードマップについて説明します。
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: ff508bf61f024474b6c15d836686ff6dbe7587e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
