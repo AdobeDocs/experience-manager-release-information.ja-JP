@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4d0e82424426fcace2ad20d1840873c24d3a044f
-workflow-type: ht
-source-wordcount: '1192'
-ht-degree: 100%
+source-git-commit: d70535a5e9fd8ee9766c2876796028169a9bef4b
+workflow-type: tm+mt
+source-wordcount: '1225'
+ht-degree: 97%
 
 ---
 
@@ -51,12 +51,12 @@ ht-degree: 100%
 | メンテナンスリリース [25194](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | 自動更新 | 2026年4月6～8日（PT） | 更新済み |
 | メンテナンスリリース [25520](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | 自動更新 | 2026年4月27～29日（PT） | 更新済み |
 | 機能リリース [2026.4.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2026年4月30日（PT） | アクティベート済み |
+| メンテナンスリリース [25892](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年5月11～13日（PT） | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [25892](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年5月11～13日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2026年5月25～27日（PT） | ターゲット |
 | 機能リリース 2026.5.0 | 機能アクティベーション | 2026年5月28日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2026年6月8～10日（PT） | ターゲット |
@@ -98,6 +98,7 @@ ht-degree: 100%
 >  各サービスパックは、リリースから2027年2月28日（PT）まで、最大18か月間サポートされます。
 >* **Adobe Managed Service** のお客様に対する AEM 6.5 サポートは、2026年8月31日（PT）までに終了します。
 >* **オンプレミス**&#x200B;のお客様に対する AEM 6.5 コアサポートは、現在2027年2月までに終了する予定です。
+>* AEM 6.5のサポートは、AEM 6.5 LTSを通じて継続されます。 [AEM 6.5 LTSのよくある質問](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq)をご覧ください。
 
 >[!NOTE]
 >
