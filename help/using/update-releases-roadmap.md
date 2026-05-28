@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: a50786396c52e227b38fa8271f07b947fece14fa
+source-git-commit: c9604b742f3e4334a31fea0aa6ce71d36c4ea6cd
 workflow-type: tm+mt
 source-wordcount: '1206'
 ht-degree: 89%
@@ -20,7 +20,7 @@ ht-degree: 89%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager]は[!DNL Cloud Service]として[月間機能アクティベーション &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)を通じて新機能が配信され、機能強化とバグ修正は[&#x200B; メンテナンスリリース &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)を通じて月に2回配信されます。
+[!DNL Experience Manager]は[!DNL Cloud Service]として[月間機能アクティベーション ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)を通じて新機能が配信され、機能強化とバグ修正は[ メンテナンスリリース ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)を通じて月に2回配信されます。
 [!DNL Experience Manager]の[!DNL Cloud Service]としての今後のリリースは、次のように計画されています。
 
 >[!IMPORTANT]
@@ -51,7 +51,7 @@ ht-degree: 89%
 | 機能リリース [2026.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-4-0) | 機能アクティベーション | 2026年4月30日（PT） | アクティベート済み |
 | メンテナンスリリース [25892](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | 自動更新 | 2026年5月11～13日（PT） | 更新済み |
 | メンテナンスリリース [26309](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年5月25～27日（PT） | 更新済み |
-| 機能リリース [2026.5.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)） | 機能アクティベーション | 2026年5月28日（PT） | アクティベート済み |
+| 機能リリース [2026.5.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2026年5月28日（PT） | アクティベート済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
@@ -99,7 +99,7 @@ ht-degree: 89%
 >  各サービスパックは、リリースから2027年2月28日（PT）まで、最大18か月間サポートされます。
 >* **Adobe Managed Service** のお客様に対する AEM 6.5 サポートは、2026年8月31日（PT）までに終了します。
 >* **オンプレミス**&#x200B;のお客様に対する AEM 6.5 コアサポートは、現在2027年2月までに終了する予定です。
->* AEM 6.5のサポートは、AEM 6.5 LTSを通じて継続されます。 [AEM 6.5 LTSのよくある質問](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/faq)をご覧ください。
+>* AEM 6.5のサポートは、AEM 6.5 LTSを通じて継続されます。 [AEM 6.5 LTSのよくある質問](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq)をご覧ください。
 
 >[!NOTE]
 >
