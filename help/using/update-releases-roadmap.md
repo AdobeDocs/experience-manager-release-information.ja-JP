@@ -20,7 +20,7 @@ ht-degree: 89%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager]は[!DNL Cloud Service]として[月間機能アクティベーション ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)を通じて新機能が配信され、機能強化とバグ修正は[ メンテナンスリリース ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)を通じて月に2回配信されます。
+[!DNL Experience Manager]は[!DNL Cloud Service]として[月間機能アクティベーション &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)を通じて新機能が配信され、機能強化とバグ修正は[&#x200B; メンテナンスリリース &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)を通じて月に2回配信されます。
 [!DNL Experience Manager]の[!DNL Cloud Service]としての今後のリリースは、次のように計画されています。
 
 >[!IMPORTANT]
