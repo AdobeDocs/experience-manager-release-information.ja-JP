@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7257f70fb56aa4848bcf3239ad9a96204ee7d79e
+source-git-commit: c3c283bccc7c4569fa7143a8f08b3592c4940ff5
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 88%
+source-wordcount: '1235'
+ht-degree: 75%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 88%
 
 >[!IMPORTANT]
 >
->古いバージョンを使用しているお客様の場合：AEM 環境および関連インスタンスのセキュリティと安定性を確保するために、お使いのプログラムを最新の [!DNL Experience Manager] as a [!DNL Cloud Service] リリースに更新する必要があります。
+>古いバージョンを使用しているお客様の場合：AEM環境と関連インスタンスのセキュリティと安定性を確保するために、プログラムを[!DNL Cloud Service] リリースとして最新の[!DNL Experience Manager]に更新する必要があります。
 >
->お使いの環境を最新バージョンに移行する計画を調整するには、アドビの技術担当者（CSME、TAM）にお問い合わせください。 最新リリースから **6 か月以上**&#x200B;前の古いバージョンについては、アドビのサポートを利用して、段階的に計画された更新を行う必要があります。
+>お客様の環境を現在のバージョンに移行する計画を調整するには、Adobeの技術担当者（CSME、TAM）にお問い合わせください。 現在のリリースから&#x200B;**6か月以上経過した** バージョンでは、Adobeのサポートを利用して段階的に計画された更新が必要です。
 >
->**2026年4月30日（PT）**&#x200B;までに何もアクションを実行しない場合、デプロイメントパイプラインが非アクティブ化され、他の AEMaaCS 機能に影響を与える場合があります。 サポートされていないバージョンで操作を続行すると、アプリケーションの安定性や稼動時間に悪影響を与え、セキュリティの露出がさらに増加する場合があります。
+>2026年4月30日（PT）までに何もアクションを実行しない場合、デプロイメントパイプラインをディアクティベートでき、他のAEMaaCS機能に影響を与える可能性があります。 **&#x200B;**&#x200B;サポートされていないバージョンで操作を続けると、アプリケーションの安定性とアップタイムに悪影響を及ぼす可能性があり、セキュリティの露出がさらに増加する可能性があります。
 
 ### 過去の [!DNL Cloud Service] リリース {#past}
 
@@ -66,7 +66,7 @@ ht-degree: 88%
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
-サポートされている [!DNL Experience Manager]（オンプレミス版および Managed Services）の新機能、機能強化、バグ修正に関する製品アップデートが、サービスパックや累積修正パック（CFP）を通じて提供されます。 頻繁なリリースにより、製品アップデートの迅速な導入が可能になります。 今後の製品アップデートリリースのスケジュールは以下のとおりです。
+サポートされている [!DNL Experience Manager]（オンプレミス版および Managed Services）の新機能、機能強化、バグ修正に関する製品アップデートが、サービスパックや累積修正パック（CFP）を通じて提供されます。 このアプローチにより、頻繁なリリースを通じて製品アップデートをより迅速に導入することができます。 今後の製品アップデートリリースのスケジュールは次のとおりです。
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
@@ -85,10 +85,10 @@ ht-degree: 88%
 | リリース | バージョン | タイプ | スケジュール | ステータス |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [サービスパック 21](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | サービスパック | 2024年6月6日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 [サービスパック 22](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | サービスパック | 2024年11月21日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 [サービスパック 22](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | サービスパック | 2024年11月21日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 [サービスパック 23](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | サービスパック | 2025年5月22日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 [サービスパック 24](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.24.0 | サービスパック | 2025年11月26日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 サービスパック 25 | 6.5.25.0 | サービスパック | 2026年5月21日（PT） | ターゲット |
+| [!DNL Experience Manager] 6.5 [サービスパック 24](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6.5.24) | 6.5.24.0 | サービスパック | 2025年11月26日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 [&#x200B; サービスパック 25](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | サービスパック | 2026年5月21日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 サービスパック 26 | 6.5.26.0 | サービスパック | 2026年11月19日（PT） | ターゲット |
 
 >[!NOTE]
@@ -99,7 +99,7 @@ ht-degree: 88%
 >  各サービスパックは、リリースから2027年2月28日（PT）まで、最大18か月間サポートされます。
 >* **Adobe Managed Service** のお客様に対する AEM 6.5 サポートは、2026年8月31日（PT）までに終了します。
 >* **オンプレミス**&#x200B;のお客様に対する AEM 6.5 コアサポートは、現在2027年2月までに終了する予定です。
->* AEM 6.5のサポートは、AEM 6.5 LTSを通じて継続されます。 [AEM 6.5 LTSのよくある質問](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/faq)をご覧ください。
+>* AEM 6.5のサポートは、AEM 6.5 LTSを通じて継続されます。 [AEM 6.5 LTSのよくある質問](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/faq)を参照してください。
 
 >[!NOTE]
 >
