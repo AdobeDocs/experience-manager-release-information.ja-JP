@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 89520017766392e9e72e7bf3053f213ba26ba98b
+source-git-commit: beb8cec5fe4b3e7514afd1aea1f7aebcd03dbbfb
 workflow-type: tm+mt
-source-wordcount: '1215'
-ht-degree: 72%
+source-wordcount: '1279'
+ht-degree: 70%
 
 ---
 
@@ -41,22 +41,29 @@ ht-degree: 72%
 | メンテナンスリリース [24678](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) | 自動更新 | 2026年3月9～11日（PT） | 更新済み |
 | 機能リリース [2026.3.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-3-0) | 機能アクティベーション | 2026年3月26日（PT） | アクティベート済み |
 | メンテナンスリリース [25194](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | 自動更新 | 2026年4月6～8日（PT） | 更新済み |
-| メンテナンスリリース [25520](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | 自動更新 | 2026年4月27～29日（PT） | 更新済み |
+| メンテナンスリリース [25520](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | 自動更新 | 2026年4月27日・29日 | 更新済み |
 | 機能リリース [2026.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-4-0) | 機能アクティベーション | 2026年4月30日（PT） | アクティベート済み |
 | メンテナンスリリース [25892](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | 自動更新 | 2026年5月11～13日（PT） | 更新済み |
-| メンテナンスリリース [26309](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | 自動更新 | 2026年5月25～27日（PT） | 更新済み |
+| メンテナンスリリース [26309](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | 自動更新 | 2026年5月25-27日（PT） | 更新済み |
 | 機能リリース [2026.5.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-5-0) | 機能アクティベーション | 2026年5月28日（PT） | アクティベート済み |
 | メンテナンスリリース [26353](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | 自動更新 | 2026年6月8～10日（PT） | 更新済み |
-| メンテナンスリリース [26773](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | 自動更新 | 2026年6月22～24日（PT） | 更新済み |
+| メンテナンスリリース [26773](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | 自動更新 | 2026年6月22-24日（PT） | 更新済み |
 | 機能リリース [2026.6.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2026年6月25日（PT） | アクティベート済み |
+| メンテナンスリリース [26908](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年7月6日～8日 | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [26908](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年7月6日～8日 | ターゲット |
 | メンテナンスリリース | 自動更新 | 2026年7月20日～22日 | Target |
 | 機能リリース 2026.7.0 | 機能アクティベーション | 2026年7月30日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2026年8月3～5日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2026年8月17日～19日 | ターゲット |
+| 機能リリース 2026.8.0 | 機能アクティベーション | 2026年8月27日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2026年8月31日～9月2日 | ターゲット |
+| メンテナンスリリース | 自動更新 | 2026年9月14-16日（PT） | ターゲット |
+| 機能リリース 2026.9.0 | 機能アクティベーション | 2026年9月24日（PT） | ターゲット |
+| メンテナンスリリース | 自動更新 | 2026年9月28日・30日 | ターゲット |
 
 ## [!DNL Experience Manager] オンプレミスおよび Managed Services {#aem-on-prem-managed-services}
 
