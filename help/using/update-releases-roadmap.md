@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] リリースロードマップ'
 description: '[!DNL Adobe Experience Manager] リリースロードマップ'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5aaa2a857065a1ec24c8f8996a2a474184bcd436
+source-git-commit: 1039b2dd92f3219f9cd2d45f6ec09f458bee2c96
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1112'
 ht-degree: 54%
 
 ---
@@ -26,9 +26,9 @@ ht-degree: 54%
 >
 >古いバージョンを使用しているお客様の場合：AEM環境と関連インスタンスのセキュリティと安定性を確保するために、プログラムを[!DNL Cloud Service] リリースとして最新の[!DNL Experience Manager]に更新する必要があります。
 >
->お客様の環境を現在のバージョンに移行する計画を調整するには、Adobeの技術担当者（CSME、TAM）にお問い合わせください。 現在のリリースから&#x200B;**6か月以上経過した** バージョンでは、Adobeのサポートを利用して段階的に計画された更新が必要です。
+>現在のバージョンにアップデートする計画を調整するには、Adobeの技術担当者（CSME、TAM）にお問い合わせください。 現在のリリースより&#x200B;**6か月**&#x200B;以上古いバージョンは、Adobeのサポートによりスケジュールされた更新が必要です。
 >
->2026年4月30日（PT）までに何もアクションを実行しない場合、デプロイメントパイプラインをディアクティベートでき、他のAEMaaCS機能に影響を与える可能性があります。 **&#x200B;**&#x200B;サポートされていないバージョンで操作を続けると、アプリケーションの安定性とアップタイムに悪影響を及ぼす可能性があり、セキュリティの露出がさらに増加する可能性があります。
+>2026年4月30日（PT）までに何も操作を行わない場合は、Adobeでデプロイメントパイプラインを非アクティブ化し、他のAEMaaCS機能に影響を与える可能性があります。 **&#x200B;**&#x200B;サポートされていないバージョンで操作を続けると、アプリケーションの安定性とアップタイムに悪影響を及ぼす可能性があり、セキュリティの露出がさらに増加する可能性があります。
 
 ### 過去の [!DNL Cloud Service] リリース {#past}
 
@@ -68,7 +68,7 @@ ht-degree: 54%
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 LTS [サービスパック 1](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | サービスパック | 2025年8月28日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 LTS [サービスパック 2](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | サービスパック | 2026年2月19日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 LTS サービスパック 3 | 6.5.LTS.SP3 | サービスパック | 2026年8月20日（PT） | ターゲット |
+| [!DNL Experience Manager] 6.5 LTS [&#x200B; サービスパック 3](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP3 | サービスパック | 2026年8月20日（PT） | アクティベート済み |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -90,7 +90,7 @@ ht-degree: 54%
 > * **Adobe Managed Services**&#x200B;のお客様：2026年8月31日までに終了します。
 > * **Prem**&#x200B;のお客様：現在、コアサポートは2027年2月までに終了する予定です。
 > 
->両方のパスは、AEM 6.5 LTSでカバーされています。 詳しくは、[AEM 6.5 LTSのよくある質問](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/faq)を参照してください。
+>AEM 6.5 LTSは、両方のパスをカバーします。 詳しくは、[AEM 6.5 LTSのよくある質問](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/faq)を参照してください。
 
 >[!NOTE]
 >
