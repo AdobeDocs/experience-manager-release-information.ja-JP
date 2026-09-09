@@ -4,9 +4,9 @@ description: すべての AEM Forms リリースと対応するパッケージ�
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: abfe88b2d9d499ca10e26a198d99c52f8724ccd1
-workflow-type: tm+mt
-source-wordcount: '16071'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '16241'
+ht-degree: 100%
 
 ---
 
@@ -41,14 +41,14 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>日付</strong></td>
       <td><strong>AEM 6.5 LTS Forms リリース</strong></td>
       <td><strong>前提条件</strong></td>
-      <td><strong>利用可能なパッケージ</strong></td>
+      <td><strong>使用可能なパッケージ</strong></td>
       <td><strong>ビルドバージョン</strong></td>
     </tr>
     <tr>
       <td>2026年6月18日（PT）</td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms サービスパック 2
+         AEM 6.5  AEM 6.5 LTS Forms サービスパック 2
         </a>
       </td>
       <td>
@@ -57,16 +57,16 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         </a>
       </td>
       <td>
-        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 2 WLP （IBM WebSphere Liberty Profile）インストーラー</strong>
+        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS サービスパック 2 WLP（IBM WebSphere Liberty プロファイル）インストーラー</strong>
         <ul>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_win.zip">
-              WLP （IBM WebSphere Liberty Profile） AEM Forms 6.5 LTS Service Pack 2 インストーラー（Microsoft Windows版）
+              WLP（IBM WebSphere Liberty プロファイル）AEM Forms 6.5 LTS サービスパック 2 インストーラー Microsoft Windows 版
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
-              WLP （IBM WebSphere Liberty Profile） AEM Forms 6.5 LTS Service Pack 2 インストーラー（Linux版）
+              WLP（IBM WebSphere Liberty プロファイル）AEM Forms 6.5 LTS サービスパック 2 インストーラー Linux 版
             </a>
           </li>
         </ul>
@@ -126,13 +126,13 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>2025年9月5日（PT）</td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms サービスパック 1
-        </a>
+          AEM 6.5 LTS Forms サービスパック 1
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms サービスパック 1
-        </a>
+          AEM 6.5 LTS Forms サービスパック 1
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS on OSGi インストーラー</b>
@@ -150,13 +150,13 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>2025年3月7日（PT）</td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
-        </a>
+          AEM 6.5 LTS Forms
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
-        </a>
+          AEM 6.5 LTS Forms
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS on OSGi フルインストーラー</b>
@@ -194,7 +194,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>2026年6月10日（PT）</td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5 Forms サービスパック 25 AEM 6.5.25.0用Forms アドインパッケージ
+          AEM 6.5 Forms サービスパック 25（AEM 6.5.25.0 用 Forms アドインパッケージ）
         </a>
       </td>
       <td>
@@ -225,27 +225,27 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         </ul>
         <b style="display:block; margin:10px 0;">Forms Designer 64 ビットパッチインストーラー</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_English_Cumulative_QF.msp">英語インストーラー</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_English_Cumulative_QF.msp">英語版インストーラー</a> </li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_French_Cumulative_QF.msp">フランス語版インストーラー</a> </li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_German_Cumulative_QF.msp">ドイツ語版インストーラー</a> </li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">日本語版インストーラー</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_German_Cumulative_QF.msp">ドイツ語インストーラー</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">日本語インストーラー</a> </li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">スペイン語版インストーラー</a> </li>
         </ul>
       </td>
       <td>
-        <p>AEM Forms OSGI パッチインストーラー：6.0.1482<br/><p>AEM Forms JEE パッチインストーラー：6-5-0-127 <br/></p></td>
+        <p>AEM Forms OSGi パッチインストーラー：6.0.1482<br/><p>AEM Forms JEE パッチインストーラー：6-5-0-127 <br/></p></td>
     </tr>
     <tr>
       <td>2026年1月28日（PT）</td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5 Forms サービスパック 24（AEM 6.5.24.0 用 Forms アドインパッケージ）
-        </a>
+          AEM 6.5 Forms サービスパック 24（AEM 6.5.24.0 用 Forms アドインパッケージ）
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5.24.0
-        </a>
+          AEM 6.5.24.0
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">AEM Forms on OSGi パッチインストーラー</b>
@@ -284,13 +284,13 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>2025年6月6日（PT）</td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5 Forms サービスパック 23（AEM 6.5.23.0 用 Forms アドインパッケージ）
-        </a>
+          AEM 6.5 Forms サービスパック 23（AEM 6.5.23.0 用 Forms アドインパッケージ）
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5.23.0
-        </a>
+          AEM 6.5.23.0
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">OSGi 上の AEM Forms パッチインストーラー</b>
