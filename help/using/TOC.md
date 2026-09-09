@@ -2,8 +2,7 @@
 cloud: Experience Cloud
 product: experience manager
 solution: Experience Manager
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 usetq: true
 audience: end-user
 user-guide-title: Adobe Experience Manager リリースのアップデートとロードマップ
@@ -14,7 +13,7 @@ feature: Release Information
 role: Leader, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: f64130f85d9a259c30ed679d067f43944c07c790
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 63
 ht-degree: 100%
 
@@ -28,7 +27,7 @@ ht-degree: 100%
 + [AEM リリースのロードマップ](update-releases-roadmap.md)
 + [AEM アップデートリリースの提供に関する定義](update-release-vehicle-definitions.md)
 + 以前のリリースアップデート {#previous-updates}
-   + [AEM、CQ、CRX の以前のバージョン](aem-previous-versions.md)
+  + [AEM、CQ、CRX の以前のバージョン](aem-previous-versions.md)
 + AEM Forms リリースアップデート {#forms-updates}
-   + [AEM Forms リリース](aem-forms-releases.md)
-   + [累積修正パックの AEM Forms JEE へのインストール](install-cfp-aem-forms-jee.md)
+  + [AEM Forms リリース](aem-forms-releases.md)
+  + [累積修正パックの AEM Forms JEE へのインストール](install-cfp-aem-forms-jee.md)
