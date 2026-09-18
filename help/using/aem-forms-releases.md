@@ -7,8 +7,8 @@
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/implementing/deploying/deploying/deploy</target>
 </trans-unit>
 <trans-unit id="tu14" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support</source>
-<target xml:lang="en-XX">https://experienceleague.adobe.com/ja/home?support-solution=General&amp;lang=ja&amp;support-tab=home#support</target>
+<source xml:lang="en-US">https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support</source>
+<target xml:lang="en-XX">https://experienceleague.adobe.com/ja/home?support-solution=General&lang=ja&support-tab=home#support</target>
 </trans-unit>
 <trans-unit id="tu1" restype="x-YAML_METADATA_HEADER_VALUE" xml:space="preserve">
 <source xml:lang="en-US">AEM Forms releases</source>
@@ -27,12 +27,12 @@
 <target xml:lang="en-XX">Adobe Experience Manager <ph id="1" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> は AEM にデプロイされたアプリケーションです。 エンタープライズフォームとドキュメントについて、web およびモバイルエクスペリエンスを強化します。 この機能により、組織は複雑なデジタルインタラクションを完了し、ユーザーエクスペリエンスを向上させ、ビジネスの範囲を拡大できます。 AEM <ph id="2" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> は、標準で AEM クイックスタートに含まれていますが、機能が限定されています。 AEM <ph id="3" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> アドインパッケージには、<ph id="4" ctype="x-regxph" equiv-text="[!DNL Adobe Analytics]">[!DNL Adobe Analytics]</ph> との統合、<ph id="5" ctype="x-regxph" equiv-text="[!DNL Adobe Sign]">[!DNL Adobe Sign]</ph>、ドキュメントサービス、ワークフローエンジンなどの高度な機能が用意されています。</target>
 </trans-unit>
 <trans-unit id="tu5" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></target>
 </trans-unit>
 <trans-unit id="tu6" xml:space="preserve">
-<source xml:lang="en-US">The Adaptive Forms feature, available in <ph id="1" ctype="x-LINK">[</ph>AEM 6.5 QuickStart<ph id="2" ctype="x-LINK">[#$tu7]</ph>, is designed for exploration and evaluation purposes only. For production use, it is essential to obtain a valid license for AEM Forms, as Adaptive Forms functionality requires proper licensing.</source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-LINK">[</ph>AEM 6.5 クイックスタート<ph id="2" ctype="x-LINK">[#$tu7]</ph>で使用できるアダプティブフォーム機能は、探索と評価のみを目的として設計されています。 アダプティブフォームの機能には適切なライセンスが必要なので、実稼動環境で使用する場合は、AEM Forms の有効なライセンスを取得することが不可欠です。</target>
+<source xml:lang="en-US">The Adaptive Forms feature, available in <ph id="1" ctype="x-LINK">&lbrack;</ph>AEM 6.5 QuickStart<ph id="2" ctype="x-LINK">[#$tu7]</ph>, is designed for exploration and evaluation purposes only. For production use, it is essential to obtain a valid license for AEM Forms, as Adaptive Forms functionality requires proper licensing.</source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-LINK">&lbrack;</ph>AEM 6.5 クイックスタート<ph id="2" ctype="x-LINK">[#$tu7]</ph>で使用できるアダプティブフォーム機能は、探索と評価のみを目的として設計されています。 アダプティブフォームの機能には適切なライセンスが必要なので、実稼動環境で使用する場合は、AEM Forms の有効なライセンスを取得することが不可欠です。</target>
 </trans-unit>
 <trans-unit id="tu8" xml:space="preserve">
 <source xml:lang="en-US">This article provides information for both:</source>
@@ -5497,8 +5497,8 @@
 </trans-unit>
 </group>
 <trans-unit id="tu13" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-CODE">`[1]`</ph> Contact <ph id="2" ctype="x-LINK">[</ph>Adobe Support<ph id="3" ctype="x-LINK">[#$tu14]</ph> to obtain installers for Workbench, Rights Management SDK, Portable Protection Library (PPL), and Enhanced PPL.</source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-CODE">`[1]`</ph> ワークベンチ、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、<ph id="2" ctype="x-LINK">[</ph>アドビサポート<ph id="3" ctype="x-LINK">[#$tu14]</ph>にお問い合わせください。</target>
+<source xml:lang="en-US"><ph id="1" ctype="x-CODE">`[1]`</ph> Contact <ph id="2" ctype="x-LINK">&lbrack;</ph>Adobe Support<ph id="3" ctype="x-LINK">[#$tu14]</ph> to obtain installers for Workbench, Rights Management SDK, Portable Protection Library (PPL), and Enhanced PPL.</source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-CODE">`[1]`</ph> ワークベンチ、Rights Management SDK、ポータブル保護ライブラリ（PPL）、Enhanced PPL のインストーラーを入手するには、<ph id="2" ctype="x-LINK">&lbrack;</ph>アドビサポート<ph id="3" ctype="x-LINK">[#$tu14]</ph>にお問い合わせください。</target>
 </trans-unit>
 <trans-unit id="tu15" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-CODE">`[2]`</ph> AEM <ph id="2" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> add-in package for macOS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for the macOS X package.</source>
@@ -5521,8 +5521,8 @@
 <target xml:lang="en-XX">AEM <ph id="1" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> のパッケージとクイックフィックスはすべて累積的です。つまり、1 つのパッケージとクイックフィックスには、対応するバージョンの 1 つのコンポーネントに対する、以前のアドオンとクイックフィックスがすべて含まれています。 例えば、クイックフィックス 2.4.50 をインストールすると、AEM <ph id="2" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> アドインパッケージ 2.4.26 が既に含まれています。</target>
 </trans-unit>
 <trans-unit id="tu20" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></target>
 </trans-unit>
 <trans-unit id="tu21" xml:space="preserve">
 <source xml:lang="en-US">Cumulative add-in packages and Quick Fixes implies that the version's first two numbers are identical.</source>
