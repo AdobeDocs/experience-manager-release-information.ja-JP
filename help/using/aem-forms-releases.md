@@ -3,11 +3,11 @@
 <file original="help/using/aem-forms-releases.md.mdsc" source-language="en-US" target-language="en-XX" datatype="x-text/markdown">
 <body>
 <trans-unit id="tu7" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/deploying/deploy</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/implementing/deploying/deploying/deploy</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/implementing/deploying/deploying/deploy</target>
 </trans-unit>
 <trans-unit id="tu14" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja?support-solution=General&support-tab=home#support</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/home?support-solution=General&lang=ja&support-tab=home#support</target>
 </trans-unit>
 <trans-unit id="tu1" restype="x-YAML_METADATA_HEADER_VALUE" xml:space="preserve">
@@ -76,7 +76,7 @@
 <target xml:lang="en-XX">2026年9月8日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu8" resname="sd1_14" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu7" resname="sd1_15" restype="x-td" xml:space="preserve">
@@ -92,7 +92,7 @@
       </target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu10" resname="sd1_17" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu9" resname="sd1_18" restype="x-td" xml:space="preserve">
@@ -176,7 +176,7 @@
 <target xml:lang="en-XX">2026年6月18日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu22" resname="sd1_39" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu21" resname="sd1_40" restype="x-td" xml:space="preserve">
@@ -192,7 +192,7 @@
       </target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu24" resname="sd1_42" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu23" resname="sd1_43" restype="x-td" xml:space="preserve">
@@ -256,7 +256,7 @@
 <target xml:lang="en-XX">2026年2月19日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu33" resname="sd1_59" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu32" resname="sd1_60" restype="x-td" xml:space="preserve">
@@ -272,7 +272,7 @@
       </target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu35" resname="sd1_62" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu34" resname="sd1_63" restype="x-td" xml:space="preserve">
@@ -346,7 +346,7 @@
 <target xml:lang="en-XX">2025年12月19日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu50" resname="sd1_88" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu49" resname="sd1_89" restype="x-td" xml:space="preserve">
@@ -362,7 +362,7 @@
       </target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu52" resname="sd1_91" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu51" resname="sd1_92" restype="x-td" xml:space="preserve">
@@ -412,7 +412,7 @@
 <target xml:lang="en-XX">2025年9月5日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu61" resname="sd1_108" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu60" resname="sd1_109" restype="x-td" xml:space="preserve">
@@ -428,7 +428,7 @@
       </target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu63" resname="sd1_111" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu62" resname="sd1_112" restype="x-td" xml:space="preserve">
@@ -490,7 +490,7 @@
 <target xml:lang="en-XX">2025年3月7日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu75" resname="sd1_134" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu74" resname="sd1_135" restype="x-td" xml:space="preserve">
@@ -506,7 +506,7 @@
       </target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu77" resname="sd1_137" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf1_tu76" resname="sd1_138" restype="x-td" xml:space="preserve">
@@ -622,7 +622,7 @@
 <target xml:lang="en-XX">2026年6月10日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu8" resname="sd1_14" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu7" resname="sd1_15" restype="x-td" xml:space="preserve">
@@ -638,7 +638,7 @@
       </target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu10" resname="sd1_17" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu9" resname="sd1_18" restype="x-td" xml:space="preserve">
@@ -824,7 +824,7 @@
 <target xml:lang="en-XX">2026年1月28日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu50" resname="sd1_82" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu49" resname="sd1_83" restype="x-td" xml:space="preserve">
@@ -840,7 +840,7 @@
       </target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu52" resname="sd1_85" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu51" resname="sd1_86" restype="x-td" xml:space="preserve">
@@ -1038,7 +1038,7 @@
 <target xml:lang="en-XX">2025年6月6日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu95" resname="sd1_154" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu94" resname="sd1_155" restype="x-td" xml:space="preserve">
@@ -1054,7 +1054,7 @@
       </target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu97" resname="sd1_157" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu96" resname="sd1_158" restype="x-td" xml:space="preserve">
@@ -1300,7 +1300,7 @@
 <target xml:lang="en-XX">2024年11月29日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu151" resname="sd1_243" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu150" resname="sd1_244" restype="x-td" xml:space="preserve">
@@ -1308,7 +1308,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 22（AEM 6.5.22.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu153" resname="sd1_246" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu152" resname="sd1_247" restype="x-td" xml:space="preserve">
@@ -1498,7 +1498,7 @@
 <target xml:lang="en-XX">2024年6月13日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu196" resname="sd1_314" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu195" resname="sd1_315" restype="x-td" xml:space="preserve">
@@ -1506,7 +1506,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 21（AEM 6.5.21.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu198" resname="sd1_317" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu197" resname="sd1_318" restype="x-td" xml:space="preserve">
@@ -1684,7 +1684,7 @@
 <target xml:lang="en-XX">2024年3月8日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu238" resname="sd1_382" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu237" resname="sd1_383" restype="x-td" xml:space="preserve">
@@ -1692,7 +1692,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 20（AEM 6.5.20.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu240" resname="sd1_385" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu239" resname="sd1_386" restype="x-td" xml:space="preserve">
@@ -1934,7 +1934,7 @@
 <target xml:lang="en-XX">2023年12月15日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu294" resname="sd1_472" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes#forms-6519</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6519</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6519</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu293" resname="sd1_473" restype="x-td" xml:space="preserve">
@@ -1942,7 +1942,7 @@
 <target xml:lang="en-XX">（AEM Forms on JEE のみ）AEM 6.5 Forms サービスパック 19.1（6.5.19.1）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu296" resname="sd1_475" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu295" resname="sd1_476" restype="x-td" xml:space="preserve">
@@ -2020,7 +2020,7 @@
 <target xml:lang="en-XX">2023年12月8日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu314" resname="sd1_505" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes#forms-6519</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6519</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6519</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu313" resname="sd1_506" restype="x-td" xml:space="preserve">
@@ -2028,7 +2028,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 19（AEM 6.5.19.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu316" resname="sd1_508" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu315" resname="sd1_509" restype="x-td" xml:space="preserve">
@@ -2270,7 +2270,7 @@
 <target xml:lang="en-XX">2023年8月31日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu370" resname="sd1_595" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes#forms-6518</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6518</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6518</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu369" resname="sd1_596" restype="x-td" xml:space="preserve">
@@ -2278,7 +2278,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 18（AEM 6.5.18.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu372" resname="sd1_598" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu371" resname="sd1_599" restype="x-td" xml:space="preserve">
@@ -2542,7 +2542,7 @@
 <target xml:lang="en-XX">2023年6月1日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu431" resname="sd1_692" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes#forms-6517</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6517</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes#forms-6517</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu430" resname="sd1_693" restype="x-td" xml:space="preserve">
@@ -2550,7 +2550,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 17（AEM 6.5.17.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu433" resname="sd1_695" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu432" resname="sd1_696" restype="x-td" xml:space="preserve">
@@ -2752,7 +2752,7 @@
 <target xml:lang="en-XX">2023年3月2日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu478" resname="sd1_768" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-16#forms-6516</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-16#forms-6516</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-16#forms-6516</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu477" resname="sd1_769" restype="x-td" xml:space="preserve">
@@ -2760,7 +2760,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 16（AEM 6.5.16.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu480" resname="sd1_771" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-16</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-16</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-16</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu479" resname="sd1_772" restype="x-td" xml:space="preserve">
@@ -2962,7 +2962,7 @@
 <target xml:lang="en-XX">2022年12月1日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu525" resname="sd1_844" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-15#forms-6515</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-15#forms-6515</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-15#forms-6515</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu524" resname="sd1_845" restype="x-td" xml:space="preserve">
@@ -2970,7 +2970,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 15（AEM 6.5.15.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu527" resname="sd1_847" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-15</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-15</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-15</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu526" resname="sd1_848" restype="x-td" xml:space="preserve">
@@ -3172,7 +3172,7 @@
 <target xml:lang="en-XX">2022年9月5日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu572" resname="sd1_920" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-14#forms-6514</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-14#forms-6514</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-14#forms-6514</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu571" resname="sd1_921" restype="x-td" xml:space="preserve">
@@ -3180,7 +3180,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 14（AEM 6.5.14.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu574" resname="sd1_923" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-14</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-14</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-14</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu573" resname="sd1_924" restype="x-td" xml:space="preserve">
@@ -3358,7 +3358,7 @@
 <target xml:lang="en-XX">2022年6月2日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu614" resname="sd1_988" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-13#forms-65130</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-13#forms-65130</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-13#forms-65130</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu613" resname="sd1_989" restype="x-td" xml:space="preserve">
@@ -3366,7 +3366,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 13（AEM 6.5.13.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu616" resname="sd1_991" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-13</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-13</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-13</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu615" resname="sd1_992" restype="x-td" xml:space="preserve">
@@ -3544,7 +3544,7 @@
 <target xml:lang="en-XX">2022年3月3日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu656" resname="sd1_1056" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-12#forms-65120</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-12#forms-65120</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-12#forms-65120</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu655" resname="sd1_1057" restype="x-td" xml:space="preserve">
@@ -3552,7 +3552,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 12（AEM 6.5.12.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu658" resname="sd1_1059" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-12</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-12</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-12</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu657" resname="sd1_1060" restype="x-td" xml:space="preserve">
@@ -3794,7 +3794,7 @@
 <target xml:lang="en-XX">2021年12月20日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu712" resname="sd1_1144" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu711" resname="sd1_1145" restype="x-td" xml:space="preserve">
@@ -3802,7 +3802,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 11（AEM 6.5.11.1 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu714" resname="sd1_1147" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-11</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu713" resname="sd1_1148" restype="x-td" xml:space="preserve">
@@ -3932,7 +3932,7 @@
 <target xml:lang="en-XX">2021年12月3日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu743" resname="sd1_1195" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu742" resname="sd1_1196" restype="x-td" xml:space="preserve">
@@ -3940,7 +3940,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 11（AEM 6.5.11.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu745" resname="sd1_1198" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-11</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-11</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu744" resname="sd1_1199" restype="x-td" xml:space="preserve">
@@ -4104,7 +4104,7 @@
 <target xml:lang="en-XX">2021年9月2日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu783" resname="sd1_1259" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-10#forms-65100</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-10#forms-65100</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-10#forms-65100</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu782" resname="sd1_1260" restype="x-td" xml:space="preserve">
@@ -4112,7 +4112,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 10（AEM 6.5.10.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu785" resname="sd1_1262" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-10</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-10</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-10</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu784" resname="sd1_1263" restype="x-td" xml:space="preserve">
@@ -4304,7 +4304,7 @@
 <target xml:lang="en-XX">2021年6月3日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu830" resname="sd1_1333" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu829" resname="sd1_1334" restype="x-td" xml:space="preserve">
@@ -4312,7 +4312,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 9（AEM 6.5.9.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu832" resname="sd1_1336" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-9</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-9</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-9</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu831" resname="sd1_1337" restype="x-td" xml:space="preserve">
@@ -4488,7 +4488,7 @@
 <target xml:lang="en-XX">2021年3月18日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu874" resname="sd1_1403" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-8#forms-6580</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-8#forms-6580</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-8#forms-6580</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu873" resname="sd1_1404" restype="x-td" xml:space="preserve">
@@ -4496,7 +4496,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 8（AEM 6.5.8.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu876" resname="sd1_1406" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-8</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-8</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-8</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu875" resname="sd1_1407" restype="x-td" xml:space="preserve">
@@ -4672,7 +4672,7 @@
 <target xml:lang="en-XX">2020年12月3日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu918" resname="sd1_1473" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-7#forms-6570</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-7#forms-6570</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-7#forms-6570</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu917" resname="sd1_1474" restype="x-td" xml:space="preserve">
@@ -4680,7 +4680,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 7（AEM 6.5.7.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu920" resname="sd1_1476" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-7</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-7</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-7</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu919" resname="sd1_1477" restype="x-td" xml:space="preserve">
@@ -4852,7 +4852,7 @@
 <target xml:lang="en-XX">2020年9月3日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu961" resname="sd1_1542" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu960" resname="sd1_1543" restype="x-td" xml:space="preserve">
@@ -4860,7 +4860,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 6（AEM 6.5.6.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu963" resname="sd1_1545" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-6</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-6</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-6</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu962" resname="sd1_1546" restype="x-td" xml:space="preserve">
@@ -4932,7 +4932,7 @@
 <target xml:lang="en-XX">2020年6月4日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu980" resname="sd1_1577" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu979" resname="sd1_1578" restype="x-td" xml:space="preserve">
@@ -4940,7 +4940,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 5（AEM 6.5.5.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu982" resname="sd1_1580" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-5</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-5</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-5</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu981" resname="sd1_1581" restype="x-td" xml:space="preserve">
@@ -5012,7 +5012,7 @@
 <target xml:lang="en-XX">2020年3月5日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu999" resname="sd1_1613" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-4#forms-6540</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-4#forms-6540</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-4#forms-6540</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu998" resname="sd1_1614" restype="x-td" xml:space="preserve">
@@ -5020,7 +5020,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 4（AEM 6.5.4.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1001" resname="sd1_1616" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-4</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-4</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-4</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1000" resname="sd1_1617" restype="x-td" xml:space="preserve">
@@ -5104,7 +5104,7 @@
 <target xml:lang="en-XX">2019年12月12日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1021" resname="sd1_1654" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-3#forms-6530</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-3#forms-6530</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-3#forms-6530</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1020" resname="sd1_1655" restype="x-td" xml:space="preserve">
@@ -5112,7 +5112,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 3（AEM 6.5.3.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1023" resname="sd1_1657" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-3</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-3</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-3</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1022" resname="sd1_1658" restype="x-td" xml:space="preserve">
@@ -5196,7 +5196,7 @@
 <target xml:lang="en-XX">2019年9月19日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1043" resname="sd1_1695" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-2#forms-6520</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-2#forms-6520</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-2#forms-6520</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1042" resname="sd1_1696" restype="x-td" xml:space="preserve">
@@ -5204,7 +5204,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 2（AEM 6.5.2.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1045" resname="sd1_1698" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-2</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-2</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-2</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1044" resname="sd1_1699" restype="x-td" xml:space="preserve">
@@ -5288,7 +5288,7 @@
 <target xml:lang="en-XX">2019年7月3日（PT）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1065" resname="sd1_1736" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-1#forms</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-1#forms</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-1#forms</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1064" resname="sd1_1737" restype="x-td" xml:space="preserve">
@@ -5296,7 +5296,7 @@
 <target xml:lang="en-XX">AEM 6.5 Forms サービスパック 1（AEM 6.5.1.0 用 Forms アドインパッケージ）</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1067" resname="sd1_1739" restype="x-href" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-1</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-1</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-1</target>
 </trans-unit>
 <trans-unit id="sd1_sf2_tu1066" resname="sd1_1740" restype="x-td" xml:space="preserve">

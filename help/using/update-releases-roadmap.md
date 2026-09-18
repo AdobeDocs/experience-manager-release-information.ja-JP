@@ -3,111 +3,111 @@
 <file original="help/using/update-releases-roadmap.md.mdsc" source-language="en-US" target-language="en-XX" datatype="x-text/markdown">
 <body>
 <trans-unit id="tu9" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current</target>
 </trans-unit>
 <trans-unit id="tu10" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest</target>
 </trans-unit>
 <trans-unit id="tu21" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353</target>
 </trans-unit>
 <trans-unit id="tu26" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773</target>
 </trans-unit>
 <trans-unit id="tu31" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-6-0</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-6-0</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-6-0</target>
 </trans-unit>
 <trans-unit id="tu36" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908</target>
 </trans-unit>
 <trans-unit id="tu41" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083</target>
 </trans-unit>
 <trans-unit id="tu46" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-7-0</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-7-0</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-7-0</target>
 </trans-unit>
 <trans-unit id="tu51" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293</target>
 </trans-unit>
 <trans-unit id="tu56" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673</target>
 </trans-unit>
 <trans-unit id="tu61" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current</target>
 </trans-unit>
 <trans-unit id="tu66" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest</target>
 </trans-unit>
 <trans-unit id="tu108" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="tu115" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="tu121" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="tu127" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="tu134" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="tu141" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-21</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-21</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-21</target>
 </trans-unit>
 <trans-unit id="tu147" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-22</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-22</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-22</target>
 </trans-unit>
 <trans-unit id="tu153" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-23</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-23</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-23</target>
 </trans-unit>
 <trans-unit id="tu159" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-24</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-24</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-24</target>
 </trans-unit>
 <trans-unit id="tu165" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes</target>
 </trans-unit>
 <trans-unit id="tu180" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/faq</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/faq</target>
 </trans-unit>
 <trans-unit id="tu184" xml:space="preserve">
-<source xml:lang="en-US">https://helpx.adobe.com/support/programs/eol-matrix.html#cq</source>
+<source xml:lang="en-US">https://helpx.adobe.com/jp/support/programs/eol-matrix.html#cq</source>
 <target xml:lang="en-XX">https://helpx.adobe.com/jp/support/programs/eol-matrix.html#cq</target>
 </trans-unit>
 <trans-unit id="tu189" xml:space="preserve">
-<source xml:lang="en-US">https://helpx.adobe.com/support/programs/eol-matrix.html</source>
+<source xml:lang="en-US">https://helpx.adobe.com/jp/support/programs/eol-matrix.html</source>
 <target xml:lang="en-XX">https://helpx.adobe.com/jp/support/programs/eol-matrix.html</target>
 </trans-unit>
 <trans-unit id="tu191" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates</target>
 </trans-unit>
 <trans-unit id="tu193" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service</source>
+<source xml:lang="en-US">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service</source>
 <target xml:lang="en-XX">https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service</target>
 </trans-unit>
 <trans-unit id="tu1" restype="x-YAML_METADATA_HEADER_VALUE" xml:space="preserve">
