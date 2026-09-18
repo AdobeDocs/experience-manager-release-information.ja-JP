@@ -6,9 +6,7 @@ source-git-commit: 855946eca93d2e4f8a3efe274e4842e75b6e46b7
 workflow-type: tm+mt
 source-wordcount: '1134'
 ht-degree: 100%
-
 ---
-
 # [!DNL Experience Manager] リリースロードマップ {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] は、新機能と既存機能の機能強化を一貫して提供します。 [!DNL Cloud Service]、Managed Services、オンプレミスバージョンにわたるユーザーにバグ修正を提供します。 この記事では、[!DNL Experience Manager] の今後のリリース一覧を示します。
