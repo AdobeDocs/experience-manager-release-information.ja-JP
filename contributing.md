@@ -58,4 +58,4 @@ Adobeの社員でコントリビューションがある場合は、企業Gitで
 
 ## その他の情報
 
-GitHub オーサリングプラットフォームの使用方法について詳しくは、[Adobe Docs Contributor Guide](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction)を参照してください。
+GitHub オーサリングプラットフォームの使用方法について詳しくは、[Adobe Docs Contributor Guide](https://experienceleague.adobe.com/ja/docs/contributor/contributor-guide/introduction)を参照してください。
