@@ -3,20 +3,37 @@ title: AEM、CQ および CRX の以前のバージョンのドキュメント�
 description: Adobe Experience Manager、CQ および CRX の以前のバージョンのドキュメントパッケージをダウンロードします。
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '964'
-ht-degree: 100%
-
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '965'
+ht-degree: 97%
 ---
-
 # [!DNL Adobe Experience Manager]、CQ および CRX の以前のバージョンのドキュメント {#older-versions-aem-cq-crx}
 
 AEM、CQ および CRX の以前のバージョンに関する以前のヘルプガイドを参照してください。
 
 ## [!DNL Experience Manager] ドキュメントの以前のバージョン {#older-version-aem-documentation}
 
-このページにリストされている [!DNL Adobe Experience Manager]、 CQ および CRX のバージョンは、提供が終了しており、アドビによる公式販売は行われなくなりました。 これらの以前のバージョンについては、公式ドキュメントのアドビの最終バージョンがセルフヘルプ用に利用できます。 最新バージョンである [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service) にアップグレードすることをお勧めします。
+このページにリストされている [!DNL Adobe Experience Manager]、 CQ および CRX のバージョンは、提供が終了しており、アドビによる公式販売は行われなくなりました。 これらの以前のバージョンについては、アドビによる公式ドキュメントの最終版をセルフヘルプ用に利用できます。 最新バージョンである [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service) にアップグレードすることをお勧めします。
 
 >[!NOTE]
 >
@@ -95,8 +112,8 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 1. 確認ダイアログボックスで、もう一度「**[!UICONTROL インストール]**」を選択します。 インストールには数分かかります。
 
-1. Web ブラウザーで、ドキュメントページを開きます。 AEM 5.6.1 の例を使用すると、URL は http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html になります。
+1. Web ブラウザーで、ドキュメントページを開きます。 AEM 5.6.1の例を使用すると、URLはhttp://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.htmlになります。
 
 ## [!DNL Experience Manager]コミュニティにお問い合わせ {#get-help-from-aem-community}
 
-Experience Manager の使用について質問がある場合は、[ [!DNL Experience Manager]  フォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)で経験豊富なコミュニティエキスパートにお問い合わせいただくことをお勧めします。
+Experience Manager の使用について質問がある場合は、[&#x200B; [!DNL Experience Manager]  フォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)で経験豊富なコミュニティエキスパートにお問い合わせいただくことをお勧めします。
