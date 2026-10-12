@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
 workflow-type: tm+mt
 source-wordcount: '1222'
-ht-degree: 96%
+ht-degree: 100%
 ---
 # [!DNL Experience Manager] リリースロードマップ {#aem-releases-roadmap}
 
@@ -95,7 +95,7 @@ ht-degree: 96%
 | [!DNL Experience Manager] 6.5 LTS [サービスパック 1](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | サービスパック | 2025年8月28日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 LTS [サービスパック 2](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | サービスパック | 2026年2月19日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 LTS [サービスパック 3](https://experienceleague.adobe.com/ja/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP3 | サービスパック | 2026年8月20日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 LTS サービスパック 4 | 6.5.LTS.SP4 | サービスパック | 2027年2月18日（PT） | ターゲット |
+| [!DNL Experience Manager]6.5 LTS サービスパック 4 | 6.5.LTS.SP4 | サービスパック | 2027年2月18日（PT） | ターゲット |
 | [!DNL Experience Manager] 6.5 LTS サービスパック 5 | 6.5.LTS.SP5 | サービスパック | 2027年5月20日（PT） | ターゲット |
 | [!DNL Experience Manager] 6.5 LTS サービスパック 6 | 6.5.LTS.SP6 | サービスパック | 2027年8月19日（PT） | ターゲット |
 | [!DNL Experience Manager] 6.5 LTS サービスパック 7 | 6.5.LTS.SP7 | サービスパック | 2027年11月18日（PT） | ターゲット |
