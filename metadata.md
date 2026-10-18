@@ -8,11 +8,9 @@ index: true
 recommendations: noDisplay
 source-git-commit: bbca238b99f4c72d65418f224103c37d417793d6
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '123'
 ht-degree: 0%
-
 ---
-
 
 # 内部使用のためのメタデータ
 
