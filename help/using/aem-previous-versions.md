@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '965'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # [!DNL Adobe Experience Manager]、CQ および CRX の以前のバージョンのドキュメント {#older-versions-aem-cq-crx}
 
@@ -112,8 +112,8 @@ Adobe ID の作成や管理に関してサポートが必要な場合は、[こ�
 
 1. 確認ダイアログボックスで、もう一度「**[!UICONTROL インストール]**」を選択します。 インストールには数分かかります。
 
-1. Web ブラウザーで、ドキュメントページを開きます。 AEM 5.6.1の例を使用すると、URLはhttp://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.htmlになります。
+1. Web ブラウザーで、ドキュメントページを開きます。 AEM 5.6.1 の例を使用すると、URL は http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html 。
 
 ## [!DNL Experience Manager]コミュニティにお問い合わせ {#get-help-from-aem-community}
 
-Experience Manager の使用について質問がある場合は、[&#x200B; [!DNL Experience Manager]  フォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)で経験豊富なコミュニティエキスパートにお問い合わせいただくことをお勧めします。
+Experience Manager の使用について質問がある場合は、[ [!DNL Experience Manager]  フォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)で経験豊富なコミュニティエキスパートにお問い合わせいただくことをお勧めします。
