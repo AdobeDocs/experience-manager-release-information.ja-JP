@@ -1,6 +1,6 @@
 ---
 title: アップデートリリースの提供に関する定義
-description: この記事では、フルリリース、機能パック、サービスパックなど、様々なタイプの[!DNL Experience Manager] リリースについて詳しく説明します。
+description: この記事では、完全リリース、機能パック、サービスパックなど、[!DNL Experience Manager] の各種リリースについて詳しく説明します。
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '744'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # [!DNL Experience Manager] アップデートリリースの提供に関する定義 {#update-release-vehicle-definitions}
 

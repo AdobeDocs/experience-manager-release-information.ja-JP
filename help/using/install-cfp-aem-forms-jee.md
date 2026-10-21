@@ -23,7 +23,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '946'
 ht-degree: 100%
 ---
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 AEM 6.3 [!DNL Forms JEE] に累積修正パックをインストールするには、次の一連の手順を実行します。
 
-1. CFP 用の AEM 6.3 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
+1. CFP 用の AEM 6.3 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 1. [AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) のインストールと設定の説明に従って、CFP インストーラーを実行し、AEM [!DNL Forms JEE] を設定します。
 1. 最新の AEM CFP 6.3.3.x のインストール
 1. AEM CFP [6.3.3.x ](aem-forms-releases.md)用の[!DNL Forms]アドオンパッケージをインストールします。
@@ -59,7 +59,7 @@ AEM 6.3 [!DNL Forms JEE] サーバーを Oracle データベースと共に使�
 
 AEM 6.2 [!DNL Forms JEE] に累積修正パックをインストールするには、次の一連の手順を実行します。
 
-1. CFP 用の AEM 6.2 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/ja?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
+1. CFP 用の AEM 6.2 [!DNL Forms JEE] インストーラーを入手するには、[アドビサポート](https://experienceleague.adobe.com/?support-solution=General&lang=ja&support-tab=home#support)にお問い合わせください。
 1. [AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) のインストールと設定の説明に従って、CFP インストーラーを実行し、AEM [!DNL Forms JEE] を設定します。
 1. AEM Hotfix 12785 バージョン 7.0 をインストールします。
 1. AEM 6.2 サービスパック 1 をインストールします。
