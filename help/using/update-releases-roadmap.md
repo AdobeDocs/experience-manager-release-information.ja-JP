@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 3d4bc1708d541faaf1d18ee379dc0277d5bf2dc4
+source-git-commit: c62d9cb2b6a7ba3987eafb506d353e85145d7b5d
 workflow-type: tm+mt
-source-wordcount: '1287'
-ht-degree: 95%
+source-wordcount: '1312'
+ht-degree: 93%
 ---
 # [!DNL Experience Manager] リリースロードマップ {#aem-releases-roadmap}
 
@@ -62,14 +62,14 @@ ht-degree: 95%
 | 機能リリース [2026.8.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | 機能アクティベーション | 2026年8月27日（PT） | アクティベート済み |
 | メンテナンスリリース [27830](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | 自動更新 | 2026年8月31日～9月2日（PT） | 更新済み |
 | 機能リリース [2026.9.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2026年9月24日（PT） | アクティベート済み |
-| メンテナンスリリース [28386](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 自動更新 | 2026年9月28～30日（PT） | 更新済み |
-| メンテナンスリリース [28871](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | 自動更新 | 2026年10月12～14日（PT） | 更新済み |
+| メンテナンスリリース [28386](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 自動更新 | 2026年9月28～30日（PT） | 更新済み |
+| メンテナンスリリース [28871](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | 自動更新 | 2026年10月12～14日（PT） | 更新済み |
+| メンテナンスリリース [29023](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年10月26-28日（PT） | 更新済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
 
 | リリース | イベント | スケジュール | ステータス |
 |---|---|---|---|
-| メンテナンスリリース [29023](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年10月26-28日（PT） | ターゲット |
 | 機能リリース 2026.10.0 | 機能アクティベーション | 2026年10月29日（PT） | ターゲット |
 | メンテナンスリリース | 自動更新 | 2026年11月9～11日（PT） | ターゲット |
 | 機能リリース 2026.11.0 | 機能アクティベーション | 2026年11月19日（PT） | ターゲット |
@@ -130,7 +130,7 @@ ht-degree: 95%
 >
 > 6.5.26.0 は、AEM 6.5 でサポートされている最新のサービスパックリリースです。
 >
-> 各サービスパックは、リリースから2027年2月28日（PT）まで、最大18か月間サポートされます。 詳しくは、[製品とテクニカルサポート期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html#cq)を参照してください。
+> 各サービスパックは、リリースから2027年2月28日（PT）まで、最大18か月間サポートされます。 詳しくは、[製品とテクニカルサポート期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html#cq)を参照してください。 6.5の拡張サポートを2028年2月まで承認している場合、重要なセキュリティ修正は、最後にリリースされたサービスパック 26でのみ利用可能です。
 
 >[!NOTE]
 >
