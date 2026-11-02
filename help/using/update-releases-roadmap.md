@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
 workflow-type: tm+mt
 source-wordcount: '1329'
-ht-degree: 96%
+ht-degree: 98%
 ---
 # [!DNL Experience Manager] リリースロードマップ {#aem-releases-roadmap}
 
@@ -130,7 +130,7 @@ ht-degree: 96%
 >
 > 6.5.26.0 は、AEM 6.5 でサポートされている最新のサービスパックリリースです。
 >
-> 各サービスパックは、リリースから2027年2月28日（PT）まで、最大18か月間サポートされます。 詳しくは、[製品とテクニカルサポート期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html#cq)を参照してください。 6.5の拡張サポートを2028年2月まで承認している場合、重要なセキュリティ修正は、最後にリリースされたサービスパック 26でのみ利用可能です。
+> 各サービスパックは、リリースから2027年2月28日（PT）まで、最大18か月間サポートされます。 詳しくは、[製品とテクニカルサポート期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html#cq)を参照してください。 6.5 の拡張サポートを 2028年2月まで承認している場合、重要なセキュリティ修正は、最後にリリースされたサービスパック 26 でのみ使用可能です。
 
 >[!NOTE]
 >
