@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
 workflow-type: tm+mt
 source-wordcount: '1329'
-ht-degree: 96%
+ht-degree: 98%
 ---
 # [!DNL Experience Manager] リリースロードマップ {#aem-releases-roadmap}
 
@@ -61,7 +61,7 @@ ht-degree: 96%
 | メンテナンスリリース [27673](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | 自動更新 | 2026年8月17～19日（PT） | 更新済み |
 | 機能リリース [2026.8.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | 機能アクティベーション | 2026年8月27日（PT） | アクティベート済み |
 | メンテナンスリリース [27830](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | 自動更新 | 2026年8月31日～9月2日（PT） | 更新済み |
-| 機能リリース [2026.9.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-9-0) | 機能アクティベーション | 2026年9月24日（PT） | アクティベート済み |
+| 機能リリース [2026.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-9-0) | 機能アクティベーション | 2026年9月24日（PT） | アクティベート済み |
 | メンテナンスリリース [28386](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 自動更新 | 2026年9月28～30日（PT） | 更新済み |
 | メンテナンスリリース [28871](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | 自動更新 | 2026年10月12～14日（PT） | 更新済み |
 | メンテナンスリリース [29023](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年10月26～28日（PT） | 更新済み |
@@ -130,7 +130,7 @@ ht-degree: 96%
 >
 > 6.5.26.0 は、AEM 6.5 でサポートされている最新のサービスパックリリースです。
 >
-> 各サービスパックは、リリースから2027年2月28日（PT）まで、最大18か月間サポートされます。 詳しくは、[製品とテクニカルサポート期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html#cq)を参照してください。 6.5の拡張サポートを2028年2月まで承認している場合、重要なセキュリティ修正は、最後にリリースされたサービスパック 26でのみ利用可能です。
+> 各サービスパックは、リリースから2027年2月28日（PT）まで、最大18か月間サポートされます。 詳しくは、[製品とテクニカルサポート期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html#cq)を参照してください。 6.5 の拡張サポートを 2028年2月まで承認している場合、重要なセキュリティ修正は、最後にリリースされたサービスパック 26 でのみ使用可能です。
 
 >[!NOTE]
 >
