@@ -22,14 +22,14 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: ht
-source-wordcount: '16723'
-ht-degree: 100%
+source-git-commit: 39a9a4644f61255c183c0a0ec732d9974b20818d
+workflow-type: tm+mt
+source-wordcount: '16896'
+ht-degree: 98%
 ---
 # AEM [!DNL Forms] リリース {#aem-forms-releases}
 
-Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリケーションです。 エンタープライズフォームとドキュメントについて、web およびモバイルエクスペリエンスを強化します。 この機能により、組織は複雑なデジタルインタラクションを完了し、ユーザーエクスペリエンスを向上させ、ビジネスの範囲を拡大できます。 AEM [!DNL Forms] は、標準で AEM クイックスタートに含まれていますが、機能が限定されています。 AEM [!DNL Forms] アドインパッケージには、[!DNL Adobe Analytics] との統合、[!DNL Adobe Sign]、ドキュメントサービス、ワークフローエンジンなどの高度な機能が用意されています。
+Adobe Experience Manager [!DNL Forms] は AEM にデプロイされたアプリケーションです。 エンタープライズフォームとドキュメント向けの web および Mobile エクスペリエンスを強化します。 この機能により、組織は複雑なデジタルインタラクションを完了し、ユーザーエクスペリエンスを向上させ、ビジネスの範囲を拡大できます。 AEM [!DNL Forms] は、標準で AEM クイックスタートに含まれていますが、機能が限定されています。 AEM [!DNL Forms] アドインパッケージには、[!DNL Adobe Analytics] との統合、[!DNL Adobe Sign]、ドキュメントサービス、ワークフローエンジンなどの高度な機能が用意されています。
 
 >[!NOTE]
 >
@@ -112,6 +112,34 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
               AEM Forms 6.5 LTS サービスパック 3 インストーラー WebSphere® および Linux® 版
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">Forms Designer 64 ビット フル インストーラー（LTS 3） </strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/english/aemforms_designer_6_6_0_wwe_win.zip">
+              英語インストーラー
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/french/aemforms_designer_6_6_0_wwf_win.zip">
+              フランス語インストーラー
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/german/aemforms_designer_6_6_0_d_win.zip">
+              ドイツ語インストーラー
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/japanese/aemforms_designer_6_6_0_j_win.zip">
+              日本語インストーラー
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/spanish/aemforms_designer_6_6_0_wws_win.zip">
+              スペイン語インストーラー
             </a>
           </li>
         </ul>
