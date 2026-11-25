@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 3d6fb57a76993b1acc466b266957ba6f3ed55d94
+source-git-commit: 1ad2d335425f6b3b89073449ff17d50dec880e19
 workflow-type: tm+mt
-source-wordcount: '1300'
-ht-degree: 88%
+source-wordcount: '1325'
+ht-degree: 86%
 ---
 # [!DNL Experience Manager] リリースロードマップ {#aem-releases-roadmap}
 
@@ -58,9 +58,9 @@ ht-degree: 88%
 | 機能リリース [2026.9.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-9-0) | 機能アクティベーション | 2026年9月24日（PT） | アクティベート済み |
 | メンテナンスリリース [28386](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 自動更新 | 2026年9月28～30日（PT） | 更新済み |
 | メンテナンスリリース [28871](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | 自動更新 | 2026年10月12～14日（PT） | 更新済み |
-| メンテナンスリリース [29023](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023) | 自動更新 | 2026年10月26～28日（PT） | 更新済み |
-| 機能リリース [2026.10.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | 機能アクティベーション | 2026年10月29日（PT） | アクティベート済み |
-| メンテナンスリリース [29251](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-11-0#release-29251) | 自動更新 | 2026年11月9～11日（PT） | 更新済み |
+| メンテナンスリリース [29023](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023) | 自動更新 | 2026年10月26～28日（PT） | 更新済み |
+| 機能リリース [2026.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | 機能アクティベーション | 2026年10月29日（PT） | アクティベート済み |
+| メンテナンスリリース [29251](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-11-0#release-29251) | 自動更新 | 2026年11月9～11日（PT） | 更新済み |
 | 機能リリース [2026.11.0](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 機能アクティベーション | 2026年11月19日（PT） | アクティベート済み |
 
 ### 今後の [!DNL Cloud Service] リリース {#upcoming}
@@ -105,7 +105,9 @@ ht-degree: 88%
 
 >[!NOTE]
 >
-> セキュリティ修正は、最新リリースのサービスパックでのみ利用できます。
+> Adobeでは、利用可能になった各AEM 6.5 LTS サービスパックを導入することをお勧めします。 最新の機能、機能強化、バグ修正を活用して、四半期ごとのアップデートを計画します。
+> 
+> セキュリティ修正は、最新のサービスパックでのみ使用できます。
 
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
@@ -118,8 +120,8 @@ ht-degree: 88%
 | [!DNL Experience Manager] 6.5 [サービスパック 22](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | サービスパック | 2024年11月21日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 [サービスパック 23](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | サービスパック | 2025年5月22日（PT） | アクティベート済み |
 | [!DNL Experience Manager] 6.5 [サービスパック 24](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) | 6.5.24.0 | サービスパック | 2025年11月26日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 [サービスパック 25](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/service-pack/6-5-25) | 6.5.25.0 | サービスパック | 2026年5月21日（PT） | アクティベート済み |
-| [!DNL Experience Manager] 6.5 [&#x200B; サービスパック 26](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.26.0 | サービスパック | 2026年11月12日（PT） | ターゲット |
+| [!DNL Experience Manager] 6.5 [サービスパック 25](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-25) | 6.5.25.0 | サービスパック | 2026年5月21日（PT） | アクティベート済み |
+| [!DNL Experience Manager] 6.5 [ サービスパック 26](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.26.0 | サービスパック | 2026年11月12日（PT） | ターゲット |
 
 >[!AVAILABILITY]
 >
