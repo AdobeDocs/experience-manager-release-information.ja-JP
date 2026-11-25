@@ -22,7 +22,7 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 1ba38fca4b11858c2ad3a5a3f4cebb9a151b8ed3
+source-git-commit: a01f70f8731cff20868384e1448c6c13a8f2869c
 workflow-type: tm+mt
 source-wordcount: '17500'
 ht-degree: 96%
@@ -309,7 +309,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>ビルドバージョン</strong></td>
     </tr>
     <tr>
-      <td>2026年11月23日（PT）</td>
+      <td>2026年11月25日（PT）</td>
       <td>
         <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes">
           AEM 6.5 Forms サービスパック 26 AEM 6.5.26.0用Forms アドインパッケージ
